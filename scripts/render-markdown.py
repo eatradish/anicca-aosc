@@ -26,4 +26,8 @@ if __name__ == '__main__':
     
     for row in sorted(table, key = lambda x: x[0]):
         row[1] = row[1].replace('+', '<br>+')
+        
+        if len(row) > 3:
+            row[3] = row[3].replace('; ', '<br>')
+        
         print('|' + '|'.join(row) + '|')
