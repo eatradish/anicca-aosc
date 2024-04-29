@@ -2550,6 +2550,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |razergenie|0.9.0|1.1.0|
 |razor-agents|2.85|2.152|
 |rbw|1.9.0|1.10.0|
+|rclone|1.65.2|1.66.0|
 |rcm|1.3.4|1.3.6|
 |rdflib|6.2.0|7.0.0|
 |rdiscount|2.2.0.2|2.2.7.3|
@@ -2991,7 +2992,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |udisks-2|2.8.4|2.10.1|
 |udns|0.4|0.5|
 |ufw|0.36|0.36.2|
-|uget|2.2.3<br>+1|2.2.2|Compound version number '2.2.3+1'<br>Possible downgrade from the current version (2.2.3+1   2.2.2)|
 |uhttpmock|0.5.3|0.10.0|
 |uim|1.8.8|1.8.9|
 |ujson|1.35|1.36|
