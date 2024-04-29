@@ -683,6 +683,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gifski|1.10.3|1.32.0|
 |gimp|2.10.36|2_10_36|
 |girara|0.4.0|0.4.3|
+|git|2.44.0|2.45.0|
 |git-archive-all|1.20.0|1.23.1|
 |git-branchless|0.7.1|0.8.0|
 |git-lfs|3.5.0|3.5.1|
@@ -2292,6 +2293,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pgxnclient|1.3.1|1.3.2|
 |phonon|4.11.1|4.12.0|
 |picard|2.8.5|2.11|
+|picmi|23.08.5|24.02.2|
 |picocom|3.1|2023-04|
 |pidgin|2.14.12|2.14.13|
 |pikepdf|2.8.0|8.15.1|
@@ -2467,6 +2469,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pyside2|5.15.11|5.15.2.1|Possible downgrade from the current version (5.15.11   5.15.2.1)|
 |pysmbc|1.0.22|1.0.25.1|
 |pysocks|1.6.8|1.7.1|
+|pysol-cards|0.14.2|0.16.0|
 |pysol-sound-server|3.01|3.20|
 |pysolfc|2.12.0|3.0.0|
 |pyte|0.8.0|0.8.2|
@@ -2518,7 +2521,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qemu|8.2.2|9.0.0|
 |qgnomeplatform|0.8.4|0.9.2|
 |qhull|7.2.0|8.0.2|
-|qjackctl|0.9.7|0.9.90|
+|qjackctl|0.9.7|0.9.91|
 |qmlkonsole|23.08.5|24.02.2|
 |qmltermwidget|0.2.0<br>+git20220109|0.6.0|Compound version number '0.2.0+git20220109'<br>Version number indicates a snapshot (+git) is used|
 |qmmp|1.6.5|2.1.7|
@@ -2860,6 +2863,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tdeaccessibility|14.1.0|14.1.2|
 |tdeaddons|14.1.0|14.1.2|
 |tdeadmin|14.1.0|14.1.2|
+|tdeartwork|14.1.0|14.1.2|
 |tdebase|14.1.0|14.1.2|
 |tdebindings|14.1.0|14.1.2|
 |tdedocker|14.1.0|14.1.2|
