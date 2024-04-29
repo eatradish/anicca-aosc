@@ -2866,7 +2866,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tdebase|14.1.0|14.1.2|
 |tdebindings|14.1.0|14.1.2|
 |tdedocker|14.1.0|14.1.2|
-|tdeedu|14.1.0|14.1.2|
 |tdegames|14.1.0|14.1.2|
 |tdegraphics|14.1.0|14.1.2|
 |tdeio-appinfo|14.1.0|14.1.2|
@@ -3049,7 +3048,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vim|9.1.0140|9.1.0378|
 |virglrenderer|0.10.4|1.0.1|
 |virtualbox|7.0.14|7.0.16|
-|virtualenv|20.25.0|20.26.0|
+|virtualenv|20.25.0|20.26.1|
 |virtualgl+32|2.5.2|3.1.1|
 |vkd3d|1.9|1.11|
 |vkd3d+32|1.9|1.11|
