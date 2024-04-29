@@ -671,6 +671,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gexiv2|0.14.0|0.14.2|
 |gfm|1.07|1.08|
 |gh|2.44.1|2.48.0|
+|ghc|9.4.8|9.8.2-release|
 |ghex|42.3|46.0|
 |ghidra|11.0|11.0.3_build|
 |ghostscript|9.54.0|10.03.0|
@@ -1138,7 +1139,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kima-trinity|14.1.0|14.1.2|
 |kimageannotator|0.6.0|0.7.1|
 |kimageformats|5.115.0|6.0.4|
-|kimagemapeditor|23.08.5|24.02.2|
 |kimap|23.08.5|24.02.2|
 |kinfocenter|5.27.11|6.0.4|
 |kinit|5.115.0|6.0.4|
@@ -2190,7 +2190,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-file-which|1.23|1.27|
 |perl-finance-quote|1.49|1.5301|
 |perl-font-ttf|1.05|1.06|
-|perl-gd|2.71|2.78|
+|perl-gd|2.71|2.79|
 |perl-glib|1.329|1.3294|
 |perl-glib-object-introspection|0.047|0.051|
 |perl-gnome2|1.047|1.048|
@@ -3072,7 +3072,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vulkan-validationlayers|1.3.275.0|1.3.283|
 |warpinator|1.6.3|1.8.3|
 |warzone2100|4.1.3|4.4.2|
-|watchman|4.9.0|2024.04.22.00|
+|watchman|4.9.0|2024.04.29.00|
 |wavpack|5.2.0|5.7.0|
 |wavpack+32|5.2.0|5.7.0|
 |wayland-protocols|1.33|1.36|
