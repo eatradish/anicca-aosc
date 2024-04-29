@@ -710,6 +710,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gmime-3|3.2.7|3.2.14|
 |gmp+32|6.1.2|6.3.0|
 |gnome-applets|3.44.0|3.52.0|
+|gnome-autoar|0.4.3|0.4.4|
 |gnome-backgrounds|42.0|46.0|
 |gnome-bluetooth|42.2|46.0|
 |gnome-boxes|42.3|46.1|
@@ -774,6 +775,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gpac|2.2.1|2.4.0|
 |gperftools|2.13|2.15|
 |gpodder|3.10.17|3.11.4|
+|gpsd|3.18.1|3.25|
 |gpsim|0.31.0|0.32.1|
 |gptfdisk|1.0.9|1.0.10|
 |gradle|8.3|8.7.0|
@@ -1133,6 +1135,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kigo|23.08.5|24.02.2|
 |kile-trinity|14.1.0|14.1.2|
 |killbots|23.08.5|24.02.2|
+|kima-trinity|14.1.0|14.1.2|
 |kimageannotator|0.6.0|0.7.1|
 |kimageformats|5.115.0|6.0.4|
 |kimagemapeditor|23.08.5|24.02.2|
@@ -1823,6 +1826,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |messagelib|23.08.5|24.02.2|
 |metacity|3.44.0|3.46.0|
 |metee|3.1.0|4.0.0|
+|mgba|0.9.2|0.10.3|
 |microsoft-gsl|3.0.1|4.0.0|
 |mihomo|1.18.2|1.18.3|
 |milkytracker|1.02.00|1.04.00|
@@ -2148,6 +2152,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-data-dumper|2.167<br>+02|2.183|Compound version number '2.167+02'|
 |perl-data-optlist|0.110|0.114|
 |perl-date-manip|6.82|6.95|
+|perl-datetime|1.52|1.65|
 |perl-datetime-format-strptime|1.77|1.79|
 |perl-datetime-locale|1.26|1.42|
 |perl-datetime-timezone|2.39|2.62|
@@ -2287,7 +2292,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pgxnclient|1.3.1|1.3.2|
 |phonon|4.11.1|4.12.0|
 |picard|2.8.5|2.11|
-|picmi|23.08.5|24.02.2|
 |picocom|3.1|2023-04|
 |pidgin|2.14.12|2.14.13|
 |pikepdf|2.8.0|8.15.1|
@@ -2319,6 +2323,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |plasma-nm|5.27.11|6.0.4|
 |plasma-pa|5.27.11|6.0.4|
 |plasma-pk-updates|0.3.2|6.0.4|
+|plasma-sdk|5.27.11|6.0.4|
 |plasma-settings|22.06|24.02.0|
 |plasma-systemmonitor|5.27.11|6.0.4|
 |plasma-thunderbolt|5.27.11|6.0.4|
@@ -2365,6 +2370,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |postfix|3.7.3|3.9.0|
 |postgresql|13.13|16.2|
 |potracegui-trinity|14.1.0|14.1.2|
+|powerdevil|5.27.11|6.0.4|
 |powerpc-utils|1.3.10|1.3.12|
 |powershell|7.4.0|7.4.2|
 |poxml|23.08.5|24.02.2|
@@ -2461,7 +2467,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pyside2|5.15.11|5.15.2.1|Possible downgrade from the current version (5.15.11   5.15.2.1)|
 |pysmbc|1.0.22|1.0.25.1|
 |pysocks|1.6.8|1.7.1|
-|pysol-cards|0.14.2|0.16.0|
 |pysol-sound-server|3.01|3.20|
 |pysolfc|2.12.0|3.0.0|
 |pyte|0.8.0|0.8.2|
@@ -2521,7 +2526,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qqc2-desktop-style|5.115.0|6.0.4|
 |qrencode|4.0.2|4.1.1|
 |qscintilla|2.13.1|2.14.1|
-|qsynth|0.5.6|0.9.90|
+|qsynth|0.5.6|0.9.91|
 |qt-5|5.15.5<br>+webengine5.15.10<br>+webkit5.212.0<br>+kde20220705|5.15.13-lts-lgpl|Compound version number '5.15.5+webengine5.15.10+webkit5.212.0+kde20220705'|
 |qt4-tqt-theme-engine-trinity|14.1.0|14.1.2|
 |qtcreator|12.0.1|13.0.0|
@@ -2855,7 +2860,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tdeaccessibility|14.1.0|14.1.2|
 |tdeaddons|14.1.0|14.1.2|
 |tdeadmin|14.1.0|14.1.2|
-|tdeartwork|14.1.0|14.1.2|
 |tdebase|14.1.0|14.1.2|
 |tdebindings|14.1.0|14.1.2|
 |tdedocker|14.1.0|14.1.2|
@@ -3039,7 +3043,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vice|3.5|3.8|
 |vicious|2.3.3|2.7.0|
 |vid.stab|0.98b|1.1.1|
-|vim|9.1.0140|9.1.0378|
+|vim|9.1.0140|9.1.0381|
 |virglrenderer|0.10.4|1.0.1|
 |virtualbox|7.0.14|7.0.16|
 |virtualenv|20.25.0|20.26.1|
