@@ -536,7 +536,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |faulthandler|3.1|3.2|
 |fcitx5|5.1.5|5.1.9|
 |fcitx5-anthy|5.1.2|5.1.4|
-|fcitx5-chewing|5.1.1|5.1.2|
+|fcitx5-chewing|5.1.1|5.1.3|
 |fcitx5-chinese-addons|5.1.2|5.1.5|
 |fcitx5-configtool|5.1.2|5.1.5|
 |fcitx5-gtk|5.1.0|5.1.3|
@@ -2992,6 +2992,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |udisks-2|2.8.4|2.10.1|
 |udns|0.4|0.5|
 |ufw|0.36|0.36.2|
+|uget|2.2.3<br>+1|2.2.2|Compound version number '2.2.3+1'<br>Possible downgrade from the current version (2.2.3+1   2.2.2)|
 |uhttpmock|0.5.3|0.10.0|
 |uim|1.8.8|1.8.9|
 |ujson|1.35|1.36|
