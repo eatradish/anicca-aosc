@@ -199,7 +199,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |borgbackup|1.1.17|1.2.8|
 |botan|1.10.17|3.4.0|
 |botan-2|2.12.1|3.4.0|
-|boto3|1.20.26|1.34.93|
+|boto3|1.20.26|1.34.94|
 |bottle|0.12.18|0.12.25|
 |bottles|2022.2.28<br>+trento<br>+4|51.11|Compound version number '2022.2.28+trento+4'<br>Possible downgrade from the current version (2022.2.28+trento+4   51.11)|
 |bovo|23.08.5|24.02.2|
@@ -368,7 +368,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cython|3.0.2|3.0.10|
 |cython-0.29|0.29.36|3.0.10|
 |czmq|4.2.0|4.2.1|
-|damo|1.0.9|2.3.2|
+|damo|1.0.9|2.3.3|
 |dante|1.4.2|1.4.3|
 |dar|2.7.13|2.7.14|
 |darkhttpd|1.13|1.16|
@@ -671,7 +671,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gexiv2|0.14.0|0.14.2|
 |gfm|1.07|1.08|
 |gh|2.44.1|2.48.0|
-|ghc|9.4.8|9.8.2-release|
 |ghex|42.3|46.0|
 |ghidra|11.0|11.0.3_build|
 |ghostscript|9.54.0|10.03.0|
