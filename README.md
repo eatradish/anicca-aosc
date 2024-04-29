@@ -1210,6 +1210,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kodi-pvr-iptvsimple|19.2.2|21.8.4-Omega|
 |koffice-trinity|14.1.0|14.1.2|
 |koko|23.08.5|24.02.2|
+|kolf|23.08.5|24.02.2|
 |kollision|23.08.5|24.02.2|
 |kolourpaint|23.08.5|24.02.2|
 |kompare|23.08.5|24.02.2|
@@ -3039,7 +3040,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vdpauinfo|1.0|1.5|
 |verdict|1.4.1|1.4.2|
 |verilator|4.204|5.024|
-|versioningit|3.0.0|3.1.0|
+|versioningit|3.0.0|3.1.1|
 |vgmstream|20191206|1879|Possible downgrade from the current version (20191206   1879)|
 |vice|3.5|3.8|
 |vicious|2.3.3|2.7.0|
