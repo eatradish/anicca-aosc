@@ -27,7 +27,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |adobe-source-serif|4.005|4.005R|Possible downgrade from the current version (4.005   4.005R)|
 |adwaita-icon-theme|42.0|46.0|
 |adwaita-qt|1.4.1|1.4.2|
-|aegisub|3.2.2<br>+git20231203|3.2.2|Compound version number '3.2.2+git20231203'; Version number indicates a snapshot (+git) is used|
+|aegisub|3.2.2<br>+git20231203|3.2.2|Compound version number '3.2.2+git20231203'<br>Version number indicates a snapshot (+git) is used|
 |agrep|4.17|4.17.orig|Possible downgrade from the current version (4.17   4.17.orig)|
 |aha|0.5|0.5.1|
 |aide|0.16.2|0.18.6|
@@ -85,7 +85,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |arc-kde|20180614|20220908|
 |arc-theme|20210412|20221218|
 |arch-install-scripts|28<br>+mirrorlist20231113<br>+pacman6.0.1|28|Compound version number '28+mirrorlist20231113+pacman6.0.1'|
-|archlinux-keyring|20231222|20240427|
+|archlinux-keyring|20231222|20240429|
 |arduino-avr-core|1.8.3|1.8.6|
 |argyllcms|3.1.0|3.2.0|
 |arianna|23.08.5|24.02.2|
@@ -132,7 +132,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |autobuild4|4.1.9|1.9.1|Possible downgrade from the current version (4.1.9   1.9.1)|
 |autoconf-archive|2021.02.19|2023.02.20|
 |autofs|5.1.8|5.1.9|
-|autojump-rs|0.5.1<br>+22.5.3|0.5.1|Compound version number '0.5.1+22.5.3'; Possible downgrade from the current version (0.5.1+22.5.3   0.5.1)|
+|autojump-rs|0.5.1<br>+22.5.3|0.5.1|Compound version number '0.5.1+22.5.3'<br>Possible downgrade from the current version (0.5.1+22.5.3   0.5.1)|
 |automake|1.16i|1.16.5|
 |automat|20.2.0|22.10.0|
 |autopep8|1.5.6|2.1.0|
@@ -140,14 +140,14 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |avahi-tqt|14.1.0|14.1.2|
 |avogadrolibs|1.95.1|1.99.0|
 |avr-binutils|2.37|2.42|
-|avr-gcc|10.3.1<br>+git20210510|13.2.0|Compound version number '10.3.1+git20210510'; Version number indicates a snapshot (+git) is used|
+|avr-gcc|10.3.1<br>+git20210510|13.2.0|Compound version number '10.3.1+git20210510'<br>Version number indicates a snapshot (+git) is used|
 |avr-libc|2.0.0|2.1.0|
 |avrdude|6.3|7.3|
 |axel|2.17.11|2.17.14|
 |ayatana-indicator-messages|0.8.2|23.10.0|
 |b2sdk|1.14.0|2.1.0|
 |b43-firmware-installer|20160210|019|Possible downgrade from the current version (20160210   019)|
-|b43-tools|0<br>+git20170913|019|Compound version number '0+git20170913'; Version number indicates a snapshot (+git) is used|
+|b43-tools|0<br>+git20170913|019|Compound version number '0+git20170913'<br>Version number indicates a snapshot (+git) is used|
 |babel|2.9.1|2.14.0|
 |babeld|1.9.2|1.13.1|
 |babeltrace|1.5.7|1.5.11|
@@ -201,7 +201,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |botan-2|2.12.1|3.4.0|
 |boto3|1.20.26|1.34.93|
 |bottle|0.12.18|0.12.25|
-|bottles|2022.2.28<br>+trento<br>+4|51.11|Compound version number '2022.2.28+trento+4'; Possible downgrade from the current version (2022.2.28+trento+4   51.11)|
+|bottles|2022.2.28<br>+trento<br>+4|51.11|Compound version number '2022.2.28+trento+4'<br>Possible downgrade from the current version (2022.2.28+trento+4   51.11)|
 |bovo|23.08.5|24.02.2|
 |bpftrace|0.19.1|0.20.3|
 |bread-dog|0.1.0|0.1.1|
@@ -276,7 +276,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cheese|41.1|44.1|
 |cheetah3|3.2.5|3.2.6.post2|
 |cherrypy|18.1.0|18.9.0|
-|chinadns-ng|0.0<br>+git20231028|2024.04.27|Compound version number '0.0+git20231028'; Version number indicates a snapshot (+git) is used|
+|chinadns-ng|0.0<br>+git20231028|2024.04.27|Compound version number '0.0+git20231028'<br>Version number indicates a snapshot (+git) is used|
 |chmlib|0.40a|0.40|
 |chntpw|1.1|140201|
 |chromaprint|1.5.0|1.5.1|
@@ -301,7 +301,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |clipit|1.4.2|1.4.5|
 |cln|1.3.6|1.3.7|
 |cloc|1.84|2.00|
-|clucene|2.3.3.4<br>+git20130812|2.3.3.4|Compound version number '2.3.3.4+git20130812'; Version number indicates a snapshot (+git) is used|
+|clucene|2.3.3.4<br>+git20130812|2.3.3.4|Compound version number '2.3.3.4+git20130812'<br>Version number indicates a snapshot (+git) is used|
 |clzip|1.10|1.14|
 |cmark|0.30.3|0.31.0|
 |cmus|2.9.1|2.10.0|
@@ -311,7 +311,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cockpit-podman|63|87|
 |code-server|4.9.1|4.23.1|
 |codeine-trinity|14.1.0|14.1.2|
-|coin|4.0.0<br>+git20220828|4.0.0|Compound version number '4.0.0+git20220828'; Version number indicates a snapshot (+git) is used|
+|coin|4.0.0<br>+git20220828|4.0.0|Compound version number '4.0.0+git20220828'<br>Version number indicates a snapshot (+git) is used|
 |collectl|4.3.1|4.3.8|
 |colorama|0.4.3|0.4.6|
 |colord-gtk|0.3.0|0.3.1|
@@ -439,7 +439,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |docker-compose|2.24.6|2.27.0|
 |docutils|0.20.1|0.21.2|
 |dolphin|23.08.5|24.02.2|
-|dolphin-emu|5.0<br>+git20211101|5.0|Compound version number '5.0+git20211101'; Version number indicates a snapshot (+git) is used|
+|dolphin-emu|5.0<br>+git20211101|5.0|Compound version number '5.0+git20211101'<br>Version number indicates a snapshot (+git) is used|
 |dolphin-plugins|23.08.5|24.02.2|
 |dolphin-trinity|14.1.0|14.1.2|
 |dos2unix|7.4.3|7.5.2|
@@ -468,7 +468,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dropbox|148.4.4519|197.4.7629|
 |drumstick|2.0.0|2.9.0|
 |dssim|3.2.0|3.3.1|
-|dssim-c|1.3.2<br>+git20200922|3.3.1|Compound version number '1.3.2+git20200922'; Version number indicates a snapshot (+git) is used|
+|dssim-c|1.3.2<br>+git20200922|3.3.1|Compound version number '1.3.2+git20200922'<br>Version number indicates a snapshot (+git) is used|
 |dsview|1.3.1|1.12|
 |dtc|1.6.0|1.7.0|
 |dua|2.28.0|2.29.0|
@@ -488,7 +488,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |elfutils|0.188|0.191|
 |elfutils+32|0.166|0.191|
 |elisa|23.08.5|24.02.2|
-|elvis|2.2<br>+1pre3|2.2_1-pre2|Compound version number '2.2+1pre3'; Possible downgrade from the current version (2.2+1pre3   2.2_1-pre2)|
+|elvis|2.2<br>+1pre3|2.2_1-pre2|Compound version number '2.2+1pre3'<br>Possible downgrade from the current version (2.2+1pre3   2.2_1-pre2)|
 |emerald|0.8.12.4|0.8.18|
 |enchant-2|2.3.1|2.7.2|
 |endeavour|42.0|43.0|
@@ -499,7 +499,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |eog-plugins|42.1|44.0|
 |eom|1.26.1|1.28.0|
 |epiphany|42.4|46.0|
-|epub2txt|0.1.4<br>+git20200105|0.1.6|Compound version number '0.1.4+git20200105'; Version number indicates a snapshot (+git) is used|
+|epub2txt|0.1.4<br>+git20200105|0.1.6|Compound version number '0.1.4+git20200105'<br>Version number indicates a snapshot (+git) is used|
 |et-xmlfile|1.0.1|1.1.0|
 |etckeeper|1.18.20|1.18.21|
 |ethtool|6.0|6.7|
@@ -545,7 +545,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fcitx5-libthai|5.1.1|5.1.3|
 |fcitx5-lua|5.0.11|5.0.13|
 |fcitx5-m17n|5.1.0|5.1.1|
-|fcitx5-mozc|2.29.5160.102<br>+fcitx5<br>+git20230919|2.29.5374.102|Compound version number '2.29.5160.102+fcitx5+git20230919'; Version number indicates a snapshot (+git) is used|
+|fcitx5-mozc|2.29.5160.102<br>+fcitx5<br>+git20230919|2.29.5374.102|Compound version number '2.29.5160.102+fcitx5+git20230919'<br>Version number indicates a snapshot (+git) is used|
 |fcitx5-pinyin-zhwiki|0.2.3<br>+dict20210823|0.2.4|Compound version number '0.2.3+dict20210823'|
 |fcitx5-rime|5.1.3|5.1.6|
 |fcitx5-sayura|5.1.1|5.1.2|
@@ -570,7 +570,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |filelight|23.08.5|24.02.2|
 |filelight-trinity|14.1.0|14.1.2|
 |filezilla|3.66.4|3.60.2|Possible downgrade from the current version (3.66.4   3.60.2)|
-|fim|0.7<br>+git20240221|0.7.0|Compound version number '0.7+git20240221'; Version number indicates a snapshot (+git) is used|
+|fim|0.7<br>+git20240221|0.7.0|Compound version number '0.7+git20240221'<br>Version number indicates a snapshot (+git) is used|
 |findlib|1.9.5|1.9.6|
 |fio|3.35|3.37|
 |firefox|123.0|125.0.2|
@@ -677,7 +677,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ghostscript|9.54.0|10.03.0|
 |ghostscript+32|9.27|10.03.0|
 |ghostwriter|23.08.5|24.02.2|
-|giac|1.9.0<br>+93|1.9.0|Compound version number '1.9.0+93'; Possible downgrade from the current version (1.9.0+93   1.9.0)|
+|giac|1.9.0<br>+93|1.9.0|Compound version number '1.9.0+93'<br>Possible downgrade from the current version (1.9.0+93   1.9.0)|
 |giflib|5.1.8|5.2.2|
 |giflib+32|5.1.8|5.2.2|
 |gifski|1.10.3|1.32.0|
@@ -815,7 +815,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gst-plugins-ugly-1-0+32|1.16.2|1.24.2|
 |gstreamer|1.22.0|1.24.2|
 |gstreamer-1-0+32|1.16.2|1.24.2|
-|gtest|1.10.0<br>+git20210513|1.14.0|Compound version number '1.10.0+git20210513'; Version number indicates a snapshot (+git) is used|
+|gtest|1.10.0<br>+git20210513|1.14.0|Compound version number '1.10.0+git20210513'<br>Version number indicates a snapshot (+git) is used|
 |gti|1.6.1|1.9.1|
 |gtk-2+32|2.24.32|2.24.33|
 |gtk-4|4.14.1|4.14.3|
@@ -846,7 +846,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gzdoom|4.6.1|4.12.2|
 |gzip|1.12|1.13|
 |handbrake|1.3.3|1.7.3|
-|hardinfo|0.5.1<br>+git20220724|0.5.1|Compound version number '0.5.1+git20220724'; Version number indicates a snapshot (+git) is used|
+|hardinfo|0.5.1<br>+git20220724|0.5.1|Compound version number '0.5.1+git20220724'<br>Version number indicates a snapshot (+git) is used|
 |harfbuzz+32|2.6.7|8.4.0|
 |haruna|0.12.3|1.1.0|
 |harvid|0.8.3|0.9.1|
@@ -880,7 +880,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |httplib2|0.19.0|0.22.0|
 |httpx|0.23.3|0.27.0|
 |httrack|3.49.2|3.49.5|
-|hub|2.14.2<br>+git20230617|2.14.2|Compound version number '2.14.2+git20230617'; Version number indicates a snapshot (+git) is used|
+|hub|2.14.2<br>+git20230617|2.14.2|Compound version number '2.14.2+git20230617'<br>Version number indicates a snapshot (+git) is used|
 |hugin|2022.0.0|2023.0.0|
 |hugo|0.123.6|0.125.4|
 |humanize|0.5.1|4.9.0|
@@ -1189,7 +1189,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kmouth|23.08.5|24.02.2|
 |kmplayer-trinity|14.1.0|14.1.2|
 |kmplot|23.08.5|24.02.2|
-|kmscon|8<br>+git20221110|8|Compound version number '8+git20221110'; Version number indicates a snapshot (+git) is used|
+|kmscon|8<br>+git20221110|8|Compound version number '8+git20221110'<br>Version number indicates a snapshot (+git) is used|
 |kmyfirewall-trinity|14.1.0|14.1.2|
 |kmymoney-trinity|14.1.0|14.1.2|
 |knavalbattle|23.08.5|24.02.2|
@@ -1266,7 +1266,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kscreenlocker|5.27.11|6.0.4|
 |ksensors-trinity|14.1.0|14.1.2|
 |kservice|5.115.0|6.0.4|
-|ksh93|2020.0.0<br>+20200208|1.0.8|Compound version number '2020.0.0+20200208'; Possible downgrade from the current version (2020.0.0+20200208   1.0.8)|
+|ksh93|2020.0.0<br>+20200208|1.0.8|Compound version number '2020.0.0+20200208'<br>Possible downgrade from the current version (2020.0.0+20200208   1.0.8)|
 |kshisen|23.08.5|24.02.2|
 |kshowmail-trinity|14.1.0|14.1.2|
 |kshutdown-trinity|14.1.0|14.1.2|
@@ -1370,7 +1370,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libcarddav|14.1.0|14.1.2|
 |libcbor|0.8.0|0.11.0|
 |libcdio+32|0.94|2.1.0|
-|libcdio-paranoia|10.2<br>+2.0.1|2.0.1|Compound version number '10.2+2.0.1'; Possible downgrade from the current version (10.2+2.0.1   2.0.1)|
+|libcdio-paranoia|10.2<br>+2.0.1|2.0.1|Compound version number '10.2+2.0.1'<br>Possible downgrade from the current version (10.2+2.0.1   2.0.1)|
 |libcdr|0.1.6|0.1.7|
 |libcgroup|2.0|3.1.0|
 |libchamplain|0.12.20|0.12.21|
@@ -1447,7 +1447,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libgweather|4.1.0|4.4.2|
 |libgxps|0.2.5|0.3.2|
 |libhandy|1.6.3|1.8.3|
-|libhangul|0.1.0<br>+git20210406|0.1.0|Compound version number '0.1.0+git20210406'; Version number indicates a snapshot (+git) is used|
+|libhangul|0.1.0<br>+git20210406|0.1.0|Compound version number '0.1.0+git20210406'<br>Version number indicates a snapshot (+git) is used|
 |libical|3.0.8|3.0.18|
 |libidn|1.41|1.42|
 |libidn+32|1.33|1.42|
@@ -1456,7 +1456,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libindi|2.0.5|2.0.7|
 |libinput|1.24.0|1.25.0|
 |libintl-perl|1.29|1.33|
-|libipset|1.1.1<br>+git20150311|1.1.1|Compound version number '1.1.1+git20150311'; Version number indicates a snapshot (+git) is used|
+|libipset|1.1.1<br>+git20150311|1.1.1|Compound version number '1.1.1+git20150311'<br>Version number indicates a snapshot (+git) is used|
 |libiscsi|1.18.0|1.20.0|
 |libisoburn|1.5.2|1.5.6|
 |libisofs|1.5.2|1.5.6.pl01|
@@ -1476,7 +1476,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libkgapi|23.08.5|24.02.2|
 |libkipi|23.08.5|24.02.2|
 |libkipi-trinity|14.1.0|14.1.2|
-|libkkc|0.3.5<br>+git20210213|0.3.5|Compound version number '0.3.5+git20210213'; Version number indicates a snapshot (+git) is used|
+|libkkc|0.3.5<br>+git20210213|0.3.5|Compound version number '0.3.5+git20210213'<br>Version number indicates a snapshot (+git) is used|
 |libkkc-data|0.2.7|0.3.5|
 |libkleo|23.08.5|24.02.2|
 |libkmahjongg|23.08.5|24.02.2|
@@ -1526,7 +1526,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libnumbertext|1.0.7|1.0.11|
 |libnvme|1.6|1.8|
 |libodfgen|0.1.6|0.1.8|
-|libofono-qt|0.54<br>+git20190116|1.30|Compound version number '0.54+git20190116'; Version number indicates a snapshot (+git) is used|
+|libofono-qt|0.54<br>+git20190116|1.30|Compound version number '0.54+git20190116'<br>Version number indicates a snapshot (+git) is used|
 |libofx|0.9.15|0.10.8|
 |libogg|1.3.4|1.3.5|
 |libogg+32|1.3.4|1.3.5|
@@ -1701,7 +1701,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |llvm-runtime+wasi|17.0.6|18.1.4|
 |lm-sensors|3.6.0|3-6-0|
 |lmdb|0.9.28|0.9.32|
-|lmms|1.2.2<br>+git20240125|1.2.2|Compound version number '1.2.2+git20240125'; Version number indicates a snapshot (+git) is used|
+|lmms|1.2.2<br>+git20240125|1.2.2|Compound version number '1.2.2+git20240125'<br>Version number indicates a snapshot (+git) is used|
 |log4cpp|1.1.3|1.1.4|
 |logrotate|3.18.1|3.21.0|
 |loguru|0.5.3|0.7.2|
@@ -1717,13 +1717,13 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lshw|02.19.2|02.20|
 |lskat|23.08.5|24.02.2|
 |lsof|4.98.0|4.99.3|
-|ltrace|0.7.3<br>+git20151111|0.7.3|Compound version number '0.7.3+git20151111'; Version number indicates a snapshot (+git) is used|
+|ltrace|0.7.3<br>+git20151111|0.7.3|Compound version number '0.7.3+git20151111'<br>Version number indicates a snapshot (+git) is used|
 |lttng-ust|2.13.5|2.13.8|
 |lua-expat|1.4.1|1.5.1|
 |lua-messagepack|0.5.1|0.5.4|
 |lua-socket|3.0<br>+rc1|3.1.0|Compound version number '3.0+rc1'|
 |luafilesystem|1.7.0.2|1_8_0|
-|luajit|2.1.0b3<br>+git20240222|2.0.5|Compound version number '2.1.0b3+git20240222'; Version number indicates a snapshot (+git) is used; Possible downgrade from the current version (2.1.0b3+git20240222   2.0.5)|
+|luajit|2.1.0b3<br>+git20240222|2.0.5|Compound version number '2.1.0b3+git20240222'<br>Version number indicates a snapshot (+git) is used<br>Possible downgrade from the current version (2.1.0b3+git20240222   2.0.5)|
 |luarocks|3.5.0|3.11.0|
 |lucene++|3.0.8|3.0.9|
 |lunzip|1.10|1.14|
@@ -1847,7 +1847,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mjpegtools|2.1.0|2.2.1|
 |mjpegtools+32|2.1.0|2.2.1|
 |mkvtoolnix|79.0|84.0|
-|mldonkey|3.1.7<br>+2<br>+git20210505|3-1-7-2|Compound version number '3.1.7+2+git20210505'; Version number indicates a snapshot (+git) is used|
+|mldonkey|3.1.7<br>+2<br>+git20210505|3-1-7-2|Compound version number '3.1.7+2+git20210505'<br>Version number indicates a snapshot (+git) is used|
 |mlt|7.22.0|7.24.0|
 |mlterm|3.8.9|3.9.3|
 |mobile-broadband-provider-info|20190618|20230416|
@@ -1892,7 +1892,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |munkres|1.0.12|release-1.1.4|
 |muparser|2.2.6.1|2.3.4|
 |mupdf|1.18.0|1.24.1|
-|musicbox|0.3.0<br>+git20201222|0.3.1|Compound version number '0.3.0+git20201222'; Version number indicates a snapshot (+git) is used|
+|musicbox|0.3.0<br>+git20201222|0.3.1|Compound version number '0.3.0+git20201222'<br>Version number indicates a snapshot (+git) is used|
 |mutagen|1.46.0|1.47.0|
 |mutter|42.4|46.1|
 |mxml|3.2|4.0.3|
@@ -1918,7 +1918,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nemo|5.8.3|6.0.2|
 |nemo-extensions|5.8.0|6.0.1|
 |neochat|23.08.5|24.02.2|
-|neofetch|7.3.10<br>+git20230913|7.3.11|Compound version number '7.3.10+git20230913'; Version number indicates a snapshot (+git) is used|
+|neofetch|7.3.10<br>+git20230913|7.3.11|Compound version number '7.3.10+git20230913'<br>Version number indicates a snapshot (+git) is used|
 |neomutt|20200619|20240425|
 |neon+32|0.31.2|0.33.0|
 |nestopia|1.51.0|1.52.1|
@@ -1937,9 +1937,9 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nettle+32|3.7.2|3.9.1|
 |network-manager-applet|1.28.0|1.36.0|
 |networkmanager|1.40.6|1.46.0|
-|networkmanager-iodine|1.2.0<br>+git20220728|1.2.0|Compound version number '1.2.0+git20220728'; Version number indicates a snapshot (+git) is used|
+|networkmanager-iodine|1.2.0<br>+git20220728|1.2.0|Compound version number '1.2.0+git20220728'<br>Version number indicates a snapshot (+git) is used|
 |networkmanager-l2tp|1.8.6|1.20.14|
-|networkmanager-openconnect|1.2.6<br>+git20210918|1.2.10|Compound version number '1.2.6+git20210918'; Version number indicates a snapshot (+git) is used|
+|networkmanager-openconnect|1.2.6<br>+git20210918|1.2.10|Compound version number '1.2.6+git20210918'<br>Version number indicates a snapshot (+git) is used|
 |networkmanager-openvpn|1.8.12|1.10.2|
 |networkmanager-pptp|1.2.10|1.2.12|
 |networkmanager-qt|5.115.0|6.0.4|
@@ -1969,7 +1969,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nspr+32|4.24|4.35|
 |nss+32|3.78|3.99|
 |nss-mdns|0.14.1|0.15.1|
-|nufraw|0.43<br>+3|0.42|Compound version number '0.43+3'; Possible downgrade from the current version (0.43+3   0.42)|
+|nufraw|0.43<br>+3|0.42|Compound version number '0.43+3'<br>Possible downgrade from the current version (0.43+3   0.42)|
 |nuget|4.9.4|6.6.1.2.bin|
 |numactl|2.0.14|2.0.18|
 |numix-icon-theme|20190917|24.04.22|Possible downgrade from the current version (20190917   24.04.22)|
@@ -1996,7 +1996,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |okteta|0.26.9|0.26.15|
 |okular|23.08.5|24.02.2|
 |olefile|0.46|0.47|
-|oma|1.3.0|1.12.13|
+|oma|1.3.1|1.12.13|
 |onig|6.9.5<br>+rev1|6.9.9|Compound version number '6.9.5+rev1'|
 |oolite|1.90|1.91.0.7604-240417-a536cbe|
 |opam|2.1.3|2.1.5|
@@ -2004,7 +2004,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |open-isns|0.101|0.102|
 |open-rs|5.0.1|5.1.2|
 |open-vm-tools|12.3.5|12.4.0|
-|openblas|0.3.21<br>+git20221105|0.3.27|Compound version number '0.3.21+git20221105'; Version number indicates a snapshot (+git) is used|
+|openblas|0.3.21<br>+git20221105|0.3.27|Compound version number '0.3.21+git20221105'<br>Version number indicates a snapshot (+git) is used|
 |opencascade|7.6.3|7.8.0|
 |opencc|1.1.3|1.1.7|
 |opencl-clang|17.0.0|18.1.0|
@@ -2039,7 +2039,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |openrazer|3.3.0|3.8.0|
 |openrgb|0.6|0.9|
 |opensc|0.22.0|0.25.1|
-|openscad|2021.01<br>+git20230825|2021.01|Compound version number '2021.01+git20230825'; Version number indicates a snapshot (+git) is used|
+|openscad|2021.01<br>+git20230825|2021.01|Compound version number '2021.01+git20230825'<br>Version number indicates a snapshot (+git) is used|
 |openslide|3.4.1|4.0.0|
 |openssh|9.6p1|9.7p1|
 |openssl+32|3.2.0|3.3.0|
@@ -2115,7 +2115,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pcre-static|8.44|8.45|
 |pcsc-perl|1.4.14|1.4.16|
 |pcsclite|1.9.9|2.1.0|
-|pcsx2|1.6.0<br>+git20210825|1.7.5756|Compound version number '1.6.0+git20210825'; Version number indicates a snapshot (+git) is used|
+|pcsx2|1.6.0<br>+git20210825|1.7.5756|Compound version number '1.6.0+git20210825'<br>Version number indicates a snapshot (+git) is used|
 |pdfgrep|2.1.2|2.2.0|
 |pdfminer|20191020|20231228|
 |pdlzip|1.9|1.13|
@@ -2147,7 +2147,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-convert-asn1|0.27|0.34|
 |perl-crypt-openssl-guess|0.11|0.15|
 |perl-crypt-openssl-random|0.15|0.16|
-|perl-crypt-ssleay|0.73<br>+06|0.72|Compound version number '0.73+06'; Possible downgrade from the current version (0.73+06   0.72)|
+|perl-crypt-ssleay|0.73<br>+06|0.72|Compound version number '0.73+06'<br>Possible downgrade from the current version (0.73+06   0.72)|
 |perl-data-dump|1.23|1.25|
 |perl-data-dumper|2.167<br>+02|2.183|Compound version number '2.167+02'|
 |perl-data-optlist|0.110|0.114|
@@ -2278,7 +2278,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-x11-protocol-other|30|31|
 |perl-xml-libxml|2.0201|2.0210|
 |perl-xml-libxslt|1.96|2.002001|
-|perl-xml-namespacesupport|1.12<br>+9|1.12|Compound version number '1.12+9'; Possible downgrade from the current version (1.12+9   1.12)|
+|perl-xml-namespacesupport|1.12<br>+9|1.12|Compound version number '1.12+9'<br>Possible downgrade from the current version (1.12+9   1.12)|
 |perl-xml-parser|2.44|2.47|
 |perl-xml-parser+32|999|2.47|Possible downgrade from the current version (999   2.47)|
 |perl-xml-sax|1.00|1.02|
@@ -2311,7 +2311,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pkcs11-helper|1.29.0|1.30.0|
 |pkginfo|1.5.0.1|1.10.0|
 |pktstat|20160317|1.8.5|Possible downgrade from the current version (20160317   1.8.5)|
-|plank|0.11.89<br>+git20210222|0.11.89|Compound version number '0.11.89+git20210222'; Version number indicates a snapshot (+git) is used|
+|plank|0.11.89<br>+git20210222|0.11.89|Compound version number '0.11.89+git20210222'<br>Version number indicates a snapshot (+git) is used|
 |plasma-angelfish|22.06|24.04.80|
 |plasma-browser-integration|5.27.11|6.0.4|
 |plasma-desktop|5.27.11|6.0.4|
@@ -2405,7 +2405,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pulseaudio-qt|1.3|1.4.0|
 |pulsectl|20.5.1|24.4.0|
 |puremagic|1.15|1.22|
-|purple-matrix|0.0.0<br>+git20210626|0.1.0|Compound version number '0.0.0+git20210626'; Version number indicates a snapshot (+git) is used|
+|purple-matrix|0.0.0<br>+git20210626|0.1.0|Compound version number '0.0.0+git20210626'<br>Version number indicates a snapshot (+git) is used|
 |purpose|5.115.0|6.0.4|
 |pv|1.6.20|1.8.9|
 |py-filelock|3.0.12|3.13.4|
@@ -2498,7 +2498,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |python-node-semver|0.8.0|0.9.0|
 |python-openid|2.2.5|3.2|
 |python-pam|1.8.4|2.0.2|
-|python-poppler-qt5|21.1.0<br>+git20210304|21.3.0|Compound version number '21.1.0+git20210304'; Version number indicates a snapshot (+git) is used|
+|python-poppler-qt5|21.1.0<br>+git20210304|21.3.0|Compound version number '21.1.0+git20210304'<br>Version number indicates a snapshot (+git) is used|
 |python-tabulate|0.8.3|0.9.0|
 |python-xapp|2.0.1|2.4.1|
 |python-xlib|0.26|0.33|
@@ -2522,7 +2522,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qhull|7.2.0|8.0.2|
 |qjackctl|0.9.7|0.9.90|
 |qmlkonsole|23.08.5|24.02.2|
-|qmltermwidget|0.2.0<br>+git20220109|0.6.0|Compound version number '0.2.0+git20220109'; Version number indicates a snapshot (+git) is used|
+|qmltermwidget|0.2.0<br>+git20220109|0.6.0|Compound version number '0.2.0+git20220109'<br>Version number indicates a snapshot (+git) is used|
 |qmmp|1.6.5|2.1.7|
 |qownnotes|22.6.1|24.4.4|
 |qqc2-desktop-style|5.115.0|6.0.4|
@@ -2535,11 +2535,11 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qtkeychain|0.13.2|0.14.2|
 |qtpy|2.1.0|2.4.1|
 |qtractor|0.9.23|0.9.90|
-|qtstyleplugins|5.0.0<br>+git20170311|5.0.0|Compound version number '5.0.0+git20170311'; Version number indicates a snapshot (+git) is used|
+|qtstyleplugins|5.0.0<br>+git20170311|5.0.0|Compound version number '5.0.0+git20170311'<br>Version number indicates a snapshot (+git) is used|
 |quazip|0.9.1|1.4|
 |quickjs|2024.01.13|2024-01-13|
 |qwt5|6.1.5|6.2.0|
-|qzdl|3.2.2.3<br>+git20210516|3.2.2.3|Compound version number '3.2.2.3+git20210516'; Version number indicates a snapshot (+git) is used|
+|qzdl|3.2.2.3<br>+git20210516|3.2.2.3|Compound version number '3.2.2.3+git20210516'<br>Version number indicates a snapshot (+git) is used|
 |r|4.3.1|4.4.0|
 |ragel|6.10|7.0.4|
 |random2|1.0.1|1.0.2|
@@ -2563,7 +2563,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |recode|3.7.7|3.7.14|
 |recode+32|3.6|3.7.14|
 |recommonmark|20180907|0.7.1|Possible downgrade from the current version (20180907   0.7.1)|
-|redsocks2|0.67<br>+git20201229|0.1|Compound version number '0.67+git20201229'; Version number indicates a snapshot (+git) is used; Possible downgrade from the current version (0.67+git20201229   0.1)|
+|redsocks2|0.67<br>+git20201229|0.1|Compound version number '0.67+git20201229'<br>Version number indicates a snapshot (+git) is used<br>Possible downgrade from the current version (0.67+git20201229   0.1)|
 |regex|2019.02.21|2024.4.28|
 |reiser4progs|1.2.2|1.2.2.|
 |remmina|1.4.31|1.4.35|
@@ -2577,11 +2577,11 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rexml|3.2.5|3.2.6|
 |rfc3986|1.4.0|2.0.0|
 |rhythmbox|3.4.4|3.4.7|
-|rime-cantonese|2023.06.15<br>+git20230912|2023.06.15|Compound version number '2023.06.15+git20230912'; Version number indicates a snapshot (+git) is used|
-|rime-emoji|13.0<br>+git20230826|15.0|Compound version number '13.0+git20230826'; Version number indicates a snapshot (+git) is used|
+|rime-cantonese|2023.06.15<br>+git20230912|2023.06.15|Compound version number '2023.06.15+git20230912'<br>Version number indicates a snapshot (+git) is used|
+|rime-emoji|13.0<br>+git20230826|15.0|Compound version number '13.0+git20230826'<br>Version number indicates a snapshot (+git) is used|
 |rinutils|0.4.1|0.10.2|
 |ristretto|0.13.1|0.13.2|
-|rlvm|0.14<br>+git20220404|0.14|Compound version number '0.14+git20220404'; Version number indicates a snapshot (+git) is used|
+|rlvm|0.14<br>+git20220404|0.14|Compound version number '0.14+git20220404'<br>Version number indicates a snapshot (+git) is used|
 |rlwrap|0.43|0.46.1|
 |rng-tools|6.7|6.16|
 |robin-hood-hashing|3.11.4|3.11.5|
@@ -2626,7 +2626,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rxvt-unicode|9.22|9.31|
 |rygel|0.40.4|0.42.5|
 |s-tui|1.1.3|1.1.6|
-|s2tc|1.0<br>+git20210317|1.0|Compound version number '1.0+git20210317'; Version number indicates a snapshot (+git) is used|
+|s2tc|1.0<br>+git20210317|1.0|Compound version number '1.0+git20210317'<br>Version number indicates a snapshot (+git) is used|
 |s2tc+32|20150112|1.0|Possible downgrade from the current version (20150112   1.0)|
 |s3transfer|0.5.0|0.10.1|
 |samba|4.17.2|4.20.0|
@@ -2691,7 +2691,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |signon|8.60|8.61|
 |signon-kwallet-extension|23.08.5|24.02.2|
 |signon-plugin-oauth2|0.24|0.25|
-|signon-ui|0.17<br>+17.10.20170606|0.15|Compound version number '0.17+17.10.20170606'; Possible downgrade from the current version (0.17+17.10.20170606   0.15)|
+|signon-ui|0.17<br>+17.10.20170606|0.15|Compound version number '0.17+17.10.20170606'<br>Possible downgrade from the current version (0.17+17.10.20170606   0.15)|
 |simgear|2020.3.13|2020.3.19|
 |simh|3.11<br>+1|3.12-2|Compound version number '3.11+1'|
 |simple-scan|42.1|46.0|
@@ -2717,7 +2717,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |snapd|2.61.2|2.63|
 |snapd-glib|1.63|1.65|
 |snapper|0.10.7|0.11.0|
-|snapper-gui|0.1<br>+git20220626|0.1|Compound version number '0.1+git20220626'; Version number indicates a snapshot (+git) is used|
+|snapper-gui|0.1<br>+git20220626|0.1|Compound version number '0.1+git20220626'<br>Version number indicates a snapshot (+git) is used|
 |snappy|1.1.8|1.2.0|
 |sniffio|1.3.0|1.3.1|
 |snowball|2.1.0|2.2.0|
@@ -2792,11 +2792,11 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |starship|1.17.1|1.18.2|
 |stellarium|0.21.3|24.1|
 |step|23.08.5|24.02.2|
-|stepmania|5.0.12<br>+git20221114|5.0.12|Compound version number '5.0.12+git20221114'; Version number indicates a snapshot (+git) is used|
+|stepmania|5.0.12<br>+git20221114|5.0.12|Compound version number '5.0.12+git20221114'<br>Version number indicates a snapshot (+git) is used|
 |sticky|1.16|1.19|
 |stlink|1.7.0|1.8.0|
 |stm32flash|0.6|0.7|
-|stopit|0<br>+git20190827|1.1.2|Compound version number '0+git20190827'; Version number indicates a snapshot (+git) is used|
+|stopit|0<br>+git20190827|1.1.2|Compound version number '0+git20190827'<br>Version number indicates a snapshot (+git) is used|
 |stow|2.3.1|2.4.0|
 |strace|6.5|6.8|
 |strawberry|1.0.22|1.0.23|
@@ -2810,7 +2810,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |suitesparse|7.6.1|7.7.0|
 |sunpinyin|3.0.0~rc1|2.0.3-rel-1|Possible downgrade from the current version (3.0.0~rc1   2.0.3-rel-1)|
 |sunshine|0.23.0|0.23.1|
-|sunxi-tools|1.4.2<br>+git20220729|1.4.2|Compound version number '1.4.2+git20220729'; Version number indicates a snapshot (+git) is used|
+|sunxi-tools|1.4.2<br>+git20220729|1.4.2|Compound version number '1.4.2+git20220729'<br>Version number indicates a snapshot (+git) is used|
 |sushi|42.0|46.0|
 |svgpart|23.08.5|24.02.2|
 |svt-av1|1.4.1|2.0.0|
@@ -2891,7 +2891,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tdewebdev|14.1.0|14.1.2|
 |tdmtheme|14.1.0|14.1.2|
 |tectonic|0.12.0|0.15.0|
-|teeworlds|0.7.5<br>+git20220313|0.7.5|Compound version number '0.7.5+git20220313'; Version number indicates a snapshot (+git) is used|
+|teeworlds|0.7.5<br>+git20220313|0.7.5|Compound version number '0.7.5+git20220313'<br>Version number indicates a snapshot (+git) is used|
 |telegram-desktop|4.16.6|4.16.10|
 |telepathy-accounts-signon|1.0|2.1|
 |telepathy-glib|0.24.1|0.24.2|
@@ -2991,7 +2991,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |udisks-2|2.8.4|2.10.1|
 |udns|0.4|0.5|
 |ufw|0.36|0.36.2|
-|uget|2.2.3<br>+1|2.2.2|Compound version number '2.2.3+1'; Possible downgrade from the current version (2.2.3+1   2.2.2)|
+|uget|2.2.3<br>+1|2.2.2|Compound version number '2.2.3+1'<br>Possible downgrade from the current version (2.2.3+1   2.2.2)|
 |uhttpmock|0.5.3|0.10.0|
 |uim|1.8.8|1.8.9|
 |ujson|1.35|1.36|
@@ -3010,7 +3010,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |unshield|1.4.3|1.5.1|
 |upower|1.90.0|1.90.4|
 |upx|4.2.1|4.2.3|
-|urfkill|0.5.0<br>+git20210401|0.5.0|Compound version number '0.5.0+git20210401'; Version number indicates a snapshot (+git) is used|
+|urfkill|0.5.0<br>+git20210401|0.5.0|Compound version number '0.5.0+git20210401'<br>Version number indicates a snapshot (+git) is used|
 |uritemplate|3.0.1|4.1.1|
 |urlgrabber|3.10.2|4.1.0|
 |urwid|2.1.2|2.6.11|
@@ -3052,7 +3052,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |virtualgl+32|2.5.2|3.1.1|
 |vkd3d|1.9|1.11|
 |vkd3d+32|1.9|1.11|
-|vkmark|2017.08<br>+git20230412|2017.08|Compound version number '2017.08+git20230412'; Version number indicates a snapshot (+git) is used|
+|vkmark|2017.08<br>+git20230412|2017.08|Compound version number '2017.08+git20230412'<br>Version number indicates a snapshot (+git) is used|
 |vmpk|0.8.0|0.9.0|
 |vnstat|2.4|2.12|
 |volk|2.5.0|3.1.2|
@@ -3096,7 +3096,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |wildmidi|0.4.3|0.4.6|
 |wildmidi+32|0.4.3|0.4.6|
 |wimlib|1.13.6|1.14.4|
-|windowmaker|0.95.9<br>+git20220812|0.96.0|Compound version number '0.95.9+git20220812'; Version number indicates a snapshot (+git) is used|
+|windowmaker|0.95.9<br>+git20220812|0.96.0|Compound version number '0.95.9+git20220812'<br>Version number indicates a snapshot (+git) is used|
 |wine|9.7<br>+gecko2.47.4<br>+mono9.1.0|9.7|Compound version number '9.7+gecko2.47.4+mono9.1.0'|
 |wireguard|1|0.0.20191219|Possible downgrade from the current version (1   0.0.20191219)|
 |wireguard-tools|1.0.20200827|1.0.20210914|
@@ -3125,7 +3125,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xapian-core|1.4.18|1.4.25|
 |xapps|2.6.1|2.8.2|
 |xarchiver|0.5.4.15|0.5.4.23|
-|xcalibrate|0.9<br>+git20200330|0.9|Compound version number '0.9+git20200330'; Version number indicates a snapshot (+git) is used|
+|xcalibrate|0.9<br>+git20200330|0.9|Compound version number '0.9+git20200330'<br>Version number indicates a snapshot (+git) is used|
 |xcb-imdkit|1.0.5|1.0.8|
 |xcb-proto|1.16.0|1.17.0|
 |xcb-proto+32|1.14|1.17.0|
@@ -3146,7 +3146,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xerces-c|3.2.3|3.2.5|
 |xf86-input-elographics|1.4.3|1.4.4|
 |xf86-input-wacom|1.2.0|1.2.2|
-|xf86-video-intel|2.99.917<br>+git20210115|2.99.917|Compound version number '2.99.917+git20210115'; Version number indicates a snapshot (+git) is used|
+|xf86-video-intel|2.99.917<br>+git20210115|2.99.917|Compound version number '2.99.917+git20210115'<br>Version number indicates a snapshot (+git) is used|
 |xf86-video-r128|6.12.1|6.9.7|Possible downgrade from the current version (6.12.1   6.9.7)|
 |xfce4-clipman-plugin|1.6.5|1.6.6|
 |xfce4-notes-plugin|1.10.0|1.11.0|
@@ -3176,7 +3176,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xsd|4.1.0~alpha11|4.0.0|Possible downgrade from the current version (4.1.0~alpha11   4.0.0)|
 |xsel|1.2.0|1.2.1|
 |xsimd|10.0.0|12.1.1|
-|xss-lock|0.3.0<br>+git20140302|0.3.0|Compound version number '0.3.0+git20140302'; Version number indicates a snapshot (+git) is used|
+|xss-lock|0.3.0<br>+git20140302|0.3.0|Compound version number '0.3.0+git20140302'<br>Version number indicates a snapshot (+git) is used|
 |xviewer|3.0.2|3.4.4|
 |xwayland|23.2.5|23.2.6|
 |xxhash|0.8.1|0.8.2|
