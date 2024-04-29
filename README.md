@@ -428,7 +428,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dlib|19.20.0|19.24.4|
 |dmd|2.089.0|2.108.0|
 |dmenu|5.2|5.3|
-|dmidecode|3.5|3.6|
 |dnsdiag|1.6.4|2.1.0|
 |dnsmasq|2.89|2.90|
 |dnspython|2.3.0|2.6.1|
@@ -1382,7 +1381,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libconfig|1.7.2|1.7.3|
 |libcork|1.0.0~rc3|0.15.0|Possible downgrade from the current version (1.0.0~rc3   0.15.0)|
 |libcpuid|0.5.1|0.6.5|
-|libcuckoo|0.3|0.3.1|
 |libdatrie|0.2.12|0.2.13|
 |libdc1394|2.2.6|2.2.7|
 |libde265|1.0.8|1.0.15|
@@ -1548,7 +1546,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libpng+32|1.2.57|1.6.43|
 |libpng-1.6+32|1.6.37|1.6.43|
 |libportal|0.6|0.7.1|
-|libpqxx|6.4.5|7.9.0|
 |libproxy|0.5.5|0.5.6|
 |libpwquality|1.4.2|1.4.5|
 |libqaccessibilityclient|0.4.1|0.6.0|
@@ -1924,7 +1921,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nestopia|1.51.0|1.52.1|
 |net-snmp|5.7.3|5.9.4|
 |netaddr|0.7.19|1.2.1|
-|netavark|1.9.0|1.10.3|
 |netcat|1.219|1.226|
 |netcdf|4.7.4|4.9.2|
 |netctl|1.23|1.25|
@@ -2018,7 +2014,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |opencv|4.7.0|4.9.0|
 |openexr|3.1.8|3.2.126|
 |openfortivpn|1.18.0|1.22.0|
-|openh264|2.4.0<br>+gmp114<br>+2|2.4.1|Compound version number '2.4.0+gmp114+2'|
 |openimagedenoise|1.4.3|2.2.2|
 |openimageio|2.4.17.0|2.5.10.1|
 |openixcard|1.0.1|1.1.8|
@@ -2803,7 +2798,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |streamlink|6.5.1|6.7.3|
 |strongswan|5.9.4|5.9.14|
 |structlog|19.1.0|24.1.0|
-|stubby|0.3.0|0.4.3|
 |stunnel|5.56|5.72|
 |subtitleripper|0.3.4|0.3|Possible downgrade from the current version (0.3.4   0.3)|
 |sudo|1.9.15p5|1_9_15p5|
@@ -2814,6 +2808,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sushi|42.0|46.0|
 |svgpart|23.08.5|24.02.2|
 |svt-av1|1.4.1|2.0.0|
+|swaybg|1.2.0|1.2.1|
 |sweeper|23.08.5|24.02.2|
 |swell-foop|41.1|46.0|
 |swig|4.1.1|4.2.1|
