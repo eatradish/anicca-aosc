@@ -499,6 +499,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |eog-plugins|42.1|44.0|
 |eom|1.26.1|1.28.0|
 |epiphany|42.4|46.0|
+|epub2txt|0.1.4<br>+git20200105|0.1.6|Compound version number '0.1.4+git20200105'<br>Version number indicates a snapshot (+git) is used|
 |et-xmlfile|1.0.1|1.1.0|
 |etckeeper|1.18.20|1.18.21|
 |ethtool|6.0|6.7|
@@ -1209,7 +1210,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kodi-pvr-iptvsimple|19.2.2|21.8.4-Omega|
 |koffice-trinity|14.1.0|14.1.2|
 |koko|23.08.5|24.02.2|
-|kolf|23.08.5|24.02.2|
 |kollision|23.08.5|24.02.2|
 |kolourpaint|23.08.5|24.02.2|
 |kompare|23.08.5|24.02.2|
@@ -1426,6 +1426,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libgee|0.20.5|0.20.6|
 |libgeotiff|1.5.1|1.7.1|
 |libgig|4.4.0|4.4.1|
+|libgit2|1.7.2|1.8.0|
 |libgksu|2.0.13~pre1|2.0.12|Possible downgrade from the current version (2.0.13~pre1   2.0.12)|
 |libglvnd+32|1.6.0|1.7.0|
 |libgnome-games-support|1.8.2|2.0.0|
@@ -1495,6 +1496,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libmanette|0.2.6|0.2.7|
 |libmatekbd|1.26.1|1.28.0|
 |libmatemixer|1.26.1|1.28.0|
+|libmateweather|1.26.3|1.28.0|
 |libmatroska|1.6.2|1.7.1|
 |libmaxminddb|1.4.3|1.9.1|
 |libmd|1.0.4|1.1.0|
@@ -1511,6 +1513,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libnet|1.1.6|1.3|
 |libnfc|1.7.1|1.8.0|
 |libnfnetlink|1.0.1|1.0.2|
+|libnfs|4.0.0|5.0.3|
 |libnfs-static|4.0.0|5.0.3|
 |libnice|0.1.17|0.1.22|
 |libnl|3.5.0|3.9.0|
@@ -1528,6 +1531,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libogg+32|1.3.4|1.3.5|
 |libopenraw|0.1.3|0.3.7|
 |liborcus|0.17.2|0.19.2|
+|libosinfo|1.10.0|1.11.0|
 |libosmgpsmap|1.1.0|1.2.0|
 |libp11|0.4.10|0.4.12|
 |libpano13|2.9.19|2.9.22|
@@ -1679,6 +1683,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |linux+kernel+lts|6.6.17|5.10.215|Possible downgrade from the current version (6.6.17   5.10.215)|
 |linux+kernel+rc|5.8.0|5.19.17|
 |linux+kernel+retro|5.10.132|5.10.215|
+|linux+kernel+retro+minimal|5.15.17|5.10.215|Possible downgrade from the current version (5.15.17   5.10.215)|
 |linux-firmware|20240405<br>+debian20230210<br>+5~bpo11<br>+1|20240410|Compound version number '20240405+debian20230210+5~bpo11+1'|
 |linux-kernel|6.7.5|5.19.17|Possible downgrade from the current version (6.7.5   5.19.17)|
 |linux-kernel-lts|6.6.17|5.19.17|Possible downgrade from the current version (6.6.17   5.19.17)|
@@ -1768,6 +1773,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mate-calc|1.26.0|1.28.0|
 |mate-common|1.26.0|1.28.0|
 |mate-control-center|1.26.1|1.28.0|
+|mate-desktop|1.26.0|1.28.2|
 |mate-hud|19.10.1|22.10.3|
 |mate-icon-theme|1.26.0|1.28.0|
 |mate-media|1.26.2|1.28.1|
@@ -2213,6 +2219,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-list-moreutils|0.428|0.430|
 |perl-lwp-mediatypes|6.02|6.04|
 |perl-lwp-protocol-https|6.06|6.14|
+|perl-mail-dkim|0.40|1.20240124|
 |perl-mail-imapclient|3.42|3.43|
 |perl-mail-spf|2.9.0|3.20240206|
 |perl-mailtools|2.20|2.21|
@@ -2542,6 +2549,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |razergenie|0.9.0|1.1.0|
 |razor-agents|2.85|2.152|
 |rbw|1.9.0|1.10.0|
+|rclone|1.65.2|1.66.0|
 |rcm|1.3.4|1.3.6|
 |rdflib|6.2.0|7.0.0|
 |rdiscount|2.2.0.2|2.2.7.3|
