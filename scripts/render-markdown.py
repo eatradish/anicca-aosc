@@ -6,6 +6,8 @@ if __name__ == '__main__':
     print('This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.')
     print('## Result')
 
+    table = []
+
     for line in sys.stdin:
         line = line.strip()
 
@@ -20,5 +22,7 @@ if __name__ == '__main__':
             print('|---------|--------------|-------------|--------|')
             continue
 
-        cells = re.split('\s+', line.replace('->', ' '))
-        print('|' + '|'.join(cells) + '|')
+        table.append(re.split('\s+', line.replace('->', ' ')))
+    
+    for row in sorted(table, key = lambda x: x[0]):
+        print('|' + '|'.join(row) + '|')
