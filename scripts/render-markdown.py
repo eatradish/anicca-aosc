@@ -25,4 +25,5 @@ if __name__ == '__main__':
         table.append(re.split('\s+', line.replace('->', ' ')))
     
     for row in sorted(table, key = lambda x: x[0]):
+        row[1] = row[1].replace('+', '<br>+')
         print('|' + '|'.join(row) + '|')
