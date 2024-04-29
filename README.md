@@ -103,7 +103,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |asciidoctor|2.0.12|2.0.22|
 |asio|1.18.1|1.30.2|
 |asn1crypto|1.2.0|1.5.1|
-|aspell|0.60.8|0.60.8.1|
 |aspnetcore-runtime-6.0|6.0.0|6.0.29|
 |aspnetcore-targeting-pack-6.0|6.0.0|6.0.29|
 |assimp|5.3.1|5.4.0|
@@ -1139,6 +1138,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kima-trinity|14.1.0|14.1.2|
 |kimageannotator|0.6.0|0.7.1|
 |kimageformats|5.115.0|6.0.4|
+|kimagemapeditor|23.08.5|24.02.2|
 |kimap|23.08.5|24.02.2|
 |kinfocenter|5.27.11|6.0.4|
 |kinit|5.115.0|6.0.4|
@@ -1301,7 +1301,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kubo|0.26.0|0.10.0|Possible downgrade from the current version (0.26.0   0.10.0)|
 |kubrick|23.08.5|24.02.2|
 |kunitconversion|5.115.0|6.0.4|
-|kvantum|1.0.10|1.1.0|
+|kvantum|1.0.10|1.1.1|
 |kvirc|5.0.0|5.2.2|
 |kvkbd-trinity|14.1.0|14.1.2|
 |kvpnc-trinity|14.1.0|14.1.2|
@@ -2569,7 +2569,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |remmina|1.4.31|1.4.35|
 |renderdoc|1.16|1.32|
 |repo|2.43|2.45|
-|reportlab|3.5.50|4.2.0|
 |reptyr|0.9.0|0.10.0|
 |requests-cache|0.5.2|1.2.0|
 |rest|0.8.1|0.9.1|
@@ -2638,6 +2637,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sassc|3.6.1|3.6.2|
 |sbc|1.4|2.0|
 |sbc+32|1.3|2.0|
+|sbcl|2.4.3|2.4.4|
 |sbsigntool|0.9.4|0.9.5|
 |scandir|1.9.0|1.10.0|
 |scapy|2.4.4|2.5.0|
@@ -2932,7 +2932,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tinycss2|1.0.2|1.3.0|
 |tk|8.6.10|8.6.14|
 |tk+32|8.6.10|8.6.14|
-|tl-expected|1.0.0|1.1.0|
 |tokodon|23.08.5|24.02.2|
 |toml|0.10.1|0.10.2|
 |tomlkit|0.7.0|0.12.4|
