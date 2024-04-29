@@ -22,7 +22,7 @@ if __name__ == '__main__':
             print('|---------|--------------|-------------|--------|')
             continue
 
-        table.append(re.split('\s+', line.replace('->', ' ')))
+        table.append(re.split('\s+', line.replace('->', ' '), 3))
     
     for row in sorted(table, key = lambda x: x[0]):
         row[1] = row[1].replace('+', '<br>+')
