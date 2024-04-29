@@ -1,0 +1,36 @@
+name: Update
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+  push:
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Rust toolchain
+        uses: dtolnay/rust-toolchain@stable
+
+      - name: Build `aosc-findupdate`
+        run: |
+          git clone https://github.com/AOSC-Dev/aosc-findupdate
+          cd aosc-findupdate
+          cargo build --release
+      
+      - name: Get `aosc-os-abbs`
+        run: git clone https://github.com/AOSC-Dev/aosc-os-abbs
+      
+      - name: Run `aosc-findupdate` and render the result to Markdown 
+        run: ./aosc-findupdate/target/release/aosc-findupdate --dry-run -d ./aosc-os-abbs | python ./scripts/render-markdown.py > README.md
+
+      - name: Commit
+        uses: stefanzweifel/git-auto-commit-action@v5
