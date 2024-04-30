@@ -895,6 +895,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hyperframe|6.0.0|6.0.1|
 |hyperlink|19.0.0|21.0.0|
 |hypothesis-python|6.97.4|6.100.2|
+|hysteria|2.4.0|2.4.3|
 |i2c-tools|4.1|4.3|
 |i2pd|2.41.0|2.51.0|
 |i3lock|2.14.1|2.15|
@@ -2398,6 +2399,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ptyprocess|0.6.0|0.7.0|
 |pugixml|1.11.4|1.14|
 |pulseaudio|17.0<br>+xrdp0.7|17.0|Compound version number '17.0+xrdp0.7'|
+|pulseaudio+32|13.0|17.0|
 |pulseaudio-qt|1.3|1.4.0|
 |pulsectl|20.5.1|24.4.0|
 |puremagic|1.15|1.22|
@@ -2513,7 +2515,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qca|2.3.4|2.3.8|
 |qcef|1.1.6|1.1.8|
 |qd|2.3.22|2.3.24|
-|qemu|8.2.2|9.0.0|
 |qgnomeplatform|0.8.4|0.9.2|
 |qhull|7.2.0|8.0.2|
 |qjackctl|0.9.7|0.9.91|
@@ -2685,7 +2686,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |shotwell|0.31.4|0.32.6|
 |shutter|0.94|0.99.2|
 |siege|4.0.7|4.1.6|
-|signon|8.60|8.61|
 |signon-kwallet-extension|23.08.5|24.02.2|
 |signon-plugin-oauth2|0.24|0.25|
 |signon-ui|0.17<br>+17.10.20170606|0.15|Compound version number '0.17+17.10.20170606'<br>Possible downgrade from the current version (0.17+17.10.20170606   0.15)|
@@ -2883,6 +2883,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tdesdk|14.1.0|14.1.2|
 |tdesudo|14.1.0|14.1.2|
 |tdesvn|14.1.0|14.1.2|
+|tdetoys|14.1.0|14.1.2|
 |tdeutils|14.1.0|14.1.2|
 |tdevelop|14.1.0|14.1.2|
 |tdewebdev|14.1.0|14.1.2|
