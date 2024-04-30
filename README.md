@@ -895,7 +895,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hyperframe|6.0.0|6.0.1|
 |hyperlink|19.0.0|21.0.0|
 |hypothesis-python|6.97.4|6.100.2|
-|hysteria|2.4.0|2.4.3|
 |i2c-tools|4.1|4.3|
 |i2pd|2.41.0|2.51.0|
 |i3lock|2.14.1|2.15|
@@ -1334,7 +1333,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lcms2+32|2.9|2.16|
 |ldb|2.6.1|2.9.0|
 |ldc|1.35.0|1.37.0|
-|ldoc|1.4.6|1.5.0|
 |leatherman|1.9.1|1.12.13|
 |lensfun|0.3.4|0.3.95|
 |level-zero|1.4.1|1.16.15|
@@ -1710,7 +1708,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lokalize|23.08.5|24.02.2|
 |loudmouth|1.5.3|1.5.4|
 |love11|11.3|11.5|
-|lowdown|0.10.0|1_1_0|
+|lowdown|1.1.0|1_1_0|
 |lpaq|8|9m|
 |lpsolve|5.5.2.5|5.6.20|
 |lrs|071a|072|
@@ -1920,7 +1918,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nemo|5.8.3|6.0.2|
 |nemo-extensions|5.8.0|6.0.1|
 |neochat|23.08.5|24.02.2|
-|neofetch|7.3.10<br>+git20230913|7.3.11|Compound version number '7.3.10+git20230913'<br>Version number indicates a snapshot (+git) is used|
 |neomutt|20200619|20240425|
 |neon+32|0.31.2|0.33.0|
 |nestopia|1.51.0|1.52.1|
@@ -2123,7 +2120,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |peazip|7.9.0|9.7.1|
 |peewee|3.17.1|3.17.3|
 |peg|0.1.18|0.1.20|
-|penlight|1.6.0|1.14.0|
 |pep517|0.12.0|0.13.1|
 |perl|5.36.3|5.38.2|
 |perl+32|999|5.38.2|Possible downgrade from the current version (999   5.38.2)|
@@ -2343,7 +2339,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |plymouth-kcm|5.27.11|6.0.4|
 |pmac-utils|1.1.3|1.1.3.orig|Possible downgrade from the current version (1.1.3   1.1.3.orig)|
 |pngquant|2.12.6|3.0.3|
-|pnpm|8.15.5|9.0.6|
+|pnpm|8.15.5|9.1.0-0|
 |po-debconf|1.0.21|1.0.21+nmu1|Possible downgrade from the current version (1.0.21   1.0.21+nmu1)|
 |po4a|0.63|0.71|
 |pocketsphinx|5~prealpha|0.8|Possible downgrade from the current version (5~prealpha   0.8)|
@@ -2402,7 +2398,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ptyprocess|0.6.0|0.7.0|
 |pugixml|1.11.4|1.14|
 |pulseaudio|17.0<br>+xrdp0.7|17.0|Compound version number '17.0+xrdp0.7'|
-|pulseaudio+32|13.0|17.0|
 |pulseaudio-qt|1.3|1.4.0|
 |pulsectl|20.5.1|24.4.0|
 |puremagic|1.15|1.22|
@@ -2888,7 +2883,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tdesdk|14.1.0|14.1.2|
 |tdesudo|14.1.0|14.1.2|
 |tdesvn|14.1.0|14.1.2|
-|tdetoys|14.1.0|14.1.2|
 |tdeutils|14.1.0|14.1.2|
 |tdevelop|14.1.0|14.1.2|
 |tdewebdev|14.1.0|14.1.2|
@@ -3121,7 +3115,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |x11-proto+32|2019.2|2024.1|
 |x264|20170521|3190|Possible downgrade from the current version (20170521   3190)|
 |x264+32|20160827.2245|3190|Possible downgrade from the current version (20160827.2245   3190)|
-|x265|3.1.1|3.6|
 |x265+32|2.2|3.6|
 |xa|2.4.0|2.4.1|
 |xalan-c|1.12|1.12.0|
