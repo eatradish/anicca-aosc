@@ -750,7 +750,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-system-monitor|42.0|46.0|
 |gnome-terminal|3.44.1|3.97.0|
 |gnome-themes-standard|3.27.90|3.28|
-|gnome-tour|42.0|46.0|
 |gnome-usage|3.38.1|46.0|
 |gnome-user-docs|42.0|46.1|
 |gnome-user-share|3.34.0|43.0|
@@ -2263,7 +2262,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-test-fatal|0.014|0.017|
 |perl-test-nowarnings|1.04|1.06|
 |perl-text-bibtex|0.88|0.89|
-|perl-text-csv|1.99|2.04|
 |perl-text-csv-xs|1.38|1.54|
 |perl-text-template|1.59|1.61|
 |perl-time-duration|1.20|1.21|
