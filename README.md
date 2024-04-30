@@ -1829,7 +1829,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |metee|3.1.0|4.0.0|
 |mgba|0.9.2|0.10.3|
 |microsoft-gsl|3.0.1|4.0.0|
-|mihomo|1.18.2|1.18.3|
+|mihomo|1.18.2|1.18.4|
 |milkytracker|1.02.00|1.04.00|
 |milou|5.27.11|6.0.4|
 |mimalloc|2.1.2|2.1.4|
@@ -2063,7 +2063,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |osinfo-db|20230719|20231215|
 |osinfo-db-tools|1.10.0|1.11.0|
 |ostree|2023.1|2024.5|
-|osu-lazer|2022.1022.0|2024.412.1|
 |ouch|0.4.1|0.1.4|Possible downgrade from the current version (0.4.1   0.1.4)|
 |owntone|28.6|28.9|
 |oxygen|5.27.11|6.0.4|
@@ -2346,7 +2345,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pnpm|8.15.5|9.0.6|
 |po-debconf|1.0.21|1.0.21+nmu1|Possible downgrade from the current version (1.0.21   1.0.21+nmu1)|
 |po4a|0.63|0.71|
-|pocketsphinx|5~prealpha|0.8|Possible downgrade from the current version (5~prealpha   0.8)|
 |podcastparser|0.6.5|0.6.10|
 |podman|4.9.3<br>+vsock0.7.2|5.0.2|Compound version number '4.9.3+vsock0.7.2'|
 |podofo|0.9.6|0.10.3|
@@ -3147,7 +3145,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xdg-utils|1.1.3|1.2.1|
 |xdm|1.1.12|1.1.16|
 |xerces-c|3.2.3|3.2.5|
-|xf86-input-elographics|1.4.3|1.4.4|
 |xf86-input-wacom|1.2.0|1.2.2|
 |xf86-video-intel|2.99.917<br>+git20210115|2.99.917|Compound version number '2.99.917+git20210115'<br>Version number indicates a snapshot (+git) is used|
 |xf86-video-r128|6.12.1|6.9.7|Possible downgrade from the current version (6.12.1   6.9.7)|
