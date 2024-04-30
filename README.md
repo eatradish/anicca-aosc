@@ -103,6 +103,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |asciidoctor|2.0.12|2.0.22|
 |asio|1.18.1|1.30.2|
 |asn1crypto|1.2.0|1.5.1|
+|aspell|0.60.8|0.60.8.1|
 |aspnetcore-runtime-6.0|6.0.0|6.0.29|
 |aspnetcore-targeting-pack-6.0|6.0.0|6.0.29|
 |assimp|5.3.1|5.4.0|
@@ -328,7 +329,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |constantly|15.1.0|23.10.4|
 |construct|2.9.45|2.10.70|
 |containerd|1.7.13|1.7.16|
-|containers-common|0.57.0<br>+image5.29.0<br>+shortnames2023.02.20<br>+skopeo1.14.0<br>+storage1.51.0|1.0.1|Compound version number '0.57.0+image5.29.0+shortnames2023.02.20+skopeo1.14.0+storage1.51.0'|
 |convertall|0.7.5|1.0.1|
 |coreboot-utils|4.15|24.02.01|
 |corefreq|20170301|1.97.1|Possible downgrade from the current version (20170301   1.97.1)|
@@ -1125,7 +1125,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kholidays|5.115.0|6.0.4|
 |khotkeys|5.27.11|6.0.4|
 |khtml|5.115.0|6.0.4|
-|ki18n|5.115.0|6.0.4|
 |kicad|7.0.0|8.0.2|
 |kiconthemes|5.115.0|6.0.4|
 |kid3|3.8.3|3.9.5|
@@ -1936,7 +1935,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nettle|3.7.2|3.9.1|
 |nettle+32|3.7.2|3.9.1|
 |network-manager-applet|1.28.0|1.36.0|
-|networkmanager|1.40.6|1.46.0|
 |networkmanager-iodine|1.2.0<br>+git20220728|1.2.0|Compound version number '1.2.0+git20220728'<br>Version number indicates a snapshot (+git) is used|
 |networkmanager-l2tp|1.8.6|1.20.14|
 |networkmanager-openconnect|1.2.6<br>+git20210918|1.2.10|Compound version number '1.2.6+git20210918'<br>Version number indicates a snapshot (+git) is used|
@@ -2569,6 +2567,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |remmina|1.4.31|1.4.35|
 |renderdoc|1.16|1.32|
 |repo|2.43|2.45|
+|reportlab|3.5.50|4.2.0|
 |reptyr|0.9.0|0.10.0|
 |requests-cache|0.5.2|1.2.0|
 |rest|0.8.1|0.9.1|
@@ -2932,6 +2931,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tinycss2|1.0.2|1.3.0|
 |tk|8.6.10|8.6.14|
 |tk+32|8.6.10|8.6.14|
+|tl-expected|1.0.0|1.1.0|
 |tokodon|23.08.5|24.02.2|
 |toml|0.10.1|0.10.2|
 |tomlkit|0.7.0|0.12.4|
