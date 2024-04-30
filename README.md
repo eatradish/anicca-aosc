@@ -276,7 +276,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cheese|41.1|44.1|
 |cheetah3|3.2.5|3.2.6.post2|
 |cherrypy|18.1.0|18.9.0|
-|chinadns-ng|0.0<br>+git20231028|2024.04.27|Compound version number '0.0+git20231028'<br>Version number indicates a snapshot (+git) is used|
+|chinadns-ng|0.0<br>+git20231028|2024.04.30|Compound version number '0.0+git20231028'<br>Version number indicates a snapshot (+git) is used|
 |chmlib|0.40a|0.40|
 |chntpw|1.1|140201|
 |chromaprint|1.5.0|1.5.1|
@@ -292,7 +292,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cinnamon-translations|5.8.1|6.0.2|
 |cjs|5.8.0|6.0.0|
 |clamav|1.3.0|1.3.1|
-|clash-verge-rev|1.5.11|1.6.0|
+|clash-verge-rev|1.5.11|1.6.1|
 |cldr-emoji-annotation|37.0<br>+13.0<br>+0<br>+2|37.0_13.0_0_2|Compound version number '37.0+13.0+0+2'|
 |cleo|2.0.1|2.1.0|
 |cli-helpers|1.1.0|2.3.1|
@@ -326,6 +326,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |configshell-fb|1.1.28|1.1.30|
 |confuse|3.2.2|3.3|
 |conky|1.10.8|1.20.2|
+|conmon|2.1.10|2.1.11|
 |constantly|15.1.0|23.10.4|
 |construct|2.9.45|2.10.70|
 |containerd|1.7.13|1.7.16|
@@ -362,7 +363,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cups+32|2.3.3|2.4.8|
 |curl+32|8.6.0|8.7.1|
 |curtsies|0.3.4|0.4.2|
-|cycler|0.10.0|0.12.1|
 |cymem|2.0.5|2.0.8|
 |cyrus-sasl|2.1.27|2.1.28|
 |cython|3.0.2|3.0.10|
@@ -1330,6 +1330,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |layer-shell-qt|5.27.11|6.0.4|
 |lazarus|3.2|2.2.6-0|Possible downgrade from the current version (3.2   2.2.6-0)|
 |lazy-object-proxy|1.7.1|1.10.0|
+|lcms2|2.14|2.16|
 |lcms2+32|2.9|2.16|
 |ldb|2.6.1|2.9.0|
 |ldc|1.35.0|1.37.0|
@@ -1915,7 +1916,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ncurses+32|6.0|6.4|
 |ndctl|72|78|
 |neatvnc|0.7.1|0.8.0|
-|nemo|5.8.3|6.0.2|
 |nemo-extensions|5.8.0|6.0.1|
 |neochat|23.08.5|24.02.2|
 |neomutt|20200619|20240425|
@@ -2044,7 +2044,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |openssl+32|3.2.0|3.3.0|
 |openssl-1.1|1.1.1w|3.3.0|
 |openssl-1.1+32|1.1.1q|3.3.0|
-|opensubdiv|3.6.0|3_6_0|
 |openswan|2.6.51.5|3.0.0|
 |opentimelineio|0.15|0.16.0|
 |openttd|12.2<br>+opengfx7.1<br>+opensfx1.0.3|14.0|Compound version number '12.2+opengfx7.1+opensfx1.0.3'|
@@ -2730,7 +2729,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sonnet|5.115.0|6.0.4|
 |sord|0.16.4|0.16.16|
 |sortedcontainers|2.3.0|2.4.0|
-|sos|4.4|4.7.1|
 |sound-juicer|3.38.0|3.40.0|
 |soundkonverter-trinity|14.1.0|14.1.2|
 |soundtouch|1.9.2|2.3.1|
@@ -2739,7 +2737,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sozu|0.15.2|1.0.0|
 |spamassassin|3.4.6|4.0.1|
 |spandsp|0.0.6|3.0.0|
-|spdlog|1.9.2|1.14.0|
+|spdlog|1.9.2|1.14.1|
 |spdx-licenses|3.11|3.23|
 |spectacle|22.12.3|24.02.2|
 |speech-dispatcher|0.11.2|0.11.5|
@@ -3232,6 +3230,5 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |zstd-static|1.4.5|1.5.6|
 |zutils|1.7|1.13|
 |zxing-cpp|1.4.0|2.2.1|
-|zxtune|5053|5061|
 |zyn-fusion|3.0.5|3.0.6|
 |zziplib|0.13.72|0.13.74|
