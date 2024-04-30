@@ -1144,6 +1144,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kimap|23.08.5|24.02.2|
 |kinfocenter|5.27.11|6.0.4|
 |kinit|5.115.0|6.0.4|
+|kio|5.115.0|6.0.4|
 |kio-admin|23.08.5|24.02.2|
 |kio-extras|23.08.5|24.02.2|
 |kio-fuse|5.0.1|5.1.0|
@@ -2115,7 +2116,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pcre-static|8.44|8.45|
 |pcsc-perl|1.4.14|1.4.16|
 |pcsclite|1.9.9|2.1.0|
-|pcsx2|1.6.0<br>+git20210825|1.7.5756|Compound version number '1.6.0+git20210825'<br>Version number indicates a snapshot (+git) is used|
+|pcsx2|1.6.0<br>+git20210825|1.7.5763|Compound version number '1.6.0+git20210825'<br>Version number indicates a snapshot (+git) is used|
 |pdfgrep|2.1.2|2.2.0|
 |pdfminer|20191020|20231228|
 |pdlzip|1.9|1.13|
@@ -2887,6 +2888,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tdesdk|14.1.0|14.1.2|
 |tdesudo|14.1.0|14.1.2|
 |tdesvn|14.1.0|14.1.2|
+|tdetoys|14.1.0|14.1.2|
 |tdeutils|14.1.0|14.1.2|
 |tdevelop|14.1.0|14.1.2|
 |tdewebdev|14.1.0|14.1.2|
@@ -2944,6 +2946,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tornado|5.1|6.4|
 |tortoisehg|5.3.2|6.6.3|
 |totem|42.0|43.0|
+|toxcore|0.2.18|0.2.19|
 |tpm-tools|1.3.9.1|1.3.9.2|
 |tpm2-tss|2.3.3|4.1.0|
 |tqca|14.1.0|14.1.2|
@@ -3049,6 +3052,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |virglrenderer|0.10.4|1.0.1|
 |virtualbox|7.0.14|7.0.16|
 |virtualenv|20.25.0|20.26.1|
+|virtualgl+32|2.5.2|3.1.1|
 |vkd3d|1.9|1.11|
 |vkd3d+32|1.9|1.11|
 |vkmark|2017.08<br>+git20230412|2017.08|Compound version number '2017.08+git20230412'<br>Version number indicates a snapshot (+git) is used|
