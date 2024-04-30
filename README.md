@@ -165,6 +165,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |bash-completion|2.11|2.13.0|
 |bash-git-status|0.2.2|0.1.0|Possible downgrade from the current version (0.2.2   0.1.0)|
 |basket-trinity|14.1.0|14.1.2|
+|bcachefs-tools|1.4.1|1.7.0|
 |bcc|0.28.0|0.30.0|
 |bcftools|1.10.2|1.20|
 |bcrypt|3.1.7|4.1.2|
@@ -252,6 +253,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ccid|1.5.1|1.5.5|
 |cddlib|0.94j|0.94m|
 |cdecl|20161129|2.5|Possible downgrade from the current version (20161129   2.5)|
+|cdemu-client|3.2.4|3.2.5|
 |cdemu-daemon|3.2.4|3.2.6|
 |cdrdao|1.2.4|1.2.5|
 |celluloid|0.18|0.26|
@@ -1299,6 +1301,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kturtle|23.08.5|24.02.2|
 |kubo|0.26.0|0.10.0|Possible downgrade from the current version (0.26.0   0.10.0)|
 |kubrick|23.08.5|24.02.2|
+|kunitconversion|5.115.0|6.0.4|
 |kvantum|1.0.10|1.1.1|
 |kvirc|5.0.0|5.2.2|
 |kvkbd-trinity|14.1.0|14.1.2|
@@ -1578,6 +1581,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libsigsegv|2.12|2.14|
 |libslirp|4.6.1|4.7.0|
 |libsndfile|1.2.0|1.2.2|
+|libsndfile+32|1.2.0|1.2.2|
 |libsodium|1.0.18|1.0.19|
 |libsoundio|1.1.0|2.0.1-7|
 |libsoup|2.74.2|3.4.4|
@@ -1857,6 +1861,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |monotonic|1.5|1.6|
 |moodbar|1.2.1|1.3.0|
 |more-itertools|4.3.0|10.2.0|
+|most|5.0.0a|5.2.0|
 |mouseemu|0.16|0.16.orig|Possible downgrade from the current version (0.16   0.16.orig)|
 |mousepad|0.6.1|0.6.2|
 |movit|1.6.3|1.7.1|
@@ -2435,7 +2440,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pygobject-3|3.42.2|3.48.2|
 |pygraphviz|1.5|1.12|
 |pyhamcrest|2.0.3|2.1.0|
-|pyicu|2.3.1|2.13|
+|pyicu|2.3.1|2.13.1|
 |pyiso8601|0.1.13|2.1.0|
 |pylast|3.0.0|5.2.0|
 |pylev|1.3.0|1.4.0|
