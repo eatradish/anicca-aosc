@@ -65,6 +65,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |aom|3.8.1|3.9.0|
 |aosc-community-wallpapers-extras-2023|2023.10.1|2024.04.0|
 |aosc-community-wallpapers-extras-2024|2024.04.1|2024.04.0|Possible downgrade from the current version (2024.04.1   2024.04.0)|
+|aosc-media-writer|0.3.4|5.0.9|
 |aosc-xdg-menu|20200412|20160217|Possible downgrade from the current version (20200412   20160217)|
 |aoscbootstrap|0.4.5|0.4.7|
 |apache-maven|3.9.4|3.9.6|
@@ -146,6 +147,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ayatana-indicator-messages|0.8.2|23.10.0|
 |b2sdk|1.14.0|2.1.0|
 |b43-firmware-installer|20160210|019|Possible downgrade from the current version (20160210   019)|
+|b43-tools|0<br>+git20170913|019|Compound version number '0+git20170913'<br>Version number indicates a snapshot (+git) is used|
 |babel|2.9.1|2.14.0|
 |babeld|1.9.2|1.13.1|
 |babeltrace|1.5.7|1.5.11|
@@ -958,6 +960,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |irssi|1.2.3|1.4.5|
 |iso-codes|4.4|4.16.0|
 |isomd5sum|1.2.3|1.2.4|
+|isort|4.3.21|6.0.0b2|
 |ispc|1.22.0|1.23.0|
 |itinerary|23.08.5|24.02.2|
 |itsdangerous|1.1.0|2.2.0|
@@ -1421,6 +1424,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libfprint|1.94.4|1.94.7|
 |libftdi|1.4|1.5|
 |libgcrypt+32|1.9.1|1.10.3|
+|libgdiplus|6.0.5|6.1|
 |libgee|0.20.5|0.20.6|
 |libgeotiff|1.5.1|1.7.1|
 |libgig|4.4.0|4.4.1|
@@ -1587,7 +1591,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libspectre+32|0.2.9|0.2.12|
 |libspiro|0.5.20150702|20221101|
 |libspnav|0.2.3|1.0|
-|libssh|0.8.9|0.10.6|
 |libssh+32|0.8.9|0.10.6|
 |libssh2|1.9.0|1.11.0|
 |libssh2+32|1.9.0|1.11.0|
@@ -1650,6 +1653,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libxaw3d|1.6.3|1.6.6|
 |libxcb|1.16.1|1.17.0|
 |libxcb+32|1.13|1.17.0|
+|libxdg-basedir|1.2.0|1.2.3|
 |libxdmcp|1.1.4|1.1.5|
 |libxdmcp+32|1.1.3|1.1.5|
 |libxfce4ui|4.18.4|4.18.6|
@@ -1672,6 +1676,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lilv|0.24.12|0.24.24|
 |lilypond|2.23.0|2.25.4|
 |limba|0.5.6|0_5_6|
+|lincity-ng|2.9.0|2.0|Possible downgrade from the current version (2.9.0   2.0)|
 |link-grammar|5.10.1|5.99.42|
 |linux+api|6.7.12|5.19.17|Possible downgrade from the current version (6.7.12   5.19.17)|
 |linux+kernel|6.7.5|5.19.17|Possible downgrade from the current version (6.7.5   5.19.17)|
@@ -1806,6 +1811,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mdadm|4.2|4.3|
 |mdbook|0.4.14|0.4.37|
 |mdds|2.0.2|2.1.1|
+|mechanize|0.4.5|0.4.10|
 |mediainfo|22.06|24.04|
 |meld|3.21.3|3.22.2|
 |melonds|0.9.2|0.9.5|
@@ -3003,6 +3009,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |upower|1.90.0|1.90.4|
 |upx|4.2.1|4.2.3|
 |urfkill|0.5.0<br>+git20210401|0.5.0|Compound version number '0.5.0+git20210401'<br>Version number indicates a snapshot (+git) is used|
+|uritemplate|3.0.1|4.1.1|
 |urlgrabber|3.10.2|4.1.0|
 |urwid|2.1.2|2.6.11|
 |usb-modeswitch|2.6.0|2.6.1|
@@ -3037,6 +3044,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vicious|2.3.3|2.7.0|
 |vid.stab|0.98b|1.1.1|
 |vim|9.1.0140|9.1.0381|
+|virglrenderer|0.10.4|1.0.1|
 |virtualbox|7.0.14|7.0.16|
 |virtualenv|20.25.0|20.26.1|
 |virtualgl+32|2.5.2|3.1.1|
