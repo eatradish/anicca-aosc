@@ -280,7 +280,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |chmlib|0.40a|0.40|
 |chntpw|1.1|140201|
 |chromaprint|1.5.0|1.5.1|
-|chromium|124.0.6367.60|124.0.6367.91|
+|chromium|124.0.6367.60|124.0.6367.118|
 |cifs-utils|6.10|7.0|
 |cinnamon|5.8.3|6.0.4|
 |cinnamon-control-center|5.8.1|6.0.1|
@@ -585,7 +585,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |flat-remix-gtk-theme|20200718|20220627|
 |flat-remix-icon-theme|20191122|20240201|
 |flatbuffers|2.0.6|24.3.25|
-|flatpak|1.14.6|1.14.7|
+|flatpak|1.14.6|1.14.8|
 |flatpak-builder|1.0.14|1.4.3|
 |flent|1.3.2|2.1.1|
 |flightgear|2020.3.13|2020.3.19|
@@ -672,7 +672,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |getdns|1.6.0|1.7.3|
 |gexiv2|0.14.0|0.14.2|
 |gfm|1.07|1.08|
-|gh|2.44.1|2.48.0|
+|gh|2.44.1|2.49.0|
 |ghc|9.4.8|9.8.2-release|
 |ghex|42.3|46.0|
 |ghidra|11.0|11.0.3_build|
