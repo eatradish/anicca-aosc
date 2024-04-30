@@ -363,6 +363,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cups+32|2.3.3|2.4.8|
 |curl+32|8.6.0|8.7.1|
 |curtsies|0.3.4|0.4.2|
+|cycler|0.10.0|0.12.1|
 |cymem|2.0.5|2.0.8|
 |cyrus-sasl|2.1.27|2.1.28|
 |cython|3.0.2|3.0.10|
@@ -1916,6 +1917,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ncurses+32|6.0|6.4|
 |ndctl|72|78|
 |neatvnc|0.7.1|0.8.0|
+|nemo|5.8.3|6.0.2|
 |nemo-extensions|5.8.0|6.0.1|
 |neochat|23.08.5|24.02.2|
 |neomutt|20200619|20240425|
@@ -2044,6 +2046,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |openssl+32|3.2.0|3.3.0|
 |openssl-1.1|1.1.1w|3.3.0|
 |openssl-1.1+32|1.1.1q|3.3.0|
+|opensubdiv|3.6.0|3_6_0|
 |openswan|2.6.51.5|3.0.0|
 |opentimelineio|0.15|0.16.0|
 |openttd|12.2<br>+opengfx7.1<br>+opensfx1.0.3|14.0|Compound version number '12.2+opengfx7.1+opensfx1.0.3'|
@@ -2729,6 +2732,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sonnet|5.115.0|6.0.4|
 |sord|0.16.4|0.16.16|
 |sortedcontainers|2.3.0|2.4.0|
+|sos|4.4|4.7.1|
 |sound-juicer|3.38.0|3.40.0|
 |soundkonverter-trinity|14.1.0|14.1.2|
 |soundtouch|1.9.2|2.3.1|
@@ -3230,5 +3234,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |zstd-static|1.4.5|1.5.6|
 |zutils|1.7|1.13|
 |zxing-cpp|1.4.0|2.2.1|
+|zxtune|5053|5061|
 |zyn-fusion|3.0.5|3.0.6|
 |zziplib|0.13.72|0.13.74|
