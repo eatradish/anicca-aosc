@@ -570,6 +570,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |filelight|23.08.5|24.02.2|
 |filelight-trinity|14.1.0|14.1.2|
 |filezilla|3.66.4|3.60.2|Possible downgrade from the current version (3.66.4   3.60.2)|
+|fim|0.7<br>+git20240221|0.7.0|Compound version number '0.7+git20240221'<br>Version number indicates a snapshot (+git) is used|
 |findlib|1.9.5|1.9.6|
 |fio|3.35|3.37|
 |firefox|123.0|125.0.3|
@@ -1581,7 +1582,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libslirp|4.6.1|4.7.0|
 |libsndfile|1.2.0|1.2.2|
 |libsndfile+32|1.2.0|1.2.2|
-|libsodium|1.0.18|1.0.19|
 |libsoundio|1.1.0|2.0.1-7|
 |libsoup|2.74.2|3.4.4|
 |libsoup-3|3.2.2|3.4.4|
@@ -2286,7 +2286,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-xml-xpath|1.44|1.48|
 |perl-yaml-libyaml|0.85|0.89|
 |perl-yaml-tiny|1.73|1.74|
-|perl4-corelibs|0.004|0.005|
 |pexpect|4.8.0|4.9.0|
 |pgxnclient|1.3.1|1.3.2|
 |phonon|4.11.1|4.12.0|
