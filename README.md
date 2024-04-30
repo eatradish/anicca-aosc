@@ -1330,7 +1330,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |layer-shell-qt|5.27.11|6.0.4|
 |lazarus|3.2|2.2.6-0|Possible downgrade from the current version (3.2   2.2.6-0)|
 |lazy-object-proxy|1.7.1|1.10.0|
-|lcms2|2.14|2.16|
 |lcms2+32|2.9|2.16|
 |ldb|2.6.1|2.9.0|
 |ldc|1.35.0|1.37.0|
