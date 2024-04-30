@@ -432,9 +432,9 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dnsdiag|1.6.4|2.1.0|
 |dnsmasq|2.89|2.90|
 |dnspython|2.3.0|2.6.1|
-|docbook-dtd|4.5|5..2|
+|docbook-dtd|4.5|5.1|
 |docbook-sgml|0|4.5|
-|docbook-xml|0|5..2|
+|docbook-xml|0|5.1|
 |docker|25.0.3<br>+tini0.19.0|26.1.0|Compound version number '25.0.3+tini0.19.0'|
 |docker-compose|2.24.6|2.27.0|
 |docutils|0.20.1|0.21.2|
@@ -750,6 +750,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-system-monitor|42.0|46.0|
 |gnome-terminal|3.44.1|3.97.0|
 |gnome-themes-standard|3.27.90|3.28|
+|gnome-tour|42.0|46.0|
 |gnome-usage|3.38.1|46.0|
 |gnome-user-docs|42.0|46.1|
 |gnome-user-share|3.34.0|43.0|
@@ -2262,6 +2263,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-test-fatal|0.014|0.017|
 |perl-test-nowarnings|1.04|1.06|
 |perl-text-bibtex|0.88|0.89|
+|perl-text-csv|1.99|2.04|
 |perl-text-csv-xs|1.38|1.54|
 |perl-text-template|1.59|1.61|
 |perl-time-duration|1.20|1.21|
@@ -2519,7 +2521,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qmlkonsole|23.08.5|24.02.2|
 |qmltermwidget|0.2.0<br>+git20220109|0.6.0|Compound version number '0.2.0+git20220109'<br>Version number indicates a snapshot (+git) is used|
 |qmmp|1.6.5|2.1.7|
-|qownnotes|22.6.1|24.4.4|
+|qownnotes|22.6.1|24.4.5|
 |qqc2-desktop-style|5.115.0|6.0.4|
 |qrencode|4.0.2|4.1.1|
 |qscintilla|2.13.1|2.14.1|
