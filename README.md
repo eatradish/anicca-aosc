@@ -77,7 +77,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |apr|1.6.5|1.7.4|
 |apr-util|1.6.1|1.6.3|
 |apsw|3.30.1|3.45.3.0|
-|apt|2.6.1|2.9.2|
+|apt|2.6.1|2.7.14|
 |apt-fast|1.9.11|1.10.0|
 |aqbanking|6.2.2|6.5.4|
 |arandr|0.1.10|0.1.11|
@@ -162,7 +162,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |bamf|0.5.5|0.5.6|
 |bandwhich|0.20.0|0.22.2|
 |baobab|42.0|46.0|
-|bash-completion|2.11|2.13.0|
+|bash|5.2.26|5.2.21|Possible downgrade from the current version (5.2.26   5.2.21)|
 |bash-git-status|0.2.2|0.1.0|Possible downgrade from the current version (0.2.2   0.1.0)|
 |basket-trinity|14.1.0|14.1.2|
 |bcachefs-tools|1.4.1|1.7.0|
@@ -584,6 +584,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |flat-remix-gtk-theme|20200718|20220627|
 |flat-remix-icon-theme|20191122|20240201|
 |flatbuffers|2.0.6|24.3.25|
+|flatpak|1.14.6|1.14.7|
 |flatpak-builder|1.0.14|1.4.3|
 |flent|1.3.2|2.1.1|
 |flightgear|2020.3.13|2020.3.19|
@@ -680,7 +681,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |giac|1.9.0<br>+93|1.9.0|Compound version number '1.9.0+93'<br>Possible downgrade from the current version (1.9.0+93   1.9.0)|
 |giflib|5.1.8|5.2.2|
 |giflib+32|5.1.8|5.2.2|
-|gifski|1.10.3|1.32.0|
+|gifski|1.14.4|1.32.0|
 |gimp|2.10.36|2_10_36|
 |girara|0.4.0|0.4.3|
 |git|2.44.0|2.45.0|
@@ -697,7 +698,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |glances|3.4.0.2|3.4.0.5|
 |glib+32|2.62.6|2.80.0|
 |glib-networking|2.72.2|2.80.0|
-|glibc|2.37|2.39|
+|glibc|2.38|2.39|
 |glibc+32|2.34|2.39|
 |glibmm|2.66.2|2.80.0|
 |glibmm-2.68|2.78.0|2.80.0|
@@ -963,7 +964,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ispc|1.22.0|1.23.0|
 |itinerary|23.08.5|24.02.2|
 |itsdangerous|1.1.0|2.2.0|
-|iverilog|11.0|12_0|
+|iverilog|12.0|12_0|
 |iw|5.19|6.7|
 |iwd|1.20|2.17|
 |ixion|0.17.0|0.19.0|
@@ -1143,7 +1144,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kimap|23.08.5|24.02.2|
 |kinfocenter|5.27.11|6.0.4|
 |kinit|5.115.0|6.0.4|
-|kio|5.115.0|6.0.4|
 |kio-admin|23.08.5|24.02.2|
 |kio-extras|23.08.5|24.02.2|
 |kio-fuse|5.0.1|5.1.0|
@@ -1582,6 +1582,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libslirp|4.6.1|4.7.0|
 |libsndfile|1.2.0|1.2.2|
 |libsndfile+32|1.2.0|1.2.2|
+|libsodium|1.0.18|1.0.19|
 |libsoundio|1.1.0|2.0.1-7|
 |libsoup|2.74.2|3.4.4|
 |libsoup-3|3.2.2|3.4.4|
@@ -2286,6 +2287,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-xml-xpath|1.44|1.48|
 |perl-yaml-libyaml|0.85|0.89|
 |perl-yaml-tiny|1.73|1.74|
+|perl4-corelibs|0.004|0.005|
 |pexpect|4.8.0|4.9.0|
 |pgxnclient|1.3.1|1.3.2|
 |phonon|4.11.1|4.12.0|
@@ -2885,7 +2887,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tdesdk|14.1.0|14.1.2|
 |tdesudo|14.1.0|14.1.2|
 |tdesvn|14.1.0|14.1.2|
-|tdetoys|14.1.0|14.1.2|
 |tdeutils|14.1.0|14.1.2|
 |tdevelop|14.1.0|14.1.2|
 |tdewebdev|14.1.0|14.1.2|
@@ -2943,7 +2944,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tornado|5.1|6.4|
 |tortoisehg|5.3.2|6.6.3|
 |totem|42.0|43.0|
-|toxcore|0.2.18|0.2.19|
 |tpm-tools|1.3.9.1|1.3.9.2|
 |tpm2-tss|2.3.3|4.1.0|
 |tqca|14.1.0|14.1.2|
@@ -3049,7 +3049,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |virglrenderer|0.10.4|1.0.1|
 |virtualbox|7.0.14|7.0.16|
 |virtualenv|20.25.0|20.26.1|
-|virtualgl+32|2.5.2|3.1.1|
 |vkd3d|1.9|1.11|
 |vkd3d+32|1.9|1.11|
 |vkmark|2017.08<br>+git20230412|2017.08|Compound version number '2017.08+git20230412'<br>Version number indicates a snapshot (+git) is used|
