@@ -2686,6 +2686,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |shotwell|0.31.4|0.32.6|
 |shutter|0.94|0.99.2|
 |siege|4.0.7|4.1.6|
+|signon|8.60|8.61|
 |signon-kwallet-extension|23.08.5|24.02.2|
 |signon-plugin-oauth2|0.24|0.25|
 |signon-ui|0.17<br>+17.10.20170606|0.15|Compound version number '0.17+17.10.20170606'<br>Possible downgrade from the current version (0.17+17.10.20170606   0.15)|
