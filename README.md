@@ -138,7 +138,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |autopep8|1.5.6|2.1.0|
 |autossh|1.4f|1.4g|
 |avahi-tqt|14.1.0|14.1.2|
-|avogadrolibs|1.95.1|1.99.0|
 |avr-binutils|2.37|2.42|
 |avr-gcc|10.3.1<br>+git20210510|13.2.0|Compound version number '10.3.1+git20210510'<br>Version number indicates a snapshot (+git) is used|
 |avr-libc|2.0.0|2.1.0|
@@ -329,6 +328,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |constantly|15.1.0|23.10.4|
 |construct|2.9.45|2.10.70|
 |containerd|1.7.13|1.7.16|
+|containers-common|0.57.0<br>+image5.29.0<br>+shortnames2023.02.20<br>+skopeo1.14.0<br>+storage1.51.0|1.0.1|Compound version number '0.57.0+image5.29.0+shortnames2023.02.20+skopeo1.14.0+storage1.51.0'|
 |convertall|0.7.5|1.0.1|
 |coreboot-utils|4.15|24.02.01|
 |corefreq|20170301|1.97.1|Possible downgrade from the current version (20170301   1.97.1)|
@@ -808,13 +808,13 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gspell|1.11.1|1.12.2|
 |gssdp|1.2.3|1.6.3|
 |gssproxy|0.8.2|0.9.2|
-|gst-libav-1-0+32|1.16.2|1.24.2|
-|gst-plugins-bad-1-0+32|1.16.2|1.24.2|
-|gst-plugins-base-1-0+32|1.16.2|1.24.2|
-|gst-plugins-good-1-0+32|1.16.2|1.24.2|
-|gst-plugins-ugly-1-0+32|1.16.2|1.24.2|
-|gstreamer|1.22.0|1.24.2|
-|gstreamer-1-0+32|1.16.2|1.24.2|
+|gst-libav-1-0+32|1.16.2|1.24.3|
+|gst-plugins-bad-1-0+32|1.16.2|1.24.3|
+|gst-plugins-base-1-0+32|1.16.2|1.24.3|
+|gst-plugins-good-1-0+32|1.16.2|1.24.3|
+|gst-plugins-ugly-1-0+32|1.16.2|1.24.3|
+|gstreamer|1.22.0|1.24.3|
+|gstreamer-1-0+32|1.16.2|1.24.3|
 |gtest|1.10.0<br>+git20210513|1.14.0|Compound version number '1.10.0+git20210513'<br>Version number indicates a snapshot (+git) is used|
 |gti|1.6.1|1.9.1|
 |gtk-2+32|2.24.32|2.24.33|
@@ -1125,6 +1125,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kholidays|5.115.0|6.0.4|
 |khotkeys|5.27.11|6.0.4|
 |khtml|5.115.0|6.0.4|
+|ki18n|5.115.0|6.0.4|
 |kicad|7.0.0|8.0.2|
 |kiconthemes|5.115.0|6.0.4|
 |kid3|3.8.3|3.9.5|
@@ -1558,7 +1559,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libquotient|0.8.1.2|0.8.2|
 |libraw|0.20.0|0.21.2|
 |librcc|0.2.12|0.2.13|
-|libreoffice|7.5.4.2|24.2.3.1|
+|libreoffice|7.5.4.2|24.2.3.2|
 |librevenge|0.0.4|0.0.5|
 |librime|1.9.0|1.11.2|
 |librsvg|2.56.1|2.58.91|
@@ -1925,7 +1926,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |netaddr|0.7.19|1.2.1|
 |netavark|1.9.0|1.10.3|
 |netcat|1.219|1.226|
-|netcdf|4.7.4|4.9.2|
 |netctl|1.23|1.25|
 |netease-cloud-music-gtk|2.3.0|1.0.13|Possible downgrade from the current version (2.3.0   1.0.13)|
 |nethack|3.6.6|3.6.7_Released|
@@ -1935,6 +1935,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nettle|3.7.2|3.9.1|
 |nettle+32|3.7.2|3.9.1|
 |network-manager-applet|1.28.0|1.36.0|
+|networkmanager|1.40.6|1.46.0|
 |networkmanager-iodine|1.2.0<br>+git20220728|1.2.0|Compound version number '1.2.0+git20220728'<br>Version number indicates a snapshot (+git) is used|
 |networkmanager-l2tp|1.8.6|1.20.14|
 |networkmanager-openconnect|1.2.6<br>+git20210918|1.2.10|Compound version number '1.2.6+git20210918'<br>Version number indicates a snapshot (+git) is used|
