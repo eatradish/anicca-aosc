@@ -88,7 +88,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |archlinux-keyring|20231222|20240429|
 |arduino-avr-core|1.8.3|1.8.6|
 |argyllcms|3.1.0|3.2.0|
-|arianna|23.08.5|24.02.2|
 |ark|23.08.5|24.02.2|
 |arp-scan|1.9.8|1.10.0|
 |arpack-ng|3.8.0|3.9.1|
@@ -878,7 +877,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |html2text|2020.1.16|2024.2.26|
 |html5-parser|0.4.9|0.4.12|
 |htslib|1.16|1.20|
-|httpcore|0.12.2|1.0.5|
 |httpd|2.4.58|2.4.59|
 |httplib2|0.19.0|0.22.0|
 |httpx|0.23.3|0.27.0|
@@ -1217,6 +1215,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kollision|23.08.5|24.02.2|
 |kolourpaint|23.08.5|24.02.2|
 |kompare|23.08.5|24.02.2|
+|kompose-trinity|14.1.0|14.1.2|
 |kongress|23.08.5|24.02.2|
 |konqueror|23.08.5|24.02.2|
 |konquest|23.08.5|24.02.2|
@@ -1245,6 +1244,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kpmcore|23.08.5|24.02.2|
 |kpty|5.115.0|6.0.4|
 |kpublictransport|23.08.5|24.02.2|
+|kqtquickcharts|23.08.5|24.02.2|
 |kquickcharts|5.115.0|6.0.4|
 |kquickimageeditor|0.2.0|0.3.0|
 |kramdown|2.3.1|2.4.0|
@@ -1615,7 +1615,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libudfread|1.1.1|1.1.2|
 |libuhd|4.5.0.0|4.6.0.0|
 |libuninameslist|20190701|20230916|
-|libunistring|0.9.10|1.2|
 |libunwind|1.6.2|1.8.1|
 |libupnp|1.14.16|1.14.19|
 |liburing|2.0|2.6|
@@ -2612,7 +2611,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ruby|3.2.2|3.3.1|
 |ruby-bundler|2.1.4|2.5.9|
 |ruby-ffi|1.10.0|1.16.3|
-|ruby-gettext|3.2.9|3.4.9|
 |ruby-locale|2.1.3|2.1.4|
 |ruby-native-package-installer|1.0.9|1.1.9|
 |ruby-pg|1.1.4|1.5.6|
@@ -2647,6 +2645,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |scrot|0.8|1.10|
 |scummvm|2.2.0|2.8.1|
 |sdcc|4.3.6|4.4.0|
+|sddm-kcm|5.27.11|6.0.4|
 |sdl-gfx|2.0.25|2.0.27|
 |sdl-sound|1.0.3|2.0.2|
 |sdl-sound+32|1.0.3|2.0.2|
