@@ -843,6 +843,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |guvcview|2.0.5|2.1.0|
 |gvfs|1.50.2|1.54.0|
 |gwc|0.21<br>+19|0.22-06|Compound version number '0.21+19'|
+|gwenhywfar|5.4.0|5.10.2|
 |gwenview|23.08.5|24.02.2|
 |gwenview-trinity|14.1.0|14.1.2|
 |gzdoom|4.6.1|4.12.2|
@@ -943,11 +944,12 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |inkscape|1.3.2|1_3_2|
 |inotify-tools|3.21.9.6|4.23.9.0|
 |intel-gmmlib|22.3.18|22.3.19|
-|intel-media-driver|24.1.5|24.2.1|
+|intel-media-driver|24.1.5|24.2.2|
 |intel-ucode|20221108|20240312|
 |inxi|3.3.31<br>+2|3.3.31-2|Compound version number '3.3.31+2'|
 |iodine|0.7.0|0.8.0|
 |iosevka-fonts|28.0.5|29.2.1|
+|iozone|3.492|3.506|
 |ipcalc|0.41|1.0.3|
 |ipmitool|1.8.18|1_8_19|
 |ipset|7.1|7.21|
@@ -1232,6 +1234,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |korganizer|23.08.5|24.02.2|
 |kosmindoormap|23.08.5|24.02.2|
 |kpackage|5.115.0|6.0.4|
+|kparts|5.115.0|6.0.4|
 |kpat|23.08.5|24.02.2|
 |kpeople|5.115.0|6.0.4|
 |kpicosim-trinity|14.1.0|14.1.2|
@@ -1524,6 +1527,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libnspsl|0.1.6|0.1.7|
 |libnumbertext|1.0.7|1.0.11|
 |libnvme|1.6|1.8|
+|libodfgen|0.1.6|0.1.8|
 |libofono-qt|0.54<br>+git20190116|1.30|Compound version number '0.54+git20190116'<br>Version number indicates a snapshot (+git) is used|
 |libofx|0.9.15|0.10.8|
 |libogg|1.3.4|1.3.5|
@@ -1713,6 +1717,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lrzsz|0.12.21|0.12.21.orig|Possible downgrade from the current version (0.12.21   0.12.21.orig)|
 |lsd|1.0.0|1.1.2|
 |lshw|02.19.2|02.20|
+|lskat|23.08.5|24.02.2|
 |lsof|4.98.0|4.99.3|
 |ltrace|0.7.3<br>+git20151111|0.7.3|Compound version number '0.7.3+git20151111'<br>Version number indicates a snapshot (+git) is used|
 |lttng-ust|2.13.5|2.13.8|
@@ -2163,6 +2168,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-email-messageid|1.406|1.408|
 |perl-email-mime|1.946|1.953|
 |perl-email-mime-contenttype|1.022|1.028|
+|perl-email-mime-encodings|1.315|1.317|
 |perl-email-simple|2.216|2.218|
 |perl-error|0.17027|0.17029|
 |perl-ev|4.25|4.34|
@@ -2532,7 +2538,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |quickjs|2024.01.13|2024-01-13|
 |qwt5|6.1.5|6.2.0|
 |qzdl|3.2.2.3<br>+git20210516|3.2.2.3|Compound version number '3.2.2.3+git20210516'<br>Version number indicates a snapshot (+git) is used|
-|r|4.3.1|4.4.0|
 |ragel|6.10|7.0.4|
 |random2|1.0.1|1.0.2|
 |rapidfuzz|3.2.0|3.1.1|Possible downgrade from the current version (3.2.0   3.1.1)|
