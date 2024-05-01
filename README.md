@@ -128,6 +128,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |audiotube|23.08.5|24.02.2|
 |audit|3.1|4.0.1|
 |audiveris|5.1.0|5.3.1|
+|autobahn|19.2.1|23.6.2|
 |autobuild4|4.1.9|1.9.1|Possible downgrade from the current version (4.1.9   1.9.1)|
 |autoconf-archive|2021.02.19|2023.02.20|
 |autofs|5.1.8|5.1.9|
@@ -1445,7 +1446,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libgtop|2.38.0|2.41.3|
 |libguestfs|1.52.0|1.53.1|
 |libgusb|0.4.8|0.4.9|
-|libgweather|4.1.0|4.4.2|
 |libgxps|0.2.5|0.3.2|
 |libhandy|1.6.3|1.8.3|
 |libhangul|0.1.0<br>+git20210406|0.1.0|Compound version number '0.1.0+git20210406'<br>Version number indicates a snapshot (+git) is used|
@@ -1768,7 +1768,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |markdown|3.3.4|3.6|
 |markdownpart|23.08.5|24.02.2|
 |markupsafe|2.1.1|2.1.5|
-|marshmallow|3.20.2|3.21.1|
+|marshmallow|3.20.2|3.21.2|
 |mat2|0.13.0|0.6.1|Possible downgrade from the current version (0.13.0   0.6.1)|
 |mate-applets|1.26.1|1.28.0|
 |mate-backgrounds|1.26.0|1.28.0|
