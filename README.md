@@ -731,7 +731,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-disk-utility|42.0|46.0|
 |gnome-flashback|3.45.1|3.52.1|
 |gnome-font-viewer|42.0|46.0|
-|gnome-initial-setup|42.2|46.0|
+|gnome-initial-setup|42.2|46.1|
 |gnome-keyring|40.0|46.1|
 |gnome-logs|3.36.0|43.0|
 |gnome-mahjongg|3.38.3|3.40.1|
@@ -749,6 +749,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-software|42.4|46.1|
 |gnome-sudoku|42.0|46.0|
 |gnome-system-monitor|42.0|46.0|
+|gnome-terminal|3.44.1|3.97.0|
 |gnome-themes-standard|3.27.90|3.28|
 |gnome-tour|42.0|46.0|
 |gnome-usage|3.38.1|46.0|
@@ -2147,6 +2148,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-crypt-ssleay|0.73<br>+06|0.72|Compound version number '0.73+06'<br>Possible downgrade from the current version (0.73+06   0.72)|
 |perl-data-dump|1.23|1.25|
 |perl-data-dumper|2.167<br>+02|2.183|Compound version number '2.167+02'|
+|perl-data-optlist|0.110|0.114|
 |perl-date-manip|6.82|6.95|
 |perl-datetime|1.52|1.65|
 |perl-datetime-format-strptime|1.77|1.79|
