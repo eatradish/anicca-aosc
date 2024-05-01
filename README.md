@@ -95,6 +95,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |arping|2.20|2.24|
 |arpwatch|2.1a15|3.6|
 |arrow|1.0.3|1.3.0|
+|artikulate|23.08.5|24.02.2|
 |arts|14.1.0|14.1.2|
 |asahi-common|20231113|20231113-aosc|Possible downgrade from the current version (20231113   20231113-aosc)|
 |asahi-fwextract|0.6.21|0.7.1|
@@ -264,7 +265,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |certbot-dns-cloudflare|2.5.0|2.10.0|
 |certbot-nginx|2.5.0|2.10.0|
 |certifi|2020.12.5|2024.2.2|
-|cervisia|23.08.5|24.02.2|
 |cffi|1.15.0|1.16.0|
 |cfitsio|3.450|4.4.0|
 |cgal|5.2|5.6.1|
@@ -561,6 +561,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ffmpeg+32|4.2.5|7.0|
 |ffmpegthumbs|23.08.5|24.02.2|
 |ffms2|2.23|2.40|
+|ffnvcodec|11.1.5.1|12.2.72.0|
 |fftw|3.3.8|3.3.10|
 |fftw+32|3.3.4|3.3.10|
 |fido2|0.9.1|1.1.3|
@@ -2119,6 +2120,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pdlzip|1.9|1.13|
 |peazip|7.9.0|9.7.1|
 |peewee|3.17.1|3.17.3|
+|peg|0.1.18|0.1.20|
 |pep517|0.12.0|0.13.1|
 |perl|5.36.3|5.38.2|
 |perl+32|999|5.38.2|Possible downgrade from the current version (999   5.38.2)|
@@ -3117,7 +3119,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xa|2.4.0|2.4.1|
 |xalan-c|1.12|1.12.0|
 |xapian-core|1.4.18|1.4.25|
-|xapps|2.6.1|2.8.2|
 |xarchiver|0.5.4.15|0.5.4.23|
 |xcalibrate|0.9<br>+git20200330|0.9|Compound version number '0.9+git20200330'<br>Version number indicates a snapshot (+git) is used|
 |xcb-imdkit|1.0.5|1.0.8|
@@ -3187,6 +3188,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |yaz|5.31.0|5.34.0|
 |yazi|0.2.3|0.2.5|
 |yelp|42.1|42.2|
+|yelp-tools|42.0|42.1|
 |yelp-xsl|42.0|42.1|
 |yosys|0.39|0.40|
 |ytmusicapi|1.5.1|1.6.0|
