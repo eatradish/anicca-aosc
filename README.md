@@ -141,6 +141,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |avogadrolibs|1.95.1|1.99.0|
 |avr-binutils|2.37|2.42|
 |avr-gcc|10.3.1<br>+git20210510|13.2.0|Compound version number '10.3.1+git20210510'<br>Version number indicates a snapshot (+git) is used|
+|avr-libc|2.0.0|2.1.0|
 |avrdude|6.3|7.3|
 |axel|2.17.11|2.17.14|
 |ayatana-indicator-messages|0.8.2|23.10.0|
@@ -1900,7 +1901,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mycli|1.23.2|1.27.2|
 |mygpoclient|1.8|1.9|
 |n2n|2.8|3.1.1|
-|nano|7.2<br>+nanorc20230126|7.2|Compound version number '7.2+nanorc20230126'|
+|nano|7.2<br>+nanorc20230126|8.0|Compound version number '7.2+nanorc20230126'|
 |nanomsg|1.1.5|1.2.1|
 |nas|1.9.4|1.9.5|
 |nasm|2.16.01|2.16.03|
