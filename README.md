@@ -2551,7 +2551,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rdflib|6.2.0|7.0.0|
 |rdiscount|2.2.0.2|2.2.7.3|
 |rdma-core|38.0|51.0|
-|re2|20190901|2024-04-01|Possible downgrade from the current version (20190901   2024-04-01)|
+|re2|20190901|2024-05-01|Possible downgrade from the current version (20190901   2024-05-01)|
 |re2c|1.3|3.1|
 |readline|8.2.1|8.2|Possible downgrade from the current version (8.2.1   8.2)|
 |readline+32|6.3.008|8.2|
