@@ -3153,6 +3153,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xfce4-screenshooter|1.10.4|1.10.5|
 |xfce4-taskmanager|1.5.6|1.5.7|
 |xfce4-terminal|1.1.1|1.1.3|
+|xfce4-weather-plugin|0.11.1|0.11.2|
 |xfce4-whiskermenu-plugin|2.8.2|2.8.3|
 |xfsprogs|6.5.0|6.7.0|
 |xine-ui|0.99.12|0.99.14|
