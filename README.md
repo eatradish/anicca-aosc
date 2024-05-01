@@ -461,6 +461,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |double-conversion|3.2.1|3.3.0|
 |dovecot|2.3.10.1|2.3.21|
 |doxygen|1.10.0|1_10_0|
+|doxyqml|0.5.0|0.5.3|
 |dpdk|22.11.1|24.03|
 |dpkg|1.21.22|1.22.6|
 |dragon|23.08.5|24.02.2|
@@ -2520,7 +2521,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qmlkonsole|23.08.5|24.02.2|
 |qmltermwidget|0.2.0<br>+git20220109|0.6.0|Compound version number '0.2.0+git20220109'<br>Version number indicates a snapshot (+git) is used|
 |qmmp|1.6.5|2.1.7|
-|qownnotes|22.6.1|24.4.5|
+|qownnotes|22.6.1|24.5.0|
 |qqc2-desktop-style|5.115.0|6.0.4|
 |qrencode|4.0.2|4.1.1|
 |qscintilla|2.13.1|2.14.1|
@@ -3043,7 +3044,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vice|3.5|3.8|
 |vicious|2.3.3|2.7.0|
 |vid.stab|0.98b|1.1.1|
-|vim|9.1.0140|9.1.0381|
+|vim|9.1.0140|9.1.0386|
 |virglrenderer|0.10.4|1.0.1|
 |virtualenv|20.25.0|20.26.1|
 |virtualgl+32|2.5.2|3.1.1|
