@@ -1217,7 +1217,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kollision|23.08.5|24.02.2|
 |kolourpaint|23.08.5|24.02.2|
 |kompare|23.08.5|24.02.2|
-|kompose-trinity|14.1.0|14.1.2|
 |kongress|23.08.5|24.02.2|
 |konqueror|23.08.5|24.02.2|
 |konquest|23.08.5|24.02.2|
@@ -1246,7 +1245,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kpmcore|23.08.5|24.02.2|
 |kpty|5.115.0|6.0.4|
 |kpublictransport|23.08.5|24.02.2|
-|kqtquickcharts|23.08.5|24.02.2|
 |kquickcharts|5.115.0|6.0.4|
 |kquickimageeditor|0.2.0|0.3.0|
 |kramdown|2.3.1|2.4.0|
@@ -1620,7 +1618,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libunistring|0.9.10|1.2|
 |libunwind|1.6.2|1.8.1|
 |libupnp|1.14.16|1.14.19|
-|liburing|2.0|2.5|
+|liburing|2.0|2.6|
 |libusb|1.0.23|1.0.27|
 |libusb+32|1.0.23|1.0.27|
 |libusb-compat|0.1.5|0.1.8|
@@ -2649,7 +2647,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |scrot|0.8|1.10|
 |scummvm|2.2.0|2.8.1|
 |sdcc|4.3.6|4.4.0|
-|sddm-kcm|5.27.11|6.0.4|
 |sdl-gfx|2.0.25|2.0.27|
 |sdl-sound|1.0.3|2.0.2|
 |sdl-sound+32|1.0.3|2.0.2|
