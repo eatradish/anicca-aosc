@@ -2510,7 +2510,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pyx|0.14.1|0.16|
 |pyxattr|0.6.1|0.8.1|
 |pyyaml|5.3.1|6.0.1|
-|pyzmq|22.3.0|26.0.2|
+|pyzmq|22.3.0|26.0.3|
 |qalculate-tde-trinity|14.1.0|14.1.2|
 |qca|2.3.4|2.3.8|
 |qcef|1.1.6|1.1.8|
@@ -2808,6 +2808,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sunpinyin|3.0.0~rc1|2.0.3-rel-1|Possible downgrade from the current version (3.0.0~rc1   2.0.3-rel-1)|
 |sunshine|0.23.0|0.23.1|
 |sunxi-tools|1.4.2<br>+git20220729|1.4.2|Compound version number '1.4.2+git20220729'<br>Version number indicates a snapshot (+git) is used|
+|superslicer|2.5.59.8|2.5.59.9|
 |sushi|42.0|46.0|
 |svgpart|23.08.5|24.02.2|
 |svt-av1|1.4.1|2.0.0|
