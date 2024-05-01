@@ -240,6 +240,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |camlp4|4.08<br>+1|5.0+1|Compound version number '4.08+1'|
 |camlp5|713|6023|
 |cantor|23.08.5|24.02.2|
+|capnproto|0.10.2|1.0.2|
 |capstone|5.0.1|5.0|Possible downgrade from the current version (5.0.1   5.0)|
 |cargo-audit|0.18.1|0.20.0|
 |cargo-c|0.9.24|0.9.31+cargo-0.78.0|
@@ -276,6 +277,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cheetah3|3.2.5|3.2.6.post2|
 |cherrypy|18.1.0|18.9.0|
 |chinadns-ng|0.0<br>+git20231028|2024.04.30|Compound version number '0.0+git20231028'<br>Version number indicates a snapshot (+git) is used|
+|chmlib|0.40a|0.40|
 |chntpw|1.1|140201|
 |chromaprint|1.5.0|1.5.1|
 |chromium|124.0.6367.91|124.0.6367.118|
@@ -747,7 +749,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-software|42.4|46.1|
 |gnome-sudoku|42.0|46.0|
 |gnome-system-monitor|42.0|46.0|
-|gnome-terminal|3.44.1|3.97.0|
 |gnome-themes-standard|3.27.90|3.28|
 |gnome-tour|42.0|46.0|
 |gnome-usage|3.38.1|46.0|
@@ -1059,6 +1060,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kdbusaddons|5.115.0|6.0.4|
 |kdbusnotification-trinity|14.1.0|14.1.2|
 |kddockwidgets|1.3.1|2.0.0|
+|kde-cli-tools|5.27.11|6.0.4|
 |kde-dev-scripts|23.08.5|24.02.2|
 |kde-dev-utils|23.08.5|24.02.2|
 |kde-gtk-config|5.27.11|6.0.4|
@@ -1362,6 +1364,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libburn|1.5.2|1.5.6|
 |libbytesize|2.1|2.10|
 |libc+wasi|20|21|
+|libcacard|2.7.0|2.8.1|
 |libcaldav|14.1.0|14.1.2|
 |libcap+32|2.31|2.69|
 |libcap-ng|0.7.11|0.8.5|
@@ -2144,7 +2147,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-crypt-ssleay|0.73<br>+06|0.72|Compound version number '0.73+06'<br>Possible downgrade from the current version (0.73+06   0.72)|
 |perl-data-dump|1.23|1.25|
 |perl-data-dumper|2.167<br>+02|2.183|Compound version number '2.167+02'|
-|perl-data-optlist|0.110|0.114|
 |perl-date-manip|6.82|6.95|
 |perl-datetime|1.52|1.65|
 |perl-datetime-format-strptime|1.77|1.79|
@@ -2499,6 +2501,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |python-xmp-toolkit|2.0.1|2.0.2|
 |pythondialog|3.3.0|3.5.3|
 |pytools|2019.1|2024.1.2|
+|pytz|2021.1|2024.1|
 |pyusb|1.0.2|1.2.1|
 |pyutil|3.3.0|3.3.6|
 |pywbem|0.13.0|1.7.2|
