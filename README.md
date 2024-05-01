@@ -128,7 +128,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |audiotube|23.08.5|24.02.2|
 |audit|3.1|4.0.1|
 |audiveris|5.1.0|5.3.1|
-|autobahn|19.2.1|23.6.2|
 |autobuild4|4.1.9|1.9.1|Possible downgrade from the current version (4.1.9   1.9.1)|
 |autoconf-archive|2021.02.19|2023.02.20|
 |autofs|5.1.8|5.1.9|
@@ -2358,8 +2357,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |polkit-tqt|14.1.0|14.1.2|
 |polybar|3.7.0|3.7.1|
 |polymake|3.3|4.11|
-|poppler|22.08.0|24.04.0|
-|poppler+32|0.66.0|24.04.0|
+|poppler|22.08.0|24.05.0|
+|poppler+32|0.66.0|24.05.0|
 |poppler-data|0.4.9|0.4.12|
 |popt|1.18|1.19|
 |popt+32|1.16|1.19|
@@ -2693,6 +2692,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |simh|3.11<br>+1|3.12-2|Compound version number '3.11+1'|
 |simple-scan|42.1|46.0|
 |simplejson|3.16.0|3.19.2|
+|simplescreenrecorder|0.4.3|0.4.4|
 |singular|4.1.1|2023.02.09|
 |sip|6.3.1|6.8.3|
 |skanlite|23.08.5|24.02.2|
