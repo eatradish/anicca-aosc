@@ -280,7 +280,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |chmlib|0.40a|0.40|
 |chntpw|1.1|140201|
 |chromaprint|1.5.0|1.5.1|
-|chromium|124.0.6367.60|124.0.6367.118|
+|chromium|124.0.6367.91|124.0.6367.118|
 |cifs-utils|6.10|7.0|
 |cinnamon|5.8.3|6.0.4|
 |cinnamon-control-center|5.8.1|6.0.1|
@@ -516,7 +516,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |exempi|2.5.1|2.6.5|
 |exfatprogs|1.2.0|1.2.2|
 |exiv2|0.27.5|0.28.2|
-|expat+32|2.2.9|2.6.2|
 |extra-cmake-modules|5.115.0|6.0.4|
 |eyed3|0.9.5|0.9.7|
 |eza|0.11.0|0.10.1|Possible downgrade from the current version (0.11.0   0.10.1)|
@@ -773,7 +772,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |google-api-python-client|1.7.11|2.127.0|
 |google-auth|1.6.3|2.29.0|
 |google-auth-httplib2|0.0.4|0.2.0|
-|google-chrome|124.0.6367.60|124.0.6367.118|
+|google-chrome|124.0.6367.91|124.0.6367.118|
 |goverlay|1.0|1.1.1|
 |gpac|2.2.1|2.4.0|
 |gperftools|2.13|2.15|
@@ -3046,7 +3045,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vid.stab|0.98b|1.1.1|
 |vim|9.1.0140|9.1.0381|
 |virglrenderer|0.10.4|1.0.1|
-|virtualbox|7.0.14|7.0.16|
 |virtualenv|20.25.0|20.26.1|
 |virtualgl+32|2.5.2|3.1.1|
 |vkd3d|1.9|1.11|
