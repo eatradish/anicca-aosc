@@ -88,13 +88,13 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |archlinux-keyring|20231222|20240429|
 |arduino-avr-core|1.8.3|1.8.6|
 |argyllcms|3.1.0|3.2.0|
+|arianna|23.08.5|24.02.2|
 |ark|23.08.5|24.02.2|
 |arp-scan|1.9.8|1.10.0|
 |arpack-ng|3.8.0|3.9.1|
 |arping|2.20|2.24|
 |arpwatch|2.1a15|3.6|
 |arrow|1.0.3|1.3.0|
-|artikulate|23.08.5|24.02.2|
 |arts|14.1.0|14.1.2|
 |asahi-common|20231113|20231113-aosc|Possible downgrade from the current version (20231113   20231113-aosc)|
 |asahi-fwextract|0.6.21|0.7.1|
@@ -561,7 +561,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ffmpeg+32|4.2.5|7.0|
 |ffmpegthumbs|23.08.5|24.02.2|
 |ffms2|2.23|2.40|
-|ffnvcodec|11.1.5.1|12.2.72.0|
 |fftw|3.3.8|3.3.10|
 |fftw+32|3.3.4|3.3.10|
 |fido2|0.9.1|1.1.3|
@@ -877,6 +876,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |html2text|2020.1.16|2024.2.26|
 |html5-parser|0.4.9|0.4.12|
 |htslib|1.16|1.20|
+|httpcore|0.12.2|1.0.5|
 |httpd|2.4.58|2.4.59|
 |httplib2|0.19.0|0.22.0|
 |httpx|0.23.3|0.27.0|
@@ -1615,6 +1615,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libudfread|1.1.1|1.1.2|
 |libuhd|4.5.0.0|4.6.0.0|
 |libuninameslist|20190701|20230916|
+|libunistring|0.9.10|1.2|
 |libunwind|1.6.2|1.8.1|
 |libupnp|1.14.16|1.14.19|
 |liburing|2.0|2.6|
@@ -2118,7 +2119,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pdlzip|1.9|1.13|
 |peazip|7.9.0|9.7.1|
 |peewee|3.17.1|3.17.3|
-|peg|0.1.18|0.1.20|
 |pep517|0.12.0|0.13.1|
 |perl|5.36.3|5.38.2|
 |perl+32|999|5.38.2|Possible downgrade from the current version (999   5.38.2)|
@@ -2611,6 +2611,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ruby|3.2.2|3.3.1|
 |ruby-bundler|2.1.4|2.5.9|
 |ruby-ffi|1.10.0|1.16.3|
+|ruby-gettext|3.2.9|3.4.9|
 |ruby-locale|2.1.3|2.1.4|
 |ruby-native-package-installer|1.0.9|1.1.9|
 |ruby-pg|1.1.4|1.5.6|
@@ -3186,7 +3187,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |yaz|5.31.0|5.34.0|
 |yazi|0.2.3|0.2.5|
 |yelp|42.1|42.2|
-|yelp-tools|42.0|42.1|
 |yelp-xsl|42.0|42.1|
 |yosys|0.39|0.40|
 |ytmusicapi|1.5.1|1.6.0|
