@@ -516,6 +516,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |exempi|2.5.1|2.6.5|
 |exfatprogs|1.2.0|1.2.2|
 |exiv2|0.27.5|0.28.2|
+|expat+32|2.2.9|2.6.2|
 |extra-cmake-modules|5.115.0|6.0.4|
 |eyed3|0.9.5|0.9.7|
 |eza|0.11.0|0.10.1|Possible downgrade from the current version (0.11.0   0.10.1)|
