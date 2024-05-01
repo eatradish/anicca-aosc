@@ -2154,7 +2154,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-datetime-format-strptime|1.77|1.79|
 |perl-datetime-locale|1.26|1.42|
 |perl-datetime-timezone|2.39|2.62|
-|perl-dbd-mysql|4.050|5.004|
+|perl-dbd-mysql|4.050|5.005|
 |perl-dbd-sqlite|1.63<br>+03|1.74|Compound version number '1.63+03'|
 |perl-dbi|1.642|1.643|
 |perl-devel-checklib|1.13|1.16|
