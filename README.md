@@ -397,7 +397,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |deja-dup|42.9|45.2|
 |dejavu-fonts|2.37|2_37|
 |deluge|2.1.1|2.0.5|Possible downgrade from the current version (2.1.1   2.0.5)|
-|deno|1.31.3|1.42.4|
+|deno|1.31.3|1.43.1|
 |dephell-specifier|0.2.2|0.3.0|
 |deploykit-backend|0.1.1|0.1.0|Possible downgrade from the current version (0.1.1   0.1.0)|
 |deploykit-gui|0.2.1|test-ci|Versions not comparable: `0.2.1` and `test-ci`|
@@ -423,7 +423,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |distlib|0.3.1|0.3.8|
 |distorm|3.5.1|3.5.2b|
 |distro|1.6.0|1.9.0|
-|distrobox|1.4.2.1|1.7.1.0|
+|distrobox|1.4.2.1|1.7.2.0|
 |django|5.0.3|5.0.4|
 |dkms|2.8.3|3.0.13|
 |dlib|19.20.0|19.24.4|
