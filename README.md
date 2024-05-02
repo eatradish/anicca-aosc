@@ -213,7 +213,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |bridge-utils|1.6|1.7.1|
 |brotli|1.0.9|1.1.0|
 |brotlipy|0.7.0|1.0.9.2|
-|btrfs-progs|6.7.1|6.8|
+|btrfs-progs|6.7.1|6.8.1|
 |bubblewrap|0.6.2|0.9.0|
 |budgie-screensaver|5.0.2|5.1.0|
 |bulky|2.9|3.2|
@@ -305,7 +305,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |clzip|1.10|1.14|
 |cmark|0.30.3|0.31.0|
 |cmus|2.9.1|2.10.0|
-|cock|0.6.0|0.11.0|
 |cockpit|286.1|316|
 |cockpit-machines|284.1|312|
 |cockpit-podman|63|87|
@@ -770,6 +769,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |goffice|0.10.48|0.10.57|
 |goldendict|1.5.0~rc2|1.5.0|
 |gom|0.4|0.5.1|
+|google-api-python-client|1.7.11|2.127.0|
 |google-auth|1.6.3|2.29.0|
 |google-auth-httplib2|0.0.4|0.2.0|
 |google-chrome|124.0.6367.91|124.0.6367.118|
@@ -1249,6 +1249,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kquickcharts|5.115.0|6.0.4|
 |kquickimageeditor|0.2.0|0.3.0|
 |kramdown|2.3.1|2.4.0|
+|krb5|1.17.1|1.21.2-final|
 |krb5+32|1.17.1|1.21.2-final|
 |krdc|23.08.5|24.02.2|
 |krecipes-trinity|14.1.0|14.1.2|
@@ -1452,9 +1453,11 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libidn|1.41|1.42|
 |libidn+32|1.33|1.42|
 |libidn2|2.3.0|2.3.7|
+|libime|1.1.3|1.1.7|
 |libindi|2.0.5|2.0.7|
 |libinput|1.24.0|1.25.0|
 |libintl-perl|1.29|1.33|
+|libipset|1.1.1<br>+git20150311|1.1.1|Compound version number '1.1.1+git20150311'<br>Version number indicates a snapshot (+git) is used|
 |libiscsi|1.18.0|1.20.0|
 |libisoburn|1.5.2|1.5.6|
 |libisofs|1.5.2|1.5.6.pl01|
@@ -1495,7 +1498,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libmanette|0.2.6|0.2.7|
 |libmatekbd|1.26.1|1.28.0|
 |libmatemixer|1.26.1|1.28.0|
-|libmateweather|1.26.3|1.28.0|
 |libmatroska|1.6.2|1.7.1|
 |libmaxminddb|1.4.3|1.9.1|
 |libmd|1.0.4|1.1.0|
@@ -2099,6 +2101,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pastel|0.2.0|0.2.1|
 |pathlib2|2.3.5|2.3.7.post1|
 |pathspec|0.11.0|0.12.1|
+|patool|1.12|upstream/2.2.0|Possible downgrade from the current version (1.12   upstream/2.2.0)|
 |pavucontrol|3.0|5.0|
 |pbr|5.6.0|6.0.0|
 |pciutils|3.9.0|3.12.0|
@@ -2388,7 +2391,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |protobuf-c|1.3.3|1.5.0|
 |proxychains-ng+32|20161205|4.17|Possible downgrade from the current version (20161205   4.17)|
 |psmisc|23.6|23.7|
-|pstate-frequency|3.11.0|3.15.1|
 |pstoedit|3.75|4.01|
 |psycopg2|2.8.6|2.9.9|
 |ptex|2.3.2|2.4.2|
@@ -2416,6 +2418,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pycountry|18.12.8|23.12.11|
 |pycparser|2.19|2.22|
 |pycryptodome|3.7.3|3.20.0|
+|pycryptodomex|3.9.9|3.20.0|
 |pycryptopp|0.7.1|0.5.29|Possible downgrade from the current version (0.7.1   0.5.29)|
 |pycuda|2022.2.2|2024.1|
 |pycups|1.9.74|2.0.4|
@@ -2884,7 +2887,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tdevelop|14.1.0|14.1.2|
 |tdewebdev|14.1.0|14.1.2|
 |tdmtheme|14.1.0|14.1.2|
-|tectonic|0.12.0|0.15.0|
 |teeworlds|0.7.5<br>+git20220313|0.7.5|Compound version number '0.7.5+git20220313'<br>Version number indicates a snapshot (+git) is used|
 |telegram-desktop|4.16.6|4.16.10|
 |telepathy-accounts-signon|1.0|2.1|
