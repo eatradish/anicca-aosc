@@ -1461,6 +1461,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libipset|1.1.1<br>+git20150311|1.1.1|Compound version number '1.1.1+git20150311'<br>Version number indicates a snapshot (+git) is used|
 |libiscsi|1.18.0|1.20.0|
 |libisoburn|1.5.2|1.5.6|
+|libisofs|1.5.2|1.5.6.pl01|
 |libjcat|0.1.8|0.2.1|
 |libjpeg-turbo+32|2.0.5|3.0.2|
 |libjxl|0.7.0|0.10.2|
