@@ -1461,7 +1461,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libipset|1.1.1<br>+git20150311|1.1.1|Compound version number '1.1.1+git20150311'<br>Version number indicates a snapshot (+git) is used|
 |libiscsi|1.18.0|1.20.0|
 |libisoburn|1.5.2|1.5.6|
-|libisofs|1.5.2|1.5.6.pl01|
 |libjcat|0.1.8|0.2.1|
 |libjpeg-turbo+32|2.0.5|3.0.2|
 |libjxl|0.7.0|0.10.2|
@@ -1684,15 +1683,15 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |linux+api|6.7.12|5.19.17|Possible downgrade from the current version (6.7.12   5.19.17)|
 |linux+kernel|6.7.5|5.19.17|Possible downgrade from the current version (6.7.5   5.19.17)|
 |linux+kernel+asahi|6.5.11|5.19.17|Possible downgrade from the current version (6.5.11   5.19.17)|
-|linux+kernel+lts|6.6.17|5.10.215|Possible downgrade from the current version (6.6.17   5.10.215)|
+|linux+kernel+lts|6.6.17|5.10.216|Possible downgrade from the current version (6.6.17   5.10.216)|
 |linux+kernel+rc|5.8.0|5.19.17|
-|linux+kernel+retro|5.10.132|5.10.215|
-|linux+kernel+retro+minimal|5.15.17|5.10.215|Possible downgrade from the current version (5.15.17   5.10.215)|
+|linux+kernel+retro|5.10.132|5.10.216|
+|linux+kernel+retro+minimal|5.15.17|5.10.216|Possible downgrade from the current version (5.15.17   5.10.216)|
 |linux-firmware|20240405<br>+debian20230210<br>+5~bpo11<br>+1|20240410|Compound version number '20240405+debian20230210+5~bpo11+1'|
 |linux-kernel|6.7.5|5.19.17|Possible downgrade from the current version (6.7.5   5.19.17)|
 |linux-kernel-lts|6.6.17|5.19.17|Possible downgrade from the current version (6.6.17   5.19.17)|
-|linux-kernel-retro|5.10.132|5.10.215|
-|linux-kernel-retro-minimal|5.15.17|5.10.215|Possible downgrade from the current version (5.15.17   5.10.215)|
+|linux-kernel-retro|5.10.132|5.10.216|
+|linux-kernel-retro-minimal|5.15.17|5.10.216|Possible downgrade from the current version (5.15.17   5.10.216)|
 |linux-pam|1.6.0|1.6.1|
 |linuxsampler|2.3.0|2.3.1|
 |lirc|0.9.4d|0.10.2|
@@ -2116,7 +2115,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pcre-static|8.44|8.45|
 |pcsc-perl|1.4.14|1.4.16|
 |pcsclite|1.9.9|2.1.0|
-|pcsx2|1.6.0<br>+git20210825|1.7.5764|Compound version number '1.6.0+git20210825'<br>Version number indicates a snapshot (+git) is used|
+|pcsx2|1.6.0<br>+git20210825|1.7.5769|Compound version number '1.6.0+git20210825'<br>Version number indicates a snapshot (+git) is used|
 |pdfgrep|2.1.2|2.2.0|
 |pdfminer|20191020|20231228|
 |pdlzip|1.9|1.13|
@@ -2533,7 +2532,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qtcreator|12.0.1|13.0.0|
 |qtkeychain|0.13.2|0.14.2|
 |qtpy|2.1.0|2.4.1|
-|qtractor|0.9.23|0.9.90|
+|qtractor|0.9.23|0.9.91|
 |qtstyleplugins|5.0.0<br>+git20170311|5.0.0|Compound version number '5.0.0+git20170311'<br>Version number indicates a snapshot (+git) is used|
 |quazip|0.9.1|1.4|
 |quickjs|2024.01.13|2024-01-13|
@@ -2620,6 +2619,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ruby-native-package-installer|1.0.9|1.1.9|
 |ruby-pg|1.1.4|1.5.6|
 |ruby-pkg-config|1.4.4|1.5.6|
+|rustc|1.77.2|1.78.0|
 |rustc-demangle|0.1.21|0.1.23|
 |rxvt-unicode|9.22|9.31|
 |rygel|0.40.4|0.42.5|
