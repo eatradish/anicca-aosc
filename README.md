@@ -199,7 +199,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |borgbackup|1.1.17|1.2.8|
 |botan|1.10.17|3.4.0|
 |botan-2|2.12.1|3.4.0|
-|boto3|1.20.26|1.34.96|
+|boto3|1.20.26|1.34.97|
 |bottle|0.12.18|0.12.25|
 |bottles|2022.2.28<br>+trento<br>+4|51.11|Compound version number '2022.2.28+trento+4'<br>Possible downgrade from the current version (2022.2.28+trento+4   51.11)|
 |bovo|23.08.5|24.02.2|
@@ -1716,7 +1716,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lpsolve|5.5.2.5|5.6.20|
 |lrs|071a|072|
 |lrzsz|0.12.21|0.12.21.orig|Possible downgrade from the current version (0.12.21   0.12.21.orig)|
-|lsd|1.0.0|1.1.2|
 |lshw|02.19.2|02.20|
 |lskat|23.08.5|24.02.2|
 |lsof|4.98.0|4.99.3|
@@ -2686,6 +2685,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |shellingham|1.3.1|1.5.4|
 |shotcut|21.08.11|24.04.28|
 |shotwell|0.31.4|0.32.6|
+|showmethekey|1.12.0|1.13.0|
 |shutter|0.94|0.99.2|
 |siege|4.0.7|4.1.6|
 |signon|8.60|8.61|
