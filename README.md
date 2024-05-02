@@ -1630,7 +1630,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libva+32|2.15.0|2.21.0|
 |libva-nvidia-driver|0.0.11|0.7.4|
 |libvdpau+32|1.1.1|1.5|
-|libvirt-python|10.1.0|10.2.0|
+|libvirt|10.2.0|10.3.0|
+|libvirt-python|10.1.0|10.3.0|
 |libvisual|0.4.0|0.4.2|
 |libvisual+32|0.4.0|0.4.2|
 |libvncserver|0.9.13|0.9.14|
@@ -2008,6 +2009,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |openblas|0.3.21<br>+git20221105|0.3.27|Compound version number '0.3.21+git20221105'<br>Version number indicates a snapshot (+git) is used|
 |opencascade|7.6.3|7.8.0|
 |opencc|1.1.3|1.1.7|
+|opencl-clang|17.0.0|18.1.0|
 |opencl-registry-api|2022.01.04|2023.12.14|
 |opencolorio|2.1.2|2.3.2|
 |openconnect|8.10|9.12|
@@ -2174,7 +2176,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-exporter-tiny|1.001<br>+001|1.006002|Compound version number '1.001+001'|
 |perl-extutils-config|0.008|0.009|
 |perl-extutils-depends|0.405|0.8001|
-|perl-extutils-installpaths|0.012|0.013|
 |perl-fcgi|0.78|0.82|
 |perl-ffi-checklib|0.25|0.31|
 |perl-file-basedir|0.08|0.09|
@@ -2221,7 +2222,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-mail-imapclient|3.42|3.43|
 |perl-mail-spf|2.9.0|3.20240206|
 |perl-mailtools|2.20|2.21|
-|perl-mime-charset|1.012.2|1.013.1|
 |perl-mime-lite|3.030|3.033|
 |perl-mime-tools|5.509|5.515|
 |perl-mime-types|2.17|2.26|
