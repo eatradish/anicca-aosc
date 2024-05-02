@@ -2657,7 +2657,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sdl-sound+32|1.0.3|2.0.2|
 |sdl-ttf|2.0.11|2.22.0|
 |sdl-ttf+32|2.0.11|2.22.0|
-|sdl2|2.24.2|2.30.2|
+|sdl2|2.24.2|2.30.3|
 |sdl2-image|2.0.5|2.8.2|
 |sdl2-mixer|2.0.4|2.8.0|
 |sdl2-net|2.0.1|2.2.0|
