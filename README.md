@@ -1682,6 +1682,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lincity-ng|2.9.0|2.0|Possible downgrade from the current version (2.9.0   2.0)|
 |link-grammar|5.10.1|5.99.42|
 |linux+api|6.7.12|5.19.17|Possible downgrade from the current version (6.7.12   5.19.17)|
+|linux+kernel|6.7.5|5.19.17|Possible downgrade from the current version (6.7.5   5.19.17)|
 |linux+kernel+asahi|6.5.11|5.19.17|Possible downgrade from the current version (6.5.11   5.19.17)|
 |linux+kernel+lts|6.6.17|5.10.216|Possible downgrade from the current version (6.6.17   5.10.216)|
 |linux+kernel+rc|5.8.0|5.19.17|
@@ -2952,8 +2953,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tqt3|14.1.0|14.1.2|
 |tqtinterface|14.1.0|14.1.2|
 |trace-cmd|2.8.3|3.2|
-|tracker|3.3.3|3.7.2|
-|tracker-miners|3.3.1|3.7.2|
+|tracker|3.3.3|3.7.3|
+|tracker-miners|3.3.1|3.7.3|
 |traitlets|5.0.5|5.14.3|
 |transcode|1.1.7|1_1_7|
 |translate-shell|0.9.7|0.9.7.1|
