@@ -348,7 +348,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |crazydiskinfo|1.0.2|1.1.0|
 |crda|3.18|4.15|
 |crow-translate|2.9.1|2.11.1|
-|crun|1.12|1.14.4|
+|crun|1.12|1.15|
 |cryfs|0.10.2|0.11.4|
 |crypto++|8.2.0|8.9.0|
 |cryptography|40.0.0|42.0.5|
@@ -1378,7 +1378,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libchamplain|0.12.20|0.12.21|
 |libchewing|0.5.1|0.7.0|
 |libcl|2.3.1|2.3.2|
-|libclc|17.0.3|18.1.4|
+|libclc|17.0.3|18.1.5|
 |libcloudproviders|0.3.1|0.3.6|
 |libcmis|0.5.2|0.6.2|
 |libconfig|1.7.2|1.7.3|
@@ -1699,9 +1699,9 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lksctp-tools|1.0.17|1.0.19|
 |lldpd|1.0.17|1.0.18|
 |llfuse|1.4.1|1.5.0|
-|llvm|17.0.6|18.1.4|
-|llvm+32|14.0.6|18.1.4|
-|llvm-runtime+wasi|17.0.6|18.1.4|
+|llvm|17.0.6|18.1.5|
+|llvm+32|14.0.6|18.1.5|
+|llvm-runtime+wasi|17.0.6|18.1.5|
 |lm-sensors|3.6.0|3-6-0|
 |lmdb|0.9.28|0.9.32|
 |lmms|1.2.2<br>+git20240125|1.2.2|Compound version number '1.2.2+git20240125'<br>Version number indicates a snapshot (+git) is used|
@@ -2176,6 +2176,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-exporter-tiny|1.001<br>+001|1.006002|Compound version number '1.001+001'|
 |perl-extutils-config|0.008|0.009|
 |perl-extutils-depends|0.405|0.8001|
+|perl-extutils-installpaths|0.012|0.013|
 |perl-fcgi|0.78|0.82|
 |perl-ffi-checklib|0.25|0.31|
 |perl-file-basedir|0.08|0.09|
@@ -2222,6 +2223,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-mail-imapclient|3.42|3.43|
 |perl-mail-spf|2.9.0|3.20240206|
 |perl-mailtools|2.20|2.21|
+|perl-mime-charset|1.012.2|1.013.1|
 |perl-mime-lite|3.030|3.033|
 |perl-mime-tools|5.509|5.515|
 |perl-mime-types|2.17|2.26|
@@ -2267,7 +2269,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-text-template|1.59|1.61|
 |perl-time-duration|1.20|1.21|
 |perl-timedate|2.30|2.33|
-|perl-tk|804.034|804.036|
 |perl-try-tiny|0.30|0.31|
 |perl-type-serialiser|1.0|1.01|
 |perl-uri|1.74|5.28|
