@@ -1360,7 +1360,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libblockdev|2.23|3.1.1|
 |libbloom|1.6|2.0|
 |libbluray+32|1.2.1|1.3.4|
-|libbpf|1.2.0|1.4.0|
+|libbpf|1.2.0|1.4.1|
 |libbsd|0.10.0|0.12.2|
 |libburn|1.5.2|1.5.6|
 |libbytesize|2.1|2.10|
@@ -2008,7 +2008,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |openblas|0.3.21<br>+git20221105|0.3.27|Compound version number '0.3.21+git20221105'<br>Version number indicates a snapshot (+git) is used|
 |opencascade|7.6.3|7.8.0|
 |opencc|1.1.3|1.1.7|
-|opencl-clang|17.0.0|18.1.0|
 |opencl-registry-api|2022.01.04|2023.12.14|
 |opencolorio|2.1.2|2.3.2|
 |openconnect|8.10|9.12|
