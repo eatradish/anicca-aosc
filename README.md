@@ -172,7 +172,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |beaker|1.11.0|1.13.0|
 |beancount|2.2.1|2.3.6|
 |bear|3.0.20|3.1.3|
-|beautifulsoup4|4.10.0|4.13.0b2|
+|beautifulsoup4|4.10.0|4.12.3|
 |benchmark|1.8.2|1.8.3|
 |bibletime-trinity|14.1.0|14.1.2|
 |bigsh0t|2.5.1|2.7|
@@ -961,7 +961,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |irssi|1.2.3|1.4.5|
 |iso-codes|4.4|4.16.0|
 |isomd5sum|1.2.3|1.2.4|
-|isort|4.3.21|6.0.0b2|
+|isort|4.3.21|5.13.2|
 |ispc|1.22.0|1.23.0|
 |itinerary|23.08.5|24.02.2|
 |itsdangerous|1.1.0|2.2.0|
@@ -1716,6 +1716,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lpsolve|5.5.2.5|5.6.20|
 |lrs|071a|072|
 |lrzsz|0.12.21|0.12.21.orig|Possible downgrade from the current version (0.12.21   0.12.21.orig)|
+|lsd|1.0.0|1.1.2|
 |lshw|02.19.2|02.20|
 |lskat|23.08.5|24.02.2|
 |lsof|4.98.0|4.99.3|
@@ -2036,7 +2037,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |openmpi|4.1.6|5.0.3|
 |openmpt|0.6.4|0.7.6|
 |openpgl|0.5.0|0.6.0|
-|openpyxl|2.6.0|3.2.0b1|
+|openpyxl|2.6.0|3.1.2|
 |openra|20210321|20231010|
 |openrazer|3.3.0|3.8.0|
 |openrgb|0.6|0.9|
