@@ -1656,7 +1656,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libxcb|1.16.1|1.17.0|
 |libxcb+32|1.13|1.17.0|
 |libxdg-basedir|1.2.0|1.2.3|
-|libxdmcp|1.1.4|1.1.5|
 |libxdmcp+32|1.1.3|1.1.5|
 |libxfce4ui|4.18.4|4.18.6|
 |libxfce4util|4.18.1|4.18.2|
@@ -1923,7 +1922,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |neomutt|20200619|20240425|
 |neon+32|0.31.2|0.33.0|
 |nestopia|1.51.0|1.52.1|
-|net-snmp|5.7.3|5.9.4|
 |netaddr|0.7.19|1.2.1|
 |netavark|1.9.0|1.10.3|
 |netcat|1.219|1.226|
@@ -2159,7 +2157,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-dbi|1.642|1.643|
 |perl-devel-checklib|1.13|1.16|
 |perl-devel-stacktrace|2.04|2.05|
-|perl-devel-symdump|2.0604|2.18|Possible downgrade from the current version (2.0604   2.18)|
 |perl-digest-hmac|1.03|1.04|
 |perl-email-abstract|3.008|3.010|
 |perl-email-address|1.912|1.913|
