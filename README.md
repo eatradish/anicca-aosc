@@ -261,6 +261,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cerberus|1.3.2|1.3.5|
 |cereal|1.3.0|1.3.2|
 |certbot|2.5.0|2.10.0|
+|certbot-apache|2.5.0|2.10.0|
 |certbot-dns-cloudflare|2.5.0|2.10.0|
 |certbot-nginx|2.5.0|2.10.0|
 |certifi|2020.12.5|2024.2.2|
@@ -855,7 +856,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hashcat|6.2.6|24.4.28|
 |hatch-fancy-pypi-readme|22.8.0|24.1.0|
 |hatch-vcs|0.3.0|0.4.0|
-|hatchling|1.21.1|1.9.7|Possible downgrade from the current version (1.21.1   1.9.7)|
+|hatchling|1.21.1|1.10.0|Possible downgrade from the current version (1.21.1   1.10.0)|
 |haveged|1.9.13|1.9.18|
 |hddtemp|0.3.52|0.4.3|
 |hdf5|1.10.5|1.14.4.1|
