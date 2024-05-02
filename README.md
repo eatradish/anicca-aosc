@@ -770,7 +770,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |goffice|0.10.48|0.10.57|
 |goldendict|1.5.0~rc2|1.5.0|
 |gom|0.4|0.5.1|
-|google-api-python-client|1.7.11|2.127.0|
 |google-auth|1.6.3|2.29.0|
 |google-auth-httplib2|0.0.4|0.2.0|
 |google-chrome|124.0.6367.91|124.0.6367.118|
@@ -1250,7 +1249,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kquickcharts|5.115.0|6.0.4|
 |kquickimageeditor|0.2.0|0.3.0|
 |kramdown|2.3.1|2.4.0|
-|krb5|1.17.1|1.21.2-final|
 |krb5+32|1.17.1|1.21.2-final|
 |krdc|23.08.5|24.02.2|
 |krecipes-trinity|14.1.0|14.1.2|
@@ -1454,11 +1452,9 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libidn|1.41|1.42|
 |libidn+32|1.33|1.42|
 |libidn2|2.3.0|2.3.7|
-|libime|1.1.3|1.1.7|
 |libindi|2.0.5|2.0.7|
 |libinput|1.24.0|1.25.0|
 |libintl-perl|1.29|1.33|
-|libipset|1.1.1<br>+git20150311|1.1.1|Compound version number '1.1.1+git20150311'<br>Version number indicates a snapshot (+git) is used|
 |libiscsi|1.18.0|1.20.0|
 |libisoburn|1.5.2|1.5.6|
 |libisofs|1.5.2|1.5.6.pl01|
@@ -2103,7 +2099,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pastel|0.2.0|0.2.1|
 |pathlib2|2.3.5|2.3.7.post1|
 |pathspec|0.11.0|0.12.1|
-|patool|1.12|upstream/2.2.0|Possible downgrade from the current version (1.12   upstream/2.2.0)|
 |pavucontrol|3.0|5.0|
 |pbr|5.6.0|6.0.0|
 |pciutils|3.9.0|3.12.0|
@@ -2235,7 +2230,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-mozilla-ca|20180117|20240313|
 |perl-mro-compat|0.13|0.15|
 |perl-net-dbus|1.1.0|1.2.0|
-|perl-net-dns|1.19<br>+02|1.44|Compound version number '1.19+02'|
+|perl-net-dns|1.19<br>+02|1.45|Compound version number '1.19+02'|
 |perl-net-http|6.18|6.23|
 |perl-net-server|2.009|2.014|
 |perl-net-ssleay|1.85|1.94|
@@ -2269,6 +2264,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-text-template|1.59|1.61|
 |perl-time-duration|1.20|1.21|
 |perl-timedate|2.30|2.33|
+|perl-tk|804.034|804.036|
 |perl-try-tiny|0.30|0.31|
 |perl-type-serialiser|1.0|1.01|
 |perl-uri|1.74|5.28|
@@ -2420,7 +2416,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pycountry|18.12.8|23.12.11|
 |pycparser|2.19|2.22|
 |pycryptodome|3.7.3|3.20.0|
-|pycryptodomex|3.9.9|3.20.0|
 |pycryptopp|0.7.1|0.5.29|Possible downgrade from the current version (0.7.1   0.5.29)|
 |pycuda|2022.2.2|2024.1|
 |pycups|1.9.74|2.0.4|
