@@ -305,6 +305,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |clzip|1.10|1.14|
 |cmark|0.30.3|0.31.0|
 |cmus|2.9.1|2.10.0|
+|cock|0.6.0|0.11.0|
 |cockpit|286.1|316|
 |cockpit-machines|284.1|312|
 |cockpit-podman|63|87|
@@ -1498,6 +1499,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libmanette|0.2.6|0.2.7|
 |libmatekbd|1.26.1|1.28.0|
 |libmatemixer|1.26.1|1.28.0|
+|libmateweather|1.26.3|1.28.0|
 |libmatroska|1.6.2|1.7.1|
 |libmaxminddb|1.4.3|1.9.1|
 |libmd|1.0.4|1.1.0|
@@ -1893,6 +1895,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |munkres|1.0.12|release-1.1.4|
 |muparser|2.2.6.1|2.3.4|
 |mupdf|1.18.0|1.24.1|
+|musescore|4.2.1|4.3.0|
 |musicbox|0.3.0<br>+git20201222|0.3.1|Compound version number '0.3.0+git20201222'<br>Version number indicates a snapshot (+git) is used|
 |mutagen|1.46.0|1.47.0|
 |mutter|42.4|46.1|
@@ -2020,7 +2023,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |openfortivpn|1.18.0|1.22.0|
 |openh264|2.4.0<br>+gmp114<br>+2|2.4.1|Compound version number '2.4.0+gmp114+2'|
 |openimagedenoise|1.4.3|2.2.2|
-|openimageio|2.4.17.0|2.5.10.1|
+|openimageio|2.4.17.0|2.5.11.0|
 |openixcard|1.0.1|1.1.8|
 |openjdk-11|11.0.20.1<br>+ga|11.0.23+9|Compound version number '11.0.20.1+ga'|
 |openjdk-8|8u382<br>+ga|8u412-b08|Compound version number '8u382+ga'|
@@ -2391,6 +2394,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |protobuf-c|1.3.3|1.5.0|
 |proxychains-ng+32|20161205|4.17|Possible downgrade from the current version (20161205   4.17)|
 |psmisc|23.6|23.7|
+|pstate-frequency|3.11.0|3.15.1|
 |pstoedit|3.75|4.01|
 |psycopg2|2.8.6|2.9.9|
 |ptex|2.3.2|2.4.2|
@@ -2887,6 +2891,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tdevelop|14.1.0|14.1.2|
 |tdewebdev|14.1.0|14.1.2|
 |tdmtheme|14.1.0|14.1.2|
+|tectonic|0.12.0|0.15.0|
 |teeworlds|0.7.5<br>+git20220313|0.7.5|Compound version number '0.7.5+git20220313'<br>Version number indicates a snapshot (+git) is used|
 |telegram-desktop|4.16.6|4.16.10|
 |telepathy-accounts-signon|1.0|2.1|
