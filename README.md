@@ -335,7 +335,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |coreboot-utils|4.15|24.02.01|
 |corefreq|20170301|1.97.2-x86_64|Possible downgrade from the current version (20170301   1.97.2-x86_64)|
 |coreutils|9.4|9.5|
-|corrosion|0.2.1|0.4.8|
+|corrosion|0.2.1|0.4.9|
 |corsixth|0.65.1|0.67|
 |cowsay|3.04.01|3.7.0|
 |cpio|2.13|2.15|
@@ -1446,6 +1446,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libgtop|2.38.0|2.41.3|
 |libguestfs|1.52.0|1.53.1|
 |libgusb|0.4.8|0.4.9|
+|libgweather|4.1.0|4.4.2|
 |libgxps|0.2.5|0.3.2|
 |libhandy|1.6.3|1.8.3|
 |libhangul|0.1.0<br>+git20210406|0.1.0|Compound version number '0.1.0+git20210406'<br>Version number indicates a snapshot (+git) is used|
