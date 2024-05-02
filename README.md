@@ -2167,7 +2167,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-email-address|1.912|1.913|
 |perl-email-date-format|1.005|1.008|
 |perl-email-messageid|1.406|1.408|
-|perl-email-mime|1.946|1.953|
+|perl-email-mime|1.946|1.954|
 |perl-email-mime-contenttype|1.022|1.028|
 |perl-email-mime-encodings|1.315|1.317|
 |perl-email-simple|2.216|2.218|
@@ -2776,7 +2776,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sqlmap|1.8.2|1.8.4|
 |sqlparse|0.4.1|0.5.0|
 |squashfs-tools|4.5|4.6.1|
-|squashfs-tools-ng|1.2.0|1.3.0|
+|squashfs-tools-ng|1.2.0|1.3.1|
 |squashfuse|0.1.105|0.5.2|
 |squid|5.7|6.9|
 |sra-tools|3.0.3|3.1.0|
