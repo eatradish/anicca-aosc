@@ -1682,7 +1682,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lincity-ng|2.9.0|2.0|Possible downgrade from the current version (2.9.0   2.0)|
 |link-grammar|5.10.1|5.99.42|
 |linux+api|6.7.12|5.19.17|Possible downgrade from the current version (6.7.12   5.19.17)|
-|linux+kernel|6.7.5|5.19.17|Possible downgrade from the current version (6.7.5   5.19.17)|
 |linux+kernel+asahi|6.5.11|5.19.17|Possible downgrade from the current version (6.5.11   5.19.17)|
 |linux+kernel+lts|6.6.17|5.10.216|Possible downgrade from the current version (6.6.17   5.10.216)|
 |linux+kernel+rc|5.8.0|5.19.17|
