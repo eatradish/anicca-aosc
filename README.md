@@ -1904,6 +1904,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |n2n|2.8|3.1.1|
 |nano|8.0<br>+nanorc2024.1.16|8.0|Compound version number '8.0+nanorc2024.1.16'|
 |nanomsg|1.1.5|1.2.1|
+|nas|1.9.4|1.9.5|
 |nasm|2.16.01|2.16.03|
 |nasm+32|2.12.01|2.16.03|
 |nautilus|42.2|46.1|
@@ -2402,7 +2403,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pulseaudio+32|13.0|17.0|
 |pulseaudio-qt|1.3|1.4.0|
 |pulsectl|20.5.1|24.4.0|
-|puremagic|1.15|1.22|
+|puremagic|1.15|1.23|
 |purple-matrix|0.0.0<br>+git20210626|0.1.0|Compound version number '0.0.0+git20210626'<br>Version number indicates a snapshot (+git) is used|
 |purpose|5.115.0|6.0.4|
 |pv|1.6.20|1.8.9|
@@ -3100,6 +3101,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |wireguard|1|0.0.20191219|Possible downgrade from the current version (1   0.0.20191219)|
 |wireguard-tools|1.0.20200827|1.0.20210914|
 |wireless-regdb|2022.08.12|2024.01.23|
+|wireless-tools|30.pre9|29|Possible downgrade from the current version (30.pre9   29)|
 |wireplumber|0.5.0|0.5.2|
 |wireshark|4.2.3|4.2.4|
 |wmutils|20170223|1.7|Possible downgrade from the current version (20170223   1.7)|
