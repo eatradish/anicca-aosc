@@ -443,6 +443,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dolphin-emu|5.0<br>+git20211101|5.0|Compound version number '5.0+git20211101'<br>Version number indicates a snapshot (+git) is used|
 |dolphin-plugins|23.08.5|24.02.2|
 |dolphin-trinity|14.1.0|14.1.2|
+|dos2unix|7.4.3|7.5.2|
 |dosbox|0.74<br>+3|0.74-3|Compound version number '0.74+3'|
 |dotconf|1.3|1.4.1|
 |dotnet-apphost-pack-6.0|6.0.0|6.0.29|
@@ -3073,7 +3074,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |watchman|4.9.0|2024.05.02.00|
 |wavpack|5.2.0|5.7.0|
 |wavpack+32|5.2.0|5.7.0|
-|wayland-protocols|1.33|1.36|
 |wayland-utils|1.1.0|1.2.0|
 |wcslib|6.4|8.2.2|
 |wcwidth|0.1.8|0.2.13|
