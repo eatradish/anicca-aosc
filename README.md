@@ -466,7 +466,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dpkg|1.21.22|1.22.6|
 |dragon|23.08.5|24.02.2|
 |drkonqi|5.27.11|6.0.4|
-|dropbox|148.4.4519|197.4.7629|
+|dropbox|148.4.4519|198.4.7615|
 |drumstick|2.0.0|2.9.0|
 |dssim|3.2.0|3.3.1|
 |dssim-c|1.3.2<br>+git20200922|3.3.1|Compound version number '1.3.2+git20200922'<br>Version number indicates a snapshot (+git) is used|
@@ -1273,6 +1273,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kshutdown-trinity|14.1.0|14.1.2|
 |ksirk|23.08.5|24.02.2|
 |ksmtp|23.08.5|24.02.2|
+|ksnakeduel|23.08.5|24.02.2|
 |kspaceduel|23.08.5|24.02.2|
 |ksplash-engine-moodin-trinity|14.1.0|14.1.2|
 |ksquares|23.08.5|24.02.2|
@@ -1974,7 +1975,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |numactl|2.0.14|2.0.18|
 |numix-icon-theme|20190917|24.04.22|Possible downgrade from the current version (20190917   24.04.22)|
 |numix-icon-theme-circle|20160927|24.04.22|Possible downgrade from the current version (20160927   24.04.22)|
-|numpy|1.26.1|2.0.0b1|
+|numpy|1.26.1|1.26.4|
 |nut|2.7.4|2.8.2|
 |nvchecker|1.5|2.14.1|
 |nvidia|550.54.14|550.78|
@@ -3172,7 +3173,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xreader|3.8.5|4.0.2|
 |xsd|4.1.0~alpha11|4.0.0|Possible downgrade from the current version (4.1.0~alpha11   4.0.0)|
 |xsel|1.2.0|1.2.1|
-|xsimd|10.0.0|12.1.1|
+|xsimd|10.0.0|13.0.0|
 |xss-lock|0.3.0<br>+git20140302|0.3.0|Compound version number '0.3.0+git20140302'<br>Version number indicates a snapshot (+git) is used|
 |xviewer|3.0.2|3.4.4|
 |xwayland|23.2.5|23.2.6|
@@ -3207,12 +3208,13 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |zbar|0.23.90|0.23.93|
 |zeal|0.6.1|0.7.0|
 |zeitgeist|1.0.3|1.0.4|
-|zellij|0.39.2|0.40.0|
+|zellij|0.39.2|0.40.1|
 |zenity|3.42.1|4.0.1|
 |zeroconf|0.28.6|0.132.2|
 |zeromq|4.3.4|4.3.5|
 |zerotier-one|1.12.2|1.14.0|
 |zfec|1.5.3|1.5.7.4|
+|zfs|2.2.3|2.2.4|
 |zimg|3.0.2|3.0.5|
 |zita-alsa-pcmi|0.3.2|0.6.1|
 |zita-resampler|1.8.0|1.11.2|
