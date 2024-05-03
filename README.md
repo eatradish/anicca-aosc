@@ -348,6 +348,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |crazydiskinfo|1.0.2|1.1.0|
 |crda|3.18|4.15|
 |crow-translate|2.9.1|2.11.1|
+|crun|1.12|1.15|
 |cryfs|0.10.2|0.11.4|
 |crypto++|8.2.0|8.9.0|
 |cryptography|40.0.0|42.0.5|
@@ -423,6 +424,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |distorm|3.5.1|3.5.2b|
 |distro|1.6.0|1.9.0|
 |distrobox|1.4.2.1|1.7.2.0|
+|django|5.0.3|5.0.4|
 |dkms|2.8.3|3.0.13|
 |dlib|19.20.0|19.24.4|
 |dmd|2.089.0|2.108.0|
@@ -1110,7 +1112,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kfilemetadata|5.115.0|6.0.4|
 |kfind|23.08.5|24.02.2|
 |kfloppy|23.04.3|24.02.2|
-|kfourinline|23.08.5|24.02.2|
 |kgamma|5.27.11|6.0.4|
 |kgeography|23.08.5|24.02.2|
 |kget|23.08.5|24.02.2|
@@ -1267,6 +1268,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ksensors-trinity|14.1.0|14.1.2|
 |kservice|5.115.0|6.0.4|
 |ksh93|2020.0.0<br>+20200208|1.0.8|Compound version number '2020.0.0+20200208'<br>Possible downgrade from the current version (2020.0.0+20200208   1.0.8)|
+|kshisen|23.08.5|24.02.2|
 |kshowmail-trinity|14.1.0|14.1.2|
 |kshutdown-trinity|14.1.0|14.1.2|
 |ksirk|23.08.5|24.02.2|
@@ -1517,11 +1519,12 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libnice|0.1.17|0.1.22|
 |libnl|3.5.0|3.9.0|
 |libnl+32|3.2.28|3.9.0|
+|libnma|1.10.2|1.10.6|
 |libnotify|0.7.9|0.8.3|
 |libnsl2|1.3.0|2.0.1|
 |libnspsl|0.1.6|0.1.7|
 |libnumbertext|1.0.7|1.0.11|
-|libnvme|1.6|1.8|
+|libnvme|1.6|1.9|
 |libodfgen|0.1.6|0.1.8|
 |libofono-qt|0.54<br>+git20190116|1.30|Compound version number '0.54+git20190116'<br>Version number indicates a snapshot (+git) is used|
 |libofx|0.9.15|0.10.8|
@@ -1537,7 +1540,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libpcap+32|1.10.1|1.10.4|
 |libpeas|1.32.0|2.0.2|
 |libpfm|4.12.0|4.13.0|
-|libphonenumber|8.12.17|8.13.35|
+|libphonenumber|8.12.17|8.13.36|
 |libpinyin|2.6.0|2.8.1|
 |libpipeline|1.5.3|1.5.7|
 |libplist|2.3.0|2.4.0|
@@ -2245,7 +2248,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-params-validationcompiler|0.30|0.31|
 |perl-path-tiny|0.108|0.144|
 |perl-pod-parser|1.63|1.67|
-|perl-proc-processtable|0.56|0.636|
 |perl-role-tiny|2.001004|2.002004|
 |perl-specio|0.46|0.48|
 |perl-string-util|1.31|1.34|
@@ -3003,6 +3005,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |unifont|15.1.04|15.1.05|
 |unixodbc|2.3.9|2.3.12|
 |unpaper|20190211|7.0.0|Possible downgrade from the current version (20190211   7.0.0)|
+|unrar|6.2.2|6.2.12|
 |unrpyc|1.1.6|2.0.1|
 |unshield|1.4.3|1.5.1|
 |upower|1.90.0|1.90.4|
@@ -3164,7 +3167,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xournalpp|1.1.3|1.2.3|
 |xpra|5.0.8|6.0|
 |xray|1.8.4|1.8.11|
-|xrdp|0.9.21.1|0.9.25.1|
 |xreader|3.8.5|4.0.2|
 |xsd|4.1.0~alpha11|4.0.0|Possible downgrade from the current version (4.1.0~alpha11   4.0.0)|
 |xsel|1.2.0|1.2.1|
