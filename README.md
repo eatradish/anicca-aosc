@@ -1527,7 +1527,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libnumbertext|1.0.7|1.0.11|
 |libnvme|1.6|1.9|
 |libodfgen|0.1.6|0.1.8|
-|libofono-qt|0.54<br>+git20190116|1.30|Compound version number '0.54+git20190116'<br>Version number indicates a snapshot (+git) is used|
 |libofx|0.9.15|0.10.8|
 |libogg|1.3.4|1.3.5|
 |libogg+32|1.3.4|1.3.5|
@@ -2049,7 +2048,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |opensubdiv|3.6.0|3_6_0|
 |openswan|2.6.51.5|3.0.0|
 |opentimelineio|0.15|0.16.0|
-|openttd|12.2<br>+opengfx7.1<br>+opensfx1.0.3|14.0|Compound version number '12.2+opengfx7.1+opensfx1.0.3'|
+|openttd|12.2<br>+opengfx7.1<br>+opensfx1.0.3|14.1|Compound version number '12.2+opengfx7.1+opensfx1.0.3'|
 |openvpn|2.5.4|2.6.10|
 |openvswitch|3.0.3|3.3.0|
 |optipng|0.7.7|0.7.8|
