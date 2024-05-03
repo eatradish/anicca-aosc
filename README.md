@@ -213,7 +213,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |bridge-utils|1.6|1.7.1|
 |brotli|1.0.9|1.1.0|
 |brotlipy|0.7.0|1.0.9.2|
-|btrfs-progs|6.7.1|6.8.1|
 |bubblewrap|0.6.2|0.9.0|
 |budgie-screensaver|5.0.2|5.1.0|
 |bulky|2.9|3.2|
@@ -434,7 +433,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dnsmasq|2.89|2.90|
 |dnspython|2.3.0|2.6.1|
 |docbook-dtd|4.5|5.1|
-|docbook-sgml|0|4.5|
 |docbook-xml|0|5.1|
 |docker|25.0.3<br>+tini0.19.0|26.1.1|Compound version number '25.0.3+tini0.19.0'|
 |docker-compose|2.24.6|2.27.0|
@@ -1066,7 +1064,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kde-inotify-survey|23.08.5|24.02.2|
 |kdebugsettings|23.08.5|24.02.2|
 |kdeclarative|5.115.0|6.0.4|
-|kdeconnect|23.08.5|24.02.2|
 |kdecoration|5.27.11|6.0.4|
 |kded|5.115.0|6.0.4|
 |kdeedu-data|23.08.5|24.02.2|
@@ -2513,7 +2510,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pyzmq|22.3.0|26.0.3|
 |qalculate-tde-trinity|14.1.0|14.1.2|
 |qca|2.3.4|2.3.8|
-|qcef|1.1.6|1.1.8|
 |qd|2.3.22|2.3.24|
 |qgnomeplatform|0.8.4|0.9.2|
 |qhull|7.2.0|8.0.2|
