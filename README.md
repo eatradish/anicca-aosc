@@ -1527,6 +1527,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libnumbertext|1.0.7|1.0.11|
 |libnvme|1.6|1.9|
 |libodfgen|0.1.6|0.1.8|
+|libofono-qt|0.54<br>+git20190116|1.30|Compound version number '0.54+git20190116'<br>Version number indicates a snapshot (+git) is used|
 |libofx|0.9.15|0.10.8|
 |libogg|1.3.4|1.3.5|
 |libogg+32|1.3.4|1.3.5|
