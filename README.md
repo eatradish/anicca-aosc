@@ -214,7 +214,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |brotli|1.0.9|1.1.0|
 |brotlipy|0.7.0|1.0.9.2|
 |btrfs-progs|6.7.1|6.8.1|
-|bubblewrap|0.6.2|0.9.0|
 |budgie-screensaver|5.0.2|5.1.0|
 |bulky|2.9|3.2|
 |bullet|2.88|3.25|
@@ -978,7 +977,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |jetring|0.29|0.31|
 |jinja2|3.1.2|3.1.3|
 |jmespath|0.10.0|1.0.1|
-|jmol|14.30.0|16.2.11|
+|jmol|14.30.0|16.2.13|
 |john|1.8.0|1.9.0|
 |josepy|1.13.0|1.14.0|
 |jq|1.6|1.7.1|
@@ -1349,7 +1348,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libapt-pkg-perl|0.1.36|0.1.40|
 |libarchive|3.7.3|3.7.4|
 |libart-lgpl|14.1.0|14.1.2|
-|libass|0.15.1|0.17.1|
 |libass+32|0.15.1|0.17.1|
 |libassuan|2.5.3|2.5.7|
 |libatomic-ops|7.8.0|7.8.2|
@@ -2917,7 +2915,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |thermald|2.5.2|2.5.7|
 |thin-provisioning-tools|1.0.10|1.0.12|
 |threadweaver|5.115.0|6.0.4|
-|throttled|0.9.2|0.10.0|
 |thunar|4.18.8|4.18.10|
 |thunderbird|115.5.2|125.0|
 |tig|2.4.1|2.5.9|
@@ -2982,11 +2979,10 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |typing-extensions|4.7.1|4.11.0|
 |typst|0.10.0|0.11.0|
 |tzdata|2023d|2024a|
-|uboot-asahi|2023.07.02<br>+3|2023.07.02-4|Compound version number '2023.07.02+3'|
+|uboot-asahi|2023.07.02<br>+3|2024.04-1|Compound version number '2023.07.02+3'|
 |uboot-tools|2022.10|2024.04|
 |ubuntu-keyring|2021.03.26|2023.11.28.1|
 |uchardet|0.0.5|0.0.8|
-|ucx|1.15.0|1.16.0|
 |udiskie|2.2.0|2.5.3|
 |udisks-2|2.8.4|2.10.1|
 |udns|0.4|0.5|
@@ -3045,7 +3041,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vice|3.5|3.8|
 |vicious|2.3.3|2.7.0|
 |vid.stab|0.98b|1.1.1|
-|vim|9.1.0140|9.1.0386|
+|vim|9.1.0140|9.1.0390|
 |virglrenderer|0.10.4|1.0.1|
 |virtualenv|20.25.0|20.26.1|
 |virtualgl+32|2.5.2|3.1.1|
@@ -3206,7 +3202,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |zathura|0.5.2|0.5.4|
 |zathura-pdf-poppler|0.3.1|0.3.2|
 |zbar|0.23.90|0.23.93|
-|zeal|0.6.1|0.7.0|
 |zeitgeist|1.0.3|1.0.4|
 |zellij|0.39.2|0.40.0|
 |zenity|3.42.1|4.0.1|
