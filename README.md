@@ -213,6 +213,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |bridge-utils|1.6|1.7.1|
 |brotli|1.0.9|1.1.0|
 |brotlipy|0.7.0|1.0.9.2|
+|btrfs-progs|6.7.1|6.8.1|
 |bubblewrap|0.6.2|0.9.0|
 |budgie-screensaver|5.0.2|5.1.0|
 |bulky|2.9|3.2|
@@ -385,7 +386,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dbus-tqt|14.1.0|14.1.2|
 |dcaenc|3|2|Possible downgrade from the current version (3   2)|
 |ddcutil|2.1.3|2.1.4|
-|ddnet|17.0.3|18.1|
+|ddnet|17.0.3|18.2|
 |ddrescue|1.24|1.28|
 |ddrescueview|1.23|0.4.5|Possible downgrade from the current version (1.23   0.4.5)|
 |debconf|1.5.83|1.5.86|
@@ -433,6 +434,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dnsmasq|2.89|2.90|
 |dnspython|2.3.0|2.6.1|
 |docbook-dtd|4.5|5.1|
+|docbook-sgml|0|4.5|
 |docbook-xml|0|5.1|
 |docker|25.0.3<br>+tini0.19.0|26.1.1|Compound version number '25.0.3+tini0.19.0'|
 |docker-compose|2.24.6|2.27.0|
@@ -717,7 +719,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-builder|42.1|46.1|
 |gnome-calculator|42.2|46.0|
 |gnome-calendar|42.2|46.1|
-|gnome-characters|42.0|46.0|
 |gnome-chess|42.1|46.0|
 |gnome-clocks|42.0|46.0|
 |gnome-color-manager|3.36.0|3_36_0|
@@ -1064,6 +1065,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kde-inotify-survey|23.08.5|24.02.2|
 |kdebugsettings|23.08.5|24.02.2|
 |kdeclarative|5.115.0|6.0.4|
+|kdeconnect|23.08.5|24.02.2|
 |kdecoration|5.27.11|6.0.4|
 |kded|5.115.0|6.0.4|
 |kdeedu-data|23.08.5|24.02.2|
@@ -1326,7 +1328,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |layer-shell-qt|5.27.11|6.0.4|
 |lazarus|3.2|2.2.6-0|Possible downgrade from the current version (3.2   2.2.6-0)|
 |lazy-object-proxy|1.7.1|1.10.0|
-|lcms2|2.14|2.16|
 |lcms2+32|2.9|2.16|
 |ldb|2.6.1|2.9.0|
 |ldc|1.35.0|1.37.0|
@@ -1514,7 +1515,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libnfs|4.0.0|5.0.3|
 |libnfs-static|4.0.0|5.0.3|
 |libnice|0.1.17|0.1.22|
-|libnl|3.5.0|3.9.0|
 |libnl+32|3.2.28|3.9.0|
 |libnma|1.10.2|1.10.6|
 |libnotify|0.7.9|0.8.3|
@@ -1567,7 +1567,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libsass|3.6.4|3.6.6|
 |libsbsms|2.3.0|2.0.2|Possible downgrade from the current version (2.3.0   2.0.2)|
 |libsecret|0.20.4|0.21.4|
-|libshout|2.4.3|2.4.6|
 |libshout+32|2.4.3|2.4.6|
 |libsidplay|1.36.59|2.1.1|
 |libsidplay+32|1.36.59|2.1.1|
@@ -2510,6 +2509,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pyzmq|22.3.0|26.0.3|
 |qalculate-tde-trinity|14.1.0|14.1.2|
 |qca|2.3.4|2.3.8|
+|qcef|1.1.6|1.1.8|
 |qd|2.3.22|2.3.24|
 |qgnomeplatform|0.8.4|0.9.2|
 |qhull|7.2.0|8.0.2|
@@ -2746,7 +2746,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |speex+32|1.2.0|1.2.1|
 |spglib|1.16.2|2.4.0|
 |sphinx|7.0.1|7.3.7|
-|sphinx-press-theme|0.8.0|0.9.1|
 |sphinx-rtd-theme|1.0.0|2.0.0|
 |sphinx-tabs|3.4.1|3.4.5|
 |sphinxbase|5prealpha|0.8|Possible downgrade from the current version (5prealpha   0.8)|
@@ -3151,7 +3150,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xfce4-terminal|1.1.1|1.1.3|
 |xfce4-weather-plugin|0.11.1|0.11.2|
 |xfce4-whiskermenu-plugin|2.8.2|2.8.3|
-|xfsprogs|6.5.0|6.7.0|
 |xine-ui|0.99.12|0.99.14|
 |xinetd|2.3.15|2.3.15.4|
 |xjadeo|0.8.13|0.8.14|
