@@ -441,6 +441,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |docutils|0.20.1|0.21.2|
 |dolphin|23.08.5|24.02.2|
 |dolphin-emu|5.0<br>+git20211101|5.0|Compound version number '5.0+git20211101'<br>Version number indicates a snapshot (+git) is used|
+|dolphin-plugins|23.08.5|24.02.2|
 |dolphin-trinity|14.1.0|14.1.2|
 |dos2unix|7.4.3|7.5.2|
 |dosbox|0.74<br>+3|0.74-3|Compound version number '0.74+3'|
@@ -983,6 +984,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |josepy|1.13.0|1.14.0|
 |jq|1.6|1.7.1|
 |js-102|102.13.0|102.15.1|
+|json-c|0.16|0.17|
 |json-c+32|0.13.1<br>+20180305|0.17|Compound version number '0.13.1+20180305'|
 |json-glib|1.6.6|1.8.0-actual|
 |jsonlines|1.2.0|4.0.0|
@@ -1021,6 +1023,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kate|23.08.5|24.02.2|
 |katomic|23.08.5|24.02.2|
 |kauth|5.115.0|6.0.4|
+|kbarcode-trinity|14.1.0|14.1.2|
 |kbd|2.5.1|2.6.4|
 |kbfx-trinity|14.1.0|14.1.2|
 |kbibtex-trinity|14.1.0|14.1.2|
@@ -1367,6 +1370,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libcap-ng|0.7.11|0.8.5|
 |libcarddav|14.1.0|14.1.2|
 |libcbor|0.8.0|0.11.0|
+|libcdio+32|0.94|2.1.0|
 |libcdio-paranoia|10.2<br>+2.0.1|2.0.1|Compound version number '10.2+2.0.1'<br>Possible downgrade from the current version (10.2+2.0.1   2.0.1)|
 |libcdr|0.1.6|0.1.7|
 |libcgroup|2.0|3.1.0|
@@ -1900,7 +1904,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |n2n|2.8|3.1.1|
 |nano|8.0<br>+nanorc2024.1.16|8.0|Compound version number '8.0+nanorc2024.1.16'|
 |nanomsg|1.1.5|1.2.1|
-|nas|1.9.4|1.9.5|
 |nasm|2.16.01|2.16.03|
 |nasm+32|2.12.01|2.16.03|
 |nautilus|42.2|46.1|
@@ -2734,6 +2737,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |soundkonverter-trinity|14.1.0|14.1.2|
 |soundtouch|1.9.2|2.3.1|
 |soundtouch+32|1.9.2|2.3.1|
+|soupsieve|1.8.0|2.5|
 |sozu|0.15.2|1.0.0|
 |spamassassin|3.4.6|4.0.1|
 |spandsp|0.0.6|3.0.0|
@@ -3096,7 +3100,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |wireguard|1|0.0.20191219|Possible downgrade from the current version (1   0.0.20191219)|
 |wireguard-tools|1.0.20200827|1.0.20210914|
 |wireless-regdb|2022.08.12|2024.01.23|
-|wireless-tools|30.pre9|29|Possible downgrade from the current version (30.pre9   29)|
 |wireplumber|0.5.0|0.5.2|
 |wireshark|4.2.3|4.2.4|
 |wmutils|20170223|1.7|Possible downgrade from the current version (20170223   1.7)|
