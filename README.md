@@ -348,7 +348,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |crazydiskinfo|1.0.2|1.1.0|
 |crda|3.18|4.15|
 |crow-translate|2.9.1|2.11.1|
-|crun|1.12|1.15|
 |cryfs|0.10.2|0.11.4|
 |crypto++|8.2.0|8.9.0|
 |cryptography|40.0.0|42.0.5|
@@ -424,7 +423,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |distorm|3.5.1|3.5.2b|
 |distro|1.6.0|1.9.0|
 |distrobox|1.4.2.1|1.7.2.0|
-|django|5.0.3|5.0.4|
 |dkms|2.8.3|3.0.13|
 |dlib|19.20.0|19.24.4|
 |dmd|2.089.0|2.108.0|
@@ -1269,7 +1267,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ksensors-trinity|14.1.0|14.1.2|
 |kservice|5.115.0|6.0.4|
 |ksh93|2020.0.0<br>+20200208|1.0.8|Compound version number '2020.0.0+20200208'<br>Possible downgrade from the current version (2020.0.0+20200208   1.0.8)|
-|kshisen|23.08.5|24.02.2|
 |kshowmail-trinity|14.1.0|14.1.2|
 |kshutdown-trinity|14.1.0|14.1.2|
 |ksirk|23.08.5|24.02.2|
@@ -1520,7 +1517,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libnice|0.1.17|0.1.22|
 |libnl|3.5.0|3.9.0|
 |libnl+32|3.2.28|3.9.0|
-|libnma|1.10.2|1.10.6|
 |libnotify|0.7.9|0.8.3|
 |libnsl2|1.3.0|2.0.1|
 |libnspsl|0.1.6|0.1.7|
@@ -2189,7 +2185,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-file-which|1.23|1.27|
 |perl-finance-quote|1.49|1.5301|
 |perl-font-ttf|1.05|1.06|
-|perl-gd|2.71|2.80|
+|perl-gd|2.71|2.81|
 |perl-glib|1.329|1.3294|
 |perl-glib-object-introspection|0.047|0.051|
 |perl-gnome2|1.047|1.048|
@@ -3007,7 +3003,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |unifont|15.1.04|15.1.05|
 |unixodbc|2.3.9|2.3.12|
 |unpaper|20190211|7.0.0|Possible downgrade from the current version (20190211   7.0.0)|
-|unrar|6.2.2|6.2.12|
 |unrpyc|1.1.6|2.0.1|
 |unshield|1.4.3|1.5.1|
 |upower|1.90.0|1.90.4|
