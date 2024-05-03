@@ -705,8 +705,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |glm|0.9.9.8|1.0.1|
 |glog|0.3.5|0.7.0|
 |gloox|1.0.27|1.0.28|
-|glslang|13.1.1|14.1.0|
-|glslang+32|7.11.3214|14.1.0|
+|glslang|13.1.1|14.2.0|
+|glslang+32|7.11.3214|14.2.0|
 |glu+32|9.0.1|9.0.3|
 |gmic|3.2.6|3.3.5|
 |gmime-3|3.2.7|3.2.14|
@@ -2127,7 +2127,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-alien-build|1.92|2.80|
 |perl-alien-libxml2|0.11|0.19|
 |perl-anyevent|7.14|7.17|
-|perl-anyevent-i3|0.17|0.19|
 |perl-app-cpanminus|1.7044|1.7047|
 |perl-archive-zip|1.64|1.68|
 |perl-authen-sasl|2.1401|2.1700|
@@ -2611,7 +2610,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ruamel-yaml-clib|0.2.6|0.2.8|
 |rubberband|1.9.2|3.3.0|
 |ruby|3.2.2|3.3.1|
-|ruby-bundler|2.1.4|2.5.9|
+|ruby-bundler|2.1.4|2.5.10|
 |ruby-ffi|1.10.0|1.16.3|
 |ruby-gettext|3.2.9|3.4.9|
 |ruby-locale|2.1.3|2.1.4|
