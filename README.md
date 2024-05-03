@@ -1112,10 +1112,10 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kfilemetadata|5.115.0|6.0.4|
 |kfind|23.08.5|24.02.2|
 |kfloppy|23.04.3|24.02.2|
+|kfourinline|23.08.5|24.02.2|
 |kgamma|5.27.11|6.0.4|
 |kgeography|23.08.5|24.02.2|
 |kget|23.08.5|24.02.2|
-|kglobalaccel|5.115.0|6.0.4|
 |kgoldrunner|23.08.5|24.02.2|
 |kgpg|23.08.5|24.02.2|
 |kgtk-qt3-trinity|14.1.0|14.1.2|
@@ -1594,7 +1594,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libssh+32|0.8.9|0.10.6|
 |libssh2|1.9.0|1.11.0|
 |libssh2+32|1.9.0|1.11.0|
-|libstatgrab|0.91|0.92.1|
 |libstoragemgmt|1.7.3|1.9.8|
 |libsysstat|0.4.4|1.0.0|
 |libtasn1|4.15.0|4.19.0|
@@ -1999,7 +1998,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |olefile|0.46|0.47|
 |oma|1.3.2|1.12.13|
 |onig|6.9.5<br>+rev1|6.9.9|Compound version number '6.9.5+rev1'|
-|oolite|1.90|1.91.0.7604-240417-a536cbe|
 |opam|2.1.3|2.1.5|
 |open-iscsi|2.1.8|2.1.9|
 |open-isns|0.101|0.102|
@@ -2248,6 +2246,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-params-validationcompiler|0.30|0.31|
 |perl-path-tiny|0.108|0.144|
 |perl-pod-parser|1.63|1.67|
+|perl-proc-processtable|0.56|0.636|
 |perl-role-tiny|2.001004|2.002004|
 |perl-specio|0.46|0.48|
 |perl-string-util|1.31|1.34|
@@ -2488,7 +2487,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |python-ldap3|2.9|2.9.1|
 |python-linux-procfs|0.7.1|0.7.3|
 |python-ly|0.9.6|0.9.7|
-|python-lz4|2.1.6|4.3.3|
 |python-markdown-math|0.6|0.8|
 |python-mpd2|3.0.5|3.1.1|
 |python-msgpack|1.0.2|1.0.8|
@@ -3167,6 +3165,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xournalpp|1.1.3|1.2.3|
 |xpra|5.0.8|6.0|
 |xray|1.8.4|1.8.11|
+|xrdp|0.9.21.1|0.9.25.1|
 |xreader|3.8.5|4.0.2|
 |xsd|4.1.0~alpha11|4.0.0|Possible downgrade from the current version (4.1.0~alpha11   4.0.0)|
 |xsel|1.2.0|1.2.1|
