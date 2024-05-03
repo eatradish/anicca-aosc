@@ -683,9 +683,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |giflib|5.1.8|5.2.2|
 |giflib+32|5.1.8|5.2.2|
 |gifski|1.14.4|1.32.0|
-|gimp|2.10.36|2_10_36|
+|gimp|2.10.36|2_10_38|
 |girara|0.4.0|0.4.3|
-|git|2.44.0|2.45.0|
 |git-archive-all|1.20.0|1.23.1|
 |git-branchless|0.7.1|0.8.0|
 |git-lfs|3.5.0|3.5.1|
@@ -848,7 +847,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gwenview-trinity|14.1.0|14.1.2|
 |gzdoom|4.6.1|4.12.2|
 |gzip|1.12|1.13|
-|handbrake|1.3.3|1.7.3|
 |hardinfo|0.5.1<br>+git20220724|0.5.1|Compound version number '0.5.1+git20220724'<br>Version number indicates a snapshot (+git) is used|
 |harfbuzz+32|2.6.7|8.4.0|
 |haruna|0.12.3|1.1.0|
@@ -1903,7 +1901,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mycli|1.23.2|1.27.2|
 |mygpoclient|1.8|1.9|
 |n2n|2.8|3.1.1|
-|nano|7.2<br>+nanorc20230126|8.0|Compound version number '7.2+nanorc20230126'|
+|nano|8.0<br>+nanorc2024.1.16|8.0|Compound version number '8.0+nanorc2024.1.16'|
 |nanomsg|1.1.5|1.2.1|
 |nas|1.9.4|1.9.5|
 |nasm|2.16.01|2.16.03|
@@ -1999,7 +1997,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |okteta|0.26.9|0.26.15|
 |okular|23.08.5|24.02.2|
 |olefile|0.46|0.47|
-|oma|1.3.1|1.12.13|
+|oma|1.3.2|1.12.13|
 |onig|6.9.5<br>+rev1|6.9.9|Compound version number '6.9.5+rev1'|
 |oolite|1.90|1.91.0.7604-240417-a536cbe|
 |opam|2.1.3|2.1.5|
@@ -2815,7 +2813,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |superslicer|2.5.59.8|2.5.59.9|
 |sushi|42.0|46.0|
 |svgpart|23.08.5|24.02.2|
-|svt-av1|1.4.1|2.0.0|
 |swaybg|1.2.0|1.2.1|
 |sweeper|23.08.5|24.02.2|
 |swell-foop|41.1|46.0|
@@ -2895,7 +2892,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tdmtheme|14.1.0|14.1.2|
 |tectonic|0.12.0|0.15.0|
 |teeworlds|0.7.5<br>+git20220313|0.7.5|Compound version number '0.7.5+git20220313'<br>Version number indicates a snapshot (+git) is used|
-|telegram-desktop|4.16.6|4.16.10|
+|telegram-desktop|4.16.6|5.0.0|
 |telepathy-accounts-signon|1.0|2.1|
 |telepathy-glib|0.24.1|0.24.2|
 |telepathy-idle|0.2.0|0.2.2|
@@ -2950,7 +2947,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tpm-tools|1.3.9.1|1.3.9.2|
 |tpm2-tss|2.3.3|4.1.0|
 |tqca|14.1.0|14.1.2|
-|tqdm|4.62.3|4.66.2|
+|tqdm|4.62.3|4.66.4|
 |tqt3|14.1.0|14.1.2|
 |tqtinterface|14.1.0|14.1.2|
 |trace-cmd|2.8.3|3.2|
@@ -3025,7 +3022,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |util-linux+32|2.29.2|2.40|
 |util-macros|1.20.0|1.20.1|
 |util-macros+32|999|1.20.1|Possible downgrade from the current version (999   1.20.1)|
-|v2ray|5.13.0|5.15.3|
+|v2ray|5.13.0|5.16.0|
 |v2raya|2.2.5.1|2.2.5|Possible downgrade from the current version (2.2.5.1   2.2.5)|
 |v4l-utils|1.22.1|1.26.1|
 |v4l-utils+32|1.18.0|1.26.1|
