@@ -214,6 +214,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |brotli|1.0.9|1.1.0|
 |brotlipy|0.7.0|1.0.9.2|
 |btrfs-progs|6.7.1|6.8.1|
+|bubblewrap|0.6.2|0.9.0|
 |budgie-screensaver|5.0.2|5.1.0|
 |bulky|2.9|3.2|
 |bullet|2.88|3.25|
@@ -1272,7 +1273,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kshutdown-trinity|14.1.0|14.1.2|
 |ksirk|23.08.5|24.02.2|
 |ksmtp|23.08.5|24.02.2|
-|ksnakeduel|23.08.5|24.02.2|
 |kspaceduel|23.08.5|24.02.2|
 |ksplash-engine-moodin-trinity|14.1.0|14.1.2|
 |ksquares|23.08.5|24.02.2|
@@ -1348,6 +1348,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libapt-pkg-perl|0.1.36|0.1.40|
 |libarchive|3.7.3|3.7.4|
 |libart-lgpl|14.1.0|14.1.2|
+|libass|0.15.1|0.17.1|
 |libass+32|0.15.1|0.17.1|
 |libassuan|2.5.3|2.5.7|
 |libatomic-ops|7.8.0|7.8.2|
@@ -1360,7 +1361,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libbsd|0.10.0|0.12.2|
 |libburn|1.5.2|1.5.6|
 |libbytesize|2.1|2.10|
-|libc+wasi|20|21|
+|libc+wasi|20|22|
 |libcacard|2.7.0|2.8.1|
 |libcaldav|14.1.0|14.1.2|
 |libcap+32|2.31|2.69|
@@ -2915,6 +2916,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |thermald|2.5.2|2.5.7|
 |thin-provisioning-tools|1.0.10|1.0.12|
 |threadweaver|5.115.0|6.0.4|
+|throttled|0.9.2|0.10.0|
 |thunar|4.18.8|4.18.10|
 |thunderbird|115.5.2|125.0|
 |tig|2.4.1|2.5.9|
@@ -2983,6 +2985,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |uboot-tools|2022.10|2024.04|
 |ubuntu-keyring|2021.03.26|2023.11.28.1|
 |uchardet|0.0.5|0.0.8|
+|ucx|1.15.0|1.16.0|
 |udiskie|2.2.0|2.5.3|
 |udisks-2|2.8.4|2.10.1|
 |udns|0.4|0.5|
@@ -3066,7 +3069,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vulkan-validationlayers|1.3.275.0|1.3.283|
 |warpinator|1.6.3|1.8.3|
 |warzone2100|4.1.3|4.4.2|
-|watchman|4.9.0|2024.04.29.00|
+|watchman|4.9.0|2024.05.02.00|
 |wavpack|5.2.0|5.7.0|
 |wavpack+32|5.2.0|5.7.0|
 |wayland-protocols|1.33|1.36|
@@ -3202,6 +3205,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |zathura|0.5.2|0.5.4|
 |zathura-pdf-poppler|0.3.1|0.3.2|
 |zbar|0.23.90|0.23.93|
+|zeal|0.6.1|0.7.0|
 |zeitgeist|1.0.3|1.0.4|
 |zellij|0.39.2|0.40.0|
 |zenity|3.42.1|4.0.1|
