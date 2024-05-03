@@ -199,7 +199,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |borgbackup|1.1.17|1.2.8|
 |botan|1.10.17|3.4.0|
 |botan-2|2.12.1|3.4.0|
-|boto3|1.20.26|1.34.97|
+|boto3|1.20.26|1.34.98|
 |bottle|0.12.18|0.12.25|
 |bottles|2022.2.28<br>+trento<br>+4|51.11|Compound version number '2022.2.28+trento+4'<br>Possible downgrade from the current version (2022.2.28+trento+4   51.11)|
 |bovo|23.08.5|24.02.2|
@@ -1116,6 +1116,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kgamma|5.27.11|6.0.4|
 |kgeography|23.08.5|24.02.2|
 |kget|23.08.5|24.02.2|
+|kglobalaccel|5.115.0|6.0.4|
 |kgoldrunner|23.08.5|24.02.2|
 |kgpg|23.08.5|24.02.2|
 |kgtk-qt3-trinity|14.1.0|14.1.2|
@@ -1594,6 +1595,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libssh+32|0.8.9|0.10.6|
 |libssh2|1.9.0|1.11.0|
 |libssh2+32|1.9.0|1.11.0|
+|libstatgrab|0.91|0.92.1|
 |libstoragemgmt|1.7.3|1.9.8|
 |libsysstat|0.4.4|1.0.0|
 |libtasn1|4.15.0|4.19.0|
@@ -1855,7 +1857,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |modem-manager-gui|0.0.19.1|0.0.20|
 |modemmanager|1.18.12|1.22.0|
 |modemmanager-qt|5.115.0|6.0.4|
-|mold|2.4.0|2.30.0|
+|mold|2.4.0|2.31.0|
 |mono|6.12.0.182|6.12.0.206|
 |monotonic|1.5|1.6|
 |moodbar|1.2.1|1.3.0|
@@ -1914,7 +1916,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ncdu|1.16|2.4|
 |ncompress|4.2.4.6|5.0|
 |ncurses+32|6.0|6.4|
-|ndctl|72|78|
+|ndctl|72|79|
 |neatvnc|0.7.1|0.8.0|
 |nemo|5.8.3|6.0.2|
 |nemo-extensions|5.8.0|6.0.1|
@@ -1979,7 +1981,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nvchecker|1.5|2.14.1|
 |nvidia|550.54.14|550.78|
 |nvidia+32|0|550.78|
-|nvme-cli|2.6|2.8|
+|nvme-cli|2.6|2.9.1|
 |obs-studio|27.0.0|30.1.2|
 |ocaml|4.14.0|5.1.1+effect-syntax|
 |ocaml-csexp|1.5.1|1.5.2|
@@ -1998,6 +2000,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |olefile|0.46|0.47|
 |oma|1.3.2|1.12.13|
 |onig|6.9.5<br>+rev1|6.9.9|Compound version number '6.9.5+rev1'|
+|oolite|1.90|1.91.0.7604-240417-a536cbe|
 |opam|2.1.3|2.1.5|
 |open-iscsi|2.1.8|2.1.9|
 |open-isns|0.101|0.102|
@@ -2487,6 +2490,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |python-ldap3|2.9|2.9.1|
 |python-linux-procfs|0.7.1|0.7.3|
 |python-ly|0.9.6|0.9.7|
+|python-lz4|2.1.6|4.3.3|
 |python-markdown-math|0.6|0.8|
 |python-mpd2|3.0.5|3.1.1|
 |python-msgpack|1.0.2|1.0.8|
