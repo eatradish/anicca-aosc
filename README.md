@@ -626,7 +626,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |futures|3.2.0|3.4.0|
 |fuzzel|1.9.2|1.10.2|
 |fvwm|2.6.9|2.7.0|
-|fwupd|1.9.13|1.9.18|
+|fwupd|1.9.13|1.9.19|
 |fzf|0.46.1|0.51.0|
 |gajim|1.4.0|1.8.4|
 |game-music-emu+32|0.6.0|0.6.3|
@@ -754,7 +754,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-usage|3.38.1|46.0|
 |gnome-user-docs|42.0|46.1|
 |gnome-user-share|3.34.0|43.0|
-|gnome-video-effects|0.4.3|0.6.0|
 |gnome-weather|42.0|46.0|
 |gnote|42.1|46.0|
 |gnu-efi|3.0.14|3.0.18|
