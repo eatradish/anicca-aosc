@@ -107,7 +107,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |aspnetcore-runtime-6.0|6.0.0|6.0.29|
 |aspnetcore-targeting-pack-6.0|6.0.0|6.0.29|
 |assimp|5.3.1|5.4.0|
-|ast-grep|0.19.4|0.21.2|
+|ast-grep|0.19.4|0.21.3|
 |astroid|2.12.2|3.1.0|
 |astyle|3.1|3.4.14|
 |at-spi2-atk+32|2.26.3|2.38.0|
@@ -233,7 +233,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |caja|1.26.3|1.28.0|
 |caja-extensions|1.26.1|1.28.0|
 |calendarsupport|23.08.5|24.02.2|
-|calibre|5.30.0|7.9.0|
+|calibre|5.30.0|7.10.0|
 |calindori|23.08.5|24.02.2|
 |callaudiod|0.1.4|0.1.9|
 |calver|2022.06.26|2022.6.26|
@@ -443,7 +443,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dolphin-emu|5.0<br>+git20211101|5.0|Compound version number '5.0+git20211101'<br>Version number indicates a snapshot (+git) is used|
 |dolphin-plugins|23.08.5|24.02.2|
 |dolphin-trinity|14.1.0|14.1.2|
-|dos2unix|7.4.3|7.5.2|
 |dosbox|0.74<br>+3|0.74-3|Compound version number '0.74+3'|
 |dotconf|1.3|1.4.1|
 |dotnet-apphost-pack-6.0|6.0.0|6.0.29|
@@ -2814,6 +2813,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sushi|42.0|46.0|
 |svgpart|23.08.5|24.02.2|
 |swaybg|1.2.0|1.2.1|
+|swayfx|0.4|0.3.2|Possible downgrade from the current version (0.4   0.3.2)|
 |sweeper|23.08.5|24.02.2|
 |swell-foop|41.1|46.0|
 |swig|4.1.1|4.2.1|
@@ -3103,7 +3103,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |wireless-tools|30.pre9|29|Possible downgrade from the current version (30.pre9   29)|
 |wireplumber|0.5.0|0.5.2|
 |wireshark|4.2.3|4.2.4|
-|wlroots|0.17.2|0.17.3|
 |wmutils|20170223|1.7|Possible downgrade from the current version (20170223   1.7)|
 |wpebackend-fdo|1.12.1|1.14.2|
 |wqy-unibit|1.1.0|4.3.0|
