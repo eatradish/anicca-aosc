@@ -754,6 +754,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-usage|3.38.1|46.0|
 |gnome-user-docs|42.0|46.1|
 |gnome-user-share|3.34.0|43.0|
+|gnome-video-effects|0.4.3|0.6.0|
 |gnome-weather|42.0|46.0|
 |gnote|42.1|46.0|
 |gnu-efi|3.0.14|3.0.18|
@@ -1940,7 +1941,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |networkmanager-iodine|1.2.0<br>+git20220728|1.2.0|Compound version number '1.2.0+git20220728'<br>Version number indicates a snapshot (+git) is used|
 |networkmanager-l2tp|1.8.6|1.20.14|
 |networkmanager-openconnect|1.2.6<br>+git20210918|1.2.10|Compound version number '1.2.6+git20210918'<br>Version number indicates a snapshot (+git) is used|
-|networkmanager-openvpn|1.8.12|1.10.2|
+|networkmanager-openvpn|1.8.12|1.10.4|
 |networkmanager-pptp|1.2.10|1.2.12|
 |networkmanager-qt|5.115.0|6.0.4|
 |networkmanager-strongswan|1.5.2|1.6.0|
@@ -2187,7 +2188,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-file-which|1.23|1.27|
 |perl-finance-quote|1.49|1.5301|
 |perl-font-ttf|1.05|1.06|
-|perl-gd|2.71|2.79|
+|perl-gd|2.71|2.80|
 |perl-glib|1.329|1.3294|
 |perl-glib-object-introspection|0.047|0.051|
 |perl-gnome2|1.047|1.048|
