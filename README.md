@@ -820,14 +820,14 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gtest|1.10.0<br>+git20210513|1.14.0|Compound version number '1.10.0+git20210513'<br>Version number indicates a snapshot (+git) is used|
 |gti|1.6.1|1.9.1|
 |gtk-2+32|2.24.32|2.24.33|
-|gtk-4|4.14.1|4.14.3|
+|gtk-4|4.14.1|4.14.4|
 |gtk-doc|1.33.2|1.34.0|
 |gtk-engines-2|2.21.0|2.20.2|Possible downgrade from the current version (2.21.0   2.20.2)|
 |gtk-layer-shell|0.8.1|0.8.2|
 |gtk-qt-engine|14.1.0|14.1.2|
 |gtk3-tqt-engine|14.1.0|14.1.2|
 |gtkmm-3|3.24.6|3.24.9|
-|gtkmm-4|4.0.2|4.14.3|
+|gtkmm-4|4.0.2|4.14.4|
 |gtksourceview-4|4.8.3|4.8.4|
 |gtkspell3|3.0.9|3.0.10|
 |gtkspellcheck|4.0.5|5.0.3|
