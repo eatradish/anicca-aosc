@@ -351,7 +351,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |crun|1.12|1.15|
 |cryfs|0.10.2|0.11.4|
 |crypto++|8.2.0|8.9.0|
-|cryptography|40.0.0|42.0.5|
+|cryptography|40.0.0|42.0.6|
 |cryptsetup|2.7.0|2.7.2|
 |css-parser|1.0.6|1.0.10|
 |cssselect2|0.6.0|0.7.0|
@@ -491,7 +491,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |elisa|23.08.5|24.02.2|
 |elvis|2.2<br>+1pre3|2.2_1-pre2|Compound version number '2.2+1pre3'<br>Possible downgrade from the current version (2.2+1pre3   2.2_1-pre2)|
 |emerald|0.8.12.4|0.8.18|
-|enchant-2|2.3.1|2.7.2|
+|enchant-2|2.3.1|2.7.3|
 |endeavour|42.0|43.0|
 |enet|1.3.14|1.3.18|
 |engrampa|1.26.1|1.28.1|
@@ -535,7 +535,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fastimport|0.9.8|0.9.14|
 |fatattr|1.0.1|1.0.1.orig|Possible downgrade from the current version (1.0.1   1.0.1.orig)|
 |faulthandler|3.1|3.2|
-|fcitx5|5.1.5|5.1.9|
 |fcitx5-anthy|5.1.2|5.1.4|
 |fcitx5-chewing|5.1.1|5.1.3|
 |fcitx5-chinese-addons|5.1.2|5.1.5|
@@ -1443,7 +1442,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libgsf|1.14.47|1_14_52|
 |libgtop|2.38.0|2.41.3|
 |libguestfs|1.52.0|1.53.1|
-|libgusb|0.4.8|0.4.9|
 |libgweather|4.1.0|4.4.2|
 |libgxps|0.2.5|0.3.2|
 |libhandy|1.6.3|1.8.3|
