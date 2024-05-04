@@ -2114,8 +2114,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pcre+32|8.44|8.45|
 |pcre-static|8.44|8.45|
 |pcsc-perl|1.4.14|1.4.16|
-|pcsclite|1.9.9|2.1.0|
-|pcsx2|1.6.0<br>+git20210825|1.7.5769|Compound version number '1.6.0+git20210825'<br>Version number indicates a snapshot (+git) is used|
+|pcsclite|1.9.9|2.2.0|
+|pcsx2|1.6.0<br>+git20210825|1.7.5773|Compound version number '1.6.0+git20210825'<br>Version number indicates a snapshot (+git) is used|
 |pdfgrep|2.1.2|2.2.0|
 |pdfminer|20191020|20231228|
 |pdlzip|1.9|1.13|
@@ -2934,7 +2934,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tk|8.6.10|8.6.14|
 |tk+32|8.6.10|8.6.14|
 |tl-expected|1.0.0|1.1.0|
-|tokodon|23.08.5|24.02.2|
 |toml|0.10.1|0.10.2|
 |tomlkit|0.7.0|0.12.4|
 |toolbelt|0.9.1|1.0.0|
