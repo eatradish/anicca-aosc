@@ -85,6 +85,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |arc-kde|20180614|20220908|
 |arc-theme|20210412|20221218|
 |arch-install-scripts|28<br>+mirrorlist20231113<br>+pacman6.0.1|28|Compound version number '28+mirrorlist20231113+pacman6.0.1'|
+|archlinux-keyring|20231222|20240429|
 |arduino-avr-core|1.8.3|1.8.6|
 |argyllcms|3.1.0|3.2.0|
 |arianna|23.08.5|24.02.2|
@@ -1413,6 +1414,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libexif|0.6.22|0.6.24|
 |libexif+32|0.6.22|0.6.24|
 |libexttextcat|3.4.5|3.4.6|
+|libfdk-aac|2.0.1|2.0.3|
 |libffado|2.4.4|2.4.8|
 |libffi|3.4.4|3.4.6|
 |libffi+32|3.4.2|3.4.6|
