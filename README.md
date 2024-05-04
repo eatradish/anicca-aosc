@@ -1997,7 +1997,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |okteta|0.26.9|0.26.15|
 |okular|23.08.5|24.02.2|
 |olefile|0.46|0.47|
-|oma|1.3.2|1.12.13|
+|oma|1.3.3|1.12.13|
 |onig|6.9.5<br>+rev1|6.9.9|Compound version number '6.9.5+rev1'|
 |oolite|1.90|1.91.0.7604-240417-a536cbe|
 |opam|2.1.3|2.1.5|
@@ -3046,7 +3046,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vice|3.5|3.8|
 |vicious|2.3.3|2.7.0|
 |vid.stab|0.98b|1.1.1|
-|vim|9.1.0140|9.1.0390|
+|vim|9.1.0140|9.1.0393|
 |virglrenderer|0.10.4|1.0.1|
 |virtualenv|20.25.0|20.26.1|
 |virtualgl+32|2.5.2|3.1.1|
@@ -3065,8 +3065,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vulkan-headers+32|1.3.272|1.3.283|
 |vulkan-loader|1.3.275.0|1.3.283|
 |vulkan-loader+32|1.3.272|1.3.283|
-|vulkan-tools|1.3.227|1.3.280|
-|vulkan-tools+32|1.3.227|1.3.280|
+|vulkan-tools|1.3.227|1.3.283|
+|vulkan-tools+32|1.3.227|1.3.283|
 |vulkan-utility-libraries|1.3.275.0|1.3.283|
 |vulkan-validationlayers|1.3.275.0|1.3.283|
 |warpinator|1.6.3|1.8.3|
