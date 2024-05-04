@@ -1100,7 +1100,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |keditbookmarks|23.08.5|24.02.2|
 |keep-trinity|14.1.0|14.1.2|
 |keepass|2.46|2.56|
-|keepass-plugin-agent|0.10.1|0.13.6|
+|keepass-plugin-agent|0.10.1|0.13.7|
 |keepass-plugin-favicon|1.9.0|9.7.4|
 |keepass-plugin-twofish|1.3|1.4|
 |keepassxc|2.6.6|2.7.7|
