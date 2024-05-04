@@ -298,7 +298,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cli-helpers|1.1.0|2.3.1|
 |click|7.1.2|8.1.7|
 |clinfo|3.0.21.02.21|3.0.23.01.25|
-|clipit|1.4.2|1.4.5|
 |cln|1.3.6|1.3.7|
 |cloc|1.84|2.00|
 |clucene|2.3.3.4<br>+git20130812|2.3.3.4|Compound version number '2.3.3.4+git20130812'<br>Version number indicates a snapshot (+git) is used|
