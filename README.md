@@ -558,6 +558,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |feeluown|4.1.1|4.1.3|
 |feeluown-netease|1.0.1|1.0.2|
 |feeluown-qqmusic|1.0.2|1.0.3|
+|fend|1.4.6|1.4.7|
 |ffcall|2.2|2.4|
 |ffmpeg|4.4.4|7.0|
 |ffmpeg+32|4.2.5|7.0|
