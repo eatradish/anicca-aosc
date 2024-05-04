@@ -889,7 +889,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hunspell|1.7.0|1.7.2|
 |hwdata|0.377|0.382|
 |hwloc|1.11.10|2.10.0|
-|hydrapaper|1.12|3.3.2|
 |hyper-h11|0.12.0|0.14.0|
 |hyper-h2|4.0.0|4.1.0|
 |hyperframe|6.0.0|6.0.1|
@@ -2736,7 +2735,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sos|4.4|4.7.1|
 |sound-juicer|3.38.0|3.40.0|
 |soundkonverter-trinity|14.1.0|14.1.2|
-|soundtouch|1.9.2|2.3.1|
+|soundtouch|2.3.3|2.3.1|Possible downgrade from the current version (2.3.3   2.3.1)|
 |soundtouch+32|1.9.2|2.3.1|
 |soupsieve|1.8.0|2.5|
 |sozu|0.15.2|1.0.0|
