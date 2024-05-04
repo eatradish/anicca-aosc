@@ -894,7 +894,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hyper-h2|4.0.0|4.1.0|
 |hyperframe|6.0.0|6.0.1|
 |hyperlink|19.0.0|21.0.0|
-|hypothesis-python|6.97.4|6.100.2|
+|hypothesis-python|6.97.4|6.100.3|
 |hysteria|2.4.0|2.4.3|
 |i2c-tools|4.1|4.3|
 |i2pd|2.41.0|2.51.0|
@@ -1544,7 +1544,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libphonenumber|8.12.17|8.13.36|
 |libpinyin|2.6.0|2.8.1|
 |libpipeline|1.5.3|1.5.7|
-|libplist|2.3.0|2.4.0|
+|libplist|2.3.0|2.5.0|
 |libpng|1.6.42|1.6.43|
 |libpng+32|1.2.57|1.6.43|
 |libpng-1.6+32|1.6.37|1.6.43|
