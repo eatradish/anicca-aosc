@@ -535,6 +535,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fastimport|0.9.8|0.9.14|
 |fatattr|1.0.1|1.0.1.orig|Possible downgrade from the current version (1.0.1   1.0.1.orig)|
 |faulthandler|3.1|3.2|
+|fcitx5|5.1.5|5.1.9|
 |fcitx5-anthy|5.1.2|5.1.4|
 |fcitx5-chewing|5.1.1|5.1.3|
 |fcitx5-chinese-addons|5.1.2|5.1.5|
@@ -1442,6 +1443,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libgsf|1.14.47|1_14_52|
 |libgtop|2.38.0|2.41.3|
 |libguestfs|1.52.0|1.53.1|
+|libgusb|0.4.8|0.4.9|
 |libgweather|4.1.0|4.4.2|
 |libgxps|0.2.5|0.3.2|
 |libhandy|1.6.3|1.8.3|
@@ -2527,7 +2529,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qt-5|5.15.5<br>+webengine5.15.10<br>+webkit5.212.0<br>+kde20220705|5.15.13-lts-lgpl|Compound version number '5.15.5+webengine5.15.10+webkit5.212.0+kde20220705'|
 |qt4-tqt-theme-engine-trinity|14.1.0|14.1.2|
 |qtcreator|12.0.1|13.0.0|
-|qtkeychain|0.13.2|0.14.2|
+|qtkeychain|0.13.2|0.14.3|
 |qtpy|2.1.0|2.4.1|
 |qtractor|0.9.23|0.9.91|
 |qtstyleplugins|5.0.0<br>+git20170311|5.0.0|Compound version number '5.0.0+git20170311'<br>Version number indicates a snapshot (+git) is used|
