@@ -427,7 +427,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |django|5.0.3|5.0.4|
 |dkms|2.8.3|3.0.13|
 |dlib|19.20.0|19.24.4|
-|dmd|2.089.0|2.108.0|
+|dmd|2.089.0|2.108.1|
 |dmenu|5.2|5.3|
 |dmidecode|3.5|3.6|
 |dnsdiag|1.6.4|2.1.0|
@@ -2433,7 +2433,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pygame|2.0.2|2.5.2|
 |pygccxml|2.1.0|2.5.0|
 |pyglet|1.3.2|2.0.15|
-|pygments|2.10.0|2.17.2|
+|pygments|2.10.0|2.18.0|
 |pygobject-3|3.42.2|3.48.2|
 |pygraphviz|1.5|1.12|
 |pyhamcrest|2.0.3|2.1.0|
