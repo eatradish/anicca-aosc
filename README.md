@@ -466,6 +466,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dpkg|1.21.22|1.22.6|
 |dragon|23.08.5|24.02.2|
 |drkonqi|5.27.11|6.0.4|
+|dropbox|148.4.4519|198.4.7615|
 |drumstick|2.0.0|2.9.0|
 |dssim|3.2.0|3.3.1|
 |dssim-c|1.3.2<br>+git20200922|3.3.1|Compound version number '1.3.2+git20200922'<br>Version number indicates a snapshot (+git) is used|
@@ -3022,7 +3023,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |util-linux+32|2.29.2|2.40|
 |util-macros|1.20.0|1.20.1|
 |util-macros+32|999|1.20.1|Possible downgrade from the current version (999   1.20.1)|
-|v2ray|5.13.0|5.16.0|
+|v2ray|5.13.0|5.16.1|
 |v2raya|2.2.5.1|2.2.5|Possible downgrade from the current version (2.2.5.1   2.2.5)|
 |v4l-utils|1.22.1|1.26.1|
 |v4l-utils+32|1.18.0|1.26.1|
@@ -3095,7 +3096,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |wildmidi+32|0.4.3|0.4.6|
 |wimlib|1.13.6|1.14.4|
 |windowmaker|0.95.9<br>+git20220812|0.96.0|Compound version number '0.95.9+git20220812'<br>Version number indicates a snapshot (+git) is used|
-|wine|9.7<br>+gecko2.47.4<br>+mono9.1.0|9.7|Compound version number '9.7+gecko2.47.4+mono9.1.0'|
+|wine|9.7<br>+gecko2.47.4<br>+mono9.1.0|9.8|Compound version number '9.7+gecko2.47.4+mono9.1.0'|
 |wireguard|1|0.0.20191219|Possible downgrade from the current version (1   0.0.20191219)|
 |wireguard-tools|1.0.20200827|1.0.20210914|
 |wireless-regdb|2022.08.12|2024.01.23|
