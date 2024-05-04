@@ -246,7 +246,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cargo-c|0.9.24|0.9.32+cargo-0.79.0|
 |cargo-release|0.24.11|0.25.7|
 |cargo-smart-release|0.17.0|0.30.0|
-|castxml|0.6.2|0.6.5|
+|castxml|0.6.2|0.6.6|
 |catatonit|0.1.7|0.2.0|
 |catch2|2.13.8|3.5.4|
 |cbm|0.2|0.3.2|
@@ -2640,7 +2640,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |scapy|2.4.4|2.5.0|
 |sccache|0.3.3|0.8.0|
 |scdoc|1.11.2|1.11.3|
-|schema|0.7.5|0.7.6|
+|schema|0.7.5|0.7.7|
 |scons|4.4.0|4.7.0|
 |scour|0.37|0.38.2|
 |scrcpy|2.3.1|2.4|
