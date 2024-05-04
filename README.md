@@ -243,7 +243,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |capnproto|0.10.2|1.0.2|
 |capstone|5.0.1|5.0|Possible downgrade from the current version (5.0.1   5.0)|
 |cargo-audit|0.18.1|0.20.0|
-|cargo-c|0.9.24|0.9.31+cargo-0.78.0|
+|cargo-c|0.9.24|0.9.32+cargo-0.79.0|
 |cargo-release|0.24.11|0.25.7|
 |cargo-smart-release|0.17.0|0.30.0|
 |castxml|0.6.2|0.6.5|
