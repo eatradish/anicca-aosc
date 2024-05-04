@@ -168,7 +168,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |bcachefs-tools|1.4.1|1.7.0|
 |bcc|0.28.0|0.30.0|
 |bcftools|1.10.2|1.20|
-|bcrypt|3.1.7|4.1.2|
+|bcrypt|3.1.7|4.1.3|
 |beaker|1.11.0|1.13.0|
 |beancount|2.2.1|2.3.6|
 |bear|3.0.20|3.1.3|
@@ -949,7 +949,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |iosevka-fonts|28.0.5|29.2.1|
 |iozone|3.492|3.506|
 |ipcalc|0.41|1.0.3|
-|ipmitool|1.8.18|1_8_19|
 |ipset|7.1|7.21|
 |iptables|1.8.8|1.8.10|
 |iptraf-ng|1.1.4|1.2.1|
@@ -1095,7 +1094,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kdnssd|5.115.0|6.0.4|
 |kdoctools|5.115.0|6.0.4|
 |kdpkg-trinity|14.1.0|14.1.2|
-|kdsoap|1.9.0|2.2.0|
 |keditbookmarks|23.08.5|24.02.2|
 |keep-trinity|14.1.0|14.1.2|
 |keepass|2.46|2.56|
@@ -2072,6 +2070,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |p7zip|17.04|17.05|
 |packaging|23.0|24.0|
 |pacman|6.0.1|6.1.0|
+|pahole|1.25|1.26|
 |palapeli|23.08.5|24.02.2|
 |palp|2.1|2.21|
 |pam-python|1.0.7|1.0.8|
