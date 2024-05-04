@@ -2934,6 +2934,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tk|8.6.10|8.6.14|
 |tk+32|8.6.10|8.6.14|
 |tl-expected|1.0.0|1.1.0|
+|tokodon|23.08.5|24.02.2|
 |toml|0.10.1|0.10.2|
 |tomlkit|0.7.0|0.12.4|
 |toolbelt|0.9.1|1.0.0|
