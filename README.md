@@ -318,7 +318,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |colord-kde|23.08.5|24.02.2|
 |colordiff|1.0.20|1.0.21|
 |coloredlogs|10.0|15.0.1|
-|composer|2.0.13|2.7.4|
+|composer|2.0.13|2.7.5|
 |concurrencykit|0.7.1|0.7.2|
 |configargparse|1.3|1.7|
 |configobj|5.0.6|5.0.8|
