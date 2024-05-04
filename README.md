@@ -298,6 +298,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cli-helpers|1.1.0|2.3.1|
 |click|7.1.2|8.1.7|
 |clinfo|3.0.21.02.21|3.0.23.01.25|
+|clipit|1.4.2|1.4.5|
 |cln|1.3.6|1.3.7|
 |cloc|1.84|2.00|
 |clucene|2.3.3.4<br>+git20130812|2.3.3.4|Compound version number '2.3.3.4+git20130812'<br>Version number indicates a snapshot (+git) is used|
@@ -2071,7 +2072,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |p7zip|17.04|17.05|
 |packaging|23.0|24.0|
 |pacman|6.0.1|6.1.0|
-|pahole|1.25|1.26|
 |palapeli|23.08.5|24.02.2|
 |palp|2.1|2.21|
 |pam-python|1.0.7|1.0.8|
