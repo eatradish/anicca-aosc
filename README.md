@@ -466,7 +466,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dpkg|1.21.22|1.22.6|
 |dragon|23.08.5|24.02.2|
 |drkonqi|5.27.11|6.0.4|
-|dropbox|148.4.4519|198.4.7615|
 |drumstick|2.0.0|2.9.0|
 |dssim|3.2.0|3.3.1|
 |dssim-c|1.3.2<br>+git20200922|3.3.1|Compound version number '1.3.2+git20200922'<br>Version number indicates a snapshot (+git) is used|
@@ -949,6 +948,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |iosevka-fonts|28.0.5|29.2.1|
 |iozone|3.492|3.506|
 |ipcalc|0.41|1.0.3|
+|ipmitool|1.8.18|1_8_19|
 |ipset|7.1|7.21|
 |iptables|1.8.8|1.8.10|
 |iptraf-ng|1.1.4|1.2.1|
@@ -1094,6 +1094,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kdnssd|5.115.0|6.0.4|
 |kdoctools|5.115.0|6.0.4|
 |kdpkg-trinity|14.1.0|14.1.2|
+|kdsoap|1.9.0|2.2.0|
 |keditbookmarks|23.08.5|24.02.2|
 |keep-trinity|14.1.0|14.1.2|
 |keepass|2.46|2.56|
