@@ -1997,7 +1997,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |okteta|0.26.9|0.26.15|
 |okular|23.08.5|24.02.2|
 |olefile|0.46|0.47|
-|oma|1.3.3|1.12.13|
+|oma|1.3.4|1.12.13|
 |onig|6.9.5<br>+rev1|6.9.9|Compound version number '6.9.5+rev1'|
 |oolite|1.90|1.91.0.7604-240417-a536cbe|
 |opam|2.1.3|2.1.5|
@@ -2618,7 +2618,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ruby-native-package-installer|1.0.9|1.1.9|
 |ruby-pg|1.1.4|1.5.6|
 |ruby-pkg-config|1.4.4|1.5.6|
-|rustc|1.77.2|1.78.0|
 |rustc-demangle|0.1.21|0.1.23|
 |rxvt-unicode|9.22|9.31|
 |rygel|0.40.4|0.42.5|
@@ -3193,7 +3192,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |yelp-tools|42.0|42.1|
 |yelp-xsl|42.0|42.1|
 |yosys|0.39|0.40|
-|ytmusicapi|1.5.1|1.6.0|
+|ytmusicapi|1.5.1|1.7.0|
 |yubico-pam|2.26|2.27|
 |yubico-piv-tool|2.3.1|2.5.1|
 |yubikey-manager|4.0.1|5.4.0|
