@@ -658,7 +658,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gdb+cross-arm64|12.1|14.2|
 |gdb+cross-mips64r6el|12.1|14.2|
 |gdbm+32|1.11|1.23|
-|gdk-pixbuf|2.42.8|2.42.11|
 |gdk-pixbuf+32|2.38.2|2.42.11|
 |gdm|42.0|46.0|
 |gdome2|0.8.1<br>+debian|0.8.1|Compound version number '0.8.1+debian'|
@@ -885,7 +884,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |httrack|3.49.2|3.49.5|
 |hub|2.14.2<br>+git20230617|2.14.2|Compound version number '2.14.2+git20230617'<br>Version number indicates a snapshot (+git) is used|
 |hugin|2022.0.0|2023.0.0|
-|hugo|0.123.6|0.125.5|
+|hugo|0.123.6|0.125.6|
 |humanize|0.5.1|4.9.0|
 |hunspell|1.7.0|1.7.2|
 |hwdata|0.377|0.382|
@@ -922,8 +921,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |igraph|0.7.1|0.10.11|
 |igv|2.15.1|2.16.2|
 |iio-sensor-proxy|3.4|3.5|
-|imagemagick|6.9.13<br>+7|6.9.13-9|Compound version number '6.9.13+7'|
-|imagemagick+7|7.1.0<br>+43|7.1.1-31|Compound version number '7.1.0+43'|
+|imagemagick|6.9.13<br>+7|6.9.13-10|Compound version number '6.9.13+7'|
+|imagemagick+7|7.1.0<br>+43|7.1.1-32|Compound version number '7.1.0+43'|
 |imagesize|1.1.0|1.4.1|
 |imake|1.0.8|1.0.10|
 |imapsync|1.977|2.229|
@@ -3011,7 +3010,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |upower|1.90.0|1.90.4|
 |upx|4.2.1|4.2.3|
 |urfkill|0.5.0<br>+git20210401|0.5.0|Compound version number '0.5.0+git20210401'<br>Version number indicates a snapshot (+git) is used|
-|uriparser|0.9.7|0.9.8|
 |uritemplate|3.0.1|4.1.1|
 |urlgrabber|3.10.2|4.1.0|
 |urwid|2.1.2|2.6.11|
