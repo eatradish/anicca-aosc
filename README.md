@@ -920,7 +920,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ifaddr|0.1.7|0.2.0|
 |iftop|1.0pre4|0.17|Possible downgrade from the current version (1.0pre4   0.17)|
 |igraph|0.7.1|0.10.11|
-|igsc|0.2.3|0.8.16|
 |igv|2.15.1|2.16.2|
 |iio-sensor-proxy|3.4|3.5|
 |imagemagick|6.9.13<br>+7|6.9.13-9|Compound version number '6.9.13+7'|
@@ -942,7 +941,9 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |iniparser|4.1|4.2|
 |inkscape|1.3.2|1_3_2|
 |inotify-tools|3.21.9.6|4.23.9.0|
+|intel-compute-runtime|24.13.29138.7|24.17.29377.6|
 |intel-gmmlib|22.3.18|22.3.19|
+|intel-graphics-compiler|1.0.16510.2|1.0.16747.4|
 |intel-media-driver|24.1.5|24.2.2|
 |intel-ucode|20221108|20240312|
 |inxi|3.3.31<br>+2|3.3.31-2|Compound version number '3.3.31+2'|
@@ -950,7 +951,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |iosevka-fonts|28.0.5|30.0.0|
 |iozone|3.492|3.506|
 |ipcalc|0.41|1.0.3|
-|ipmitool|1.8.18|1_8_19|
 |ipset|7.1|7.21|
 |iptables|1.8.8|1.8.10|
 |iptraf-ng|1.1.4|1.2.1|
@@ -1336,7 +1336,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ldc|1.35.0|1.37.0|
 |leatherman|1.9.1|1.12.13|
 |lensfun|0.3.4|0.3.95|
-|level-zero|1.4.1|1.16.15|
+|level-zero|1.16.14|1.16.15|
 |levenshtein|0.12.0|0.25.1|
 |lib3mf|2.2.0|2.3.1|
 |libaacs|0.11.0|0.11.1|
@@ -1583,8 +1583,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libsndfile+32|1.2.0|1.2.2|
 |libsodium|1.0.18|1.0.19|
 |libsoundio|1.1.0|2.0.1-7|
-|libsoup|2.74.2|3.4.4|
-|libsoup-3|3.2.2|3.4.4|
+|libsoup|2.74.2|3.5.1|
+|libsoup-3|3.2.2|3.5.1|
 |libspatialite|5.0.1|5.1.0|
 |libspectre|0.2.9|0.2.12|
 |libspectre+32|0.2.9|0.2.12|
@@ -1826,7 +1826,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mesa-amber|21.3.9|24.0.6|
 |messagelib|23.08.5|24.02.2|
 |metacity|3.44.0|3.46.0|
-|metee|3.1.0|4.0.0|
 |mgba|0.9.2|0.10.3|
 |microsoft-gsl|3.0.1|4.0.0|
 |mihomo|1.18.2|1.18.4|
@@ -2466,7 +2465,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pyside2|5.15.11|5.15.2.1|Possible downgrade from the current version (5.15.11   5.15.2.1)|
 |pysmbc|1.0.22|1.0.25.1|
 |pysocks|1.6.8|1.7.1|
-|pysol-cards|0.14.2|0.16.0|
 |pysol-sound-server|3.01|3.20|
 |pysolfc|2.12.0|3.0.0|
 |pyte|0.8.0|0.8.2|
