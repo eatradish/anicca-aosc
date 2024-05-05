@@ -431,6 +431,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dmenu|5.2|5.3|
 |dmidecode|3.5|3.6|
 |dnsdiag|1.6.4|2.1.0|
+|dnsmasq|2.89|2.90|
 |dnspython|2.3.0|2.6.1|
 |docbook-dtd|4.5|5.1|
 |docbook-sgml|0|4.5|
@@ -505,6 +506,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ethtool|6.0|6.7|
 |etl|1.2.2|1.5.1|
 |eudev+32|3.1.5|3.2.14|
+|eventviews|23.08.5|24.02.2|
 |evince|42.3|46.1|
 |evolution|3.44.4|3.52.1|
 |evolution-data-server|3.44.4|3.52.1|
@@ -550,13 +552,13 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fcitx5-sayura|5.1.1|5.1.2|
 |fcitx5-skk|5.1.0|5.1.3|
 |fcitx5-unikey|5.1.1|5.1.4|
-|fdkaac|1.0.1|1.0.5|
+|fdkaac|1.0.1|1.0.6|
 |feedbackd|0.2.1|0.3.0|
 |feedparser|6.0.8|6.0.11|
 |feeluown|4.1.1|4.1.3|
 |feeluown-netease|1.0.1|1.0.2|
 |feeluown-qqmusic|1.0.2|1.0.3|
-|fend|1.4.6|1.4.7|
+|fend|1.4.6|1.4.8|
 |ffcall|2.2|2.4|
 |ffmpeg|4.4.4|7.0|
 |ffmpeg+32|4.2.5|7.0|
@@ -2762,7 +2764,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |spirv-llvm-translator|17.0.0|18.1.0|
 |spirv-tools|1.3.275.0|2024.1|
 |spread-sheet-widget|0.3|0.10|
-|sqlalchemy|1.2.18|2.0.29|
+|sqlalchemy|1.2.18|2.0.30|
 |sqlcipher|4.5.6|4.5.7|
 |sqlite|3.45.1|3.45.3|
 |sqlite+32|3.32.3|3.45.3|
@@ -3009,6 +3011,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |upower|1.90.0|1.90.4|
 |upx|4.2.1|4.2.3|
 |urfkill|0.5.0<br>+git20210401|0.5.0|Compound version number '0.5.0+git20210401'<br>Version number indicates a snapshot (+git) is used|
+|uriparser|0.9.7|0.9.8|
 |uritemplate|3.0.1|4.1.1|
 |urlgrabber|3.10.2|4.1.0|
 |urwid|2.1.2|2.6.11|
