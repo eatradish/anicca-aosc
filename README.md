@@ -951,6 +951,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |iosevka-fonts|28.0.5|30.0.0|
 |iozone|3.492|3.506|
 |ipcalc|0.41|1.0.3|
+|ipmitool|1.8.18|1_8_19|
 |ipset|7.1|7.21|
 |iptables|1.8.8|1.8.10|
 |iptraf-ng|1.1.4|1.2.1|
@@ -1991,7 +1992,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ocamlbuild|0.14.1|0.14.3|
 |ocrad|0.27|0.29|
 |ocrmypdf|11.7.0|16.2.0|
-|ocserv|1.1.2|1.2.4|
+|ocserv|1.1.2|1.3.0|
 |ofono|1.30|2.6|
 |okteta|0.26.9|0.26.15|
 |okular|23.08.5|24.02.2|
@@ -2465,6 +2466,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pyside2|5.15.11|5.15.2.1|Possible downgrade from the current version (5.15.11   5.15.2.1)|
 |pysmbc|1.0.22|1.0.25.1|
 |pysocks|1.6.8|1.7.1|
+|pysol-cards|0.14.2|0.16.0|
 |pysol-sound-server|3.01|3.20|
 |pysolfc|2.12.0|3.0.0|
 |pyte|0.8.0|0.8.2|
