@@ -758,7 +758,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-user-share|3.34.0|43.0|
 |gnome-video-effects|0.4.3|0.6.0|
 |gnome-weather|42.0|46.0|
-|gnote|42.1|46.0|
 |gnu-efi|3.0.14|3.0.18|
 |gnupg|2.4.4|2.4.5|
 |gnustep-base|1.28.0|1_29_0|
@@ -2892,7 +2891,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tdmtheme|14.1.0|14.1.2|
 |tectonic|0.12.0|0.15.0|
 |teeworlds|0.7.5<br>+git20220313|0.7.5|Compound version number '0.7.5+git20220313'<br>Version number indicates a snapshot (+git) is used|
-|telegram-desktop|4.16.6|5.0.0|
+|telegram-desktop|4.16.6|5.0.1|
 |telepathy-accounts-signon|1.0|2.1|
 |telepathy-glib|0.24.1|0.24.2|
 |telepathy-idle|0.2.0|0.2.2|
