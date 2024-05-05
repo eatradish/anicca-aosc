@@ -243,6 +243,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |capnproto|0.10.2|1.0.2|
 |capstone|5.0.1|5.0|Possible downgrade from the current version (5.0.1   5.0)|
 |cargo-audit|0.18.1|0.20.0|
+|cargo-c|0.9.24|0.9.32+cargo-0.79.0|
 |cargo-release|0.24.11|0.25.7|
 |cargo-smart-release|0.17.0|0.30.0|
 |castxml|0.6.2|0.6.6|
@@ -689,6 +690,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |git-archive-all|1.20.0|1.23.1|
 |git-branchless|0.7.1|0.8.0|
 |git-lfs|3.5.0|3.5.1|
+|gitdb|4.0.10|4.0.11|
 |gitg|41|44|
 |gitoxide|0.34.0|0.35.0|
 |gitpython|3.1.35|3.1.43|
@@ -1890,6 +1892,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |multipath-tools|0.9.3|0.9.8|
 |munkres|1.0.12|release-1.1.4|
 |muparser|2.2.6.1|2.3.4|
+|mupdf|1.18.0|1.24.1|
 |musescore|4.2.1|4.3.0|
 |musicbox|0.3.0<br>+git20201222|0.3.1|Compound version number '0.3.0+git20201222'<br>Version number indicates a snapshot (+git) is used|
 |mutagen|1.46.0|1.47.0|
