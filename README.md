@@ -148,7 +148,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |b2sdk|1.14.0|2.1.0|
 |b43-firmware-installer|20160210|019|Possible downgrade from the current version (20160210   019)|
 |b43-tools|0<br>+git20170913|019|Compound version number '0+git20170913'<br>Version number indicates a snapshot (+git) is used|
-|babel|2.9.1|2.14.0|
+|babel|2.9.1|2.15.0|
 |babeld|1.9.2|1.13.1|
 |babeltrace|1.5.7|1.5.11|
 |babl|0.1.108|0_1_108|
@@ -979,7 +979,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |jetring|0.29|0.31|
 |jinja2|3.1.2|3.1.3|
 |jmespath|0.10.0|1.0.1|
-|jmol|14.30.0|16.2.13|
+|jmol|14.30.0|16.2.15|
 |john|1.8.0|1.9.0|
 |josepy|1.13.0|1.14.0|
 |jq|1.6|1.7.1|
