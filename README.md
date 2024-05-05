@@ -431,7 +431,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dmenu|5.2|5.3|
 |dmidecode|3.5|3.6|
 |dnsdiag|1.6.4|2.1.0|
-|dnsmasq|2.89|2.90|
 |dnspython|2.3.0|2.6.1|
 |docbook-dtd|4.5|5.1|
 |docbook-sgml|0|4.5|
@@ -506,7 +505,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ethtool|6.0|6.7|
 |etl|1.2.2|1.5.1|
 |eudev+32|3.1.5|3.2.14|
-|eventviews|23.08.5|24.02.2|
 |evince|42.3|46.1|
 |evolution|3.44.4|3.52.1|
 |evolution-data-server|3.44.4|3.52.1|
@@ -878,6 +876,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |html2text|2020.1.16|2024.2.26|
 |html5-parser|0.4.9|0.4.12|
 |htslib|1.16|1.20|
+|httpcore|0.12.2|1.0.5|
 |httpd|2.4.58|2.4.59|
 |httplib2|0.19.0|0.22.0|
 |httpx|0.23.3|0.27.0|
@@ -975,6 +974,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |jedi|0.18.1|0.19.1|
 |jeepney|0.6.0|0.8.0|
 |jellyfish|0.6.0|1.0.3|
+|jetring|0.29|0.31|
 |jinja2|3.1.2|3.1.3|
 |jmespath|0.10.0|1.0.1|
 |jmol|14.30.0|16.2.15|
