@@ -318,7 +318,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |colord-kde|23.08.5|24.02.2|
 |colordiff|1.0.20|1.0.21|
 |coloredlogs|10.0|15.0.1|
-|composer|2.0.13|2.7.5|
+|composer|2.0.13|2.7.6|
 |concurrencykit|0.7.1|0.7.2|
 |configargparse|1.3|1.7|
 |configobj|5.0.6|5.0.8|
@@ -878,7 +878,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |html2text|2020.1.16|2024.2.26|
 |html5-parser|0.4.9|0.4.12|
 |htslib|1.16|1.20|
-|httpcore|0.12.2|1.0.5|
 |httpd|2.4.58|2.4.59|
 |httplib2|0.19.0|0.22.0|
 |httpx|0.23.3|0.27.0|
@@ -976,7 +975,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |jedi|0.18.1|0.19.1|
 |jeepney|0.6.0|0.8.0|
 |jellyfish|0.6.0|1.0.3|
-|jetring|0.29|0.31|
 |jinja2|3.1.2|3.1.3|
 |jmespath|0.10.0|1.0.1|
 |jmol|14.30.0|16.2.15|
