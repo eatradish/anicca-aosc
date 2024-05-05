@@ -346,6 +346,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cracklib|2.9.8|2.9.11|
 |crash|7.2.9|8.0.5|
 |crazydiskinfo|1.0.2|1.1.0|
+|crda|3.18|4.15|
 |crow-translate|2.9.1|2.11.1|
 |crun|1.12|1.15|
 |cryfs|0.10.2|0.11.4|
