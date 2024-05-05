@@ -377,6 +377,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dateutil|2.8.2|2.9.0.post0|
 |dav1d|1.4.0|1.4.1|
 |db+32|6.1.26|5.3.28|Possible downgrade from the current version (6.1.26   5.3.28)|
+|dblatex|0.3.12|1.0.97|
 |dbus+32|1.12.18|1.14.10|
 |dbus-1-tqt|14.1.0|14.1.2|
 |dbus-glib|0.110|0.112|
@@ -1177,6 +1178,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kmag|23.08.5|24.02.2|
 |kmahjongg|23.08.5|24.02.2|
 |kmail|23.08.5|24.02.2|
+|kmail-account-wizard|23.08.5|24.02.2|
 |kmailtransport|23.08.5|24.02.2|
 |kmbox|23.08.5|24.02.2|
 |kmediaplayer|5.115.0|6.0.4|
@@ -1796,6 +1798,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mate-utils|1.26.1|1.28.0|
 |materialx|1.38.8|1.38.10|
 |mathemagics-trinity|14.1.0|14.1.2|
+|mathjax|2.7.5|3.2.2|
 |matplotlib|3.8.0|3.8.4|
 |maturin|1.4.0|1.5.1|
 |mawk|1.3.4<br>+20190203|1.3.4-20240123|Compound version number '1.3.4+20190203'|
@@ -2584,6 +2587,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rocm-llvm|6.0.2|6.1.0|
 |rocm-smi-lib|6.0.2|6.1.0|
 |rocminfo|6.0.2|6.1.0|
+|rocr-runtime|6.0.2|6.1.0|
 |rocs|23.08.5|24.02.2|
 |roct-thunk-interface|6.0.0|6.1.0|
 |ronn-ng|0.9.1|0.10.1|
