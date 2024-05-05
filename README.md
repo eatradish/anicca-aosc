@@ -346,7 +346,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cracklib|2.9.8|2.9.11|
 |crash|7.2.9|8.0.5|
 |crazydiskinfo|1.0.2|1.1.0|
-|crda|3.18|4.15|
 |crow-translate|2.9.1|2.11.1|
 |crun|1.12|1.15|
 |cryfs|0.10.2|0.11.4|
@@ -356,7 +355,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |css-parser|1.0.6|1.0.10|
 |cssselect2|0.6.0|0.7.0|
 |cssutils|1.0.2|2.10.2|
-|ctags|20191203|6.1.20240421.0|Possible downgrade from the current version (20191203   6.1.20240421.0)|
+|ctags|20191203|6.1.20240505.0|Possible downgrade from the current version (20191203   6.1.20240505.0)|
 |cuda|12.4.0<br>+550.54.14|12.4.1|Compound version number '12.4.0+550.54.14'|
 |cunit|2.1<br>+3|2.1-3|Compound version number '2.1+3'|
 |cups|2.4.7|2.4.8|
@@ -758,6 +757,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-user-share|3.34.0|43.0|
 |gnome-video-effects|0.4.3|0.6.0|
 |gnome-weather|42.0|46.0|
+|gnote|42.1|46.0|
 |gnu-efi|3.0.14|3.0.18|
 |gnupg|2.4.4|2.4.5|
 |gnustep-base|1.28.0|1_29_0|
