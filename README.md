@@ -894,7 +894,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hyper-h2|4.0.0|4.1.0|
 |hyperframe|6.0.0|6.0.1|
 |hyperlink|19.0.0|21.0.0|
-|hypothesis-python|6.97.4|6.100.3|
+|hypothesis-python|6.97.4|6.100.4|
 |hysteria|2.4.0|2.4.3|
 |i2c-tools|4.1|4.3|
 |i2pd|2.41.0|2.51.0|
@@ -1562,7 +1562,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |librcc|0.2.12|0.2.13|
 |libreoffice|7.5.4.2|24.2.3.2|
 |librevenge|0.0.4|0.0.5|
-|librime|1.9.0|1.11.2|
 |librsvg|2.56.1|2.58.91|
 |librsvg+32|2.40.21|2.58.91|
 |librsync|2.3.2|2.3.4|
@@ -1734,7 +1733,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lxappearance|0.6.2|0.6.3|
 |lxc|5.0.2|6.0.0|
 |lxcfs|3.0.3|6.0.0|
-|lxgwcleargothic-font|0.206|0.291|
+|lxgwcleargothic-font|0.206|0.291.1|
 |lxgwnewcleargothic-font|1.108|1.121|
 |lxgwwenkai-font|1.315|1.330|
 |lxml|4.7.1|4.9.1|
