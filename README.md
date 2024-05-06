@@ -269,7 +269,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cffi|1.15.0|1.16.0|
 |cfitsio|3.450|4.4.0|
 |cgal|5.2|5.6.1|
-|cgns|4.2.0|4.4.0|
 |chardet|3.0.4|5.2.0|
 |charset-normalizer|2.0.9|3.3.2|
 |checksec|1.9.0|2.7.1|
@@ -1821,7 +1820,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |memcached|1.6.12|1.6.26|
 |menulibre|2.2.1|2.4.0|
 |menumaker|0.99.12|0.99.14|
-|mercurial|5.2.1|6.7.2|
+|mercurial|5.2.1|6.7.3|
 |merkuro|23.08.5|24.02.2|
 |mesa|24.0.6<br>+dxheaders1.611.0|24.0.6|Compound version number '24.0.6+dxheaders1.611.0'|
 |mesa+32|22.1.7|24.0.6|
@@ -2521,7 +2520,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qmlkonsole|23.08.5|24.02.2|
 |qmltermwidget|0.2.0<br>+git20220109|0.6.0|Compound version number '0.2.0+git20220109'<br>Version number indicates a snapshot (+git) is used|
 |qmmp|1.6.5|2.1.7|
-|qownnotes|22.6.1|24.5.0|
+|qownnotes|22.6.1|24.5.1|
 |qqc2-desktop-style|5.115.0|6.0.4|
 |qrencode|4.0.2|4.1.1|
 |qscintilla|2.13.1|2.14.1|
@@ -2640,7 +2639,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |scapy|2.4.4|2.5.0|
 |sccache|0.3.3|0.8.0|
 |scdoc|1.11.2|1.11.3|
-|schema|0.7.5|0.7.7|
 |scons|4.4.0|4.7.0|
 |scour|0.37|0.38.2|
 |scrcpy|2.3.1|2.4|
