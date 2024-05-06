@@ -78,7 +78,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |apr-util|1.6.1|1.6.3|
 |apsw|3.30.1|3.45.3.0|
 |apt|2.6.1|2.7.14|
-|apt-fast|1.9.11|1.11.0|
 |aqbanking|6.2.2|6.5.4|
 |arandr|0.1.10|0.1.11|
 |aranym|1.1.0|1_1_0|
@@ -248,7 +247,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cargo-smart-release|0.17.0|0.30.0|
 |castxml|0.6.2|0.6.6|
 |catatonit|0.1.7|0.2.0|
-|catch2|2.13.8|3.5.4|
+|catch2|2.13.8|3.6.0|
 |cbm|0.2|0.3.2|
 |ccid|1.5.1|1.5.5|
 |cddlib|0.94j|0.94m|
@@ -543,7 +542,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fcitx5-libthai|5.1.1|5.1.3|
 |fcitx5-lua|5.0.11|5.0.13|
 |fcitx5-m17n|5.1.0|5.1.1|
-|fcitx5-mozc|2.29.5160.102<br>+fcitx5<br>+git20230919|2.29.5374.102|Compound version number '2.29.5160.102+fcitx5+git20230919'<br>Version number indicates a snapshot (+git) is used|
 |fcitx5-pinyin-zhwiki|0.2.3<br>+dict20210823|0.2.4|Compound version number '0.2.3+dict20210823'|
 |fcitx5-rime|5.1.3|5.1.6|
 |fcitx5-sayura|5.1.1|5.1.2|
@@ -2295,7 +2293,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pim-sieve-editor|23.08.5|24.02.2|
 |pimcommon|23.08.5|24.02.2|
 |pinentry|1.1.0|1.3.0|
-|pip|22.3.1|24.0|
+|pip|22.3.1|24.1b1|
 |piper|0.6|0.7|
 |pipewire|1.0.4|1.0.5|
 |pipewire-0.2|0.2.7|1.0.5|
@@ -3189,7 +3187,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |yubico-piv-tool|2.3.1|2.5.1|
 |yubikey-manager|4.0.1|5.4.0|
 |yubikey-manager-qt|1.2.1|1.2.6|
-|yubioath-desktop|5.1.0|6.4.0|
+|yubioath-desktop|5.1.0|7.0.0|
 |yuzu|1582|1732|
 |zanshin|23.08.5|24.02.2|
 |zarith|1.9.1|1.13|
