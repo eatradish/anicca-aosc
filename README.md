@@ -504,6 +504,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |epub2txt|0.1.4<br>+git20200105|0.1.6|Compound version number '0.1.4+git20200105'<br>Version number indicates a snapshot (+git) is used|
 |et-xmlfile|1.0.1|1.1.0|
 |etckeeper|1.18.20|1.18.21|
+|ethtool|6.0|6.7|
 |etl|1.2.2|1.5.1|
 |eudev+32|3.1.5|3.2.14|
 |eventviews|23.08.5|24.02.2|
@@ -1495,6 +1496,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |liblastfm|1.0.9|1.1.0|
 |liblo|0.29|0.32|
 |liblouis|3.12.0|3.29.0|
+|libltc|1.3.1|1.3.2|
 |libluv|1.47.0<br>+0|1.48.0-2|Compound version number '1.47.0+0'|
 |libmanette|0.2.6|0.2.7|
 |libmatekbd|1.26.1|1.28.0|
@@ -1941,7 +1943,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |networkmanager-iodine|1.2.0<br>+git20220728|1.2.0|Compound version number '1.2.0+git20220728'<br>Version number indicates a snapshot (+git) is used|
 |networkmanager-l2tp|1.8.6|1.20.14|
 |networkmanager-openconnect|1.2.6<br>+git20210918|1.2.10|Compound version number '1.2.6+git20210918'<br>Version number indicates a snapshot (+git) is used|
-|networkmanager-openvpn|1.8.12|1.10.4|
+|networkmanager-openvpn|1.8.12|1.11.0|
 |networkmanager-pptp|1.2.10|1.2.12|
 |networkmanager-qt|5.115.0|6.0.4|
 |networkmanager-strongswan|1.5.2|1.6.0|
@@ -2335,6 +2337,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |playerctl|2.0.1|2.4.1|
 |pluggy|1.0.0|1.5.0|
 |pluma|1.26.1|1.28.0|
+|plymouth|22.02.122|24.004.60|
 |plymouth-kcm|5.27.11|6.0.4|
 |pmac-utils|1.1.3|1.1.3.orig|Possible downgrade from the current version (1.1.3   1.1.3.orig)|
 |pngquant|2.12.6|3.0.3|
