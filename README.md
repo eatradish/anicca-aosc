@@ -504,7 +504,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |epub2txt|0.1.4<br>+git20200105|0.1.6|Compound version number '0.1.4+git20200105'<br>Version number indicates a snapshot (+git) is used|
 |et-xmlfile|1.0.1|1.1.0|
 |etckeeper|1.18.20|1.18.21|
-|ethtool|6.0|6.7|
 |etl|1.2.2|1.5.1|
 |eudev+32|3.1.5|3.2.14|
 |eventviews|23.08.5|24.02.2|
@@ -987,7 +986,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |john|1.8.0|1.9.0|
 |josepy|1.13.0|1.14.0|
 |jq|1.6|1.7.1|
-|js-102|102.13.0|102.15.1|
 |json-c|0.16|0.17|
 |json-c+32|0.13.1<br>+20180305|0.17|Compound version number '0.13.1+20180305'|
 |json-glib|1.6.6|1.8.0-actual|
@@ -1497,7 +1495,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |liblastfm|1.0.9|1.1.0|
 |liblo|0.29|0.32|
 |liblouis|3.12.0|3.29.0|
-|libltc|1.3.1|1.3.2|
 |libluv|1.47.0<br>+0|1.48.0-2|Compound version number '1.47.0+0'|
 |libmanette|0.2.6|0.2.7|
 |libmatekbd|1.26.1|1.28.0|
@@ -2116,7 +2113,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pcre-static|8.44|8.45|
 |pcsc-perl|1.4.14|1.4.16|
 |pcsclite|1.9.9|2.2.0|
-|pcsx2|1.6.0<br>+git20210825|1.7.5782|Compound version number '1.6.0+git20210825'<br>Version number indicates a snapshot (+git) is used|
+|pcsx2|1.6.0<br>+git20210825|1.7.5785|Compound version number '1.6.0+git20210825'<br>Version number indicates a snapshot (+git) is used|
 |pdfgrep|2.1.2|2.2.0|
 |pdfminer|20191020|20231228|
 |pdlzip|1.9|1.13|
@@ -2338,7 +2335,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |playerctl|2.0.1|2.4.1|
 |pluggy|1.0.0|1.5.0|
 |pluma|1.26.1|1.28.0|
-|plymouth|22.02.122|24.004.60|
 |plymouth-kcm|5.27.11|6.0.4|
 |pmac-utils|1.1.3|1.1.3.orig|Possible downgrade from the current version (1.1.3   1.1.3.orig)|
 |pngquant|2.12.6|3.0.3|
