@@ -3020,7 +3020,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |usbutils|015|017|
 |utfcpp|3.2.1|4.0.5|
 |uthash|2.1.0|2.3.0|
-|util-linux+32|2.29.2|2.40|
+|util-linux|2.40|2.40.1|
+|util-linux+32|2.29.2|2.40.1|
 |util-macros|1.20.0|1.20.1|
 |util-macros+32|999|1.20.1|Possible downgrade from the current version (999   1.20.1)|
 |v2ray|5.13.0|5.16.1|
