@@ -1733,9 +1733,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lutris|0.5.11|0.5.17|
 |lvm2|2.03.14|2.03.23|
 |lxappearance|0.6.2|0.6.3|
-|lxc|5.0.2|6.0.0|
 |lxcfs|3.0.3|6.0.0|
-|lxgwcleargothic-font|0.206|0.291.1|
+|lxgwcleargothic-font|0.206|0.291.2|
 |lxgwnewcleargothic-font|1.108|1.121|
 |lxgwwenkai-font|1.315|1.330|
 |lxml|4.7.1|4.9.1|
@@ -1867,6 +1866,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mousepad|0.6.1|0.6.2|
 |movit|1.6.3|1.7.1|
 |mozo|1.26.2|1.28.0|
+|mp3gain|1.6.2|1_6_2|
 |mp4v2|4.1.3|2.1.3|Possible downgrade from the current version (4.1.3   2.1.3)|
 |mp4v2+32|2.0.0|2.1.3|
 |mpc+32|1.0.3|1.3.1|
@@ -2169,7 +2169,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-email-mime-encodings|1.315|1.317|
 |perl-email-simple|2.216|2.218|
 |perl-error|0.17027|0.17029|
-|perl-ev|4.25|4.34|
 |perl-exception-class|1.44|1.45|
 |perl-exporter-tiny|1.001<br>+001|1.006002|Compound version number '1.001+001'|
 |perl-extutils-config|0.008|0.009|
@@ -2525,6 +2524,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qrencode|4.0.2|4.1.1|
 |qscintilla|2.13.1|2.14.1|
 |qsynth|0.5.6|0.9.91|
+|qt-5|5.15.5<br>+webengine5.15.10<br>+webkit5.212.0<br>+kde20220705|5.15.13-lts-lgpl|Compound version number '5.15.5+webengine5.15.10+webkit5.212.0+kde20220705'|
 |qt4-tqt-theme-engine-trinity|14.1.0|14.1.2|
 |qtcreator|12.0.1|13.0.0|
 |qtkeychain|0.13.2|0.14.3|
@@ -3135,6 +3135,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xdg-desktop-portal-kde|5.27.11|6.0.4|
 |xdg-user-dirs|0.17|0.18|
 |xdg-user-dirs-gtk|0.10|0.11|
+|xdg-utils|1.1.3|1.2.1|
 |xdm|1.1.12|1.1.16|
 |xerces-c|3.2.3|3.2.5|
 |xf86-input-elographics|1.4.3|1.4.4|
