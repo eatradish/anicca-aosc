@@ -929,7 +929,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |imapsync|1.977|2.229|
 |imath|3.1.5|3.1.11|
 |img2pdf|0.4.0|0.5.1|
-|imlib2|1.5.1|1.12.2|
 |imlib2+32|1.4.8|1.12.2|
 |imwheel|1.0.0pre12|0.9.9|Possible downgrade from the current version (1.0.0pre12   0.9.9)|
 |incidenceeditor|23.08.5|24.02.2|
@@ -1549,7 +1548,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libpng|1.6.42|1.6.43|
 |libpng+32|1.2.57|1.6.43|
 |libpng-1.6+32|1.6.37|1.6.43|
-|libportal|0.6|0.7.1|
 |libpqxx|6.4.5|7.9.0|
 |libproxy|0.5.5|0.5.6|
 |libpwquality|1.4.2|1.4.5|
@@ -2085,7 +2083,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pango+32|1.44.7|1.52.2|
 |pangomm|2.46.3|2.52.0|
 |pangomm-2.48|2.50.1|2.52.0|
-|paper-icon-theme|20180816|.1.5.0|Possible downgrade from the current version (20180816   .1.5.0)|
 |paprefs|1.1|1.2|
 |paq8o|9|10t|
 |parallel|20191122|20240422|
@@ -2190,7 +2187,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-font-ttf|1.05|1.06|
 |perl-gd|2.71|2.81|
 |perl-glib|1.329|1.3294|
-|perl-glib-object-introspection|0.047|0.051|
 |perl-gnome2|1.047|1.048|
 |perl-gnome2-canvas|1.002|1.006|
 |perl-gnome2-vfs|1.083|1.084|
@@ -3084,7 +3080,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |websockets|12.0|1.4.4|Possible downgrade from the current version (12.0   1.4.4)|
 |weechat|4.2.1|4.2.2|
 |weka|3.9.2|8.0.0|
-|werkzeug|1.0.1|3.0.2|
+|werkzeug|1.0.1|3.0.3|
 |wesnoth|1.16.10|1.18.0|
 |weston|13.0.0|13.0.1|
 |wezterm|20240203<br>+110809<br>+5046fc22|20240203-110809-5046fc22|Compound version number '20240203+110809+5046fc22'|
