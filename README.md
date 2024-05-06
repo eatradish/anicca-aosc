@@ -78,6 +78,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |apr-util|1.6.1|1.6.3|
 |apsw|3.30.1|3.45.3.0|
 |apt|2.6.1|2.7.14|
+|apt-fast|1.9.11|1.11.0|
 |aqbanking|6.2.2|6.5.4|
 |arandr|0.1.10|0.1.11|
 |aranym|1.1.0|1_1_0|
@@ -106,7 +107,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |aspnetcore-runtime-6.0|6.0.0|6.0.29|
 |aspnetcore-targeting-pack-6.0|6.0.0|6.0.29|
 |assimp|5.3.1|5.4.0|
-|ast-grep|0.19.4|0.21.3|
+|ast-grep|0.19.4|0.21.4|
 |astroid|2.12.2|3.1.0|
 |astyle|3.1|3.4.14|
 |at-spi2-atk+32|2.26.3|2.38.0|
@@ -542,6 +543,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fcitx5-libthai|5.1.1|5.1.3|
 |fcitx5-lua|5.0.11|5.0.13|
 |fcitx5-m17n|5.1.0|5.1.1|
+|fcitx5-mozc|2.29.5160.102<br>+fcitx5<br>+git20230919|2.29.5374.102|Compound version number '2.29.5160.102+fcitx5+git20230919'<br>Version number indicates a snapshot (+git) is used|
 |fcitx5-pinyin-zhwiki|0.2.3<br>+dict20210823|0.2.4|Compound version number '0.2.3+dict20210823'|
 |fcitx5-rime|5.1.3|5.1.6|
 |fcitx5-sayura|5.1.1|5.1.2|
@@ -889,7 +891,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hyper-h2|4.0.0|4.1.0|
 |hyperframe|6.0.0|6.0.1|
 |hyperlink|19.0.0|21.0.0|
-|hypothesis-python|6.97.4|6.100.4|
+|hypothesis-python|6.97.4|6.100.5|
 |hysteria|2.4.0|2.4.3|
 |i2c-tools|4.1|4.3|
 |i2pd|2.41.0|2.51.0|
