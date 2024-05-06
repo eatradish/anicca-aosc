@@ -1733,6 +1733,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lutris|0.5.11|0.5.17|
 |lvm2|2.03.14|2.03.23|
 |lxappearance|0.6.2|0.6.3|
+|lxc|5.0.2|6.0.0|
 |lxcfs|3.0.3|6.0.0|
 |lxgwcleargothic-font|0.206|0.291.2|
 |lxgwnewcleargothic-font|1.108|1.121|
@@ -2169,6 +2170,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-email-mime-encodings|1.315|1.317|
 |perl-email-simple|2.216|2.218|
 |perl-error|0.17027|0.17029|
+|perl-ev|4.25|4.34|
 |perl-exception-class|1.44|1.45|
 |perl-exporter-tiny|1.001<br>+001|1.006002|Compound version number '1.001+001'|
 |perl-extutils-config|0.008|0.009|
