@@ -658,6 +658,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gdb+cross-arm64|12.1|14.2|
 |gdb+cross-mips64r6el|12.1|14.2|
 |gdbm+32|1.11|1.23|
+|gdk-pixbuf|2.42.8|2.42.11|
 |gdk-pixbuf+32|2.38.2|2.42.11|
 |gdm|42.0|46.0|
 |gdome2|0.8.1<br>+debian|0.8.1|Compound version number '0.8.1+debian'|
@@ -977,7 +978,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |jeepney|0.6.0|0.8.0|
 |jellyfish|0.6.0|1.0.3|
 |jetring|0.29|0.31|
-|jinja2|3.1.2|3.1.3|
+|jinja2|3.1.2|3.1.4|
 |jmespath|0.10.0|1.0.1|
 |jmol|14.30.0|16.2.15|
 |john|1.8.0|1.9.0|
@@ -1103,7 +1104,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |keepass-plugin-agent|0.10.1|0.13.7|
 |keepass-plugin-favicon|1.9.0|9.7.4|
 |keepass-plugin-twofish|1.3|1.4|
-|keepassxc|2.6.6|2.7.7|
+|keepassxc|2.6.6|2.7.8|
 |kemoticons|5.115.0|6.0.4|
 |kernel-tools|6.7.5|5.19.17|Possible downgrade from the current version (6.7.5   5.19.17)|
 |keximdb-trinity|14.1.0|14.1.2|
