@@ -244,6 +244,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |capnproto|0.10.2|1.0.2|
 |capstone|5.0.1|5.0|Possible downgrade from the current version (5.0.1   5.0)|
 |cargo-audit|0.18.1|0.20.0|
+|cargo-c|0.9.24|0.9.32+cargo-0.79.0|
 |cargo-release|0.24.11|0.25.7|
 |cargo-smart-release|0.17.0|0.30.0|
 |castxml|0.6.2|0.6.6|
@@ -713,6 +714,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |glslang+32|7.11.3214|14.2.0|
 |glu+32|9.0.1|9.0.3|
 |gmic|3.2.6|3.3.5|
+|gmime-3|3.2.7|3.2.14|
 |gmp+32|6.1.2|6.3.0|
 |gnome-applets|3.44.0|3.52.0|
 |gnome-autoar|0.4.3|0.4.4|
@@ -1126,7 +1128,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |khealthcertificate|22.11|24.02.2|
 |khelpcenter|23.08.5|24.02.2|
 |kholidays|5.115.0|6.0.4|
-|khotkeys|5.27.11|6.0.4|
 |khtml|5.115.0|6.0.4|
 |ki18n|5.115.0|6.0.4|
 |kicad|7.0.0|8.0.2|
@@ -2202,6 +2203,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-http-cookies|6.01|6.11|
 |perl-http-daemon|6.01|6.16|
 |perl-http-date|6.02|6.06|
+|perl-http-message|6.11|6.45|
 |perl-image-exiftool|12.50|12.84|
 |perl-io-socket-inet6|2.72|2.73|
 |perl-io-socket-ssl|2.062|2.085|
@@ -2226,7 +2228,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-mime-types|2.17|2.26|
 |perl-module-build|0.4224|0.4234|
 |perl-module-build-tiny|0.039|0.048|
-|perl-module-find|0.13|0.16|
 |perl-module-scandeps|1.27|1.35|
 |perl-moo|2.005004|2.005005|
 |perl-mozilla-ca|20180117|20240313|
@@ -2459,7 +2460,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pyqt5|5.15.5|5.15.10|
 |pyqt5-sip|12.9.0|12.13.0|
 |pyqtwebengine|5.15.5|5.15.6|
-|pyscard|1.9.9|2.0.9|
 |pyscss|1.3.7|1.4.0|
 |pyside2|5.15.11|5.15.2.1|Possible downgrade from the current version (5.15.11   5.15.2.1)|
 |pysmbc|1.0.22|1.0.25.1|
