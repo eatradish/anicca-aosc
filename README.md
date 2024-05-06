@@ -184,7 +184,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |bleachbit|4.0.0|4.6.0|
 |blender|4.0.2|4.1.1|
 |blinken|23.08.5|24.02.2|
-|blinker|1.4|1.8.1|
+|blinker|1.4|1.8.2|
 |bluedevil|5.27.11|6.0.4|
 |blueman|2.2.2|2.4.1|
 |bluez|5.71|5.75|
@@ -269,6 +269,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cffi|1.15.0|1.16.0|
 |cfitsio|3.450|4.4.0|
 |cgal|5.2|5.6.1|
+|cgns|4.2.0|4.4.0|
 |chardet|3.0.4|5.2.0|
 |charset-normalizer|2.0.9|3.3.2|
 |checksec|1.9.0|2.7.1|
@@ -2639,6 +2640,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |scapy|2.4.4|2.5.0|
 |sccache|0.3.3|0.8.0|
 |scdoc|1.11.2|1.11.3|
+|schema|0.7.5|0.7.7|
 |scons|4.4.0|4.7.0|
 |scour|0.37|0.38.2|
 |scrcpy|2.3.1|2.4|
