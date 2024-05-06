@@ -68,7 +68,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |aosc-media-writer|0.3.4|5.0.9|
 |aosc-xdg-menu|20200412|20160217|Possible downgrade from the current version (20200412   20160217)|
 |aoscbootstrap|0.4.5|0.4.7|
-|aoscdk-rs|1.0.4|1.0.3|Possible downgrade from the current version (1.0.4   1.0.3)|
 |apache-maven|3.9.4|3.9.6|
 |apicula|0.9.1|0.12|
 |apparmor|3.0.8|3.1.7|
@@ -722,7 +721,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-bluetooth|42.2|46.0|
 |gnome-boxes|42.3|46.1|
 |gnome-builder|42.1|46.1|
-|gnome-calculator|42.2|46.0|
+|gnome-calculator|42.2|46.1|
 |gnome-calendar|42.2|46.1|
 |gnome-characters|42.0|46.0|
 |gnome-chess|42.1|46.0|
@@ -1069,7 +1068,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kde-gtk-config|5.27.11|6.0.4|
 |kde-inotify-survey|23.08.5|24.02.2|
 |kdebugsettings|23.08.5|24.02.2|
-|kdeclarative|5.115.0|6.0.4|
 |kdeconnect|23.08.5|24.02.2|
 |kdecoration|5.27.11|6.0.4|
 |kded|5.115.0|6.0.4|
@@ -1128,6 +1126,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |khealthcertificate|22.11|24.02.2|
 |khelpcenter|23.08.5|24.02.2|
 |kholidays|5.115.0|6.0.4|
+|khotkeys|5.27.11|6.0.4|
 |khtml|5.115.0|6.0.4|
 |ki18n|5.115.0|6.0.4|
 |kicad|7.0.0|8.0.2|
@@ -1138,7 +1137,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kig|23.08.5|24.02.2|
 |kigo|23.08.5|24.02.2|
 |kile-trinity|14.1.0|14.1.2|
-|killbots|23.08.5|24.02.2|
 |kima-trinity|14.1.0|14.1.2|
 |kimageannotator|0.6.0|0.7.1|
 |kimageformats|5.115.0|6.0.4|
@@ -1427,7 +1425,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libftdi|1.4|1.5|
 |libgcrypt+32|1.9.1|1.10.3|
 |libgdiplus|6.0.5|6.1|
-|libgee|0.20.5|0.20.6|
 |libgeotiff|1.5.1|1.7.1|
 |libgig|4.4.0|4.4.1|
 |libgit2|1.7.2|1.8.0|
@@ -2228,6 +2225,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-mime-types|2.17|2.26|
 |perl-module-build|0.4224|0.4234|
 |perl-module-build-tiny|0.039|0.048|
+|perl-module-find|0.13|0.16|
 |perl-module-scandeps|1.27|1.35|
 |perl-moo|2.005004|2.005005|
 |perl-mozilla-ca|20180117|20240313|
@@ -2411,7 +2409,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pyacoustid|1.1.7|1.3.0|
 |pyasn1|0.4.8|0.6.0|
 |pyasn1-modules|0.2.8|0.4.0|
-|pyatspi|2.38.2|2.46.1|
 |pyaudio|0.2.11|0.2.14|
 |pybind11|2.11.1|2.12.0|
 |pycairo|1.18.2|1.26.0|
@@ -2460,6 +2457,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pyqt5|5.15.5|5.15.10|
 |pyqt5-sip|12.9.0|12.13.0|
 |pyqtwebengine|5.15.5|5.15.6|
+|pyscard|1.9.9|2.0.9|
 |pyscss|1.3.7|1.4.0|
 |pyside2|5.15.11|5.15.2.1|Possible downgrade from the current version (5.15.11   5.15.2.1)|
 |pysmbc|1.0.22|1.0.25.1|
@@ -2669,7 +2667,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |setuptools-python2|44.1.0|69.5.1|
 |setuptools-python3|69.1.0|69.5.1|
 |setuptools-rust|1.5.2|1.9.0|
-|setuptools-scm|7.1.0|8.0.4|
+|setuptools-scm|7.1.0|8.1.0|
 |sfml|2.5.1|2.6.1|
 |sg3-utils|1.47r915|1.48|
 |shaderc|2023.7|2024.1|
