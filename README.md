@@ -351,7 +351,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |crun|1.12|1.15|
 |cryfs|0.10.2|0.11.4|
 |crypto++|8.2.0|8.9.0|
-|cryptography|40.0.0|42.0.6|
+|cryptography|40.0.0|42.0.7|
 |cryptsetup|2.7.0|2.7.2|
 |css-parser|1.0.6|1.0.10|
 |cssselect2|0.6.0|0.7.0|
@@ -424,7 +424,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |distorm|3.5.1|3.5.2b|
 |distro|1.6.0|1.9.0|
 |distrobox|1.4.2.1|1.7.2.0|
-|django|5.0.3|5.0.4|
+|django|5.0.3|5.0.5|
 |dkms|2.8.3|3.0.13|
 |dlib|19.20.0|19.24.4|
 |dmd|2.089.0|2.108.1|
@@ -1068,6 +1068,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kde-gtk-config|5.27.11|6.0.4|
 |kde-inotify-survey|23.08.5|24.02.2|
 |kdebugsettings|23.08.5|24.02.2|
+|kdeclarative|5.115.0|6.0.4|
 |kdeconnect|23.08.5|24.02.2|
 |kdecoration|5.27.11|6.0.4|
 |kded|5.115.0|6.0.4|
@@ -1137,6 +1138,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kig|23.08.5|24.02.2|
 |kigo|23.08.5|24.02.2|
 |kile-trinity|14.1.0|14.1.2|
+|killbots|23.08.5|24.02.2|
 |kima-trinity|14.1.0|14.1.2|
 |kimageannotator|0.6.0|0.7.1|
 |kimageformats|5.115.0|6.0.4|
@@ -1425,6 +1427,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libftdi|1.4|1.5|
 |libgcrypt+32|1.9.1|1.10.3|
 |libgdiplus|6.0.5|6.1|
+|libgee|0.20.5|0.20.6|
 |libgeotiff|1.5.1|1.7.1|
 |libgig|4.4.0|4.4.1|
 |libgit2|1.7.2|1.8.0|
@@ -2409,6 +2412,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pyacoustid|1.1.7|1.3.0|
 |pyasn1|0.4.8|0.6.0|
 |pyasn1-modules|0.2.8|0.4.0|
+|pyatspi|2.38.2|2.46.1|
 |pyaudio|0.2.11|0.2.14|
 |pybind11|2.11.1|2.12.0|
 |pycairo|1.18.2|1.26.0|
