@@ -199,7 +199,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |borgbackup|1.1.17|1.2.8|
 |botan|1.10.17|3.4.0|
 |botan-2|2.12.1|3.4.0|
-|boto3|1.20.26|1.34.98|
+|boto3|1.20.26|1.34.99|
 |bottle|0.12.18|0.12.25|
 |bottles|2022.2.28<br>+trento<br>+4|51.11|Compound version number '2022.2.28+trento+4'<br>Possible downgrade from the current version (2022.2.28+trento+4   51.11)|
 |bovo|23.08.5|24.02.2|
@@ -338,7 +338,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |corrosion|0.2.1|0.4.9|
 |corsixth|0.65.1|0.67|
 |cowsay|3.04.01|3.7.0|
-|cpio|2.13|2.15|
 |cpp-utilities|5.20.0|5.24.7|
 |cppcheck|2.8|2.14.0|
 |cppdap|1.58.0<br>+a|1.58.0-a|Compound version number '1.58.0+a'|
@@ -443,7 +442,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dolphin-emu|5.0<br>+git20211101|5.0|Compound version number '5.0+git20211101'<br>Version number indicates a snapshot (+git) is used|
 |dolphin-plugins|23.08.5|24.02.2|
 |dolphin-trinity|14.1.0|14.1.2|
-|dos2unix|7.4.3|7.5.2|
 |dosbox|0.74<br>+3|0.74-3|Compound version number '0.74+3'|
 |dotconf|1.3|1.4.1|
 |dotnet-apphost-pack-6.0|6.0.0|6.0.29|
@@ -480,7 +478,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dunst|1.10.0|1.11.0|
 |duplicity|2.2.2|2.2.3|
 |easy-rsa|3.0.8|3.1.7|
-|ed|1.19|1.20.2|
 |editables|0.3|0.5|
 |editline|1.16.1|1.17.1|
 |editorconfig-core-c|0.12.6|0.12.7|
@@ -569,7 +566,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fftw|3.3.8|3.3.10|
 |fftw+32|3.3.4|3.3.10|
 |fido2|0.9.1|1.1.3|
-|file|5.43|5.45|
 |file-roller|3.42.0|44.1|
 |filelight|23.08.5|24.02.2|
 |filelight-trinity|14.1.0|14.1.2|
@@ -676,7 +672,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |getdns|1.6.0|1.7.3|
 |gexiv2|0.14.0|0.14.2|
 |gfm|1.07|1.08|
-|gh|2.44.1|2.49.0|
 |ghc|9.4.8|9.8.2-release|
 |ghex|42.3|46.0|
 |ghidra|11.0|11.0.3_build|
@@ -2720,7 +2715,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sniffio|1.3.0|1.3.1|
 |snowball|2.1.0|2.2.0|
 |snowballstemmer|1.2.1|2.2.0|
-|socat|1.7.3.4|1.8.0.0|
 |soci|4.0.1|4.0.3|
 |sof-firmware|2.2.3|2.8.1|
 |sof-tools|2.2.3|2.8.1|
@@ -2760,7 +2754,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sphinxcontrib-serializinghtml|1.1.5|1.1.10|
 |sphinxcontrib-websupport|1.2.4|1.2.7|
 |spim|9.1.23|9.1.24|
-|spirv-headers|1.3.275.0|1.5.4.raytracing.fixed|
+|spirv-headers|1.3.280.0|1.5.4.raytracing.fixed|
 |spirv-llvm-translator|17.0.0|18.1.0|
 |spirv-tools|1.3.275.0|2024.1|
 |spread-sheet-widget|0.3|0.10|
@@ -2837,7 +2831,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |taisei|1.3.2|1.4.1|
 |tali|40.8|40.9|
 |talloc|2.3.4|2.4.2|
-|tar|1.34|1.35|
 |targetcli-fb|2.1.54|2.1.58|
 |tarsnap|1.0.39|1.0.40|
 |taskwarrior|2.6.2|3.0.0|
@@ -2848,7 +2841,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tcl+32|8.6.10|8.6.14|
 |tclap|1.2.2|1.2.5|
 |tcping|1.3.5|2.1.0|
-|tcsh|6.24.10|6.24.12|
 |tdb|1.4.7|1.4.10|
 |tde-common-cmake|14.1.0|14.1.2|
 |tde-i18n|14.1.0|14.1.2|
@@ -2908,7 +2900,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tesseract|5.3.4|5.2.1|Possible downgrade from the current version (5.3.4   5.2.1)|
 |testdisk|7.0|7.2|
 |tevent|0.13.0|0.16.1|
-|texinfo|7.0.1|7.1|
 |texlive|20220321|2024|Possible downgrade from the current version (20220321   2024)|
 |texmaker|5.1.2|5.1.4|
 |texstudio|4.0.2|4.7.3|
@@ -2960,7 +2951,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |transmission-remote-gtk|1.5.1|1.6.0|
 |trash-cli|0.17.1.14|0.24.4.17|
 |tre|20161208|0.8.0|Possible downgrade from the current version (20161208   0.8.0)|
-|tree|2.0.4|2.1.1|
 |trio|0.24.0|0.25.0|
 |trollius|2.1|2.2.1|
 |trove-classifiers|2024.1.31|2024.4.10|
@@ -3061,17 +3051,18 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vrms|1.27|1.33|
 |vsftpd|3.0.3|3.0.5|
 |vte|0.68.0|0.76.1|
-|vulkan-headers|1.3.275.0|1.3.283|
-|vulkan-headers+32|1.3.272|1.3.283|
-|vulkan-loader|1.3.275.0|1.3.283|
+|vulkan-extensionlayer|1.3.280.0|1.3.283|
+|vulkan-headers|1.3.280.0|1.3.284|
+|vulkan-headers+32|1.3.272|1.3.284|
+|vulkan-loader|1.3.280.0|1.3.283|
 |vulkan-loader+32|1.3.272|1.3.283|
-|vulkan-tools|1.3.227|1.3.283|
+|vulkan-tools|1.3.280.0|1.3.283|
 |vulkan-tools+32|1.3.227|1.3.283|
-|vulkan-utility-libraries|1.3.275.0|1.3.283|
-|vulkan-validationlayers|1.3.275.0|1.3.283|
+|vulkan-utility-libraries|1.3.280.0|1.3.283|
+|vulkan-validationlayers|1.3.280.0|1.3.283|
 |warpinator|1.6.3|1.8.3|
 |warzone2100|4.1.3|4.4.2|
-|watchman|4.9.0|2024.05.02.00|
+|watchman|4.9.0|2024.05.06.00|
 |wavpack|5.2.0|5.7.0|
 |wavpack+32|5.2.0|5.7.0|
 |wayland-utils|1.1.0|1.2.0|
