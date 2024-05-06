@@ -68,6 +68,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |aosc-media-writer|0.3.4|5.0.9|
 |aosc-xdg-menu|20200412|20160217|Possible downgrade from the current version (20200412   20160217)|
 |aoscbootstrap|0.4.5|0.4.7|
+|aoscdk-rs|1.0.4|1.0.3|Possible downgrade from the current version (1.0.4   1.0.3)|
 |apache-maven|3.9.4|3.9.6|
 |apicula|0.9.1|0.12|
 |apparmor|3.0.8|3.1.7|
@@ -749,7 +750,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-shell-extension-gsconnect|53|57|
 |gnome-shell-extensions|42.3|46.1|
 |gnome-software|42.4|46.1|
-|gnome-sudoku|42.0|46.0|
+|gnome-sudoku|42.0|46.1|
 |gnome-system-monitor|42.0|46.0|
 |gnome-terminal|3.44.1|3.97.0|
 |gnome-themes-standard|3.27.90|3.28|
