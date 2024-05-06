@@ -553,6 +553,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fcitx5-sayura|5.1.1|5.1.2|
 |fcitx5-skk|5.1.0|5.1.3|
 |fcitx5-unikey|5.1.1|5.1.4|
+|fd|9.0.0|10.0.0|
 |fdkaac|1.0.1|1.0.6|
 |feedbackd|0.2.1|0.3.0|
 |feedparser|6.0.8|6.0.11|
