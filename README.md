@@ -1674,7 +1674,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libzen|0.4.38|0.4.41|
 |libzip|1.5.2|1.10.1|
 |liferea|1.13.8|1.15.6|
-|light-locker|1.8.0|1.9.0|
 |lightsoff|40.0.1|46.0|
 |lighttpd|1.4.55|1.4.76|
 |lilv|0.24.12|0.24.24|
