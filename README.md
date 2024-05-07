@@ -193,7 +193,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |bochs|2.6.11|2.8|
 |boinc|7.24.3|8.0/8.0.1|
 |bolt|0.9.1|0.9.7|
-|bomber|23.08.5|24.02.2|
 |boost|1.83.0|1.85.0|
 |boost+32|1.63.0|1.85.0|
 |borgbackup|1.1.17|1.2.8|
@@ -646,7 +645,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gcc+cross-mips64r6el|12.2.0<br>+glibc2.36-4|14.1.0|Compound version number '12.2.0+glibc2.36-4'|
 |gcc+cross-powerpc|9.3.1|14.1.0|
 |gcc+cross-ppc64|9.3.1|14.1.0|
-|gcc+cross-ppc64el|12.3.0|14.1.0|
 |gcc+cross-riscv64|12.1.0|14.1.0|
 |gcc+w64|9.3.1|14.1.0|
 |gcdemu|3.2.4|3.2.6|
@@ -665,7 +663,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |geany-plugins|2.0|2.0.0|
 |geary|40.0|44.1|
 |gedit|42.2|47.0|
-|gedit-plugins|42.1|47.0|
+|gedit-plugins|42.1|47.1|
 |gegl-0.4|0.4.48|0_4_48|
 |geoclue2|2.6.0|2.7.1|
 |geoipupdate|6.1.0|7.0.1|
@@ -1287,6 +1285,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kteatime|23.08.5|24.02.2|
 |ktechlab-trinity|14.1.0|14.1.2|
 |ktextaddons|1.5.3|1.5.4|
+|ktexteditor|5.115.0|6.0.4|
 |ktextwidgets|5.115.0|6.0.4|
 |ktimer|23.08.5|24.02.2|
 |ktnef|23.08.5|24.02.2|
@@ -1685,6 +1684,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |linux+kernel+retro+minimal|5.15.17|5.10.216|Possible downgrade from the current version (5.15.17   5.10.216)|
 |linux-firmware|20240405<br>+debian20230210<br>+5~bpo11<br>+1|20240410|Compound version number '20240405+debian20230210+5~bpo11+1'|
 |linux-kernel|6.7.5|5.19.17|Possible downgrade from the current version (6.7.5   5.19.17)|
+|linux-kernel-lts|6.6.17|5.19.17|Possible downgrade from the current version (6.6.17   5.19.17)|
 |linux-kernel-retro|5.10.132|5.10.216|
 |linux-kernel-retro-minimal|5.15.17|5.10.216|Possible downgrade from the current version (5.15.17   5.10.216)|
 |linux-pam|1.6.0|1.6.1|
@@ -1802,6 +1802,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mbedtls|2.16.7|3.6.0|
 |mbedtls+32|2.16.7|3.6.0|
 |mbox-importer|23.08.5|24.02.2|
+|mbpfan|2.2.1|2.4.0|
 |mccabe|0.6.1|0.7.0|
 |mcomix|1.2.1|3.1.0|
 |mdadm|4.2|4.3|
@@ -2108,7 +2109,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pcre-static|8.44|8.45|
 |pcsc-perl|1.4.14|1.4.16|
 |pcsclite|1.9.9|2.2.0|
-|pcsx2|1.6.0<br>+git20210825|1.7.5785|Compound version number '1.6.0+git20210825'<br>Version number indicates a snapshot (+git) is used|
+|pcsx2|1.6.0<br>+git20210825|1.7.5788|Compound version number '1.6.0+git20210825'<br>Version number indicates a snapshot (+git) is used|
 |pdfgrep|2.1.2|2.2.0|
 |pdfminer|20191020|20231228|
 |pdlzip|1.9|1.13|
@@ -2582,6 +2583,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rocm-smi-lib|6.0.2|6.1.0|
 |rocminfo|6.0.2|6.1.0|
 |rocr-runtime|6.0.2|6.1.0|
+|rocs|23.08.5|24.02.2|
 |roct-thunk-interface|6.0.0|6.1.0|
 |ronn-ng|0.9.1|0.10.1|
 |rosegarden|20.12|23.12|
@@ -2954,7 +2956,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tslib|1.21|1.23|
 |ttf-misaki|2021.05.05|2021-05-05|
 |ttf-tibetan-machine-unicode|1.901b|1.901|
-|ttf-vlgothic|20200720|20220612|
 |ttyd|1.6.3|1.7.7|
 |tuned|2.19.0|2.22.1|
 |twin-style-machbunt|14.1.0|14.1.2|
@@ -3190,7 +3191,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |yuzu|1582|1732|
 |zanshin|23.08.5|24.02.2|
 |zarith|1.9.1|1.13|
-|zathura|0.5.2|0.5.4|
+|zathura|0.5.2|0.5.6|
 |zathura-pdf-poppler|0.3.1|0.3.2|
 |zbar|0.23.90|0.23.93|
 |zeal|0.6.1|0.7.0|
