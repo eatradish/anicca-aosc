@@ -237,8 +237,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |calindori|23.08.5|24.02.2|
 |callaudiod|0.1.4|0.1.9|
 |calver|2022.06.26|2022.6.26|
-|camlp4|4.08<br>+1|5.0+1|Compound version number '4.08+1'|
-|camlp5|713|6023|
+|camlp4|4.14<br>+1|5.0+1|Compound version number '4.14+1'|
+|camlp5|8.02.01|6023|
 |cantor|23.08.5|24.02.2|
 |capnproto|0.10.2|1.0.2|
 |capstone|5.0.1|5.0|Possible downgrade from the current version (5.0.1   5.0)|
@@ -1550,7 +1550,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libproxy|0.5.5|0.5.6|
 |libpwquality|1.4.2|1.4.5|
 |libqaccessibilityclient|0.4.1|0.6.0|
-|libqalculate|4.5.1|5.0.0|
+|libqalculate|4.5.1|5.1.1|
 |libqmi|1.30.8|1.34.0|
 |libqofono|0.98|0.122|
 |libqtxdg|3.6.0|4.0.0|
@@ -1978,7 +1978,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nvidia+32|0|550.78|
 |nvme-cli|2.6|2.9.1|
 |obs-studio|27.0.0|30.1.2|
-|ocaml|4.14.0|5.1.1+effect-syntax|
+|ocaml|4.14.2|5.1.1+effect-syntax|
 |ocaml-csexp|1.5.1|1.5.2|
 |ocaml-graphics|5.1.0|5.1.2|
 |ocaml-integers|0.4.0|0.7.0|
@@ -2884,7 +2884,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tdmtheme|14.1.0|14.1.2|
 |tectonic|0.12.0|0.15.0|
 |teeworlds|0.7.5<br>+git20220313|0.7.5|Compound version number '0.7.5+git20220313'<br>Version number indicates a snapshot (+git) is used|
-|telegram-desktop|4.16.6|5.0.1|
 |telepathy-accounts-signon|1.0|2.1|
 |telepathy-glib|0.24.1|0.24.2|
 |telepathy-idle|0.2.0|0.2.2|
@@ -3087,7 +3086,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |wildmidi+32|0.4.3|0.4.6|
 |wimlib|1.13.6|1.14.4|
 |windowmaker|0.95.9<br>+git20220812|0.96.0|Compound version number '0.95.9+git20220812'<br>Version number indicates a snapshot (+git) is used|
-|wine|9.7<br>+gecko2.47.4<br>+mono9.1.0|9.8|Compound version number '9.7+gecko2.47.4+mono9.1.0'|
+|wine|9.8<br>+gecko2.47.4<br>+mono9.1.0|9.8|Compound version number '9.8+gecko2.47.4+mono9.1.0'|
 |wireguard|1|0.0.20191219|Possible downgrade from the current version (1   0.0.20191219)|
 |wireguard-tools|1.0.20200827|1.0.20210914|
 |wireless-regdb|2022.08.12|2024.01.23|
