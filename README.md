@@ -1814,7 +1814,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mediainfo|22.06|24.04|
 |meld|3.21.3|3.22.2|
 |melonds|0.9.2|0.9.5|
-|memcached|1.6.12|1.6.26|
+|memcached|1.6.12|1.6.27|
 |menulibre|2.2.1|2.4.0|
 |menumaker|0.99.12|0.99.14|
 |mercurial|5.2.1|6.7.3|
@@ -1880,7 +1880,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |msgpack-c++|6.1.0|6.1.1|
 |msitools|0.101|0.103|
 |msr-tools|20170320|1.3|Possible downgrade from the current version (20170320   1.3)|
-|mstflint|4.25.0<br>+1|4.26.0-1|Compound version number '4.25.0+1'|
+|mstflint|4.25.0<br>+1|4.28.0-1|Compound version number '4.25.0+1'|
 |mtd-utils|2.1.5|2.2.0|
 |mtdev|1.1.6|1.1.7|
 |mtools|4.0.42|4.0.43|
