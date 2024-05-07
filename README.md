@@ -193,6 +193,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |bochs|2.6.11|2.8|
 |boinc|7.24.3|8.0/8.0.1|
 |bolt|0.9.1|0.9.7|
+|bomber|23.08.5|24.02.2|
 |boost|1.83.0|1.85.0|
 |boost+32|1.63.0|1.85.0|
 |borgbackup|1.1.17|1.2.8|
@@ -645,6 +646,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gcc+cross-mips64r6el|12.2.0<br>+glibc2.36-4|14.1.0|Compound version number '12.2.0+glibc2.36-4'|
 |gcc+cross-powerpc|9.3.1|14.1.0|
 |gcc+cross-ppc64|9.3.1|14.1.0|
+|gcc+cross-ppc64el|12.3.0|14.1.0|
 |gcc+cross-riscv64|12.1.0|14.1.0|
 |gcc+w64|9.3.1|14.1.0|
 |gcdemu|3.2.4|3.2.6|
@@ -694,7 +696,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gjs|1.74.0|1.80.2|
 |gksu|2.0.2|2.0.12|
 |glances|3.4.0.2|3.4.0.5|
-|glib+32|2.62.6|2.80.0|
+|glib|2.80.0|2.80.1|
+|glib+32|2.62.6|2.80.1|
 |glib-networking|2.72.2|2.80.0|
 |glibc|2.38|2.39|
 |glibc+32|2.34|2.39|
@@ -761,7 +764,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnustep-make|2.9.0|2_9_1|
 |gnutls|3.8.4|3.8.5|
 |gnutls+32|3.6.15|3.8.5|
-|go|1.22.2<br>+tools0.20.0<br>+net0.24.0|1.22.2|Compound version number '1.22.2+tools0.20.0+net0.24.0'|
+|go|1.22.2<br>+tools0.20.0<br>+net0.24.0|1.22.3|Compound version number '1.22.2+tools0.20.0+net0.24.0'|
 |go-md2man|2.0.3|2.0.4|
 |gobject-introspection|1.80.0|1.80.1|
 |goffice|0.10.48|0.10.57|
@@ -2596,6 +2599,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rrdtool|1.7.2|1.8.0|
 |rsa|4.0|4.9|
 |rsync|3.2.7|3.3.0|
+|rt-tests|2.6|2.7|
 |rtaudio|5.1.0|6.0.1|
 |rtmidi|4.0.0|6.0.0|
 |rtmpdump|20151223|2.3|Possible downgrade from the current version (20151223   2.3)|
@@ -2956,6 +2960,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tslib|1.21|1.23|
 |ttf-misaki|2021.05.05|2021-05-05|
 |ttf-tibetan-machine-unicode|1.901b|1.901|
+|ttf-vlgothic|20200720|20220612|
 |ttyd|1.6.3|1.7.7|
 |tuned|2.19.0|2.22.1|
 |twin-style-machbunt|14.1.0|14.1.2|
