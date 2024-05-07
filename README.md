@@ -916,7 +916,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |idna|3.3|3.7|
 |ifaddr|0.1.7|0.2.0|
 |iftop|1.0pre4|0.17|Possible downgrade from the current version (1.0pre4   0.17)|
-|igraph|0.7.1|0.10.11|
+|igraph|0.7.1|0.10.12|
 |igv|2.15.1|2.16.2|
 |iio-sensor-proxy|3.4|3.5|
 |imagemagick|6.9.13<br>+7|6.9.13-10|Compound version number '6.9.13+7'|
