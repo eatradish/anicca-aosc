@@ -1818,6 +1818,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |menumaker|0.99.12|0.99.14|
 |mercurial|5.2.1|6.7.3|
 |merkuro|23.08.5|24.02.2|
+|mesa|24.0.6<br>+dxheaders1.611.0|24.0.6|Compound version number '24.0.6+dxheaders1.611.0'|
 |mesa+32|22.1.7|24.0.6|
 |mesa-amber|21.3.9|24.0.6|
 |messagelib|23.08.5|24.02.2|
@@ -2357,6 +2358,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |poppler-data|0.4.9|0.4.12|
 |popt|1.18|1.19|
 |popt+32|1.16|1.19|
+|portaudio|19<br>+20140130|190600_20161030|Compound version number '19+20140130'|
 |portaudio+32|19<br>+20140130|190600_20161030|Compound version number '19+20140130'|
 |portmidi|217|236|
 |postfix|3.7.3|3.9.0|
@@ -2581,6 +2583,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rocm-smi-lib|6.0.2|6.1.0|
 |rocminfo|6.0.2|6.1.0|
 |rocr-runtime|6.0.2|6.1.0|
+|rocs|23.08.5|24.02.2|
 |roct-thunk-interface|6.0.0|6.1.0|
 |ronn-ng|0.9.1|0.10.1|
 |rosegarden|20.12|23.12|
