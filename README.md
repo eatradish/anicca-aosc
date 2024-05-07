@@ -423,7 +423,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |distorm|3.5.1|3.5.2b|
 |distro|1.6.0|1.9.0|
 |distrobox|1.4.2.1|1.7.2.1|
-|django|5.0.3|5.0.5|
+|django|5.0.3|5.0.6|
 |dkms|2.8.3|3.0.13|
 |dlib|19.20.0|19.24.4|
 |dmd|2.089.0|2.108.1|
@@ -3109,7 +3109,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |x11-proto|2023.2|2024.1|
 |x11-proto+32|2019.2|2024.1|
 |x264|20170521|3190|Possible downgrade from the current version (20170521   3190)|
-|x264+32|20160827.2245|3190|Possible downgrade from the current version (20160827.2245   3190)|
 |x265+32|2.2|3.6|
 |xa|2.4.0|2.4.1|
 |xalan-c|1.12|1.12.0|
