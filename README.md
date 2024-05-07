@@ -140,7 +140,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |avahi-tqt|14.1.0|14.1.2|
 |avogadrolibs|1.95.1|1.99.0|
 |avr-binutils|2.37|2.42|
-|avr-gcc|10.3.1<br>+git20210510|13.2.0|Compound version number '10.3.1+git20210510'<br>Version number indicates a snapshot (+git) is used|
+|avr-gcc|10.3.1<br>+git20210510|14.1.0|Compound version number '10.3.1+git20210510'<br>Version number indicates a snapshot (+git) is used|
 |avr-libc|2.0.0|2.1.0|
 |avrdude|6.3|7.3|
 |axel|2.17.11|2.17.14|
@@ -637,17 +637,18 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gawk|5.2.1|5.3.0|
 |gc|8.2.6|8.2.4|Possible downgrade from the current version (8.2.6   8.2.4)|
 |gcab|1.1|1.6|
-|gcc+32|11.2.0|13.2.0|
-|gcc+cross-amd64|9.3.1|13.2.0|
-|gcc+cross-arm64|12.2.0<br>+glibc2.36<br>+4|13.2.0|Compound version number '12.2.0+glibc2.36+4'|
-|gcc+cross-loongarch64|13.2.0<br>+glibc2.37<br>+1|13.2.0|Compound version number '13.2.0+glibc2.37+1'|
-|gcc+cross-loongson3|13.2.0<br>+glibc2.37<br>+0|13.2.0|Compound version number '13.2.0+glibc2.37+0'|
-|gcc+cross-mips64r6el|12.2.0<br>+glibc2.36-4|13.2.0|Compound version number '12.2.0+glibc2.36-4'|
-|gcc+cross-powerpc|9.3.1|13.2.0|
-|gcc+cross-ppc64|9.3.1|13.2.0|
-|gcc+cross-ppc64el|12.3.0|13.2.0|
-|gcc+cross-riscv64|12.1.0|13.2.0|
-|gcc+w64|9.3.1|13.2.0|
+|gcc|13.2.0|14.1.0|
+|gcc+32|11.2.0|14.1.0|
+|gcc+cross-amd64|9.3.1|14.1.0|
+|gcc+cross-arm64|12.2.0<br>+glibc2.36<br>+4|14.1.0|Compound version number '12.2.0+glibc2.36+4'|
+|gcc+cross-loongarch64|13.2.0<br>+glibc2.37<br>+1|14.1.0|Compound version number '13.2.0+glibc2.37+1'|
+|gcc+cross-loongson3|13.2.0<br>+glibc2.37<br>+0|14.1.0|Compound version number '13.2.0+glibc2.37+0'|
+|gcc+cross-mips64r6el|12.2.0<br>+glibc2.36-4|14.1.0|Compound version number '12.2.0+glibc2.36-4'|
+|gcc+cross-powerpc|9.3.1|14.1.0|
+|gcc+cross-ppc64|9.3.1|14.1.0|
+|gcc+cross-ppc64el|12.3.0|14.1.0|
+|gcc+cross-riscv64|12.1.0|14.1.0|
+|gcc+w64|9.3.1|14.1.0|
 |gcdemu|3.2.4|3.2.6|
 |gcr|3.41.1|4.3.0|
 |gdal|3.8.4|3.8.5|
@@ -2615,7 +2616,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ruby-pkg-config|1.4.4|1.5.6|
 |rustc-demangle|0.1.21|0.1.23|
 |rxvt-unicode|9.22|9.31|
-|rygel|0.40.4|0.42.5|
+|rygel|0.40.4|0.42.6|
 |s-tui|1.1.3|1.1.6|
 |s2tc|1.0<br>+git20210317|1.0|Compound version number '1.0+git20210317'<br>Version number indicates a snapshot (+git) is used|
 |s2tc+32|20150112|1.0|Possible downgrade from the current version (20150112   1.0)|
