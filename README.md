@@ -422,7 +422,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |distlib|0.3.1|0.3.8|
 |distorm|3.5.1|3.5.2b|
 |distro|1.6.0|1.9.0|
-|distrobox|1.4.2.1|1.7.2.0|
+|distrobox|1.4.2.1|1.7.2.1|
 |django|5.0.3|5.0.5|
 |dkms|2.8.3|3.0.13|
 |dlib|19.20.0|19.24.4|
