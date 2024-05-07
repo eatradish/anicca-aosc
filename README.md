@@ -804,7 +804,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gsasl|1.8.1|2.2.1|
 |gsettings-desktop-schemas|42.0|46.0|
 |gsl|2.5|2.7.1|
-|gsm|1.0.19|1.0.22|
 |gsm+32|1.0.19|1.0.22|
 |gsmartcontrol|1.1.3|1.1.4|
 |gsoap|2.8.124|2.8.134|
@@ -1776,6 +1775,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mate-common|1.26.0|1.28.0|
 |mate-control-center|1.26.1|1.28.0|
 |mate-desktop|1.26.0|1.28.2|
+|mate-hud|19.10.1|22.10.3|
 |mate-icon-theme|1.26.0|1.28.0|
 |mate-media|1.26.2|1.28.1|
 |mate-menu|20.04.3|22.04.2|
