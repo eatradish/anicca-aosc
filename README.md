@@ -3186,7 +3186,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |yosys|0.39|0.40|
 |ytmusicapi|1.5.1|1.7.0|
 |yubico-pam|2.26|2.27|
-|yubico-piv-tool|2.3.1|2.5.1|
+|yubico-piv-tool|2.3.1|2.5.2|
 |yubikey-manager|4.0.1|5.4.0|
 |yubikey-manager-qt|1.2.1|1.2.6|
 |yubioath-desktop|5.1.0|7.0.0|
