@@ -3109,6 +3109,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |x11-proto|2023.2|2024.1|
 |x11-proto+32|2019.2|2024.1|
 |x264|20170521|3190|Possible downgrade from the current version (20170521   3190)|
+|x264+32|20160827.2245|3190|Possible downgrade from the current version (20160827.2245   3190)|
 |x265+32|2.2|3.6|
 |xa|2.4.0|2.4.1|
 |xalan-c|1.12|1.12.0|
