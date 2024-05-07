@@ -183,7 +183,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |black-hole-solver|1.10.1|1.12.0|
 |bleachbit|4.0.0|4.6.0|
 |blender|4.0.2|4.1.1|
-|blinken|23.08.5|24.02.2|
 |blinker|1.4|1.8.2|
 |bluedevil|5.27.11|6.0.4|
 |blueman|2.2.2|2.4.1|
@@ -804,6 +803,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gsasl|1.8.1|2.2.1|
 |gsettings-desktop-schemas|42.0|46.0|
 |gsl|2.5|2.7.1|
+|gsm|1.0.19|1.0.22|
 |gsm+32|1.0.19|1.0.22|
 |gsmartcontrol|1.1.3|1.1.4|
 |gsoap|2.8.124|2.8.134|
