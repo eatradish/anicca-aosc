@@ -1853,6 +1853,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |modem-manager-gui|0.0.19.1|0.0.20|
 |modemmanager|1.18.12|1.22.0|
 |modemmanager-qt|5.115.0|6.0.4|
+|mokutil|0.6.0|0.7.2|
 |mold|2.4.0|2.31.0|
 |mono|6.12.0.182|6.12.0.206|
 |monotonic|1.5|1.6|
@@ -1924,7 +1925,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |netaddr|0.7.19|1.2.1|
 |netavark|1.9.0|1.10.3|
 |netcat|1.219|1.226|
-|netcdf|4.7.4|4.9.2|
 |netctl|1.23|1.25|
 |netease-cloud-music-gtk|2.3.0|1.0.13|Possible downgrade from the current version (2.3.0   1.0.13)|
 |nethack|3.6.6|3.6.7_Released|
