@@ -1894,7 +1894,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |muparser|2.2.6.1|2.3.4|
 |mupdf|1.18.0|1.24.1|
 |musescore|4.2.1|4.3.0|
-|musicbox|0.3.0<br>+git20201222|0.3.1|Compound version number '0.3.0+git20201222'<br>Version number indicates a snapshot (+git) is used|
 |mutagen|1.46.0|1.47.0|
 |mutter|42.4|46.1|
 |mxml|3.2|4.0.3|
@@ -1997,7 +1996,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |okteta|0.26.9|0.26.15|
 |okular|23.08.5|24.02.2|
 |olefile|0.46|0.47|
-|oma|1.3.5|1.12.13|
+|oma|1.3.6|1.12.13|
 |onig|6.9.5<br>+rev1|6.9.9|Compound version number '6.9.5+rev1'|
 |oolite|1.90|1.91.0.7604-240417-a536cbe|
 |opam|2.1.3|2.1.5|
