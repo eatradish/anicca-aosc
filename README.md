@@ -1776,7 +1776,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mate-common|1.26.0|1.28.0|
 |mate-control-center|1.26.1|1.28.0|
 |mate-desktop|1.26.0|1.28.2|
-|mate-hud|19.10.1|22.10.3|
 |mate-icon-theme|1.26.0|1.28.0|
 |mate-media|1.26.2|1.28.1|
 |mate-menu|20.04.3|22.04.2|
@@ -2287,6 +2286,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pexpect|4.8.0|4.9.0|
 |pgxnclient|1.3.1|1.3.2|
 |phonon|4.11.1|4.12.0|
+|php|8.3.6|8.3.7|
 |picard|2.8.5|2.11|
 |picmi|23.08.5|24.02.2|
 |picocom|3.1|2023-04|
