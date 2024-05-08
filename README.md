@@ -1478,6 +1478,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libkipi|23.08.5|24.02.2|
 |libkipi-trinity|14.1.0|14.1.2|
 |libkkc|0.3.5<br>+git20210213|0.3.5|Compound version number '0.3.5+git20210213'<br>Version number indicates a snapshot (+git) is used|
+|libkkc-data|0.2.7|0.3.5|
 |libkleo|23.08.5|24.02.2|
 |libkmahjongg|23.08.5|24.02.2|
 |libkolabxml|1.2.0|1.2.1|
