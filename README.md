@@ -25,6 +25,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |adobe-source-han-serif|2.002|2.002R|Possible downgrade from the current version (2.002   2.002R)|
 |adobe-source-sans|3.052|3.052R|Possible downgrade from the current version (3.052   3.052R)|
 |adobe-source-serif|4.005|4.005R|Possible downgrade from the current version (4.005   4.005R)|
+|adwaita-icon-theme|42.0|46.0|
 |adwaita-qt|1.4.1|1.4.2|
 |aegisub|3.2.2<br>+git20231203|3.2.2|Compound version number '3.2.2+git20231203'<br>Version number indicates a snapshot (+git) is used|
 |agrep|4.17|4.17.orig|Possible downgrade from the current version (4.17   4.17.orig)|
@@ -540,7 +541,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fcitx5-kkc|5.1.0|5.1.3|
 |fcitx5-libthai|5.1.1|5.1.3|
 |fcitx5-lua|5.0.11|5.0.13|
-|fcitx5-m17n|5.1.0|5.1.1|
 |fcitx5-mozc|2.29.5160.102<br>+fcitx5<br>+git20230919|2.29.5374.102|Compound version number '2.29.5160.102+fcitx5+git20230919'<br>Version number indicates a snapshot (+git) is used|
 |fcitx5-pinyin-zhwiki|0.2.3<br>+dict20210823|0.2.4|Compound version number '0.2.3+dict20210823'|
 |fcitx5-rime|5.1.3|5.1.6|
@@ -2151,6 +2151,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-devel-checklib|1.13|1.16|
 |perl-devel-stacktrace|2.04|2.05|
 |perl-devel-symdump|2.0604|2.18|Possible downgrade from the current version (2.0604   2.18)|
+|perl-digest-hmac|1.03|1.04|
 |perl-email-abstract|3.008|3.010|
 |perl-email-address|1.912|1.913|
 |perl-email-date-format|1.005|1.008|
