@@ -139,6 +139,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |avahi-tqt|14.1.0|14.1.2|
 |avogadrolibs|1.95.1|1.99.0|
 |avr-binutils|2.37|2.42|
+|avr-gcc|10.3.1<br>+git20210510|14.1.0|Compound version number '10.3.1+git20210510'<br>Version number indicates a snapshot (+git) is used|
 |avr-libc|2.0.0|2.1.0|
 |avrdude|6.3|7.3|
 |axel|2.17.11|2.17.14|
@@ -905,6 +906,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ibus-m17n|1.4.7|1.4.29|
 |ibus-qt|1.3.3|1.3.4|
 |ibus-sunpinyin|3.0.0~rc1|2.0.3-rel-1|Possible downgrade from the current version (3.0.0~rc1   2.0.3-rel-1)|
+|ibus-table|1.14.1|1.17.4|
 |icdiff|1.9.5|2.0.7|
 |icewm|1.8.3|3.4.7|
 |icewm-themes|1.2.26|1.2.26.orig|Possible downgrade from the current version (1.2.26   1.2.26.orig)|
@@ -1079,6 +1081,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kdev-php|23.08.5|24.02.2|
 |kdev-python|23.08.5|24.02.2|
 |kdevelop|23.08.5|24.02.2|
+|kdevelop-pg-qt|2.2.1|2.2.2|
 |kdewebkit|5.115.0|6.0.4|
 |kdf|23.08.5|24.02.2|
 |kdiagram|2.8.0|3.0.1|
@@ -1350,7 +1353,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libatomic-ops|7.8.0|7.8.2|
 |libavif|0.11.1|1.0.4|
 |libblkio|1.3.0|1.4.0|
-|libblockdev|2.23|3.1.1|
 |libbloom|1.6|2.0|
 |libbluray+32|1.2.1|1.3.4|
 |libbpf|1.2.0|1.4.1|
@@ -1388,7 +1390,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libdmapsharing|2.9.41|3_9_13|
 |libdnet|1.12|1.18.0|
 |libdrm+32|2.4.113|2.4.120|
-|libdvdcss+32|1.4.2|1.4.3|
 |libdvdnav+32|5.0.3|6.1.1|
 |libdvdread|6.1.1|6.1.3|
 |libdvdread+32|5.0.3|6.1.3|
@@ -1626,6 +1627,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libvirt-python|10.1.0|10.3.0|
 |libvisual|0.4.0|0.4.2|
 |libvisual+32|0.4.0|0.4.2|
+|libvncserver|0.9.13|0.9.14|
 |libvoikko|4.3.1|4.3.2|
 |libvpx|1.10.0|1.14.0|
 |libvpx+32|1.9.0|1.14.0|
@@ -1812,9 +1814,9 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |menumaker|0.99.12|0.99.14|
 |mercurial|5.2.1|6.7.3|
 |merkuro|23.08.5|24.02.2|
-|mesa|24.0.6<br>+dxheaders1.611.0|24.0.6|Compound version number '24.0.6+dxheaders1.611.0'|
-|mesa+32|22.1.7|24.0.6|
-|mesa-amber|21.3.9|24.0.6|
+|mesa|24.0.6<br>+dxheaders1.611.0|24.0.7|Compound version number '24.0.6+dxheaders1.611.0'|
+|mesa+32|22.1.7|24.0.7|
+|mesa-amber|21.3.9|24.0.7|
 |messagelib|23.08.5|24.02.2|
 |metacity|3.44.0|3.46.0|
 |mgba|0.9.2|0.10.3|
@@ -2269,6 +2271,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-xml-parser+32|999|2.47|Possible downgrade from the current version (999   2.47)|
 |perl-xml-sax|1.00|1.02|
 |perl-xml-sax-expat|0.51|1.33|
+|perl-xml-writer|0.625|0.900|
 |perl-xml-xpath|1.44|1.48|
 |perl-yaml-libyaml|0.85|0.89|
 |perl-yaml-tiny|1.73|1.74|
@@ -2529,6 +2532,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |random2|1.0.1|1.0.2|
 |rapidfuzz|3.2.0|3.1.1|Possible downgrade from the current version (3.2.0   3.1.1)|
 |rapidfuzz-cpp|2.0.0|3.0.4|
+|raptor2|2.0.15|2.0.16|
 |rarian|0.8.1|0.8.5|
 |razergenie|0.9.0|1.1.0|
 |razor-agents|2.85|2.152|
@@ -2612,7 +2616,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |s2tc|1.0<br>+git20210317|1.0|Compound version number '1.0+git20210317'<br>Version number indicates a snapshot (+git) is used|
 |s2tc+32|20150112|1.0|Possible downgrade from the current version (20150112   1.0)|
 |s3transfer|0.5.0|0.10.1|
-|samba|4.17.2|4.20.0|
+|samba|4.17.2|4.20.1|
 |samtools|1.16.1|1.20|
 |sane-backends|1.0.32|1.3.0|
 |sanlock|3.8.5|3.9.2|
