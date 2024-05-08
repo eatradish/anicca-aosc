@@ -65,6 +65,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |aom|3.8.1|3.9.0|
 |aosc-community-wallpapers-extras-2023|2023.10.1|2024.04.0|
 |aosc-community-wallpapers-extras-2024|2024.04.1|2024.04.0|Possible downgrade from the current version (2024.04.1   2024.04.0)|
+|aosc-findupdate|0.4.0|0.3.2|Possible downgrade from the current version (0.4.0   0.3.2)|
 |aosc-media-writer|0.3.4|5.0.9|
 |aosc-xdg-menu|20200412|20160217|Possible downgrade from the current version (20200412   20160217)|
 |aoscbootstrap|0.4.5|0.4.7|
@@ -462,7 +463,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |doxygen|1.10.0|1_10_0|
 |doxyqml|0.5.0|0.5.3|
 |dpdk|22.11.1|24.03|
-|dpkg|1.21.22|1.22.6|
 |dragon|23.08.5|24.02.2|
 |drkonqi|5.27.11|6.0.4|
 |dropbox|148.4.4519|198.4.7615|
@@ -955,6 +955,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ipset|7.1|7.21|
 |iptables|1.8.8|1.8.10|
 |iptraf-ng|1.1.4|1.2.1|
+|ipy|0.83|1.01|
 |ipython|7.28.0|8.24.0|
 |irrlicht|1.8.4|1.8.5|
 |irssi|1.2.3|1.4.5|
@@ -1154,6 +1155,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kirigami-addons|0.11.0|1.1.0|
 |kirigami-gallery|23.08.5|24.02.2|
 |kirigami2|5.115.0|6.0.4|
+|kiriki|23.08.5|24.02.2|
 |kitemmodels|5.115.0|6.0.4|
 |kitemviews|5.115.0|6.0.4|
 |kiten|23.08.5|24.02.2|
@@ -2602,6 +2604,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rtaudio|5.1.0|6.0.1|
 |rtmidi|4.0.0|6.0.0|
 |rtmpdump|20151223|2.3|Possible downgrade from the current version (20151223   2.3)|
+|rtmpdump+32|20150114|2.3|Possible downgrade from the current version (20150114   2.3)|
 |rtslib-fb|2.1.75|2.1.76|
 |rtv|1.27.0|1.27.1|
 |ruamel-yaml|0.17.19|0.18.6|
