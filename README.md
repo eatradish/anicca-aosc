@@ -432,6 +432,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dnsdiag|1.6.4|2.1.0|
 |dnsmasq|2.89|2.90|
 |dnspython|2.3.0|2.6.1|
+|docbook-dtd|4.5|5.1|
 |docbook-sgml|0|4.5|
 |docbook-xml|0|5.1|
 |docker|25.0.3<br>+tini0.19.0|26.1.1|Compound version number '25.0.3+tini0.19.0'|
