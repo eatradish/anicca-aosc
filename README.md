@@ -2905,7 +2905,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |testdisk|7.0|7.2|
 |tevent|0.13.0|0.16.1|
 |texlive|20220321|2024|Possible downgrade from the current version (20220321   2024)|
-|texmaker|5.1.2|5.1.4|
 |texstudio|4.0.2|4.7.3|
 |texworks|0.6.6|0.6.9|
 |thedarkmod|2.09a|2.12|
