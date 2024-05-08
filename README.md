@@ -129,7 +129,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |audit|3.1|4.0.1|
 |audiveris|5.1.0|5.3.1|
 |autobahn|19.2.1|23.6.2|
-|autobuild4|4.1.9|1.9.1|Possible downgrade from the current version (4.1.9   1.9.1)|
 |autoconf-archive|2021.02.19|2023.02.20|
 |autofs|5.1.8|5.1.9|
 |autojump-rs|0.5.1<br>+22.5.3|0.5.1|Compound version number '0.5.1+22.5.3'<br>Possible downgrade from the current version (0.5.1+22.5.3   0.5.1)|
@@ -1896,7 +1895,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |musescore|4.2.1|4.3.0|
 |mutagen|1.46.0|1.47.0|
 |mutter|42.4|46.1|
-|mxml|3.2|4.0.3|
 |mycli|1.23.2|1.27.2|
 |mygpoclient|1.8|1.9|
 |n2n|2.8|3.1.1|
@@ -2518,7 +2516,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qhull|7.2.0|8.0.2|
 |qjackctl|0.9.7|0.9.91|
 |qmlkonsole|23.08.5|24.02.2|
-|qmltermwidget|0.2.0<br>+git20220109|0.6.0|Compound version number '0.2.0+git20220109'<br>Version number indicates a snapshot (+git) is used|
 |qmmp|1.6.5|2.1.7|
 |qownnotes|22.6.1|24.5.1|
 |qqc2-desktop-style|5.115.0|6.0.4|
