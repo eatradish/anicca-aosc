@@ -1353,6 +1353,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libatomic-ops|7.8.0|7.8.2|
 |libavif|0.11.1|1.0.4|
 |libblkio|1.3.0|1.4.0|
+|libblockdev|2.23|3.1.1|
 |libbloom|1.6|2.0|
 |libbluray+32|1.2.1|1.3.4|
 |libbpf|1.2.0|1.4.1|
@@ -1390,6 +1391,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libdmapsharing|2.9.41|3_9_13|
 |libdnet|1.12|1.18.0|
 |libdrm+32|2.4.113|2.4.120|
+|libdvdcss+32|1.4.2|1.4.3|
 |libdvdnav+32|5.0.3|6.1.1|
 |libdvdread|6.1.1|6.1.3|
 |libdvdread+32|5.0.3|6.1.3|
@@ -2282,7 +2284,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |php|8.3.6|8.3.7|
 |picard|2.8.5|2.11|
 |picmi|23.08.5|24.02.2|
-|picocom|3.1|2023-04|
 |pidgin|2.14.12|2.14.13|
 |pikepdf|2.8.0|8.15.1|
 |piklab-trinity|14.1.0|14.1.2|
