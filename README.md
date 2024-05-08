@@ -183,6 +183,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |black-hole-solver|1.10.1|1.12.0|
 |bleachbit|4.0.0|4.6.0|
 |blender|4.0.2|4.1.1|
+|blinken|23.08.5|24.02.2|
 |blinker|1.4|1.8.2|
 |bluedevil|5.27.11|6.0.4|
 |blueman|2.2.2|2.4.1|
@@ -1477,7 +1478,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libkipi|23.08.5|24.02.2|
 |libkipi-trinity|14.1.0|14.1.2|
 |libkkc|0.3.5<br>+git20210213|0.3.5|Compound version number '0.3.5+git20210213'<br>Version number indicates a snapshot (+git) is used|
-|libkkc-data|0.2.7|0.3.5|
 |libkleo|23.08.5|24.02.2|
 |libkmahjongg|23.08.5|24.02.2|
 |libkolabxml|1.2.0|1.2.1|
