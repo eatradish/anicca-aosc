@@ -637,6 +637,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gaupol|1.7|1.14.1|
 |gawk|5.2.1|5.3.0|
 |gc|8.2.6|8.2.4|Possible downgrade from the current version (8.2.6   8.2.4)|
+|gcab|1.1|1.6|
 |gcc|13.2.0|14.1.0|
 |gcc+32|11.2.0|14.1.0|
 |gcc+cross-amd64|9.3.1|14.1.0|
@@ -821,6 +822,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gtest|1.10.0<br>+git20210513|1.14.0|Compound version number '1.10.0+git20210513'<br>Version number indicates a snapshot (+git) is used|
 |gti|1.6.1|1.9.1|
 |gtk-2+32|2.24.32|2.24.33|
+|gtk-4|4.14.1|4.14.4|
 |gtk-doc|1.33.2|1.34.0|
 |gtk-engines-2|2.21.0|2.20.2|Possible downgrade from the current version (2.21.0   2.20.2)|
 |gtk-layer-shell|0.8.1|0.8.2|
@@ -3185,7 +3187,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |yelp|42.1|42.2|
 |yelp-tools|42.0|42.1|
 |yelp-xsl|42.0|42.1|
-|yosys|0.39|0.40|
 |ytmusicapi|1.5.1|1.7.0|
 |yubico-pam|2.26|2.27|
 |yubico-piv-tool|2.3.1|2.5.2|
