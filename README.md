@@ -637,7 +637,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gaupol|1.7|1.14.1|
 |gawk|5.2.1|5.3.0|
 |gc|8.2.6|8.2.4|Possible downgrade from the current version (8.2.6   8.2.4)|
-|gcab|1.1|1.6|
 |gcc|13.2.0|14.1.0|
 |gcc+32|11.2.0|14.1.0|
 |gcc+cross-amd64|9.3.1|14.1.0|
@@ -822,7 +821,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gtest|1.10.0<br>+git20210513|1.14.0|Compound version number '1.10.0+git20210513'<br>Version number indicates a snapshot (+git) is used|
 |gti|1.6.1|1.9.1|
 |gtk-2+32|2.24.32|2.24.33|
-|gtk-4|4.14.1|4.14.4|
 |gtk-doc|1.33.2|1.34.0|
 |gtk-engines-2|2.21.0|2.20.2|Possible downgrade from the current version (2.21.0   2.20.2)|
 |gtk-layer-shell|0.8.1|0.8.2|
@@ -2905,6 +2903,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |testdisk|7.0|7.2|
 |tevent|0.13.0|0.16.1|
 |texlive|20220321|2024|Possible downgrade from the current version (20220321   2024)|
+|texmaker|5.1.2|5.1.4|
 |texstudio|4.0.2|4.7.3|
 |texworks|0.6.6|0.6.9|
 |thedarkmod|2.09a|2.12|
