@@ -139,7 +139,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |avahi-tqt|14.1.0|14.1.2|
 |avogadrolibs|1.95.1|1.99.0|
 |avr-binutils|2.37|2.42|
-|avr-gcc|10.3.1<br>+git20210510|14.1.0|Compound version number '10.3.1+git20210510'<br>Version number indicates a snapshot (+git) is used|
 |avr-libc|2.0.0|2.1.0|
 |avrdude|6.3|7.3|
 |axel|2.17.11|2.17.14|
@@ -541,6 +540,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fcitx5-kkc|5.1.0|5.1.3|
 |fcitx5-libthai|5.1.1|5.1.3|
 |fcitx5-lua|5.0.11|5.0.13|
+|fcitx5-m17n|5.1.0|5.1.1|
 |fcitx5-mozc|2.29.5160.102<br>+fcitx5<br>+git20230919|2.29.5374.102|Compound version number '2.29.5160.102+fcitx5+git20230919'<br>Version number indicates a snapshot (+git) is used|
 |fcitx5-pinyin-zhwiki|0.2.3<br>+dict20210823|0.2.4|Compound version number '0.2.3+dict20210823'|
 |fcitx5-rime|5.1.3|5.1.6|
@@ -905,7 +905,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ibus-m17n|1.4.7|1.4.29|
 |ibus-qt|1.3.3|1.3.4|
 |ibus-sunpinyin|3.0.0~rc1|2.0.3-rel-1|Possible downgrade from the current version (3.0.0~rc1   2.0.3-rel-1)|
-|ibus-table|1.14.1|1.17.4|
 |icdiff|1.9.5|2.0.7|
 |icewm|1.8.3|3.4.7|
 |icewm-themes|1.2.26|1.2.26.orig|Possible downgrade from the current version (1.2.26   1.2.26.orig)|
@@ -1080,7 +1079,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kdev-php|23.08.5|24.02.2|
 |kdev-python|23.08.5|24.02.2|
 |kdevelop|23.08.5|24.02.2|
-|kdevelop-pg-qt|2.2.1|2.2.2|
 |kdewebkit|5.115.0|6.0.4|
 |kdf|23.08.5|24.02.2|
 |kdiagram|2.8.0|3.0.1|
@@ -1628,7 +1626,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libvirt-python|10.1.0|10.3.0|
 |libvisual|0.4.0|0.4.2|
 |libvisual+32|0.4.0|0.4.2|
-|libvncserver|0.9.13|0.9.14|
 |libvoikko|4.3.1|4.3.2|
 |libvpx|1.10.0|1.14.0|
 |libvpx+32|1.9.0|1.14.0|
@@ -2272,7 +2269,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-xml-parser+32|999|2.47|Possible downgrade from the current version (999   2.47)|
 |perl-xml-sax|1.00|1.02|
 |perl-xml-sax-expat|0.51|1.33|
-|perl-xml-writer|0.625|0.900|
 |perl-xml-xpath|1.44|1.48|
 |perl-yaml-libyaml|0.85|0.89|
 |perl-yaml-tiny|1.73|1.74|
@@ -2533,7 +2529,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |random2|1.0.1|1.0.2|
 |rapidfuzz|3.2.0|3.1.1|Possible downgrade from the current version (3.2.0   3.1.1)|
 |rapidfuzz-cpp|2.0.0|3.0.4|
-|raptor2|2.0.15|2.0.16|
 |rarian|0.8.1|0.8.5|
 |razergenie|0.9.0|1.1.0|
 |razor-agents|2.85|2.152|
