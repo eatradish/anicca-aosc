@@ -129,6 +129,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |audit|3.1|4.0.1|
 |audiveris|5.1.0|5.3.1|
 |autobahn|19.2.1|23.6.2|
+|autobuild4|4.1.9|1.9.1|Possible downgrade from the current version (4.1.9   1.9.1)|
 |autoconf-archive|2021.02.19|2023.02.20|
 |autofs|5.1.8|5.1.9|
 |autojump-rs|0.5.1<br>+22.5.3|0.5.1|Compound version number '0.5.1+22.5.3'<br>Possible downgrade from the current version (0.5.1+22.5.3   0.5.1)|
@@ -1105,7 +1106,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |keepassxc|2.6.6|2.7.8|
 |kemoticons|5.115.0|6.0.4|
 |kernel-tools|6.7.5|5.19.17|Possible downgrade from the current version (6.7.5   5.19.17)|
-|keximdb-trinity|14.1.0|14.1.2|
 |keyring|21.7.0|25.2.0|
 |keysmith|23.08.5|24.02.2|
 |kfilemetadata|5.115.0|6.0.4|
@@ -1314,7 +1314,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kwayland-integration|5.27.11|6.0.4|
 |kweather|23.08.5|24.02.2|
 |kweathercore|0.7|0.8.0|
-|kwidgetsaddons|5.115.0|6.0.4|
 |kwin|5.27.11|6.0.4|
 |kwindowsystem|5.115.0|6.0.4|
 |kwordquiz|23.08.5|24.02.2|
@@ -1433,7 +1432,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libgnome-games-support|1.8.2|2.0.0|
 |libgnomekbd|3.28.0|3.28.1|
 |libgnt|2.14.0|2.14.3|
-|libgovirt|0.3.8|0.3.9|
 |libgpg-error|1.48|1.49|
 |libgpg-error+32|1.41|1.49|
 |libgpg-error-static|1.48|1.49|
@@ -1895,6 +1893,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |musescore|4.2.1|4.3.0|
 |mutagen|1.46.0|1.47.0|
 |mutter|42.4|46.1|
+|mxml|3.2|4.0.3|
 |mycli|1.23.2|1.27.2|
 |mygpoclient|1.8|1.9|
 |n2n|2.8|3.1.1|
@@ -2292,7 +2291,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pidgin|2.14.12|2.14.13|
 |pikepdf|2.8.0|8.15.1|
 |piklab-trinity|14.1.0|14.1.2|
-|pillow|8.4.0|10.3.0|
 |pim-data-exporter|23.08.5|24.02.2|
 |pim-sieve-editor|23.08.5|24.02.2|
 |pimcommon|23.08.5|24.02.2|
@@ -2516,6 +2514,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qhull|7.2.0|8.0.2|
 |qjackctl|0.9.7|0.9.91|
 |qmlkonsole|23.08.5|24.02.2|
+|qmltermwidget|0.2.0<br>+git20220109|0.6.0|Compound version number '0.2.0+git20220109'<br>Version number indicates a snapshot (+git) is used|
 |qmmp|1.6.5|2.1.7|
 |qownnotes|22.6.1|24.5.1|
 |qqc2-desktop-style|5.115.0|6.0.4|
@@ -3010,7 +3009,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |usbutils|015|017|
 |utfcpp|3.2.1|4.0.5|
 |uthash|2.1.0|2.3.0|
-|util-linux|2.40|2.40.1|
 |util-linux+32|2.29.2|2.40.1|
 |util-macros|1.20.0|1.20.1|
 |util-macros+32|999|1.20.1|Possible downgrade from the current version (999   1.20.1)|
@@ -3062,7 +3060,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vulkan-utility-libraries|1.3.280.0|1.3.283|
 |vulkan-validationlayers|1.3.280.0|1.3.283|
 |warpinator|1.6.3|1.8.3|
-|warzone2100|4.1.3|4.4.2|
 |watchman|4.9.0|2024.05.06.00|
 |wavpack|5.2.0|5.7.0|
 |wavpack+32|5.2.0|5.7.0|
