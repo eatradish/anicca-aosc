@@ -1019,6 +1019,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |katapult-trinity|14.1.0|14.1.2|
 |kate|23.08.5|24.02.2|
 |katomic|23.08.5|24.02.2|
+|kauth|5.115.0|6.0.4|
 |kbarcode-trinity|14.1.0|14.1.2|
 |kbd|2.5.1|2.6.4|
 |kbfx-trinity|14.1.0|14.1.2|
