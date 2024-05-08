@@ -2284,6 +2284,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |php|8.3.6|8.3.7|
 |picard|2.8.5|2.11|
 |picmi|23.08.5|24.02.2|
+|picocom|3.1|2023-04|
 |pidgin|2.14.12|2.14.13|
 |pikepdf|2.8.0|8.15.1|
 |piklab-trinity|14.1.0|14.1.2|
