@@ -30,7 +30,7 @@ jobs:
         run: git clone https://github.com/AOSC-Dev/aosc-os-abbs
       
       - name: Run `aosc-findupdate` and render the result to Markdown 
-        run: ./aosc-findupdate/target/release/aosc-findupdate --dry-run -d ./aosc-os-abbs | sed -r "s/\x1B\[([0-9]{1,3}(;[0-9]{1,2};?)?)?[mGK]//g" | python ./scripts/render-markdown.py > README.md
+        run: ./aosc-findupdate/target/release/aosc-findupdate --dry-run -d ./aosc-os-abbs -j pkgsupdate.json | sed -r "s/\x1B\[([0-9]{1,3}(;[0-9]{1,2};?)?)?[mGK]//g" | python ./scripts/render-markdown.py > README.md
 
       - name: Commit
         uses: stefanzweifel/git-auto-commit-action@v5
