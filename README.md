@@ -17,6 +17,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |accerciser|3.40.0|3.42.0|
 |accountsservice|22.08.8|23.13.9|
 |ack|3.2.0|3.7.0|
+|acl|2.3.1|2.3.2|
 |acl+32|2.2.52|2.3.2|
 |acme|2.5.0|2.10.0|
 |adobe-source-code-pro|2.042|2.042-u/1.062-i/1.026-vf|Possible downgrade from the current version (2.042   2.042-u/1.062-i/1.026-vf)|
@@ -24,7 +25,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |adobe-source-han-serif|2.002|2.002R|Possible downgrade from the current version (2.002   2.002R)|
 |adobe-source-sans|3.052|3.052R|Possible downgrade from the current version (3.052   3.052R)|
 |adobe-source-serif|4.005|4.005R|Possible downgrade from the current version (4.005   4.005R)|
-|adwaita-icon-theme|42.0|46.0|
 |adwaita-qt|1.4.1|1.4.2|
 |aegisub|3.2.2<br>+git20231203|3.2.2|Compound version number '3.2.2+git20231203'<br>Version number indicates a snapshot (+git) is used|
 |agrep|4.17|4.17.orig|Possible downgrade from the current version (4.17   4.17.orig)|
@@ -2151,7 +2151,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-devel-checklib|1.13|1.16|
 |perl-devel-stacktrace|2.04|2.05|
 |perl-devel-symdump|2.0604|2.18|Possible downgrade from the current version (2.0604   2.18)|
-|perl-digest-hmac|1.03|1.04|
 |perl-email-abstract|3.008|3.010|
 |perl-email-address|1.912|1.913|
 |perl-email-date-format|1.005|1.008|
@@ -2175,6 +2174,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-file-mimeinfo|0.28<br>+03|0.35|Compound version number '0.28+03'|
 |perl-file-next|1.16|1.18|
 |perl-file-sharedir|1.116|1.118|
+|perl-file-sharedir-install|0.13|0.14|
 |perl-file-which|1.23|1.27|
 |perl-finance-quote|1.49|1.5301|
 |perl-font-ttf|1.05|1.06|
@@ -2528,6 +2528,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |quickjs|2024.01.13|2024-01-13|
 |qwt5|6.1.5|6.2.0|
 |qzdl|3.2.2.3<br>+git20210516|3.2.2.3|Compound version number '3.2.2.3+git20210516'<br>Version number indicates a snapshot (+git) is used|
+|ragel|6.10|7.0.4|
 |random2|1.0.1|1.0.2|
 |rapidfuzz|3.2.0|3.1.1|Possible downgrade from the current version (3.2.0   3.1.1)|
 |rapidfuzz-cpp|2.0.0|3.0.4|
