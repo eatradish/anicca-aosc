@@ -30,7 +30,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |aegisub|3.2.2<br>+git20231203|3.2.2|Compound version number '3.2.2+git20231203'<br>Version number indicates a snapshot (+git) is used|
 |agrep|4.17|4.17.orig|Possible downgrade from the current version (4.17   4.17.orig)|
 |aha|0.5|0.5.1|
-|aide|0.16.2|0.18.7|
 |aiohttp|3.7.4.post0|3.9.5|
 |aisleriot|3.22.24|3.22.32|
 |akode|14.1.0|14.1.2|
@@ -1223,7 +1222,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kontrast|23.08.5|24.02.2|
 |konversation|23.08.5|24.02.2|
 |konversation-trinity|14.1.0|14.1.2|
-|kooldock-trinity|14.1.0|14.1.2|
 |kopeninghours|23.08.5|24.02.2|
 |kopete|23.08.5|24.02.2|
 |kopete-otr-trinity|14.1.0|14.1.2|
@@ -1637,7 +1635,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libwebp|1.3.1|1.4.0|
 |libwebp+32|0.4.3|1.4.0|
 |libwebsockets|3.1.0|4.3.3|
-|libwm|20161006|1.3|Possible downgrade from the current version (20161006   1.3)|
 |libwmf|0.2.8.4|0.2.13|
 |libwnck-3|40.1|43.0|
 |libwpd|0.10.2|0.10.3|
@@ -1688,7 +1685,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |linux-kernel-retro-minimal|5.15.17|5.10.216|Possible downgrade from the current version (5.15.17   5.10.216)|
 |linux-pam|1.6.0|1.6.1|
 |linuxsampler|2.3.0|2.3.1|
-|lirc|0.9.4d|0.10.2|
 |lksctp-tools|1.0.17|1.0.19|
 |lldpd|1.0.17|1.0.18|
 |llfuse|1.4.1|1.5.0|
@@ -1836,7 +1832,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |miniupnpc|2.1|2.2.7|
 |miniupnpd|2.3.5|2.3.6|
 |minizip|1.2.11|1.3.1|
-|minuet|23.08.5|24.02.2|
 |mitmproxy|7.0.4|10.3.0|
 |mixxx|2.3.0|2.4.0|
 |mjpegtools|2.1.0|2.2.1|
@@ -2608,7 +2603,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ruby-ffi|1.10.0|1.16.3|
 |ruby-gettext|3.2.9|3.4.9|
 |ruby-locale|2.1.3|2.1.4|
-|ruby-native-package-installer|1.0.9|1.1.9|
 |ruby-pg|1.1.4|1.5.6|
 |ruby-pkg-config|1.4.4|1.5.6|
 |rustc-demangle|0.1.21|0.1.24|
