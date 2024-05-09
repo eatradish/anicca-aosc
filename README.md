@@ -7,6 +7,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |7-zip|23.01|24.03|
 |a2ps|4.14|4.15.6|
 |aalib|1.4rc5|1.2|Possible downgrade from the current version (1.4rc5   1.2)|
+|aalib+32|1.4rc5|1.2|Possible downgrade from the current version (1.4rc5   1.2)|
 |aardvark-dns|1.9.0|1.10.0|
 |aarty|0.4.9|0.6.1|
 |abakus-trinity|14.1.0|14.1.2|
@@ -306,7 +307,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cmus|2.9.1|2.10.0|
 |cock|0.6.0|0.11.0|
 |cockpit|286.1|316|
-|cockpit-machines|284.1|312|
 |cockpit-podman|63|87|
 |code-server|4.9.1|4.23.1|
 |codeine-trinity|14.1.0|14.1.2|
@@ -604,7 +604,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fractal|7.0|7|
 |frameworkintegration|5.115.0|6.0.4|
 |freealut|1.1.0|1_1_0|
-|freealut+32|1.1.0|1_1_0|
 |freecell-solver|6.2.0|6.8.0|
 |freeciv|2.6.5|3.1.1|
 |freeglut+32|3.0.0|3.4.0|
@@ -1654,7 +1653,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libxdmcp|1.1.4|1.1.5|
 |libxdmcp+32|1.1.3|1.1.5|
 |libxkbcommon+32|0.9.1|1.7.0|
-|libxml++|2.40.1|5.2.0|
 |libxml2|2.10.4|2.12.6|
 |libxml2+32|2.10.4|2.12.6|
 |libxmlb|0.3.15|0.3.19|
@@ -1680,6 +1678,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |linux+kernel+rc|5.8.0|5.19.17|
 |linux+kernel+retro|5.10.132|5.10.216|
 |linux+kernel+retro+minimal|5.15.17|5.10.216|Possible downgrade from the current version (5.15.17   5.10.216)|
+|linux-firmware|20240506<br>+debian20230210<br>+5~bpo11<br>+1|20240410|Compound version number '20240506+debian20230210+5~bpo11+1'<br>Possible downgrade from the current version (20240506+debian20230210+5~bpo11+1   20240410)|
 |linux-kernel|6.7.5|5.19.17|Possible downgrade from the current version (6.7.5   5.19.17)|
 |linux-kernel-lts|6.6.17|5.19.17|Possible downgrade from the current version (6.6.17   5.19.17)|
 |linux-kernel-retro|5.10.132|5.10.216|
@@ -2476,7 +2475,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |python-graphviz|0.16|0.20.3|
 |python-hglib|2.6.1|2.6.2|
 |python-installer|0.5.1|0.7.0|
-|python-kaitaistruct|0.9|0.10|
 |python-ldap3|2.9|2.9.1|
 |python-linux-procfs|0.7.1|0.7.3|
 |python-ly|0.9.6|0.9.7|
@@ -2543,6 +2541,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rdiscount|2.2.0.2|2.2.7.3|
 |rdma-core|38.0|51.0|
 |re2|20190901|2024-05-01|Possible downgrade from the current version (20190901   2024-05-01)|
+|re2c|1.3|3.1|
 |readline|8.2.1|8.2|Possible downgrade from the current version (8.2.1   8.2)|
 |readline+32|6.3.008|8.2|
 |realmd|0.17.1|0.16.3|Possible downgrade from the current version (0.17.1   0.16.3)|
