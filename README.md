@@ -22,7 +22,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |acme|2.5.0|2.10.0|
 |adobe-source-code-pro|2.042|2.042-u/1.062-i/1.026-vf|Possible downgrade from the current version (2.042   2.042-u/1.062-i/1.026-vf)|
 |adobe-source-han-sans|2.004|2.004R|Possible downgrade from the current version (2.004   2.004R)|
-|adobe-source-han-serif|2.002|2.002R|Possible downgrade from the current version (2.002   2.002R)|
 |adobe-source-sans|3.052|3.052R|Possible downgrade from the current version (3.052   3.052R)|
 |adobe-source-serif|4.005|4.005R|Possible downgrade from the current version (4.005   4.005R)|
 |adwaita-icon-theme|42.0|46.0|
@@ -975,6 +974,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |jeepney|0.6.0|0.8.0|
 |jellyfish|0.6.0|1.0.3|
 |jetring|0.29|0.31|
+|jinja2|3.1.2|3.1.4|
 |jmespath|0.10.0|1.0.1|
 |jmol|14.30.0|16.2.15|
 |john|1.8.0|1.9.0|
@@ -2002,7 +2002,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |opencc|1.1.3|1.1.7|
 |opencl-clang|17.0.0|18.1.0|
 |opencl-registry-api|2022.01.04|2023.12.14|
-|opencolorio|2.1.2|2.3.2|
 |openconnect|8.10|9.12|
 |opencore-amr|0.1.5|0.1.6|
 |opencore-amr+32|0.1.5|0.1.6|
@@ -3058,6 +3057,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |watchman|4.9.0|2024.05.06.00|
 |wavpack|5.2.0|5.7.0|
 |wavpack+32|5.2.0|5.7.0|
+|wayland-utils|1.1.0|1.2.0|
 |wcslib|6.4|8.2.2|
 |wcwidth|0.1.8|0.2.13|
 |wdm|1.28|1.29|
@@ -3154,6 +3154,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xz+32|5.2.5|5.6.1|
 |yad|0.40.0|13.0|
 |yakuake|23.08.5|24.02.2|
+|yakuake-trinity|14.1.0|14.1.2|
 |yaml-cpp|0.6.3|0.8.0|
 |yard|0.9.26|0.9.36|
 |yarl|1.6.3|1.9.4|
@@ -3199,6 +3200,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |zotero|6.0.26|6.0.37|
 |zram-generator|1.1.1|1.1.2|
 |zshdb|1.1.3|1.1.4|
+|zstandard|0.15.2|0.22.0|
 |zstd-static|1.4.5|1.5.6|
 |zutils|1.7|1.13|
 |zxing-cpp|1.4.0|2.2.1|
