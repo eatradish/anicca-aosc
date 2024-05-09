@@ -307,6 +307,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cmus|2.9.1|2.10.0|
 |cock|0.6.0|0.11.0|
 |cockpit|286.1|316|
+|cockpit-machines|284.1|312|
 |cockpit-podman|63|87|
 |code-server|4.9.1|4.23.1|
 |codeine-trinity|14.1.0|14.1.2|
@@ -604,6 +605,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fractal|7.0|7|
 |frameworkintegration|5.115.0|6.0.4|
 |freealut|1.1.0|1_1_0|
+|freealut+32|1.1.0|1_1_0|
 |freecell-solver|6.2.0|6.8.0|
 |freeciv|2.6.5|3.1.1|
 |freeglut+32|3.0.0|3.4.0|
@@ -1653,6 +1655,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libxdmcp|1.1.4|1.1.5|
 |libxdmcp+32|1.1.3|1.1.5|
 |libxkbcommon+32|0.9.1|1.7.0|
+|libxml++|2.40.1|5.2.0|
 |libxml2|2.10.4|2.12.6|
 |libxml2+32|2.10.4|2.12.6|
 |libxmlb|0.3.15|0.3.19|
@@ -2475,6 +2478,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |python-graphviz|0.16|0.20.3|
 |python-hglib|2.6.1|2.6.2|
 |python-installer|0.5.1|0.7.0|
+|python-kaitaistruct|0.9|0.10|
 |python-ldap3|2.9|2.9.1|
 |python-linux-procfs|0.7.1|0.7.3|
 |python-ly|0.9.6|0.9.7|
