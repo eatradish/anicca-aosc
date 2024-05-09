@@ -22,6 +22,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |acme|2.5.0|2.10.0|
 |adobe-source-code-pro|2.042|2.042-u/1.062-i/1.026-vf|Possible downgrade from the current version (2.042   2.042-u/1.062-i/1.026-vf)|
 |adobe-source-han-sans|2.004|2.004R|Possible downgrade from the current version (2.004   2.004R)|
+|adobe-source-han-serif|2.002|2.002R|Possible downgrade from the current version (2.002   2.002R)|
 |adobe-source-sans|3.052|3.052R|Possible downgrade from the current version (3.052   3.052R)|
 |adobe-source-serif|4.005|4.005R|Possible downgrade from the current version (4.005   4.005R)|
 |adwaita-icon-theme|42.0|46.0|
@@ -455,7 +456,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dotnet-targeting-pack-6.0|6.0.0|6.0.29|
 |dotnet-templates-6.0|6.0.100|6.0.421|
 |dotnet-templates-8.0|8.0.204|6.0.421|Possible downgrade from the current version (8.0.204   6.0.421)|
-|double-conversion|3.2.1|3.3.0|
 |dovecot|2.3.10.1|2.3.21|
 |doxygen|1.10.0|1_10_0|
 |doxyqml|0.5.0|0.5.3|
@@ -1316,7 +1316,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kwindowsystem|5.115.0|6.0.4|
 |kwordquiz|23.08.5|24.02.2|
 |kwrited|5.27.11|6.0.4|
-|kxmleditor-trinity|14.1.0|14.1.2|
 |kxmlgui|5.115.0|6.0.4|
 |kxmlrpcclient|5.115.0|6.0.4|
 |kyotocabinet|1.2.79|1.2.80|
@@ -2002,6 +2001,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |opencc|1.1.3|1.1.7|
 |opencl-clang|17.0.0|18.1.0|
 |opencl-registry-api|2022.01.04|2023.12.14|
+|opencolorio|2.1.2|2.3.2|
 |openconnect|8.10|9.12|
 |opencore-amr|0.1.5|0.1.6|
 |opencore-amr+32|0.1.5|0.1.6|
