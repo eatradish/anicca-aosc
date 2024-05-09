@@ -456,6 +456,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dotnet-targeting-pack-6.0|6.0.0|6.0.29|
 |dotnet-templates-6.0|6.0.100|6.0.421|
 |dotnet-templates-8.0|8.0.204|6.0.421|Possible downgrade from the current version (8.0.204   6.0.421)|
+|double-conversion|3.2.1|3.3.0|
 |dovecot|2.3.10.1|2.3.21|
 |doxygen|1.10.0|1_10_0|
 |doxyqml|0.5.0|0.5.3|
@@ -1149,7 +1150,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kiosktool-trinity|14.1.0|14.1.2|
 |kipi-plugins|23.08.5|24.02.2|
 |kirigami-addons|0.11.0|1.1.0|
-|kirigami-gallery|23.08.5|24.02.2|
 |kirigami2|5.115.0|6.0.4|
 |kiriki|23.08.5|24.02.2|
 |kitemmodels|5.115.0|6.0.4|
@@ -2141,6 +2141,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-data-dumper|2.167<br>+02|2.183|Compound version number '2.167+02'|
 |perl-data-optlist|0.110|0.114|
 |perl-date-manip|6.82|6.95|
+|perl-datetime|1.52|1.65|
 |perl-datetime-format-strptime|1.77|1.79|
 |perl-datetime-locale|1.26|1.42|
 |perl-datetime-timezone|2.39|2.62|
