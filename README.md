@@ -456,6 +456,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dotnet-targeting-pack-6.0|6.0.0|6.0.29|
 |dotnet-templates-6.0|6.0.100|6.0.421|
 |dotnet-templates-8.0|8.0.204|6.0.421|Possible downgrade from the current version (8.0.204   6.0.421)|
+|double-conversion|3.2.1|3.3.0|
 |dovecot|2.3.10.1|2.3.21|
 |doxygen|1.10.0|1_10_0|
 |doxyqml|0.5.0|0.5.3|
@@ -1316,6 +1317,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kwindowsystem|5.115.0|6.0.4|
 |kwordquiz|23.08.5|24.02.2|
 |kwrited|5.27.11|6.0.4|
+|kxmleditor-trinity|14.1.0|14.1.2|
 |kxmlgui|5.115.0|6.0.4|
 |kxmlrpcclient|5.115.0|6.0.4|
 |kyotocabinet|1.2.79|1.2.80|
