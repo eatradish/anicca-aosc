@@ -359,6 +359,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cuda|12.4.0<br>+550.54.14|12.4.1|Compound version number '12.4.0+550.54.14'|
 |cunit|2.1<br>+3|2.1-3|Compound version number '2.1+3'|
 |cups|2.4.7|2.4.8|
+|cups+32|2.3.3|2.4.8|
 |curl+32|8.6.0|8.7.1|
 |curtsies|0.3.4|0.4.2|
 |cycler|0.10.0|0.12.1|
@@ -1068,6 +1069,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kded|5.115.0|6.0.4|
 |kdeedu-data|23.08.5|24.02.2|
 |kdegraphics-mobipocket|23.08.5|24.02.2|
+|kdegraphics-thumbnailers|23.08.5|24.02.2|
 |kdelibs4support|5.115.0|6.0.4|
 |kdenetwork-filesharing|23.08.5|24.02.2|
 |kdenlive|23.08.5|24.02.2|
@@ -1506,6 +1508,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libmspack|0.10.1alpha|0.11.0|
 |libmsym|0.2.3|0.2.4.2|
 |libmtp|1.1.17|1.1.21|
+|libndp|1.7|1.8|
 |libnet|1.1.6|1.3|
 |libnfc|1.7.1|1.8.0|
 |libnfnetlink|1.0.1|1.0.2|
@@ -1834,6 +1837,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |miniupnpd|2.3.5|2.3.6|
 |minizip|1.2.11|1.3.1|
 |minuet|23.08.5|24.02.2|
+|mitmproxy|7.0.4|10.3.0|
 |mixxx|2.3.0|2.4.0|
 |mjpegtools|2.1.0|2.2.1|
 |mjpegtools+32|2.1.0|2.2.1|
@@ -3004,6 +3008,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |util-macros|1.20.0|1.20.1|
 |util-macros+32|999|1.20.1|Possible downgrade from the current version (999   1.20.1)|
 |v2ray|5.13.0|5.16.1|
+|v2raya|2.2.5.1|2.2.5|Possible downgrade from the current version (2.2.5.1   2.2.5)|
 |v4l-utils|1.22.1|1.26.1|
 |v4l-utils+32|1.18.0|1.26.1|
 |v4l2loopback|0.12.5|0.13.1|
