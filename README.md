@@ -435,7 +435,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |docbook-dtd|4.5|5.1|
 |docbook-sgml|0|4.5|
 |docbook-xml|0|5.1|
-|docker|25.0.3<br>+tini0.19.0|26.1.1|Compound version number '25.0.3+tini0.19.0'|
+|docker|25.0.3<br>+tini0.19.0|26.1.2|Compound version number '25.0.3+tini0.19.0'|
 |docker-compose|2.24.6|2.27.0|
 |docutils|0.20.1|0.21.2|
 |dolphin|23.08.5|24.02.2|
@@ -856,7 +856,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hatchling|1.21.1|1.10.0|Possible downgrade from the current version (1.21.1   1.10.0)|
 |haveged|1.9.13|1.9.18|
 |hddtemp|0.3.52|0.4.3|
-|hdf5|1.10.5|1.14.4.1|
 |hdrhistogram-c|0.11.6|0.11.8|
 |hdsentinel|0.17|400s|
 |helix|23.10|24.03|
@@ -2295,8 +2294,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pinentry|1.1.0|1.3.0|
 |pip|22.3.1|24.1b1|
 |piper|0.6|0.7|
-|pipewire|1.0.4|1.0.5|
-|pipewire-0.2|0.2.7|1.0.5|
+|pipewire|1.0.4|1.0.6|
+|pipewire-0.2|0.2.7|1.0.6|
 |pixman|0.43.0|0.43.4|
 |pixman+32|0.40.0|0.43.4|
 |pkcs11-helper|1.29.0|1.30.0|
@@ -2817,7 +2816,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |syslinux|6.04~pre1|6.03|Possible downgrade from the current version (6.04~pre1   6.03)|
 |sysprof|3.44.0|46.0|
 |system-config-printer|1.5.17|1.5.18|
-|systemd|255.3|255.5|
+|systemd|255.3|255.6|
 |systemsettings|5.27.11|6.0.4|
 |systemtap|4.4|5.1|
 |sysv-ipc|1.0.1|1.1.0|
