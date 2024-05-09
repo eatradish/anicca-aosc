@@ -63,7 +63,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |aom|3.8.1|3.9.0|
 |aosc-community-wallpapers-extras-2023|2023.10.1|2024.04.0|
 |aosc-community-wallpapers-extras-2024|2024.04.1|2024.04.0|Possible downgrade from the current version (2024.04.1   2024.04.0)|
-|aosc-findupdate|0.4.0|0.3.2|Possible downgrade from the current version (0.4.0   0.3.2)|
+|aosc-findupdate|0.4.6|0.3.2|Possible downgrade from the current version (0.4.6   0.3.2)|
 |aosc-media-writer|0.3.4|5.0.9|
 |aosc-xdg-menu|20200412|20160217|Possible downgrade from the current version (20200412   20160217)|
 |aoscbootstrap|0.4.5|0.4.7|
@@ -1697,7 +1697,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |llvm-runtime+wasi|17.0.6|18.1.5|
 |lm-sensors|3.6.0|3-6-0|
 |lmdb|0.9.28|0.9.32|
-|lmms|1.2.2<br>+git20240125|1.2.2|Compound version number '1.2.2+git20240125'<br>Version number indicates a snapshot (+git) is used|
+|lmms|1.2.2<br>+git20240508|1.2.2|Compound version number '1.2.2+git20240508'<br>Version number indicates a snapshot (+git) is used|
 |log4cpp|1.1.3|1.1.4|
 |logrotate|3.18.1|3.21.0|
 |loguru|0.5.3|0.7.2|
@@ -1949,7 +1949,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nilfs-utils|2.2.9|2.2.11|
 |ninja|1.12.0|1.11.1.1|Possible downgrade from the current version (1.12.0   1.11.1.1)|
 |nmap|7.93|7.95|
-|nodejs|20.12.2|21.7.1|
+|nodejs|20.13.0|21.7.1|
 |noip|2.1.9|3.0.0|
 |noise-suppression-for-voice|0.91|1.03|
 |nokogiri|1.13.9|1.16.4|
@@ -2519,7 +2519,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qrencode|4.0.2|4.1.1|
 |qscintilla|2.13.1|2.14.1|
 |qsynth|0.5.6|0.9.91|
-|qt-5|5.15.5<br>+webengine5.15.10<br>+webkit5.212.0<br>+kde20220705|5.15.13-lts-lgpl|Compound version number '5.15.5+webengine5.15.10+webkit5.212.0+kde20220705'|
+|qt-5|5.15.13<br>+webengine5.15.16<br>+webkit5.212.0<br>+kde20240408|5.15.13-lts-lgpl|Compound version number '5.15.13+webengine5.15.16+webkit5.212.0+kde20240408'<br>Possible downgrade from the current version (5.15.13+webengine5.15.16+webkit5.212.0+kde20240408   5.15.13-lts-lgpl)|
 |qt4-tqt-theme-engine-trinity|14.1.0|14.1.2|
 |qtcreator|12.0.1|13.0.1|
 |qtkeychain|0.13.2|0.14.3|
