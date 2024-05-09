@@ -856,6 +856,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hatchling|1.21.1|1.10.0|Possible downgrade from the current version (1.21.1   1.10.0)|
 |haveged|1.9.13|1.9.18|
 |hddtemp|0.3.52|0.4.3|
+|hdf5|1.10.5|1.14.4.1|
 |hdrhistogram-c|0.11.6|0.11.8|
 |hdsentinel|0.17|400s|
 |helix|23.10|24.03|
@@ -1078,7 +1079,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kdesignerplugin|5.115.0|6.0.4|
 |kdesu|5.115.0|6.0.4|
 |kdev-php|23.08.5|24.02.2|
-|kdev-python|23.08.5|24.02.2|
 |kdevelop|23.08.5|24.02.2|
 |kdevelop-pg-qt|2.2.1|2.2.2|
 |kdewebkit|5.115.0|6.0.4|
@@ -1458,7 +1458,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libisoburn|1.5.2|1.5.6|
 |libisofs|1.5.2|1.5.6.pl01|
 |libjcat|0.1.8|0.2.1|
-|libjpeg-turbo+32|2.0.5|3.0.2|
 |libjxl|0.7.0|0.10.2|
 |libkcddb|23.08.5|24.02.2|
 |libkcompactdisc|23.08.5|24.02.2|
@@ -2002,7 +2001,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |opencc|1.1.3|1.1.7|
 |opencl-clang|17.0.0|18.1.0|
 |opencl-registry-api|2022.01.04|2023.12.14|
-|opencolorio|2.1.2|2.3.2|
 |openconnect|8.10|9.12|
 |opencore-amr|0.1.5|0.1.6|
 |opencore-amr+32|0.1.5|0.1.6|
@@ -2491,7 +2489,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |python-poppler-qt5|21.1.0<br>+git20210304|21.3.0|Compound version number '21.1.0+git20210304'<br>Version number indicates a snapshot (+git) is used|
 |python-tabulate|0.8.3|0.9.0|
 |python-xapp|2.0.1|2.4.1|
-|python-xlib|0.26|0.33|
 |python-xmp-toolkit|2.0.1|2.0.2|
 |pythondialog|3.3.0|3.5.3|
 |pytools|2019.1|2024.1.2|
