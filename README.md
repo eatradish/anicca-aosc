@@ -173,6 +173,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |bear|3.0.20|3.1.3|
 |beautifulsoup4|4.10.0|4.12.3|
 |benchmark|1.8.2|1.8.3|
+|bibletime-trinity|14.1.0|14.1.2|
 |bigsh0t|2.5.1|2.7|
 |bind|9.18.24|9.16.33|Possible downgrade from the current version (9.18.24   9.16.33)|
 |binutils+32|2.38|2.42|
@@ -974,7 +975,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |jeepney|0.6.0|0.8.0|
 |jellyfish|0.6.0|1.0.3|
 |jetring|0.29|0.31|
-|jinja2|3.1.2|3.1.4|
 |jmespath|0.10.0|1.0.1|
 |jmol|14.30.0|16.2.15|
 |john|1.8.0|1.9.0|
@@ -3058,7 +3058,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |watchman|4.9.0|2024.05.06.00|
 |wavpack|5.2.0|5.7.0|
 |wavpack+32|5.2.0|5.7.0|
-|wayland-utils|1.1.0|1.2.0|
 |wcslib|6.4|8.2.2|
 |wcwidth|0.1.8|0.2.13|
 |wdm|1.28|1.29|
@@ -3155,7 +3154,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xz+32|5.2.5|5.6.1|
 |yad|0.40.0|13.0|
 |yakuake|23.08.5|24.02.2|
-|yakuake-trinity|14.1.0|14.1.2|
 |yaml-cpp|0.6.3|0.8.0|
 |yard|0.9.26|0.9.36|
 |yarl|1.6.3|1.9.4|
@@ -3201,7 +3199,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |zotero|6.0.26|6.0.37|
 |zram-generator|1.1.1|1.1.2|
 |zshdb|1.1.3|1.1.4|
-|zstandard|0.15.2|0.22.0|
 |zstd-static|1.4.5|1.5.6|
 |zutils|1.7|1.13|
 |zxing-cpp|1.4.0|2.2.1|
