@@ -968,6 +968,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ixion|0.17.0|0.19.0|
 |j4-dmenu-desktop|2.17|2.18|
 |jack|1.9.21|1.9.22|
+|jasper|2.0.21|4.2.4|
 |jbig2dec|0.18|0.20|
 |jdcal|1.4|1.4.1|
 |jedi|0.18.1|0.19.1|
@@ -1144,6 +1145,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kio-admin|23.08.5|24.02.2|
 |kio-extras|23.08.5|24.02.2|
 |kio-fuse|5.0.1|5.1.0|
+|kio-gdrive|23.08.5|24.02.2|
 |kio-zeroconf|23.08.5|24.02.2|
 |kiosktool-trinity|14.1.0|14.1.2|
 |kipi-plugins|23.08.5|24.02.2|
@@ -1775,6 +1777,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mate-menu|20.04.3|22.04.2|
 |mate-menus|1.26.1|1.28.0|
 |mate-notification-daemon|1.26.1|1.28.0|
+|mate-panel|1.26.4|1.28.1|
 |mate-polkit|1.26.1|1.28.1|
 |mate-power-manager|1.26.1|1.28.1|
 |mate-screensaver|1.26.2|1.28.0|
