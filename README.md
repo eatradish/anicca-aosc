@@ -1598,6 +1598,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libtasn1+32|4.15.0|4.19.0|
 |libteam|1.31|1.32|
 |libthai|0.1.28|0.1.29|
+|libticables2|1.3.4|1.3.5|
 |libticalcs2|1.1.8|1.1.9|
 |libticonv|1.1.4|1.1.5|
 |libtiff|4.4.0|4.6.0|
