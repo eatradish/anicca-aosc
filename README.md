@@ -3056,6 +3056,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vulkan-loader+32|1.3.272|1.3.283|
 |vulkan-tools|1.3.280.0|1.3.283|
 |vulkan-tools+32|1.3.227|1.3.283|
+|vulkan-utility-libraries|1.3.280.0|1.3.283|
 |vulkan-validationlayers|1.3.280.0|1.3.283|
 |warpinator|1.6.3|1.8.3|
 |warzone2100|4.1.3|4.4.2|
