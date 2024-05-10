@@ -3211,4 +3211,3 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |zxing-cpp|1.4.0|2.2.1|
 |zxtune|5053|5061|
 |zyn-fusion|3.0.5|3.0.6|
-|zziplib|0.13.72|0.13.74|
