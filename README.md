@@ -708,7 +708,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |glm|0.9.9.8|1.0.1|
 |glog|0.3.5|0.7.0|
 |gloox|1.0.27|1.0.28|
-|glslang|13.1.1|14.2.0|
 |glslang+32|7.11.3214|14.2.0|
 |glu+32|9.0.1|9.0.3|
 |gmic|3.2.6|3.3.5|
@@ -1053,7 +1052,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kconfigwidgets|5.115.0|6.0.4|
 |kcontacts|5.115.0|6.0.4|
 |kcoreaddons|5.115.0|6.0.4|
-|kcpuload-trinity|14.1.0|14.1.2|
 |kcrash|5.115.0|6.0.4|
 |kcron|23.08.5|24.02.2|
 |kdav|5.115.0|6.0.4|
@@ -1212,6 +1210,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kodi|20.3|21.0|
 |kodi-pvr-iptvsimple|19.2.2|21.8.4-Omega|
 |koffice-trinity|14.1.0|14.1.2|
+|koko|23.08.5|24.02.2|
 |kolf|23.08.5|24.02.2|
 |kollision|23.08.5|24.02.2|
 |kolourpaint|23.08.5|24.02.2|
