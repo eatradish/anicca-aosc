@@ -1212,7 +1212,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kodi|20.3|21.0|
 |kodi-pvr-iptvsimple|19.2.2|21.8.4-Omega|
 |koffice-trinity|14.1.0|14.1.2|
-|koko|23.08.5|24.02.2|
 |kolf|23.08.5|24.02.2|
 |kollision|23.08.5|24.02.2|
 |kolourpaint|23.08.5|24.02.2|
