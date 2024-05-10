@@ -2813,7 +2813,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |swell-foop|41.1|46.0|
 |swig|4.1.1|4.2.1|
 |synaptic|0.90.2|0.91.3|
-|syncthing|1.27.3|1.27.6|
 |syncthing-gtk|0.9.4.4|0.9.4.5|
 |syndication|5.115.0|6.0.4|
 |synergy|1.11.1|2.3.2|
