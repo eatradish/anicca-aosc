@@ -1467,7 +1467,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libjxl|0.7.0|0.10.2|
 |libkcddb|23.08.5|24.02.2|
 |libkcompactdisc|23.08.5|24.02.2|
-|libkdcraw|23.08.5|24.02.2|
 |libkdcraw-trinity|14.1.0|14.1.2|
 |libkdegames|23.08.5|24.02.2|
 |libkdepim|23.08.5|24.02.2|
@@ -2813,6 +2812,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |swell-foop|41.1|46.0|
 |swig|4.1.1|4.2.1|
 |synaptic|0.90.2|0.91.3|
+|syncthing|1.27.3|1.27.6|
 |syncthing-gtk|0.9.4.4|0.9.4.5|
 |syndication|5.115.0|6.0.4|
 |synergy|1.11.1|2.3.2|
