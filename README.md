@@ -13,6 +13,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |abakus-trinity|14.1.0|14.1.2|
 |abseil-cpp|20220623.1|20240116.2|
 |abyss|2.1.5|2.3.7|
+|acbs|20240510.2|20240317|Possible downgrade from the current version (20240510.2   20240317)|
 |acccheck|0.2.1|0-2-1|
 |accerciser|3.40.0|3.42.0|
 |accountsservice|22.08.8|23.13.9|
@@ -63,7 +64,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |aom|3.8.1|3.9.0|
 |aosc-community-wallpapers-extras-2023|2023.10.1|2024.04.0|
 |aosc-community-wallpapers-extras-2024|2024.04.1|2024.04.0|Possible downgrade from the current version (2024.04.1   2024.04.0)|
-|aosc-findupdate|0.4.6|0.3.2|Possible downgrade from the current version (0.4.6   0.3.2)|
+|aosc-findupdate|0.4.7|0.3.2|Possible downgrade from the current version (0.4.7   0.3.2)|
 |aosc-media-writer|0.3.4|5.0.9|
 |aosc-xdg-menu|20200412|20160217|Possible downgrade from the current version (20200412   20160217)|
 |aoscbootstrap|0.4.5|0.4.7|
@@ -106,7 +107,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |aspnetcore-runtime-6.0|6.0.0|6.0.29|
 |aspnetcore-targeting-pack-6.0|6.0.0|6.0.29|
 |assimp|5.3.1|5.4.0|
-|ast-grep|0.19.4|0.21.4|
+|ast-grep|0.22.0|0.21.4|Possible downgrade from the current version (0.22.0   0.21.4)|
 |astroid|2.12.2|3.1.0|
 |astyle|3.1|3.4.14|
 |at-spi2-atk+32|2.26.3|2.38.0|
@@ -280,6 +281,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |chntpw|1.1|140201|
 |chromaprint|1.5.0|1.5.1|
 |chromium|124.0.6367.118|124.0.6367.155|
+|ciel|3.2.4|3.2.2|Possible downgrade from the current version (3.2.4   3.2.2)|
 |cifs-utils|6.10|7.0|
 |cinnamon|5.8.3|6.0.4|
 |cinnamon-control-center|5.8.1|6.0.1|
@@ -543,18 +545,20 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fcitx5-lua|5.0.11|5.0.13|
 |fcitx5-m17n|5.1.0|5.1.1|
 |fcitx5-mozc|2.29.5160.102<br>+fcitx5<br>+git20230919|2.29.5374.102|Compound version number '2.29.5160.102+fcitx5+git20230919'<br>Version number indicates a snapshot (+git) is used|
+|fcitx5-pinyin-moegirl|20240509|20240309|Possible downgrade from the current version (20240509   20240309)|
 |fcitx5-pinyin-zhwiki|0.2.3<br>+dict20210823|0.2.4|Compound version number '0.2.3+dict20210823'|
 |fcitx5-rime|5.1.3|5.1.6|
 |fcitx5-sayura|5.1.1|5.1.2|
 |fcitx5-skk|5.1.0|5.1.3|
 |fcitx5-unikey|5.1.1|5.1.4|
-|fd|9.0.0|10.0.0|
+|fd|10.1.0|10.0.0|Possible downgrade from the current version (10.1.0   10.0.0)|
 |fdkaac|1.0.1|1.0.6|
 |feedbackd|0.2.1|0.3.0|
 |feedparser|6.0.8|6.0.11|
 |feeluown|4.1.1|4.1.3|
 |feeluown-netease|1.0.1|1.0.2|
 |feeluown-qqmusic|1.0.2|1.0.3|
+|feishin|0.7.1|0.6.1|Possible downgrade from the current version (0.7.1   0.6.1)|
 |fend|1.4.6|1.4.8|
 |ffcall|2.2|2.4|
 |ffmpeg|4.4.4|7.0|
@@ -634,6 +638,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gaupol|1.7|1.14.1|
 |gawk|5.2.1|5.3.0|
 |gc|8.2.6|8.2.4|Possible downgrade from the current version (8.2.6   8.2.4)|
+|gcab|1.1|1.6|
 |gcc|13.2.0|14.1.0|
 |gcc+32|11.2.0|14.1.0|
 |gcc+cross-amd64|9.3.1|14.1.0|
@@ -1852,6 +1857,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mokutil|0.6.0|0.7.2|
 |mold|2.4.0|2.31.0|
 |mono|6.12.0.182|6.12.0.206|
+|monotonic|1.5|1.6|
 |moodbar|1.2.1|1.3.0|
 |more-itertools|4.3.0|10.2.0|
 |most|5.0.0a|5.2.0|
@@ -3050,7 +3056,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vulkan-loader+32|1.3.272|1.3.283|
 |vulkan-tools|1.3.280.0|1.3.283|
 |vulkan-tools+32|1.3.227|1.3.283|
-|vulkan-utility-libraries|1.3.280.0|1.3.283|
 |vulkan-validationlayers|1.3.280.0|1.3.283|
 |warpinator|1.6.3|1.8.3|
 |warzone2100|4.1.3|4.4.2|
@@ -3161,7 +3166,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |yarn|1.22.17|1.22.22|
 |yaspin|1.2.0|3.0.2|
 |yaz|5.31.0|5.34.0|
-|yazi|0.2.3|0.2.5|
 |yelp|42.1|42.2|
 |yelp-tools|42.0|42.1|
 |yelp-xsl|42.0|42.1|
