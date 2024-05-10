@@ -708,6 +708,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |glm|0.9.9.8|1.0.1|
 |glog|0.3.5|0.7.0|
 |gloox|1.0.27|1.0.28|
+|glslang|13.1.1|14.2.0|
 |glslang+32|7.11.3214|14.2.0|
 |glu+32|9.0.1|9.0.3|
 |gmic|3.2.6|3.3.5|
@@ -1052,6 +1053,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kconfigwidgets|5.115.0|6.0.4|
 |kcontacts|5.115.0|6.0.4|
 |kcoreaddons|5.115.0|6.0.4|
+|kcpuload-trinity|14.1.0|14.1.2|
 |kcrash|5.115.0|6.0.4|
 |kcron|23.08.5|24.02.2|
 |kdav|5.115.0|6.0.4|
@@ -2037,7 +2039,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |opensc|0.22.0|0.25.1|
 |openscad|2021.01<br>+git20230825|2021.01|Compound version number '2021.01+git20230825'<br>Version number indicates a snapshot (+git) is used|
 |openslide|3.4.1|4.0.0|
-|openssl+32|3.2.0|3.3.0|
 |openssl-1.1|1.1.1w|3.3.0|
 |openssl-1.1+32|1.1.1q|3.3.0|
 |opensubdiv|3.6.0|3_6_0|
@@ -3076,7 +3077,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |wesnoth|1.16.10|1.18.0|
 |weston|13.0.0|13.0.1|
 |wezterm|20240203<br>+110809<br>+5046fc22|20240203-110809-5046fc22|Compound version number '20240203+110809+5046fc22'|
-|wheel|0.42.0|0.43.0|
 |wheezy.template|3.1.0|3.2.2|
 |wikipedia|1.4.0|1.4.5|
 |wildmidi|0.4.3|0.4.6|
