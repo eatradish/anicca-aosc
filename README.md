@@ -1467,6 +1467,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libjxl|0.7.0|0.10.2|
 |libkcddb|23.08.5|24.02.2|
 |libkcompactdisc|23.08.5|24.02.2|
+|libkdcraw|23.08.5|24.02.2|
 |libkdcraw-trinity|14.1.0|14.1.2|
 |libkdegames|23.08.5|24.02.2|
 |libkdepim|23.08.5|24.02.2|
