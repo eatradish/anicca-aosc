@@ -127,7 +127,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |audiotube|23.08.5|24.02.2|
 |audit|3.1|4.0.1|
 |audiveris|5.1.0|5.3.1|
-|autobahn|19.2.1|23.6.2|
 |autobuild4|4.1.9|1.9.1|Possible downgrade from the current version (4.1.9   1.9.1)|
 |autoconf-archive|2021.02.19|2023.02.20|
 |autofs|5.1.8|5.1.9|
@@ -958,6 +957,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |irssi|1.2.3|1.4.5|
 |iso-codes|4.4|4.16.0|
 |isomd5sum|1.2.3|1.2.4|
+|isort|4.3.21|5.13.2|
 |ispc|1.22.0|1.23.0|
 |itinerary|23.08.5|24.02.2|
 |itsdangerous|1.1.0|2.2.0|
@@ -1876,6 +1876,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |msgpack-c++|6.1.0|6.1.1|
 |msitools|0.101|0.103|
 |msr-tools|20170320|1.3|Possible downgrade from the current version (20170320   1.3)|
+|mstflint|4.25.0<br>+1|4.28.0-1|Compound version number '4.25.0+1'|
 |mtd-utils|2.1.5|2.2.0|
 |mtdev|1.1.6|1.1.7|
 |mtools|4.0.42|4.0.43|
@@ -2243,6 +2244,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-specio|0.46|0.48|
 |perl-string-util|1.31|1.34|
 |perl-sub-install|0.928|0.929|
+|perl-sub-quote|2.006006|2.006008|
 |perl-sys-virt|5.8.0|10.2.0|
 |perl-template-toolkit|2.27|3.101|
 |perl-term-progressbar|2.22|2.23|
@@ -2392,7 +2394,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pulseaudio+32|13.0|17.0|
 |pulseaudio-qt|1.3|1.4.0|
 |pulsectl|20.5.1|24.4.0|
-|puremagic|1.15|1.23|
 |purple-matrix|0.0.0<br>+git20210626|0.1.0|Compound version number '0.0.0+git20210626'<br>Version number indicates a snapshot (+git) is used|
 |purpose|5.115.0|6.0.4|
 |pv|1.6.20|1.8.9|
@@ -2796,6 +2797,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |suitesparse|7.6.1|7.7.0|
 |sunpinyin|3.0.0~rc1|2.0.3-rel-1|Possible downgrade from the current version (3.0.0~rc1   2.0.3-rel-1)|
 |sunshine|0.23.0|0.23.1|
+|sunxi-tools|1.4.2<br>+git20220729|1.4.2|Compound version number '1.4.2+git20220729'<br>Version number indicates a snapshot (+git) is used|
 |superslicer|2.5.59.8|2.5.59.9|
 |sushi|42.0|46.0|
 |svgpart|23.08.5|24.02.2|
@@ -3062,6 +3064,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |webencodings|0.5|0.5.1|
 |webkit2gtk|2.42.5|2.44.1|
 |webrtc-audio-processing|0.3|1.3|
+|websocket-client|1.7.0|1.8.0|
 |websockets|12.0|1.4.4|Possible downgrade from the current version (12.0   1.4.4)|
 |weechat|4.2.1|4.2.2|
 |weka|3.9.2|8.0.0|
