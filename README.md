@@ -1275,7 +1275,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kspaceduel|23.08.5|24.02.2|
 |ksplash-engine-moodin-trinity|14.1.0|14.1.2|
 |ksquares|23.08.5|24.02.2|
-|ksquirrel-trinity|14.1.0|14.1.2|
 |ksshaskpass|5.27.11|6.0.4|
 |kstars|3.6.7|3.7.0|
 |kstreamripper-trinity|14.1.0|14.1.2|
@@ -2350,7 +2349,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |polkit-qt-1|0.114.0|0.200.0|
 |polkit-tqt|14.1.0|14.1.2|
 |polybar|3.7.0|3.7.1|
-|polymake|3.3|4.11|
 |poppler|22.08.0|24.05.0|
 |poppler+32|0.66.0|24.05.0|
 |poppler-data|0.4.9|0.4.12|
