@@ -1721,6 +1721,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lttng-ust|2.13.5|2.13.8|
 |lua-expat|1.4.1|1.5.1|
 |lua-messagepack|0.5.1|0.5.4|
+|lua-socket|3.0<br>+rc1|3.1.0|Compound version number '3.0+rc1'|
 |luafilesystem|1.7.0.2|1_8_0|
 |luajit|2.1.0b3<br>+git20240222|2.0.5|Compound version number '2.1.0b3+git20240222'<br>Version number indicates a snapshot (+git) is used<br>Possible downgrade from the current version (2.1.0b3+git20240222   2.0.5)|
 |luarocks|3.5.0|3.11.0|
@@ -2338,7 +2339,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pngquant|2.12.6|3.0.3|
 |pnpm|8.15.5|9.1.0-0|
 |po-debconf|1.0.21|1.0.21+nmu1|Possible downgrade from the current version (1.0.21   1.0.21+nmu1)|
-|po4a|0.63|0.71|
 |pocketsphinx|5~prealpha|0.8|Possible downgrade from the current version (5~prealpha   0.8)|
 |podcastparser|0.6.5|0.6.10|
 |podman|4.9.3<br>+vsock0.7.2|5.0.2|Compound version number '4.9.3+vsock0.7.2'|
