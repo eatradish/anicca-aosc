@@ -2080,6 +2080,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pandoc|3.1.12.3|3.1.13|
 |pango+32|1.44.7|1.52.2|
 |pangomm|2.46.3|2.52.0|
+|pangomm-2.48|2.50.1|2.52.0|
 |paper-icon-theme|20180816|.1.5.0|Possible downgrade from the current version (20180816   .1.5.0)|
 |paprefs|1.1|1.2|
 |paq8o|9|10t|
