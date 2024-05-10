@@ -2080,7 +2080,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pandoc|3.1.12.3|3.1.13|
 |pango+32|1.44.7|1.52.2|
 |pangomm|2.46.3|2.52.0|
-|pangomm-2.48|2.50.1|2.52.0|
 |paper-icon-theme|20180816|.1.5.0|Possible downgrade from the current version (20180816   .1.5.0)|
 |paprefs|1.1|1.2|
 |paq8o|9|10t|
@@ -2339,6 +2338,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pngquant|2.12.6|3.0.3|
 |pnpm|8.15.5|9.1.0-0|
 |po-debconf|1.0.21|1.0.21+nmu1|Possible downgrade from the current version (1.0.21   1.0.21+nmu1)|
+|po4a|0.63|0.71|
 |pocketsphinx|5~prealpha|0.8|Possible downgrade from the current version (5~prealpha   0.8)|
 |podcastparser|0.6.5|0.6.10|
 |podman|4.9.3<br>+vsock0.7.2|5.0.2|Compound version number '4.9.3+vsock0.7.2'|
