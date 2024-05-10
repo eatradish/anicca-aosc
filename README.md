@@ -1602,6 +1602,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libtasn1+32|4.15.0|4.19.0|
 |libteam|1.31|1.32|
 |libthai|0.1.28|0.1.29|
+|libticables2|1.3.4|1.3.5|
 |libticalcs2|1.1.8|1.1.9|
 |libticonv|1.1.4|1.1.5|
 |libtiff|4.4.0|4.6.0|
@@ -1720,7 +1721,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lttng-ust|2.13.5|2.13.8|
 |lua-expat|1.4.1|1.5.1|
 |lua-messagepack|0.5.1|0.5.4|
-|lua-socket|3.0<br>+rc1|3.1.0|Compound version number '3.0+rc1'|
 |luafilesystem|1.7.0.2|1_8_0|
 |luajit|2.1.0b3<br>+git20240222|2.0.5|Compound version number '2.1.0b3+git20240222'<br>Version number indicates a snapshot (+git) is used<br>Possible downgrade from the current version (2.1.0b3+git20240222   2.0.5)|
 |luarocks|3.5.0|3.11.0|
@@ -3067,6 +3067,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |wcwidth|0.1.8|0.2.13|
 |wdm|1.28|1.29|
 |webencodings|0.5|0.5.1|
+|webkit2gtk|2.42.5|2.44.1|
 |webrtc-audio-processing|0.3|1.3|
 |websocket-client|1.7.0|1.8.0|
 |websockets|12.0|1.4.4|Possible downgrade from the current version (12.0   1.4.4)|
