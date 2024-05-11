@@ -2008,6 +2008,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |opencl-clang|17.0.0|18.1.0|
 |opencl-registry-api|2022.01.04|2023.12.14|
 |opencolorio|2.1.2|2.3.2|
+|openconnect|8.10|9.12|
 |opencore-amr|0.1.5|0.1.6|
 |opencore-amr+32|0.1.5|0.1.6|
 |opencryptoki|3.21.0|3.23.0|
@@ -2142,6 +2143,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-crypt-openssl-random|0.15|0.16|
 |perl-crypt-ssleay|0.73<br>+06|0.72|Compound version number '0.73+06'<br>Possible downgrade from the current version (0.73+06   0.72)|
 |perl-data-dump|1.23|1.25|
+|perl-data-dumper|2.167<br>+02|2.183|Compound version number '2.167+02'|
 |perl-data-optlist|0.110|0.114|
 |perl-date-manip|6.82|6.95|
 |perl-datetime|1.52|1.65|
