@@ -2541,6 +2541,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |raptor2|2.0.15|2.0.16|
 |rarian|0.8.1|0.8.5|
 |razergenie|0.9.0|1.1.0|
+|razor-agents|2.85|2.152|
 |rbw|1.9.0|1.10.0|
 |rclone|1.65.2|1.66.0|
 |rcm|1.3.4|1.3.6|
@@ -2946,7 +2947,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |translate-shell|0.9.7|0.9.7.1|
 |translate-toolkit|2.3.1|3.13.0|
 |transmission-remote-gtk|1.5.1|1.6.0|
-|trash-cli|0.17.1.14|0.24.4.17|
 |tre|20161208|0.8.0|Possible downgrade from the current version (20161208   0.8.0)|
 |trio|0.24.0|0.25.0|
 |trollius|2.1|2.2.1|
