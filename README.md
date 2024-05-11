@@ -752,6 +752,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnutls|3.8.4|3.8.5|
 |gnutls+32|3.6.15|3.8.5|
 |go|1.22.2<br>+tools0.20.0<br>+net0.24.0|1.22.3|Compound version number '1.22.2+tools0.20.0+net0.24.0'|
+|go-md2man|2.0.3|2.0.4|
 |gobject-introspection|1.80.0|1.80.1|
 |goffice|0.10.48|0.10.57|
 |goldendict|1.5.0~rc2|1.5.0|
@@ -1063,6 +1064,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kdenlive|23.08.5|24.02.2|
 |kdepim-addons|23.08.5|24.02.2|
 |kdepim-runtime|23.08.5|24.02.2|
+|kdeplasma-addons|5.27.11|6.0.4|
 |kdesignerplugin|5.115.0|6.0.4|
 |kdesu|5.115.0|6.0.4|
 |kdev-php|23.08.5|24.02.2|
@@ -3070,7 +3072,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |wine|9.8<br>+gecko2.47.4<br>+mono9.1.0|9.8|Compound version number '9.8+gecko2.47.4+mono9.1.0'|
 |wireguard|1|0.0.20191219|Possible downgrade from the current version (1   0.0.20191219)|
 |wireguard-tools|1.0.20200827|1.0.20210914|
-|wireless-regdb|2022.08.12|2024.01.23|
+|wireless-regdb|2022.08.12|2024.05.08|
 |wireless-tools|30.pre9|29|Possible downgrade from the current version (30.pre9   29)|
 |wireplumber|0.5.0|0.5.2|
 |wireshark|4.2.3|4.2.4|
