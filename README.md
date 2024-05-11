@@ -752,7 +752,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnutls|3.8.4|3.8.5|
 |gnutls+32|3.6.15|3.8.5|
 |go|1.22.2<br>+tools0.20.0<br>+net0.24.0|1.22.3|Compound version number '1.22.2+tools0.20.0+net0.24.0'|
-|go-md2man|2.0.3|2.0.4|
 |gobject-introspection|1.80.0|1.80.1|
 |goffice|0.10.48|0.10.57|
 |goldendict|1.5.0~rc2|1.5.0|
@@ -1064,7 +1063,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kdenlive|23.08.5|24.02.2|
 |kdepim-addons|23.08.5|24.02.2|
 |kdepim-runtime|23.08.5|24.02.2|
-|kdeplasma-addons|5.27.11|6.0.4|
 |kdesignerplugin|5.115.0|6.0.4|
 |kdesu|5.115.0|6.0.4|
 |kdev-php|23.08.5|24.02.2|
