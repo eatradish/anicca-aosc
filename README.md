@@ -908,7 +908,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ibus-hangul|1.5.4|1.5.5|
 |ibus-libpinyin|1.12.0|1.15.7|
 |ibus-m17n|1.4.7|1.4.29|
-|ibus-qt|1.3.3|1.3.4|
 |ibus-sunpinyin|3.0.0~rc1|2.0.3-rel-1|Possible downgrade from the current version (3.0.0~rc1   2.0.3-rel-1)|
 |ibus-table|1.14.1|1.17.4|
 |icdiff|1.9.5|2.0.7|
@@ -2459,7 +2458,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pyqt5-sip|12.9.0|12.13.0|
 |pyqtwebengine|5.15.5|5.15.6|
 |pyscard|1.9.9|2.0.9|
-|pyscss|1.3.7|1.4.0|
 |pyside2|5.15.11|5.15.2.1|Possible downgrade from the current version (5.15.11   5.15.2.1)|
 |pysmbc|1.0.22|1.0.25.1|
 |pysocks|1.6.8|1.7.1|
@@ -2947,6 +2945,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |translate-shell|0.9.7|0.9.7.1|
 |translate-toolkit|2.3.1|3.13.0|
 |transmission-remote-gtk|1.5.1|1.6.0|
+|trash-cli|0.17.1.14|0.24.4.17|
 |tre|20161208|0.8.0|Possible downgrade from the current version (20161208   0.8.0)|
 |trio|0.24.0|0.25.0|
 |trollius|2.1|2.2.1|
