@@ -3126,11 +3126,10 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xmlrpc-c|1.54.06|1.59.03|
 |xmlsec|1.2.36|1.3.4|
 |xorg-server|21.1.12|21.1.13|
-|xorgxrdp|0.9.19|0.10.1|
 |xournalpp|1.1.3|1.2.3|
 |xpra|5.0.8|6.0|
 |xray|1.8.4|1.8.11|
-|xrdp|0.9.21.1|0.9.25.1|
+|xrdp|0.10.0|0.9.25.1|Possible downgrade from the current version (0.10.0   0.9.25.1)|
 |xreader|3.8.5|4.0.2|
 |xsd|4.1.0~alpha11|4.0.0|Possible downgrade from the current version (4.1.0~alpha11   4.0.0)|
 |xsel|1.2.0|1.2.1|
