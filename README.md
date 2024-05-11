@@ -2319,6 +2319,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pngquant|2.12.6|3.0.3|
 |pnpm|8.15.5|9.1.0-0|
 |po-debconf|1.0.21|1.0.21+nmu1|Possible downgrade from the current version (1.0.21   1.0.21+nmu1)|
+|po4a|0.63|0.71|
 |pocketsphinx|5~prealpha|0.8|Possible downgrade from the current version (5~prealpha   0.8)|
 |podcastparser|0.6.5|0.6.10|
 |podman|4.9.3<br>+vsock0.7.2|5.0.2|Compound version number '4.9.3+vsock0.7.2'|
@@ -2452,6 +2453,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |python-augeas|1.0.3|1.1.0|
 |python-build|0.8.0|1.2.1|
 |python-caja|1.26.0|1.28.0|
+|python-cloudflare|2.8.15|3.0.0b8|
 |python-cssselect|1.0.3|1.2.0|
 |python-daemonize|2.5.0|3.8.0|
 |python-dbusmock|0.22.0|0.31.1|
@@ -2879,7 +2881,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tevent|0.13.0|0.16.1|
 |texlive|20220321|2024|Possible downgrade from the current version (20220321   2024)|
 |texmaker|5.1.2|5.1.4|
-|texstudio|4.0.2|4.7.3|
+|texstudio|4.0.2|4.8.0|
 |texworks|0.6.6|0.6.9|
 |thedarkmod|2.09a|2.12|
 |thermald|2.5.2|2.5.7|
@@ -2960,6 +2962,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |uget|2.2.3<br>+1|2.2.2|Compound version number '2.2.3+1'<br>Possible downgrade from the current version (2.2.3+1   2.2.2)|
 |uhttpmock|0.5.3|0.10.0|
 |uim|1.8.8|1.8.9|
+|ujson|1.35|1.36|
 |umbrello|23.08.5|24.02.2|
 |uml-utilities|20070815.4|20070815.4.orig|Possible downgrade from the current version (20070815.4   20070815.4.orig)|
 |un-fonts|1.0.2|1.0.2-080608|
