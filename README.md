@@ -1207,6 +1207,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |konqueror|23.08.5|24.02.2|
 |konquest|23.08.5|24.02.2|
 |konsole|23.08.5|24.02.2|
+|kontact|23.08.5|24.02.2|
 |kontactinterface|23.08.5|24.02.2|
 |kontrast|23.08.5|24.02.2|
 |konversation|23.08.5|24.02.2|
