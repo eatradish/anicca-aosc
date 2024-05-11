@@ -1609,6 +1609,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libtiff+32|4.0.10|4.6.0|
 |libtifiles2|1.1.6|1.1.7|
 |libtirpc|1.3.1|1.3.4|
+|libtommath|1.2.0|1.3.0|
 |libtool+32|2.4.6|2.4.7|
 |libtracefs|1.6.4|1.8.0|
 |libtsm|4.0.1|4.0.2|
@@ -2268,13 +2269,13 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-type-serialiser|1.0|1.01|
 |perl-uri|1.74|5.28|
 |perl-www-mechanize|1.91|2.18|
+|perl-x11-protocol-other|30|31|
 |perl-xml-libxml|2.0201|2.0210|
 |perl-xml-libxslt|1.96|2.002001|
 |perl-xml-namespacesupport|1.12<br>+9|1.12|Compound version number '1.12+9'<br>Possible downgrade from the current version (1.12+9   1.12)|
 |perl-xml-parser|2.44|2.47|
 |perl-xml-parser+32|999|2.47|Possible downgrade from the current version (999   2.47)|
 |perl-xml-sax|1.00|1.02|
-|perl-xml-sax-expat|0.51|1.33|
 |perl-xml-writer|0.625|0.900|
 |perl-xml-xpath|1.44|1.48|
 |perl-yaml-libyaml|0.85|0.89|
@@ -2646,7 +2647,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sdl-gfx|2.0.25|2.0.27|
 |sdl-sound|1.0.3|2.0.2|
 |sdl-sound+32|1.0.3|2.0.2|
-|sdl-ttf|2.0.11|2.22.0|
 |sdl-ttf+32|2.0.11|2.22.0|
 |sdl2|2.24.2|2.30.3|
 |sdl2-image|2.0.5|2.8.2|
@@ -2831,7 +2831,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |talloc|2.3.4|2.4.2|
 |targetcli-fb|2.1.54|2.1.58|
 |tarsnap|1.0.39|1.0.40|
-|taskwarrior|2.6.2|3.0.0|
 |tastymenu-trinity|14.1.0|14.1.2|
 |tbb|2021.11.0|2021.12.0|
 |tbb+32|4.4u4|2021.12.0|
@@ -3134,7 +3133,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xf86-video-r128|6.12.1|6.9.7|Possible downgrade from the current version (6.12.1   6.9.7)|
 |xfsprogs|6.5.0|6.7.0|
 |xine-ui|0.99.12|0.99.14|
-|xinetd|2.3.15|2.3.15.4|
 |xjadeo|0.8.13|0.8.14|
 |xkeyboard-config|2.40|2.41|
 |xl2tpd|1.3.15|1.3.18|
