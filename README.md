@@ -1609,7 +1609,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libtiff+32|4.0.10|4.6.0|
 |libtifiles2|1.1.6|1.1.7|
 |libtirpc|1.3.1|1.3.4|
-|libtommath|1.2.0|1.3.0|
 |libtool+32|2.4.6|2.4.7|
 |libtracefs|1.6.4|1.8.0|
 |libtsm|4.0.1|4.0.2|
@@ -2269,7 +2268,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-type-serialiser|1.0|1.01|
 |perl-uri|1.74|5.28|
 |perl-www-mechanize|1.91|2.18|
-|perl-x11-protocol-other|30|31|
 |perl-xml-libxml|2.0201|2.0210|
 |perl-xml-libxslt|1.96|2.002001|
 |perl-xml-namespacesupport|1.12<br>+9|1.12|Compound version number '1.12+9'<br>Possible downgrade from the current version (1.12+9   1.12)|
