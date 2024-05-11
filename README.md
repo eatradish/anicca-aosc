@@ -158,6 +158,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |baloo|5.115.0|6.0.4|
 |baloo-widgets|23.08.5|24.02.2|
 |balsa|2.6.3|2.6.4|
+|balz|1.20|9.86|
 |bamf|0.5.5|0.5.6|
 |bandwhich|0.20.0|0.22.2|
 |baobab|42.0|46.0|
@@ -280,7 +281,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |chntpw|1.1|140201|
 |chromaprint|1.5.0|1.5.1|
 |chromium|124.0.6367.118|124.0.6367.155|
-|ciel|3.2.4|3.2.2|Possible downgrade from the current version (3.2.4   3.2.2)|
+|ciel|3.2.5|3.2.2|Possible downgrade from the current version (3.2.5   3.2.2)|
 |cifs-utils|6.10|7.0|
 |cinnamon|5.8.3|6.0.4|
 |cinnamon-control-center|5.8.1|6.0.1|
@@ -1068,6 +1069,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kdebugsettings|23.08.5|24.02.2|
 |kdeclarative|5.115.0|6.0.4|
 |kdeconnect|23.08.5|24.02.2|
+|kdecoration|5.27.11|6.0.4|
 |kded|5.115.0|6.0.4|
 |kdeedu-data|23.08.5|24.02.2|
 |kdegraphics-mobipocket|23.08.5|24.02.2|
@@ -1262,6 +1264,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |krusader|2.7.2|2.8.1|
 |krusader-trinity|14.1.0|14.1.2|
 |ksanecore|23.08.5|24.02.2|
+|kscope-trinity|14.1.0|14.1.2|
 |kscreen|5.27.11|6.0.4|
 |kscreenlocker|5.27.11|6.0.4|
 |ksensors-trinity|14.1.0|14.1.2|
@@ -1536,6 +1539,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libp11|0.4.10|0.4.12|
 |libpano13|2.9.19|2.9.22|
 |libpaper|2.1.2|2.2.5|
+|libpcap+32|1.10.1|1.10.4|
 |libpeas|1.32.0|2.0.2|
 |libpfm|4.12.0|4.13.0|
 |libphonenumber|8.12.17|8.13.36|
@@ -2537,7 +2541,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |raptor2|2.0.15|2.0.16|
 |rarian|0.8.1|0.8.5|
 |razergenie|0.9.0|1.1.0|
-|razor-agents|2.85|2.152|
 |rbw|1.9.0|1.10.0|
 |rclone|1.65.2|1.66.0|
 |rcm|1.3.4|1.3.6|
@@ -2858,6 +2861,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tdegraphics|14.1.0|14.1.2|
 |tdeio-appinfo|14.1.0|14.1.2|
 |tdeio-apt|14.1.0|14.1.2|
+|tdeio-ftps|14.1.0|14.1.2|
 |tdeio-locate|14.1.0|14.1.2|
 |tdeio-sword|14.1.0|14.1.2|
 |tdeio-umountwrapper|14.1.0|14.1.2|
