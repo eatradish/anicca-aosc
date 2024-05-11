@@ -533,24 +533,9 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fastimport|0.9.8|0.9.14|
 |fatattr|1.0.1|1.0.1.orig|Possible downgrade from the current version (1.0.1   1.0.1.orig)|
 |faulthandler|3.1|3.2|
-|fcitx5|5.1.5|5.1.9|
-|fcitx5-anthy|5.1.2|5.1.4|
-|fcitx5-chewing|5.1.1|5.1.3|
-|fcitx5-chinese-addons|5.1.2|5.1.5|
-|fcitx5-configtool|5.1.2|5.1.5|
-|fcitx5-gtk|5.1.0|5.1.3|
-|fcitx5-hangul|5.1.1|5.1.3|
-|fcitx5-kkc|5.1.0|5.1.3|
-|fcitx5-libthai|5.1.1|5.1.3|
-|fcitx5-lua|5.0.11|5.0.13|
-|fcitx5-m17n|5.1.0|5.1.1|
 |fcitx5-mozc|2.29.5160.102<br>+fcitx5<br>+git20230919|2.29.5374.102|Compound version number '2.29.5160.102+fcitx5+git20230919'<br>Version number indicates a snapshot (+git) is used|
 |fcitx5-pinyin-moegirl|20240509|20240309|Possible downgrade from the current version (20240509   20240309)|
 |fcitx5-pinyin-zhwiki|0.2.3<br>+dict20210823|0.2.4|Compound version number '0.2.3+dict20210823'|
-|fcitx5-rime|5.1.3|5.1.6|
-|fcitx5-sayura|5.1.1|5.1.2|
-|fcitx5-skk|5.1.0|5.1.3|
-|fcitx5-unikey|5.1.1|5.1.4|
 |fd|10.1.0|10.0.0|Possible downgrade from the current version (10.1.0   10.0.0)|
 |fdkaac|1.0.1|1.0.6|
 |feedbackd|0.2.1|0.3.0|
@@ -908,6 +893,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ibus-hangul|1.5.4|1.5.5|
 |ibus-libpinyin|1.12.0|1.15.7|
 |ibus-m17n|1.4.7|1.4.29|
+|ibus-qt|1.3.3|1.3.4|
 |ibus-sunpinyin|3.0.0~rc1|2.0.3-rel-1|Possible downgrade from the current version (3.0.0~rc1   2.0.3-rel-1)|
 |ibus-table|1.14.1|1.17.4|
 |icdiff|1.9.5|2.0.7|
@@ -1221,7 +1207,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |konqueror|23.08.5|24.02.2|
 |konquest|23.08.5|24.02.2|
 |konsole|23.08.5|24.02.2|
-|kontact|23.08.5|24.02.2|
 |kontactinterface|23.08.5|24.02.2|
 |kontrast|23.08.5|24.02.2|
 |konversation|23.08.5|24.02.2|
@@ -1453,7 +1438,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libidn|1.41|1.42|
 |libidn+32|1.33|1.42|
 |libidn2|2.3.0|2.3.7|
-|libime|1.1.3|1.1.7|
 |libindi|2.0.5|2.0.7|
 |libinput|1.24.0|1.25.0|
 |libintl-perl|1.29|1.33|
@@ -1841,7 +1825,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |minizip|1.2.11|1.3.1|
 |minuet|23.08.5|24.02.2|
 |mitmproxy|7.0.4|10.3.0|
-|mixxx|2.3.0|2.4.0|
+|mixxx|2.4.1|2.4.0|Possible downgrade from the current version (2.4.1   2.4.0)|
 |mjpegtools|2.1.0|2.2.1|
 |mjpegtools+32|2.1.0|2.2.1|
 |mkvtoolnix|79.0|84.0|
@@ -2458,6 +2442,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pyqt5-sip|12.9.0|12.13.0|
 |pyqtwebengine|5.15.5|5.15.6|
 |pyscard|1.9.9|2.0.9|
+|pyscss|1.3.7|1.4.0|
 |pyside2|5.15.11|5.15.2.1|Possible downgrade from the current version (5.15.11   5.15.2.1)|
 |pysmbc|1.0.22|1.0.25.1|
 |pysocks|1.6.8|1.7.1|
@@ -3110,7 +3095,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xapps|2.6.1|2.8.2|
 |xarchiver|0.5.4.15|0.5.4.23|
 |xcalibrate|0.9<br>+git20200330|0.9|Compound version number '0.9+git20200330'<br>Version number indicates a snapshot (+git) is used|
-|xcb-imdkit|1.0.5|1.0.8|
 |xcb-proto|1.16.0|1.17.0|
 |xcb-proto+32|1.14|1.17.0|
 |xcffib|0.7.0|1.5.0|
