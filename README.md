@@ -1145,7 +1145,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kiten|23.08.5|24.02.2|
 |kitinerary|23.08.5|24.02.2|
 |kitty|0.26.4|0.34.1|
-|kiwisolver|1.0.1|1.4.5|
 |kjobwidgets|5.115.0|6.0.4|
 |kjournald|23.08.5|24.02.2|
 |kjs|5.115.0|6.0.4|
