@@ -378,7 +378,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dateutil|2.8.2|2.9.0.post0|
 |dav1d|1.4.0|1.4.1|
 |db+32|6.1.26|5.3.28|Possible downgrade from the current version (6.1.26   5.3.28)|
-|dblatex|0.3.12|1.0.97|
 |dbus+32|1.12.18|1.14.10|
 |dbus-1-tqt|14.1.0|14.1.2|
 |dbus-glib|0.110|0.112|
@@ -671,7 +670,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |giflib+32|5.1.8|5.2.2|
 |gifski|1.14.4|1.32.0|
 |gimp|2.10.36|2_10_38|
-|girara|0.4.0|0.4.3|
 |git-archive-all|1.20.0|1.23.1|
 |git-branchless|0.7.1|0.8.0|
 |git-lfs|3.5.0|3.5.1|
