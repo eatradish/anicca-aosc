@@ -114,6 +114,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |at-spi2-core+32|2.26.3|2.52.0|
 |atk+32|2.26.1|2.38.0|
 |atkmm|2.28.0|2.36.3|
+|atomicwrites|1.3.0|1.4.1|
 |atomix|3.34.0|44.0|
 |atril|1.26.1|1.28.0|
 |attica5|5.115.0|6.0.4|
@@ -457,6 +458,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dotnet-templates-6.0|6.0.100|6.0.421|
 |dotnet-templates-8.0|8.0.204|6.0.421|Possible downgrade from the current version (8.0.204   6.0.421)|
 |double-conversion|3.2.1|3.3.0|
+|dovecot|2.3.10.1|2.3.21|
 |doxygen|1.10.0|1_10_0|
 |doxyqml|0.5.0|0.5.3|
 |dpdk|22.11.1|24.03|
@@ -1127,6 +1129,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kinfocenter|5.27.11|6.0.4|
 |kinit|5.115.0|6.0.4|
 |kio|5.115.0|6.0.4|
+|kio-admin|23.08.5|24.02.2|
 |kio-extras|23.08.5|24.02.2|
 |kio-fuse|5.0.1|5.1.0|
 |kio-gdrive|23.08.5|24.02.2|
@@ -1301,6 +1304,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kwindowsystem|5.115.0|6.0.4|
 |kwordquiz|23.08.5|24.02.2|
 |kwrited|5.27.11|6.0.4|
+|kxmleditor-trinity|14.1.0|14.1.2|
 |kxmlgui|5.115.0|6.0.4|
 |kxmlrpcclient|5.115.0|6.0.4|
 |kyotocabinet|1.2.79|1.2.80|
@@ -1321,6 +1325,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lib3mf|2.2.0|2.3.1|
 |libaacs|0.11.0|0.11.1|
 |libaal|1.0.7|24"|
+|libaccounts-glib|1.24|1.27|
 |libaccounts-qt|1.16|1.17|
 |libaio|0.3.111|0.3.113|
 |libaio+32|0.3.110|0.3.113|
@@ -2206,6 +2211,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-mozilla-ca|20180117|20240313|
 |perl-mro-compat|0.13|0.15|
 |perl-net-dbus|1.1.0|1.2.0|
+|perl-net-dns|1.19<br>+02|1.45|Compound version number '1.19+02'|
 |perl-net-http|6.18|6.23|
 |perl-net-server|2.009|2.014|
 |perl-net-ssleay|1.85|1.94|
@@ -2313,7 +2319,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pngquant|2.12.6|3.0.3|
 |pnpm|8.15.5|9.1.0-0|
 |po-debconf|1.0.21|1.0.21+nmu1|Possible downgrade from the current version (1.0.21   1.0.21+nmu1)|
-|po4a|0.63|0.71|
 |pocketsphinx|5~prealpha|0.8|Possible downgrade from the current version (5~prealpha   0.8)|
 |podcastparser|0.6.5|0.6.10|
 |podman|4.9.3<br>+vsock0.7.2|5.0.2|Compound version number '4.9.3+vsock0.7.2'|
@@ -2447,7 +2452,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |python-augeas|1.0.3|1.1.0|
 |python-build|0.8.0|1.2.1|
 |python-caja|1.26.0|1.28.0|
-|python-cloudflare|2.8.15|3.0.0b8|
 |python-cssselect|1.0.3|1.2.0|
 |python-daemonize|2.5.0|3.8.0|
 |python-dbusmock|0.22.0|0.31.1|
@@ -2956,7 +2960,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |uget|2.2.3<br>+1|2.2.2|Compound version number '2.2.3+1'<br>Possible downgrade from the current version (2.2.3+1   2.2.2)|
 |uhttpmock|0.5.3|0.10.0|
 |uim|1.8.8|1.8.9|
-|ujson|1.35|1.36|
 |umbrello|23.08.5|24.02.2|
 |uml-utilities|20070815.4|20070815.4.orig|Possible downgrade from the current version (20070815.4   20070815.4.orig)|
 |un-fonts|1.0.2|1.0.2-080608|
