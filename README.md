@@ -1236,7 +1236,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |krb5+32|1.17.1|1.21.2-final|
 |krdc|23.08.5|24.02.2|
 |krecipes-trinity|14.1.0|14.1.2|
-|krecorder|23.08.5|24.02.2|
 |krename-trinity|14.1.0|14.1.2|
 |kreversi|23.08.5|24.02.2|
 |krfb|23.08.5|24.02.2|
