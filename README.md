@@ -1439,7 +1439,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libidn2|2.3.0|2.3.7|
 |libindi|2.0.5|2.0.7|
 |libinput|1.24.0|1.25.0|
-|libintl-perl|1.29|1.33|
 |libipset|1.1.1<br>+git20150311|1.1.1|Compound version number '1.1.1+git20150311'<br>Version number indicates a snapshot (+git) is used|
 |libiscsi|1.18.0|1.20.0|
 |libisoburn|1.5.2|1.5.6|
@@ -1842,6 +1841,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |monotonic|1.5|1.6|
 |moodbar|1.2.1|1.3.0|
 |more-itertools|4.3.0|10.2.0|
+|most|5.0.0a|5.2.0|
 |mouseemu|0.16|0.16.orig|Possible downgrade from the current version (0.16   0.16.orig)|
 |movit|1.6.3|1.7.1|
 |mozo|1.26.2|1.28.0|
