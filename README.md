@@ -524,7 +524,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |faad2|2.10.0|2.11.1|
 |faad2+32|2.10.0|2.11.1|
 |facile|1.1.3|1.1.4|
-|fail2ban|1.0.2|1.1.0|
 |falkon|23.08.5|24.02.2|
 |fann|20190109|2.2.0|Possible downgrade from the current version (20190109   2.2.0)|
 |fantasque-sans-mono-nerd-fonts|3.1.1|3.2.1|
