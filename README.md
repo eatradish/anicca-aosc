@@ -957,7 +957,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |jasper|2.0.21|4.2.4|
 |jbig2dec|0.18|0.20|
 |jdcal|1.4|1.4.1|
-|jedi|0.18.1|0.19.1|
 |jeepney|0.6.0|0.8.0|
 |jellyfish|0.6.0|1.0.3|
 |jetring|0.29|0.31|
@@ -1236,6 +1235,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |krb5+32|1.17.1|1.21.2-final|
 |krdc|23.08.5|24.02.2|
 |krecipes-trinity|14.1.0|14.1.2|
+|krecorder|23.08.5|24.02.2|
 |krename-trinity|14.1.0|14.1.2|
 |kreversi|23.08.5|24.02.2|
 |krfb|23.08.5|24.02.2|
@@ -1895,7 +1895,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |neatvnc|0.7.1|0.8.0|
 |nemo|5.8.3|6.0.2|
 |nemo-extensions|5.8.0|6.0.1|
-|neochat|23.08.5|24.02.2|
 |neomutt|20200619|20240425|
 |neon+32|0.31.2|0.33.0|
 |nestopia|1.51.0|1.52.1|
@@ -2756,7 +2755,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |srtp|2.4.0|2.6.0|
 |srtp+32|1.5.4|2.6.0|
 |ss-tproxy|4.6.1|4.8|
-|sshfs|3.6.0|3.7.3|
 |sshpass|1.06|1.10|
 |sslh|1.19c|2.1.1|
 |stalonetray|0.8.4|0.8.5|
@@ -3018,7 +3016,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |virtualgl+32|2.5.2|3.1.1|
 |vkd3d|1.9|1.11|
 |vkd3d+32|1.9|1.11|
-|vkmark|2017.08<br>+git20230412|2017.08|Compound version number '2017.08+git20230412'<br>Version number indicates a snapshot (+git) is used|
 |vmpk|0.8.0|0.9.0|
 |vnstat|2.4|2.12|
 |volk|2.5.0|3.1.2|
