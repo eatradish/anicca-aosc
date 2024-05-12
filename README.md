@@ -31,7 +31,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |aegisub|3.2.2<br>+git20231203|3.2.2|Compound version number '3.2.2+git20231203'<br>Version number indicates a snapshot (+git) is used|
 |agrep|4.17|4.17.orig|Possible downgrade from the current version (4.17   4.17.orig)|
 |aha|0.5|0.5.1|
-|aide|0.16.2|0.18.7|
 |aiohttp|3.7.4.post0|3.9.5|
 |aisleriot|3.22.24|3.22.32|
 |akode|14.1.0|14.1.2|
