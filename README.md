@@ -2659,6 +2659,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |shotcut|21.08.11|24.04.28|
 |shotwell|0.31.4|0.32.6|
 |showmethekey|1.12.0|1.13.0|
+|shutter|0.94|0.99.2|
 |siege|4.0.7|4.1.6|
 |signon|8.60|8.61|
 |signon-kwallet-extension|23.08.5|24.02.2|
