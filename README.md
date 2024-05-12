@@ -459,6 +459,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |double-conversion|3.2.1|3.3.0|
 |dovecot|2.3.10.1|2.3.21|
 |doxygen|1.10.0|1_10_0|
+|doxyqml|0.5.0|0.5.3|
 |dpdk|22.11.1|24.03|
 |dragon|23.08.5|24.02.2|
 |drkonqi|5.27.11|6.0.4|
@@ -1571,6 +1572,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libspectre+32|0.2.9|0.2.12|
 |libspiro|0.5.20150702|20221101|
 |libspnav|0.2.3|1.0|
+|libssh|0.8.9|0.10.6|
 |libssh+32|0.8.9|0.10.6|
 |libssh2|1.9.0|1.11.0|
 |libssh2+32|1.9.0|1.11.0|
@@ -2657,7 +2659,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |shotcut|21.08.11|24.04.28|
 |shotwell|0.31.4|0.32.6|
 |showmethekey|1.12.0|1.13.0|
-|shutter|0.94|0.99.2|
 |siege|4.0.7|4.1.6|
 |signon|8.60|8.61|
 |signon-kwallet-extension|23.08.5|24.02.2|
