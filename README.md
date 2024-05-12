@@ -31,6 +31,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |aegisub|3.2.2<br>+git20231203|3.2.2|Compound version number '3.2.2+git20231203'<br>Version number indicates a snapshot (+git) is used|
 |agrep|4.17|4.17.orig|Possible downgrade from the current version (4.17   4.17.orig)|
 |aha|0.5|0.5.1|
+|aide|0.16.2|0.18.7|
 |aiohttp|3.7.4.post0|3.9.5|
 |aisleriot|3.22.24|3.22.32|
 |akode|14.1.0|14.1.2|
@@ -458,7 +459,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |double-conversion|3.2.1|3.3.0|
 |dovecot|2.3.10.1|2.3.21|
 |doxygen|1.10.0|1_10_0|
-|doxyqml|0.5.0|0.5.3|
 |dpdk|22.11.1|24.03|
 |dragon|23.08.5|24.02.2|
 |drkonqi|5.27.11|6.0.4|
@@ -1571,7 +1571,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libspectre+32|0.2.9|0.2.12|
 |libspiro|0.5.20150702|20221101|
 |libspnav|0.2.3|1.0|
-|libssh|0.8.9|0.10.6|
 |libssh+32|0.8.9|0.10.6|
 |libssh2|1.9.0|1.11.0|
 |libssh2+32|1.9.0|1.11.0|
