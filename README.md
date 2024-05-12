@@ -129,7 +129,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |audit|3.1|4.0.1|
 |audiveris|5.1.0|5.3.1|
 |autobahn|19.2.1|23.6.2|
-|autobuild4|4.1.9|1.9.1|Possible downgrade from the current version (4.1.9   1.9.1)|
+|autobuild4|4.2.1|1.9.1|Possible downgrade from the current version (4.2.1   1.9.1)|
 |autoconf-archive|2021.02.19|2023.02.20|
 |autofs|5.1.8|5.1.9|
 |autojump-rs|0.5.1<br>+22.5.3|0.5.1|Compound version number '0.5.1+22.5.3'<br>Possible downgrade from the current version (0.5.1+22.5.3   0.5.1)|
