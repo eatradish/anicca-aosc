@@ -2523,7 +2523,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rarian|0.8.1|0.8.5|
 |razergenie|0.9.0|1.1.0|
 |razor-agents|2.85|2.152|
-|rbw|1.9.0|1.10.0|
+|rbw|1.10.1|1.10.0|Possible downgrade from the current version (1.10.1   1.10.0)|
 |rclone|1.65.2|1.66.0|
 |rcm|1.3.4|1.3.6|
 |rdflib|6.2.0|7.0.0|
