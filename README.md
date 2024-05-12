@@ -1162,7 +1162,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kmag|23.08.5|24.02.2|
 |kmahjongg|23.08.5|24.02.2|
 |kmail|23.08.5|24.02.2|
-|kmail-account-wizard|23.08.5|24.02.2|
 |kmailtransport|23.08.5|24.02.2|
 |kmbox|23.08.5|24.02.2|
 |kmediaplayer|5.115.0|6.0.4|
