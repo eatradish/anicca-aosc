@@ -2291,7 +2291,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |plasma-browser-integration|5.27.11|6.0.4|
 |plasma-desktop|5.27.11|6.0.4|
 |plasma-disks|5.27.11|6.0.4|
-|plasma-firewall|5.27.11|6.0.4|
 |plasma-framework|5.115.0|6.0.4|
 |plasma-integration|5.27.11|6.0.4|
 |plasma-mobile|5.27.5|6.0.4|
@@ -2358,7 +2357,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |prettytable|0.7.2|3.10.0|
 |primus+32|20150328|0.2|Possible downgrade from the current version (20150328   0.2)|
 |print-manager|23.08.5|24.02.2|
-|prismlauncher|8.2|8.3|
 |prison5|5.115.0|6.0.4|
 |progress|0.16|0.17|
 |proj|9.2.1|9.4.0|
@@ -2795,7 +2793,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |synaptic|0.90.2|0.91.3|
 |syncthing|1.27.3|1.27.6|
 |syncthing-gtk|0.9.4.4|0.9.4.5|
-|syndication|5.115.0|6.0.4|
 |synergy|1.11.1|2.3.2|
 |syntax-highlighting|5.115.0|6.0.4|
 |syslinux|6.04~pre1|6.03|Possible downgrade from the current version (6.04~pre1   6.03)|
