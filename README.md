@@ -1842,7 +1842,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |monotonic|1.5|1.6|
 |moodbar|1.2.1|1.3.0|
 |more-itertools|4.3.0|10.2.0|
-|most|5.0.0a|5.2.0|
 |mouseemu|0.16|0.16.orig|Possible downgrade from the current version (0.16   0.16.orig)|
 |movit|1.6.3|1.7.1|
 |mozo|1.26.2|1.28.0|
