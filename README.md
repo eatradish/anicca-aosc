@@ -412,7 +412,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dieharder|3.31.1|3.31.1_20110601-1|
 |diff-match-patch|20200713|20230430|
 |diff-so-fancy|1.4.1|1.4.4|
-|difftastic|0.56.1|0.6.1|Possible downgrade from the current version (0.56.1   0.6.1)|
 |diffuse|0.6.0|0.9.0|
 |diffutils|3.8|3.10|
 |digikam|7.9.0|8.3.0|
@@ -1788,7 +1787,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mbox-importer|23.08.5|24.02.2|
 |mbpfan|2.2.1|2.4.0|
 |mccabe|0.6.1|0.7.0|
-|mcfly|0.8.4|0.8.5|
 |mcomix|1.2.1|3.1.0|
 |mdadm|4.2|4.3|
 |mdbook|0.4.14|0.4.37|
