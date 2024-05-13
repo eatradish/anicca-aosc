@@ -193,7 +193,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |borgbackup|1.1.17|1.2.8|
 |botan|1.10.17|3.4.0|
 |botan-2|2.12.1|3.4.0|
-|boto3|1.20.26|1.34.103|
+|boto3|1.20.26|1.34.104|
 |bottle|0.12.18|0.12.25|
 |bottles|2022.2.28<br>+trento<br>+4|51.11|Compound version number '2022.2.28+trento+4'<br>Possible downgrade from the current version (2022.2.28+trento+4   51.11)|
 |bovo|23.08.5|24.02.2|
@@ -1561,7 +1561,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libssh2|1.9.0|1.11.0|
 |libssh2+32|1.9.0|1.11.0|
 |libstatgrab|0.91|0.92.1|
-|libstoragemgmt|1.7.3|1.9.8|
+|libstoragemgmt|1.7.3|1.10.0|
 |libsysstat|0.4.4|1.0.0|
 |libtasn1|4.15.0|4.19.0|
 |libtasn1+32|4.15.0|4.19.0|
@@ -1575,7 +1575,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libtifiles2|1.1.6|1.1.7|
 |libtirpc|1.3.1|1.3.4|
 |libtommath|1.2.0|1.3.0|
-|libtool+32|2.4.6|2.4.7|
+|libtool|2.4.7|2.5.0|
+|libtool+32|2.4.6|2.5.0|
 |libtracefs|1.6.4|1.8.0|
 |libtsm|4.0.1|4.0.2|
 |libudfread|1.1.1|1.1.2|
