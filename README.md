@@ -169,7 +169,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |bcc|0.28.0|0.30.0|
 |bcftools|1.10.2|1.20|
 |bcrypt|3.1.7|4.1.3|
-|beaker|1.11.0|1.13.0|
 |beancount|2.2.1|2.3.6|
 |bear|3.0.20|3.1.3|
 |beautifulsoup4|4.10.0|4.12.3|
@@ -464,7 +463,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dragon|23.08.5|24.02.2|
 |drkonqi|5.27.11|6.0.4|
 |dropbox|148.4.4519|198.4.7615|
-|drumstick|2.0.0|2.9.0|
 |dssim|3.2.0|3.3.1|
 |dssim-c|1.3.2<br>+git20200922|3.3.1|Compound version number '1.3.2+git20200922'<br>Version number indicates a snapshot (+git) is used|
 |dsview|1.3.1|1.12|
@@ -2787,7 +2785,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sushi|42.0|46.0|
 |svgpart|23.08.5|24.02.2|
 |swaybg|1.2.0|1.2.1|
-|swayfx|0.4|0.3.2|Possible downgrade from the current version (0.4   0.3.2)|
 |sweeper|23.08.5|24.02.2|
 |swell-foop|41.1|46.0|
 |swig|4.1.1|4.2.1|
