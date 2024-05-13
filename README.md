@@ -107,9 +107,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |aspnetcore-runtime-6.0|6.0.0|6.0.29|
 |aspnetcore-targeting-pack-6.0|6.0.0|6.0.29|
 |assimp|5.3.1|5.4.0|
-|ast-grep|0.22.0|0.22.2|
 |astroid|2.12.2|3.1.0|
-|astyle|3.1|3.4.14|
 |at-spi2-atk+32|2.26.3|2.38.0|
 |at-spi2-core+32|2.26.3|2.52.0|
 |atk+32|2.26.1|2.38.0|
@@ -169,6 +167,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |bcc|0.28.0|0.30.0|
 |bcftools|1.10.2|1.20|
 |bcrypt|3.1.7|4.1.3|
+|beaker|1.11.0|1.13.0|
 |beancount|2.2.1|2.3.6|
 |bear|3.0.20|3.1.3|
 |beautifulsoup4|4.10.0|4.12.3|
@@ -463,6 +462,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dragon|23.08.5|24.02.2|
 |drkonqi|5.27.11|6.0.4|
 |dropbox|148.4.4519|198.4.7615|
+|drumstick|2.0.0|2.9.0|
 |dssim|3.2.0|3.3.1|
 |dssim-c|1.3.2<br>+git20200922|3.3.1|Compound version number '1.3.2+git20200922'<br>Version number indicates a snapshot (+git) is used|
 |dsview|1.3.1|1.12|
@@ -540,7 +540,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |feeluown-netease|1.0.1|1.0.2|
 |feeluown-qqmusic|1.0.2|1.0.3|
 |feishin|0.7.1|0.6.1|Possible downgrade from the current version (0.7.1   0.6.1)|
-|fend|1.4.6|1.4.8|
 |ffcall|2.2|2.4|
 |ffmpeg|4.4.4|7.0|
 |ffmpeg+32|4.2.5|7.0|
@@ -795,13 +794,11 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gssproxy|0.8.2|0.9.2|
 |gst-libav-1-0+32|1.16.2|1.24.3|
 |gst-plugins-bad-1-0+32|1.16.2|1.24.3|
-|gst-plugins-base-1-0+32|1.16.2|1.24.3|
 |gst-plugins-good-1-0+32|1.16.2|1.24.3|
 |gst-plugins-ugly-1-0+32|1.16.2|1.24.3|
 |gstreamer|1.22.0|1.24.3|
 |gstreamer-1-0+32|1.16.2|1.24.3|
 |gtest|1.10.0<br>+git20210513|1.14.0|Compound version number '1.10.0+git20210513'<br>Version number indicates a snapshot (+git) is used|
-|gti|1.6.1|1.9.1|
 |gtk-2+32|2.24.32|2.24.33|
 |gtk-4|4.14.1|4.14.4|
 |gtk-doc|1.33.2|1.34.0|
@@ -942,7 +939,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |irssi|1.2.3|1.4.5|
 |iso-codes|4.4|4.16.0|
 |isomd5sum|1.2.3|1.2.4|
-|isort|4.3.21|5.13.2|
 |ispc|1.22.0|1.23.0|
 |itinerary|23.08.5|24.02.2|
 |itsdangerous|1.1.0|2.2.0|
@@ -975,7 +971,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |juk|23.08.5|24.02.2|
 |jupyter-client|5.2.4|8.6.1|
 |jupyter-core|4.4.0|5.7.2|
-|just|1.22.1|1.25.2|
 |k3b|23.08.5|24.02.2|
 |k3b-trinity|14.1.0|14.1.2|
 |k9copy-trinity|14.1.0|14.1.2|
@@ -1357,7 +1352,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libcgroup|2.0|3.1.0|
 |libchamplain|0.12.20|0.12.21|
 |libchewing|0.5.1|0.7.0|
-|libcl|2.3.1|2.3.2|
 |libclc|17.0.3|18.1.5|
 |libcloudproviders|0.3.1|0.3.6|
 |libcmis|0.5.2|0.6.2|
@@ -1888,7 +1882,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ncbi-blast+|2.13.0|2.15.0+|
 |ncbi-vdb|3.0.2|3.1.0|
 |ncdu|1.16|2.4|
-|ncompress|4.2.4.6|5.0|
 |ncurses+32|6.0|6.4|
 |ndctl|72|79|
 |neatvnc|0.7.1|0.8.0|
@@ -2017,7 +2010,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |opensc|0.22.0|0.25.1|
 |openscad|2021.01<br>+git20230825|2021.01|Compound version number '2021.01+git20230825'<br>Version number indicates a snapshot (+git) is used|
 |openslide|3.4.1|4.0.0|
-|openssl+32|3.2.0|3.3.0|
 |openssl-1.1|1.1.1w|3.3.0|
 |openssl-1.1+32|1.1.1q|3.3.0|
 |opensubdiv|3.6.0|3_6_0|
@@ -2037,7 +2029,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |osinfo-db|20230719|20231215|
 |osinfo-db-tools|1.10.0|1.11.0|
 |ostree|2023.1|2024.5|
-|ouch|0.4.1|0.5.1|
 |owntone|28.6|28.9|
 |oxygen|5.27.11|6.0.4|
 |oxygen-icons|5.115.0|6.0.4|
@@ -2097,7 +2088,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |peg|0.1.18|0.1.20|
 |pep517|0.12.0|0.13.1|
 |perl|5.36.3|5.38.2|
-|perl+32|999|5.38.2|Possible downgrade from the current version (999   5.38.2)|
 |perl-alien-build|1.92|2.80|
 |perl-alien-libxml2|0.11|0.19|
 |perl-anyevent|7.14|7.17|
@@ -2624,7 +2614,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sddm-kcm|5.27.11|6.0.4|
 |sdl-gfx|2.0.25|2.0.27|
 |sdl-sound|1.0.3|2.0.2|
-|sdl-sound+32|1.0.3|2.0.2|
 |sdl-ttf|2.0.11|2.22.0|
 |sdl-ttf+32|2.0.11|2.22.0|
 |sdl2|2.24.2|2.30.3|
@@ -3011,7 +3000,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vicious|2.3.3|2.7.0|
 |vid.stab|0.98b|1.1.1|
 |vim|9.1.0140|9.1.0393|
-|virglrenderer|0.10.4|1.0.1|
 |virtualenv|20.25.0|20.26.1|
 |virtualgl+32|2.5.2|3.1.1|
 |vkd3d|1.9|1.11|
@@ -3136,7 +3124,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |yaml-cpp|0.6.3|0.8.0|
 |yard|0.9.26|0.9.36|
 |yarl|1.6.3|1.9.4|
-|yarn|1.22.17|1.22.22|
 |yaspin|1.2.0|3.0.2|
 |yaz|5.31.0|5.34.0|
 |yelp|42.1|42.2|
