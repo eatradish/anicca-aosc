@@ -447,6 +447,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dotnet-templates-6.0|6.0.100|6.0.421|
 |dotnet-templates-8.0|8.0.204|6.0.421|Possible downgrade from the current version (8.0.204   6.0.421)|
 |double-conversion|3.2.1|3.3.0|
+|dovecot|2.3.10.1|2.3.21|
 |doxygen|1.10.0|1_10_0|
 |doxyqml|0.5.0|0.5.3|
 |dpdk|22.11.1|24.03|
@@ -781,6 +782,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gssdp|1.2.3|1.6.3|
 |gssproxy|0.8.2|0.9.2|
 |gst-libav-1-0+32|1.16.2|1.24.3|
+|gst-plugins-bad-1-0+32|1.16.2|1.24.3|
 |gst-plugins-base-1-0+32|1.16.2|1.24.3|
 |gst-plugins-good-1-0+32|1.16.2|1.24.3|
 |gst-plugins-ugly-1-0+32|1.16.2|1.24.3|
@@ -910,12 +912,12 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |inotify-tools|3.21.9.6|4.23.9.0|
 |intel-compute-runtime|24.13.29138.7|24.17.29377.8|
 |intel-gmmlib|22.3.18|22.3.19|
-|intel-graphics-compiler|1.0.16510.2|1.0.16747.4|
+|intel-graphics-compiler|1.0.16510.2|1.0.16747.7|
 |intel-media-driver|24.1.5|24.2.2|
 |intel-ucode|20221108|20240312|
 |inxi|3.3.31<br>+2|3.3.31-2|Compound version number '3.3.31+2'|
 |iodine|0.7.0|0.8.0|
-|iosevka-fonts|28.0.5|30.0.0|
+|iosevka-fonts|28.0.5|30.0.1|
 |iozone|3.492|3.506|
 |ipcalc|0.41|1.0.3|
 |iperf3|3.16|3.17|
@@ -945,7 +947,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |jdcal|1.4|1.4.1|
 |jedi|0.18.1|0.19.1|
 |jeepney|0.6.0|0.8.0|
-|jellyfish|0.6.0|1.0.3|
 |jetring|0.29|0.31|
 |jinja2|3.1.2|3.1.4|
 |jmespath|0.10.0|1.0.1|
@@ -1027,7 +1028,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kdbg-trinity|14.1.0|14.1.2|
 |kdbusaddons|5.115.0|6.0.4|
 |kdbusnotification-trinity|14.1.0|14.1.2|
-|kddockwidgets|1.3.1|2.0.0|
+|kddockwidgets|1.3.1|2.1.0|
 |kde-cli-tools|5.27.11|6.0.4|
 |kde-dev-scripts|23.08.5|24.02.2|
 |kde-dev-utils|23.08.5|24.02.2|
@@ -2916,6 +2917,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |uml-utilities|20070815.4|20070815.4.orig|Possible downgrade from the current version (20070815.4   20070815.4.orig)|
 |un-fonts|1.0.2|1.0.2-080608|
 |unace|2.5|2.5.orig|Possible downgrade from the current version (2.5   2.5.orig)|
+|unar|1.10.1|1.10.8|
 |unbound|1.19.2<br>+icannbundle20210902|1.20.0|Compound version number '1.19.2+icannbundle20210902'|
 |unidecode|1.0.23|1.3.8|
 |unifont|15.1.04|15.1.05|
