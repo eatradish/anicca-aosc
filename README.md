@@ -1233,7 +1233,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |krusader|2.7.2|2.8.1|
 |krusader-trinity|14.1.0|14.1.2|
 |ksanecore|23.08.5|24.02.2|
-|kscope-trinity|14.1.0|14.1.2|
 |kscreen|5.27.11|6.0.4|
 |kscreenlocker|5.27.11|6.0.4|
 |ksensors-trinity|14.1.0|14.1.2|
@@ -1428,7 +1427,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libipset|1.1.1<br>+git20150311|1.1.1|Compound version number '1.1.1+git20150311'<br>Version number indicates a snapshot (+git) is used|
 |libiscsi|1.18.0|1.20.0|
 |libisoburn|1.5.2|1.5.6|
-|libisofs|1.5.2|1.5.6.pl01|
 |libjcat|0.1.8|0.2.1|
 |libjpeg-turbo|3.0.2|3.0.3|
 |libjpeg-turbo+32|2.0.5|3.0.3|
@@ -1698,7 +1696,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lxappearance|0.6.2|0.6.3|
 |lxc|5.0.2|6.0.0|
 |lxcfs|3.0.3|6.0.0|
-|lxgwcleargothic-font|0.206|0.291.2|
+|lxgwcleargothic-font|0.206|0.300.4|
 |lxgwnewcleargothic-font|1.108|1.121|
 |lxgwwenkai-font|1.315|1.330|
 |lxml|4.7.1|4.9.1|
@@ -1721,6 +1719,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mailimporter|23.08.5|24.02.2|
 |maim|5.5.3|5.8.0|
 |mako|1.1.4|1.3.3|
+|mako-notification-daemon|1.8.0|1.9.0|
 |malcontent|0.10.5|0.12.0|
 |man-db|2.11.1|2.12.1|
 |man-pages|6.05.01<br>+posix2017a|6.7|Compound version number '6.05.01+posix2017a'|
@@ -1768,7 +1767,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mihomo|1.18.2|1.18.4|
 |milkytracker|1.02.00|1.04.00|
 |milou|5.27.11|6.0.4|
-|mimalloc|2.1.2|2.1.4|
+|mimalloc|2.1.2|2.1.6|
 |mime-types|9|99|
 |minetest|5.7.0<br>+irrlicht1.9.0mt10|5.8.0|Compound version number '5.7.0+irrlicht1.9.0mt10'|
 |mingw+w64|8.0.0|11.0.1|
@@ -1780,7 +1779,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |minizip|1.2.11|1.3.1|
 |minuet|23.08.5|24.02.2|
 |mitmproxy|7.0.4|10.3.0|
-|mixxx|2.4.1|2.4.0|Possible downgrade from the current version (2.4.1   2.4.0)|
 |mjpegtools|2.1.0|2.2.1|
 |mjpegtools+32|2.1.0|2.2.1|
 |mkvtoolnix|79.0|84.0|
@@ -2092,7 +2090,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-devel-stacktrace|2.04|2.05|
 |perl-devel-symdump|2.0604|2.18|Possible downgrade from the current version (2.0604   2.18)|
 |perl-digest-hmac|1.03|1.04|
-|perl-email-abstract|3.008|3.010|
 |perl-email-address|1.912|1.913|
 |perl-email-date-format|1.005|1.008|
 |perl-email-messageid|1.406|1.408|
@@ -2878,7 +2875,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |traitlets|5.0.5|5.14.3|
 |transcode|1.1.7|1_1_7|
 |translate-shell|0.9.7|0.9.7.1|
-|translate-toolkit|2.3.1|3.13.0|
 |transmission-remote-gtk|1.5.1|1.6.0|
 |trash-cli|0.17.1.14|0.24.4.17|
 |tre|20161208|0.8.0|Possible downgrade from the current version (20161208   0.8.0)|
@@ -2968,7 +2964,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vicious|2.3.3|2.7.0|
 |vid.stab|0.98b|1.1.1|
 |virglrenderer|0.10.4|1.0.1|
-|virtualenv|20.25.0|20.26.1|
+|virtualenv|20.25.0|20.26.2|
 |virtualgl+32|2.5.2|3.1.1|
 |vkd3d|1.9|1.11|
 |vkd3d+32|1.9|1.11|
