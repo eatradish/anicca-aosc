@@ -271,7 +271,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |chmlib|0.40a|0.40|
 |chntpw|1.1|140201|
 |chromaprint|1.5.0|1.5.1|
-|chromium|124.0.6367.118|124.0.6367.201|
+|chromium|124.0.6367.118|124.0.6367.207|
 |cifs-utils|6.10|7.0|
 |cinnamon|5.8.3|6.0.4|
 |cinnamon-control-center|5.8.1|6.0.1|
@@ -519,7 +519,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fatattr|1.0.1|1.0.1.orig|Possible downgrade from the current version (1.0.1   1.0.1.orig)|
 |faulthandler|3.1|3.2|
 |fcitx5-mozc|2.29.5160.102<br>+fcitx5<br>+git20230919|2.29.5374.102|Compound version number '2.29.5160.102+fcitx5+git20230919'<br>Version number indicates a snapshot (+git) is used|
-|fcitx5-pinyin-moegirl|20240509|20240309|Possible downgrade from the current version (20240509   20240309)|
 |fcitx5-pinyin-zhwiki|0.2.3<br>+dict20210823|0.2.5|Compound version number '0.2.3+dict20210823'|
 |fdkaac|1.0.1|1.0.6|
 |feedbackd|0.2.1|0.3.0|
@@ -787,7 +786,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gst-plugins-good-1-0+32|1.16.2|1.24.3|
 |gst-plugins-ugly-1-0+32|1.16.2|1.24.3|
 |gstreamer|1.22.0|1.24.3|
-|gstreamer-1-0+32|1.16.2|1.24.3|
 |gtest|1.10.0<br>+git20210513|1.14.0|Compound version number '1.10.0+git20210513'<br>Version number indicates a snapshot (+git) is used|
 |gti|1.6.1|1.9.1|
 |gtk-2+32|2.24.32|2.24.33|
@@ -1233,6 +1231,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |krusader|2.7.2|2.8.1|
 |krusader-trinity|14.1.0|14.1.2|
 |ksanecore|23.08.5|24.02.2|
+|kscope-trinity|14.1.0|14.1.2|
 |kscreen|5.27.11|6.0.4|
 |kscreenlocker|5.27.11|6.0.4|
 |ksensors-trinity|14.1.0|14.1.2|
@@ -1427,6 +1426,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libipset|1.1.1<br>+git20150311|1.1.1|Compound version number '1.1.1+git20150311'<br>Version number indicates a snapshot (+git) is used|
 |libiscsi|1.18.0|1.20.0|
 |libisoburn|1.5.2|1.5.6|
+|libisofs|1.5.2|1.5.6.pl01|
 |libjcat|0.1.8|0.2.1|
 |libjpeg-turbo|3.0.2|3.0.3|
 |libjpeg-turbo+32|2.0.5|3.0.3|
@@ -1810,7 +1810,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mplayerthumbs-trinity|14.1.0|14.1.2|
 |mpmath|1.1.0|1.4.0a1|
 |mpv|0.37.0|0.38.0|
-|mpvpaper|1.4|1.5|
+|mpvpaper|1.4|1.6|
 |ms-sys|2.6.0|2.8.0|
 |msgpack-c|6.0.0|6.0.1|
 |msgpack-c++|6.1.0|6.1.1|
@@ -2090,6 +2090,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-devel-stacktrace|2.04|2.05|
 |perl-devel-symdump|2.0604|2.18|Possible downgrade from the current version (2.0604   2.18)|
 |perl-digest-hmac|1.03|1.04|
+|perl-email-abstract|3.008|3.010|
 |perl-email-address|1.912|1.913|
 |perl-email-date-format|1.005|1.008|
 |perl-email-messageid|1.406|1.408|
@@ -2437,7 +2438,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pywbem|0.13.0|1.7.2|
 |pyx|0.14.1|0.16|
 |pyxattr|0.6.1|0.8.1|
-|pyyaml|5.3.1|6.0.1|
 |pyzmq|22.3.0|26.0.3|
 |qalculate-tde-trinity|14.1.0|14.1.2|
 |qca|2.3.4|2.3.8|
@@ -2875,6 +2875,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |traitlets|5.0.5|5.14.3|
 |transcode|1.1.7|1_1_7|
 |translate-shell|0.9.7|0.9.7.1|
+|translate-toolkit|2.3.1|3.13.0|
 |transmission-remote-gtk|1.5.1|1.6.0|
 |trash-cli|0.17.1.14|0.24.4.17|
 |tre|20161208|0.8.0|Possible downgrade from the current version (20161208   0.8.0)|
