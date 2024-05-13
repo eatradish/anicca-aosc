@@ -543,7 +543,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fim|0.7<br>+git20240221|0.7.0|Compound version number '0.7+git20240221'<br>Version number indicates a snapshot (+git) is used|
 |findlib|1.9.5|1.9.6|
 |fio|3.35|3.37|
-|firefox|123.0|125.0.3|
+|firefox|123.0|126.0|
 |firehol|3.1.6|3.1.7|
 |firewalld|2.0.0|2.1.2|
 |flac|1.3.3|1.4.3|
@@ -1888,7 +1888,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nodejs|20.13.0|21.7.1|
 |noip|2.1.9|3.0.0|
 |noise-suppression-for-voice|0.91|1.03|
-|nokogiri|1.13.9|1.16.4|
+|nokogiri|1.13.9|1.16.5|
 |nomino|1.3.1|1.3.4|
 |normaliz|3.6.3|3.10.2|
 |notmuch|0.34|0.38.3|
@@ -2692,6 +2692,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |spread-sheet-widget|0.3|0.10|
 |sqlalchemy|1.2.18|2.0.30|
 |sqlcipher|4.5.6|4.5.7|
+|sqlite|3.45.1|3.45.3|
 |sqlite+32|3.32.3|3.45.3|
 |sqlite-fdw|2.1.0|2.4.0|
 |sqlitebrowser|3.12.1|83649a3-3357|
@@ -2937,7 +2938,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |utfcpp|3.2.1|4.0.5|
 |uthash|2.1.0|2.3.0|
 |util-linux|2.40|2.40.1|
-|util-linux+32|2.29.2|2.40.1|
 |util-macros|1.20.0|1.20.1|
 |util-macros+32|999|1.20.1|Possible downgrade from the current version (999   1.20.1)|
 |v2ray|5.13.0|5.16.1|
@@ -2996,7 +2996,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |wcwidth|0.1.8|0.2.13|
 |wdm|1.28|1.29|
 |webencodings|0.5|0.5.1|
-|webkit2gtk|2.42.5|2.44.1|
 |webrtc-audio-processing|0.3|1.3|
 |websocket-client|1.7.0|1.8.0|
 |websockets|12.0|1.4.4|Possible downgrade from the current version (12.0   1.4.4)|
@@ -3128,7 +3127,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |zotero|6.0.26|6.0.37|
 |zram-generator|1.1.1|1.1.2|
 |zshdb|1.1.3|1.1.4|
-|zstd-static|1.4.5|1.5.6|
 |zutils|1.7|1.13|
 |zxing-cpp|1.4.0|2.2.1|
 |zxtune|5053|5061|
