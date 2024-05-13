@@ -863,7 +863,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hyper-h2|4.0.0|4.1.0|
 |hyperframe|6.0.0|6.0.1|
 |hyperlink|19.0.0|21.0.0|
-|hypothesis-python|6.97.4|6.101.0|
+|hypothesis-python|6.97.4|6.102.0|
 |hysteria|2.4.0|2.4.3|
 |i2c-tools|4.1|4.3|
 |i2pd|2.41.0|2.52.0|
@@ -947,6 +947,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |jdcal|1.4|1.4.1|
 |jedi|0.18.1|0.19.1|
 |jeepney|0.6.0|0.8.0|
+|jellyfish|0.6.0|1.0.3|
 |jetring|0.29|0.31|
 |jinja2|3.1.2|3.1.4|
 |jmespath|0.10.0|1.0.1|
@@ -1273,7 +1274,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kubrick|23.08.5|24.02.2|
 |kunitconversion|5.115.0|6.0.4|
 |kvantum|1.0.10|1.1.1|
-|kvirc|5.0.0|5.2.2|
+|kvirc|5.0.0|5.2.4|
 |kvkbd-trinity|14.1.0|14.1.2|
 |kvpnc-trinity|14.1.0|14.1.2|
 |kwallet|5.115.0|6.0.4|
@@ -1302,10 +1303,10 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lcms2|2.14|2.16|
 |lcms2+32|2.9|2.16|
 |ldb|2.6.1|2.9.0|
-|ldc|1.35.0|1.37.0|
+|ldc|1.35.0|1.38.0|
 |leatherman|1.9.1|1.12.13|
 |lensfun|0.3.4|0.3.95|
-|level-zero|1.16.14|1.16.15|
+|level-zero|1.16.14|1.17.0|
 |levenshtein|0.12.0|0.25.1|
 |lib3mf|2.2.0|2.3.1|
 |libaacs|0.11.0|0.11.1|
@@ -1328,7 +1329,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libblockdev|2.23|3.1.1|
 |libbloom|1.6|2.0|
 |libbluray+32|1.2.1|1.3.4|
-|libbpf|1.2.0|1.4.1|
+|libbpf|1.2.0|1.4.2|
 |libbsd|0.10.0|0.12.2|
 |libburn|1.5.2|1.5.6|
 |libbytesize|2.1|2.10|
@@ -1411,7 +1412,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libgravatar|23.08.5|24.02.2|
 |libgsf|1.14.47|1_14_52|
 |libgtop|2.38.0|2.41.3|
-|libguestfs|1.52.0|1.53.1|
+|libguestfs|1.52.0|1.53.2|
 |libgusb|0.4.8|0.4.9|
 |libgweather|4.1.0|4.4.2|
 |libgxps|0.2.5|0.3.2|
@@ -1429,7 +1430,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libisoburn|1.5.2|1.5.6|
 |libisofs|1.5.2|1.5.6.pl01|
 |libjcat|0.1.8|0.2.1|
-|libjpeg-turbo+32|2.0.5|3.0.2|
+|libjpeg-turbo|3.0.2|3.0.3|
+|libjpeg-turbo+32|2.0.5|3.0.3|
 |libjxl|0.7.0|0.10.2|
 |libkcddb|23.08.5|24.02.2|
 |libkcompactdisc|23.08.5|24.02.2|
@@ -1508,7 +1510,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libphonenumber|8.12.17|8.13.36|
 |libpinyin|2.6.0|2.8.1|
 |libpipeline|1.5.3|1.5.7|
-|libplist|2.3.0|2.5.0|
+|libplist|2.3.0|2.6.0|
 |libpng|1.6.42|1.6.43|
 |libpng+32|1.2.57|1.6.43|
 |libpng-1.6+32|1.6.37|1.6.43|
@@ -2984,7 +2986,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vulkan-loader|1.3.280.0|1.3.283|
 |vulkan-loader+32|1.3.272|1.3.283|
 |vulkan-tools|1.3.280.0|1.3.283|
-|vulkan-tools+32|1.3.227|1.3.283|
 |vulkan-utility-libraries|1.3.280.0|1.3.283|
 |vulkan-validationlayers|1.3.280.0|1.3.283|
 |warpinator|1.6.3|1.8.3|
@@ -3037,7 +3038,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |x265+32|2.2|3.6|
 |xa|2.4.0|2.4.1|
 |xalan-c|1.12|1.12.0|
-|xapian-core|1.4.18|1.4.25|
 |xapps|2.6.1|2.8.2|
 |xarchiver|0.5.4.15|0.5.4.23|
 |xcalibrate|0.9<br>+git20200330|0.9|Compound version number '0.9+git20200330'<br>Version number indicates a snapshot (+git) is used|
