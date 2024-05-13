@@ -447,7 +447,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dotnet-templates-6.0|6.0.100|6.0.421|
 |dotnet-templates-8.0|8.0.204|6.0.421|Possible downgrade from the current version (8.0.204   6.0.421)|
 |double-conversion|3.2.1|3.3.0|
-|dovecot|2.3.10.1|2.3.21|
 |doxygen|1.10.0|1_10_0|
 |doxyqml|0.5.0|0.5.3|
 |dpdk|22.11.1|24.03|
@@ -782,7 +781,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gssdp|1.2.3|1.6.3|
 |gssproxy|0.8.2|0.9.2|
 |gst-libav-1-0+32|1.16.2|1.24.3|
-|gst-plugins-bad-1-0+32|1.16.2|1.24.3|
 |gst-plugins-base-1-0+32|1.16.2|1.24.3|
 |gst-plugins-good-1-0+32|1.16.2|1.24.3|
 |gst-plugins-ugly-1-0+32|1.16.2|1.24.3|
@@ -866,7 +864,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hypothesis-python|6.97.4|6.101.0|
 |hysteria|2.4.0|2.4.3|
 |i2c-tools|4.1|4.3|
-|i2pd|2.41.0|2.51.0|
+|i2pd|2.41.0|2.52.0|
 |i3lock|2.14.1|2.15|
 |i3status-rust|0.31.9|0.33.1|
 |ibm-plex-fonts|6.3.0|6.4.0|
@@ -910,7 +908,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |iniparser|4.1|4.2|
 |inkscape|1.3.2|1_3_2|
 |inotify-tools|3.21.9.6|4.23.9.0|
-|intel-compute-runtime|24.13.29138.7|24.17.29377.6|
+|intel-compute-runtime|24.13.29138.7|24.17.29377.8|
 |intel-gmmlib|22.3.18|22.3.19|
 |intel-graphics-compiler|1.0.16510.2|1.0.16747.4|
 |intel-media-driver|24.1.5|24.2.2|
@@ -920,6 +918,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |iosevka-fonts|28.0.5|30.0.0|
 |iozone|3.492|3.506|
 |ipcalc|0.41|1.0.3|
+|iperf3|3.16|3.17|
 |ipmitool|1.8.18|1_8_19|
 |iproute2|6.8.0|6.9.0|
 |ipset|7.1|7.21|
@@ -2369,7 +2368,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pylast|3.0.0|5.2.0|
 |pylev|1.3.0|1.4.0|
 |pylibacl|0.5.4|0.7.0|
-|pylint|2.14.4|3.1.0|
+|pylint|2.14.4|3.1.1|
 |pymarkups|3.0.0|4.0.0|
 |pymediainfo|5.0.3|6.1.0|
 |pymysql|0.9.3|1.1.0|
@@ -2917,7 +2916,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |uml-utilities|20070815.4|20070815.4.orig|Possible downgrade from the current version (20070815.4   20070815.4.orig)|
 |un-fonts|1.0.2|1.0.2-080608|
 |unace|2.5|2.5.orig|Possible downgrade from the current version (2.5   2.5.orig)|
-|unar|1.10.1|1.10.8|
 |unbound|1.19.2<br>+icannbundle20210902|1.20.0|Compound version number '1.19.2+icannbundle20210902'|
 |unidecode|1.0.23|1.3.8|
 |unifont|15.1.04|15.1.05|
@@ -2938,6 +2936,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |utfcpp|3.2.1|4.0.5|
 |uthash|2.1.0|2.3.0|
 |util-linux|2.40|2.40.1|
+|util-linux+32|2.29.2|2.40.1|
 |util-macros|1.20.0|1.20.1|
 |util-macros+32|999|1.20.1|Possible downgrade from the current version (999   1.20.1)|
 |v2ray|5.13.0|5.16.1|
@@ -2996,6 +2995,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |wcwidth|0.1.8|0.2.13|
 |wdm|1.28|1.29|
 |webencodings|0.5|0.5.1|
+|webkit2gtk|2.42.5|2.44.1|
 |webrtc-audio-processing|0.3|1.3|
 |websocket-client|1.7.0|1.8.0|
 |websockets|12.0|1.4.4|Possible downgrade from the current version (12.0   1.4.4)|
