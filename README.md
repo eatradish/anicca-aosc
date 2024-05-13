@@ -108,7 +108,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |astroid|2.12.2|3.2.0|
 |astrometry.net|0.94|0.95|
 |astyle|3.4.14|3.4.15|
-|at-spi2-atk+32|2.26.3|2.38.0|
 |at-spi2-core+32|2.26.3|2.52.0|
 |atk+32|2.26.1|2.38.0|
 |atkmm|2.28.0|2.36.3|
@@ -196,7 +195,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |boto3|1.20.26|1.34.104|
 |bottle|0.12.18|0.12.25|
 |bottles|2022.2.28<br>+trento<br>+4|51.11|Compound version number '2022.2.28+trento+4'<br>Possible downgrade from the current version (2022.2.28+trento+4   51.11)|
-|bovo|23.08.5|24.02.2|
 |bpftrace|0.19.1|0.20.3|
 |bread-dog|0.1.0|0.1.1|
 |breeze|5.27.11|6.0.4|
@@ -534,7 +532,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ffnvcodec|11.1.5.1|12.2.72.0|
 |fftw|3.3.8|3.3.10|
 |fftw+32|3.3.4|3.3.10|
-|fido2|0.9.1|1.1.3|
 |file-roller|3.42.0|44.2|
 |filelight|23.08.5|24.02.2|
 |filelight-trinity|14.1.0|14.1.2|
@@ -742,7 +739,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |google-api-python-client|1.7.11|2.129.0|
 |google-auth|1.6.3|2.29.0|
 |google-auth-httplib2|0.0.4|0.2.0|
-|google-chrome|124.0.6367.118|124.0.6367.201|
+|google-chrome|124.0.6367.118|124.0.6367.207|
 |goverlay|1.0|1.1.1|
 |gpac|2.2.1|2.4.0|
 |gperftools|2.13|2.15|
@@ -786,6 +783,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gst-plugins-good-1-0+32|1.16.2|1.24.3|
 |gst-plugins-ugly-1-0+32|1.16.2|1.24.3|
 |gstreamer|1.22.0|1.24.3|
+|gstreamer-1-0+32|1.16.2|1.24.3|
 |gtest|1.10.0<br>+git20210513|1.14.0|Compound version number '1.10.0+git20210513'<br>Version number indicates a snapshot (+git) is used|
 |gti|1.6.1|1.9.1|
 |gtk-2+32|2.24.32|2.24.33|
@@ -893,7 +891,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |imagemagick+7|7.1.0<br>+43|7.1.1-32|Compound version number '7.1.0+43'|
 |imagesize|1.1.0|1.4.1|
 |imake|1.0.8|1.0.10|
-|imapsync|1.977|2.229|
 |imath|3.1.5|3.1.11|
 |img2pdf|0.4.0|0.5.1|
 |imlib2|1.5.1|1.12.2|
@@ -1249,7 +1246,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ksquirrel-trinity|14.1.0|14.1.2|
 |ksshaskpass|5.27.11|6.0.4|
 |kstars|3.6.7|3.7.0|
-|kstreamripper-trinity|14.1.0|14.1.2|
 |ksudoku|23.08.5|24.02.2|
 |ksystemlog|23.08.5|24.02.2|
 |ksystemlog-trinity|14.1.0|14.1.2|
@@ -1707,7 +1703,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lzip|1.23|1.24.1|
 |lziprecover|1.21|1.24|
 |lzlib|1.11|1.14|
-|m17n-db|1.8.0|1.8.5|
 |m17n-lib|1.8.0|1.8.4|
 |m1n1|1.4.6<br>+logo20231113.1|1.4.12|Compound version number '1.4.6+logo20231113.1'|
 |m2crypto|0.38.0|0.41.0|
@@ -1881,10 +1876,9 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |newflasher|52|57|
 |newt|0.52.23|0.52.24|
 |nfs-utils|2.6.2|2.6.4|
-|nghttp2|1.58.0|1.61.0|
+|nghttp2|1.58.0|1.62.0|
 |nginx|1.25.3|1.26.0|
 |ngspice|35|42|
-|ninja|1.12.1|1.12.0|Possible downgrade from the current version (1.12.1   1.12.0)|
 |nmap|7.93|7.95|
 |nodejs|20.13.0|21.7.1|
 |noip|2.1.9|3.0.0|
@@ -1893,7 +1887,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nomino|1.3.1|1.3.4|
 |normaliz|3.6.3|3.10.2|
 |notmuch|0.34|0.38.3|
-|noto-fonts|24.1.1<br>+emoji2.042<br>+cjksans2.004<br>+cjkserif2.002|20201206-phase3|Compound version number '24.1.1+emoji2.042+cjksans2.004+cjkserif2.002'|
+|noto-fonts|24.1.1<br>+emoji2.042<br>+cjksans2.004<br>+cjkserif2.002|24.5.1|Compound version number '24.1.1+emoji2.042+cjksans2.004+cjkserif2.002'|
 |npth|1.6|1.7|
 |nsd|4.7.0|4_9_1_REL|
 |nsgenbind|0.8|0.9|
@@ -1913,7 +1907,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nvidia+32|0|550.78|
 |nvme-cli|2.6|2.9.1|
 |obs-studio|27.0.0|30.1.2|
-|ocaml|4.14.2|5.1.1+effect-syntax|
+|ocaml|4.14.2|5.2.0|
 |ocaml-csexp|1.5.1|1.5.2|
 |ocaml-graphics|5.1.0|5.1.2|
 |ocaml-integers|0.4.0|0.7.0|
@@ -2438,6 +2432,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pywbem|0.13.0|1.7.2|
 |pyx|0.14.1|0.16|
 |pyxattr|0.6.1|0.8.1|
+|pyyaml|5.3.1|6.0.1|
 |pyzmq|22.3.0|26.0.3|
 |qalculate-tde-trinity|14.1.0|14.1.2|
 |qca|2.3.4|2.3.8|
