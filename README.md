@@ -107,7 +107,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |aspnetcore-runtime-6.0|6.0.0|6.0.29|
 |aspnetcore-targeting-pack-6.0|6.0.0|6.0.29|
 |assimp|5.3.1|5.4.0|
-|ast-grep|0.22.0|0.21.4|Possible downgrade from the current version (0.22.0   0.21.4)|
+|ast-grep|0.22.0|0.22.2|
 |astroid|2.12.2|3.1.0|
 |astyle|3.1|3.4.14|
 |at-spi2-atk+32|2.26.3|2.38.0|
@@ -2039,7 +2039,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |osinfo-db|20230719|20231215|
 |osinfo-db-tools|1.10.0|1.11.0|
 |ostree|2023.1|2024.5|
-|ouch|0.4.1|0.1.4|Possible downgrade from the current version (0.4.1   0.1.4)|
+|ouch|0.4.1|0.5.1|
 |owntone|28.6|28.9|
 |oxygen|5.27.11|6.0.4|
 |oxygen-icons|5.115.0|6.0.4|
