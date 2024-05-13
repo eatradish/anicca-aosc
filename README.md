@@ -576,6 +576,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |flightgear|2020.3.13|2020.3.19|
 |flint|2.5.2|3.1.2|
 |fltk|1.3.5|1.3.9|
+|fluidsynth|2.0.5|2.3.5|
 |fluidsynth+32|1.1.6|2.3.5|
 |fmt|8.0.1|10.2.1|
 |folks|0.15.5|0.15.9|
@@ -1777,6 +1778,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |materialx|1.38.8|1.38.10|
 |mathemagics-trinity|14.1.0|14.1.2|
 |mathjax|2.7.5|3.2.2|
+|matplotlib|3.8.0|3.8.4|
 |maturin|1.4.0|1.5.1|
 |mawk|1.3.4<br>+20190203|1.3.4-20240123|Compound version number '1.3.4+20190203'|
 |maxima|5.46.0|5.47.0|
@@ -2704,6 +2706,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sord|0.16.4|0.16.16|
 |sortedcontainers|2.3.0|2.4.0|
 |sos|4.4|4.7.1|
+|sound-juicer|3.38.0|3.40.0|
 |soundkonverter-trinity|14.1.0|14.1.2|
 |soundtouch|2.3.3|2.3.1|Possible downgrade from the current version (2.3.3   2.3.1)|
 |soundtouch+32|1.9.2|2.3.1|
