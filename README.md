@@ -63,7 +63,9 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |aom|3.8.1|3.9.0|
 |aosc-community-wallpapers-extras-2023|2023.10.1|2024.04.0|
 |aosc-community-wallpapers-extras-2024|2024.04.1|2024.04.0|Possible downgrade from the current version (2024.04.1   2024.04.0)|
+|aosc-media-writer|0.3.4|5.0.9|
 |aosc-xdg-menu|20200412|20160217|Possible downgrade from the current version (20200412   20160217)|
+|aoscbootstrap|0.4.5|0.4.7|
 |apache-maven|3.9.4|3.9.6|
 |apicula|0.9.1|0.12|
 |apparmor|3.0.8|3.1.7|
@@ -74,6 +76,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |apr-util|1.6.1|1.6.3|
 |apsw|3.30.1|3.45.3.0|
 |apt|2.6.1|2.7.14|
+|apt-fast|1.9.11|1.11.0|
 |aqbanking|6.2.2|6.5.4|
 |arandr|0.1.10|0.1.11|
 |aranym|1.1.0|1_1_0|
@@ -111,7 +114,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |atkmm|2.28.0|2.36.3|
 |atomicwrites|1.3.0|1.4.1|
 |atomix|3.34.0|44.0|
-|atril|1.26.1|1.28.0|
 |attica5|5.115.0|6.0.4|
 |attr|2.4.48|2.5.2|
 |attr+32|2.4.48|2.5.2|
@@ -124,7 +126,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |audit|3.1|4.0.1|
 |audiveris|5.1.0|5.3.1|
 |autobahn|19.2.1|23.6.2|
-|autoconf-archive|2021.02.19|2023.02.20|
 |autofs|5.1.8|5.1.9|
 |autojump-rs|0.5.1<br>+22.5.3|0.5.1|Compound version number '0.5.1+22.5.3'<br>Possible downgrade from the current version (0.5.1+22.5.3   0.5.1)|
 |automake|1.16i|1.16.5|
@@ -222,8 +223,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cairocffi|1.0.2|1.7.0|
 |cairomm|1.12.2|1.18.0|
 |cairosvg|2.5.2|2.7.1|
-|caja|1.26.3|1.28.0|
-|caja-extensions|1.26.1|1.28.0|
 |calendarsupport|23.08.5|24.02.2|
 |calibre|5.30.0|7.10.0|
 |calindori|23.08.5|24.02.2|
@@ -252,6 +251,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |celt-0.5|0.5.1.3|0.5.2|
 |cerberus|1.3.2|1.3.5|
 |cereal|1.3.0|1.3.2|
+|certbot|2.5.0|2.10.0|
 |certbot-apache|2.5.0|2.10.0|
 |certbot-dns-cloudflare|2.5.0|2.10.0|
 |certbot-nginx|2.5.0|2.10.0|
@@ -481,11 +481,9 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |enchant-2|2.3.1|2.7.3|
 |endeavour|42.0|43.0|
 |enet|1.3.14|1.3.18|
-|engrampa|1.26.1|1.28.1|
 |entrypoints|0.3|0.4|
 |eog|42.3|45.3|
 |eog-plugins|42.1|44.0|
-|eom|1.26.1|1.28.0|
 |epiphany|42.4|46.0|
 |epub2txt|0.1.4<br>+git20200105|0.1.6|Compound version number '0.1.4+git20200105'<br>Version number indicates a snapshot (+git) is used|
 |et-xmlfile|1.0.1|1.1.0|
@@ -596,6 +594,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fuse-exfat|1.3.0|1.4.0|
 |fuse-python|0.3.1|1.0.7|
 |future|0.17.0|1.0.0|
+|futures|3.2.0|3.4.0|
 |fuzzel|1.9.2|1.10.2|
 |fvwm|2.6.9|2.7.0|
 |fwupd|1.9.13|1.9.19|
@@ -661,6 +660,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |git-lfs|3.5.0|3.5.1|
 |gitdb|4.0.10|4.0.11|
 |gitg|41|44|
+|gitoxide|0.34.0|0.35.0|
 |gitpython|3.1.35|3.1.43|
 |gitui|0.25.0|0.26.1|
 |gjs|1.74.0|1.80.2|
@@ -1463,9 +1463,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libltc|1.3.1|1.3.2|
 |libluv|1.47.0<br>+0|1.48.0-2|Compound version number '1.47.0+0'|
 |libmanette|0.2.6|0.2.7|
-|libmatekbd|1.26.1|1.28.0|
-|libmatemixer|1.26.1|1.28.0|
-|libmateweather|1.26.3|1.28.0|
 |libmatroska|1.6.2|1.7.1|
 |libmaxminddb|1.4.3|1.9.1|
 |libmd|1.0.4|1.1.0|
@@ -1656,6 +1653,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |linux-kernel-lts|6.6.17|5.19.17|Possible downgrade from the current version (6.6.17   5.19.17)|
 |linux-kernel-retro|5.10.132|5.10.216|
 |linux-kernel-retro-minimal|5.15.17|5.10.216|Possible downgrade from the current version (5.15.17   5.10.216)|
+|linux-pam|1.6.0|1.6.1|
 |linuxsampler|2.3.0|2.3.1|
 |lirc|0.9.4d|0.10.2|
 |lksctp-tools|1.0.17|1.0.19|
@@ -1726,41 +1724,15 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mangohud|0.7.0|0.7.1|
 |mangohud+32|0.7.0|0.7.1|
 |marble|23.08.5|24.02.2|
-|marco|1.26.2|1.28.1|
 |mariadb|10.9.4|11.4.1|
 |markdown|3.3.4|3.6|
 |markdownpart|23.08.5|24.02.2|
 |markupsafe|2.1.1|2.1.5|
 |marshmallow|3.20.2|3.21.2|
 |mat2|0.13.0|0.6.1|Possible downgrade from the current version (0.13.0   0.6.1)|
-|mate-applets|1.26.1|1.28.0|
-|mate-backgrounds|1.26.0|1.28.0|
-|mate-calc|1.26.0|1.28.0|
-|mate-common|1.26.0|1.28.0|
-|mate-control-center|1.26.1|1.28.0|
-|mate-desktop|1.26.0|1.28.2|
-|mate-hud|19.10.1|22.10.3|
-|mate-icon-theme|1.26.0|1.28.0|
-|mate-media|1.26.2|1.28.1|
-|mate-menu|20.04.3|22.04.2|
-|mate-menus|1.26.1|1.28.0|
-|mate-notification-daemon|1.26.1|1.28.0|
-|mate-panel|1.26.4|1.28.1|
-|mate-polkit|1.26.1|1.28.1|
-|mate-power-manager|1.26.1|1.28.1|
-|mate-screensaver|1.26.2|1.28.0|
-|mate-sensors-applet|1.26.0|1.28.0|
-|mate-session-manager|1.26.1|1.28.0|
-|mate-settings-daemon|1.26.1|1.28.0|
-|mate-system-monitor|1.26.2|1.28.1|
-|mate-terminal|1.26.1|1.28.1|
-|mate-themes|3.22.24|3.22.26|
-|mate-tweak|21.10.0|22.10.0|
-|mate-user-guide|1.26.2|1.28.0|
-|mate-user-share|1.26.0|1.28.0|
-|mate-utils|1.26.1|1.28.0|
 |materialx|1.38.8|1.38.10|
 |mathemagics-trinity|14.1.0|14.1.2|
+|mathjax|2.7.5|3.2.2|
 |matplotlib|3.8.0|3.8.4|
 |maturin|1.4.0|1.5.1|
 |mawk|1.3.4<br>+20190203|1.3.4-20240123|Compound version number '1.3.4+20190203'|
@@ -1826,7 +1798,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |most|5.0.0a|5.2.0|
 |mouseemu|0.16|0.16.orig|Possible downgrade from the current version (0.16   0.16.orig)|
 |movit|1.6.3|1.7.1|
-|mozo|1.26.2|1.28.0|
 |mp3gain|1.6.2|1_6_2|
 |mp4v2|4.1.3|2.1.3|Possible downgrade from the current version (4.1.3   2.1.3)|
 |mp4v2+32|2.0.0|2.1.3|
@@ -1956,7 +1927,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |okteta|0.26.9|0.26.15|
 |okular|23.08.5|24.02.2|
 |olefile|0.46|0.47|
-|oma|1.3.6|1.12.13|
+|oma|1.3.8|1.12.13|
 |onig|6.9.5<br>+rev1|6.9.9|Compound version number '6.9.5+rev1'|
 |oolite|1.90|1.91.0.7604-240417-a536cbe|
 |opam|2.1.3|2.1.5|
@@ -2292,7 +2263,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |platformdirs|2.5.2|4.2.1|
 |playerctl|2.0.1|2.4.1|
 |pluggy|1.0.0|1.5.0|
-|pluma|1.26.1|1.28.0|
 |plymouth|22.02.122|24.004.60|
 |plymouth-kcm|5.27.11|6.0.4|
 |pmac-utils|1.1.3|1.1.3.orig|Possible downgrade from the current version (1.1.3   1.1.3.orig)|
@@ -2433,7 +2403,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |python-3|3.10.13|3.12.3|
 |python-augeas|1.0.3|1.1.0|
 |python-build|0.8.0|1.2.1|
-|python-caja|1.26.0|1.28.0|
 |python-cloudflare|2.8.15|3.0.0b9|
 |python-cssselect|1.0.3|1.2.0|
 |python-daemonize|2.5.0|3.8.0|
@@ -2669,7 +2638,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |smmap|5.0.0|6.0.0|
 |smpeg|0.4.5|2_0_0|
 |smpeg+32|0.4.5|2_0_0|
-|smplayer|19.10.2|23.12.0|
+|smplayer|19.10.2|24.5.0|
 |snapd|2.61.2|2.63|
 |snapd-glib|1.63|1.65|
 |snapper|0.10.7|0.11.0|
@@ -2723,7 +2692,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |spread-sheet-widget|0.3|0.10|
 |sqlalchemy|1.2.18|2.0.30|
 |sqlcipher|4.5.6|4.5.7|
-|sqlite|3.45.1|3.45.3|
 |sqlite+32|3.32.3|3.45.3|
 |sqlite-fdw|2.1.0|2.4.0|
 |sqlitebrowser|3.12.1|83649a3-3357|
@@ -2995,6 +2963,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vice|3.5|3.8|
 |vicious|2.3.3|2.7.0|
 |vid.stab|0.98b|1.1.1|
+|virglrenderer|0.10.4|1.0.1|
 |virtualenv|20.25.0|20.26.1|
 |virtualgl+32|2.5.2|3.1.1|
 |vkd3d|1.9|1.11|
@@ -3042,6 +3011,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |wikipedia|1.4.0|1.4.5|
 |wildmidi|0.4.3|0.4.6|
 |wildmidi+32|0.4.3|0.4.6|
+|wimlib|1.13.6|1.14.4|
 |windowmaker|0.95.9<br>+git20220812|0.96.0|Compound version number '0.95.9+git20220812'<br>Version number indicates a snapshot (+git) is used|
 |wine|9.8<br>+gecko2.47.4<br>+mono9.1.0|9.8|Compound version number '9.8+gecko2.47.4+mono9.1.0'|
 |wireguard|1|0.0.20191219|Possible downgrade from the current version (1   0.0.20191219)|
@@ -3061,7 +3031,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |wxmaxima|22.05.0|24.02.2|
 |x11-proto|2023.2|2024.1|
 |x11-proto+32|2019.2|2024.1|
-|x264|20170521|3190|Possible downgrade from the current version (20170521   3190)|
+|x264|0<br>+git20240305|3190|Compound version number '0+git20240305'<br>Version number indicates a snapshot (+git) is used|
 |x264+32|20160827.2245|3190|Possible downgrade from the current version (20160827.2245   3190)|
 |x265+32|2.2|3.6|
 |xa|2.4.0|2.4.1|
@@ -3137,7 +3107,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |zathura|0.5.2|0.5.6|
 |zathura-pdf-poppler|0.3.1|0.3.2|
 |zbar|0.23.90|0.23.93|
-|zeal|0.6.1|0.7.0|
 |zeitgeist|1.0.3|1.0.4|
 |zellij|0.39.2|0.40.1|
 |zenity|3.42.1|4.0.1|
@@ -3159,7 +3128,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |zotero|6.0.26|6.0.37|
 |zram-generator|1.1.1|1.1.2|
 |zshdb|1.1.3|1.1.4|
-|zstandard|0.15.2|0.22.0|
 |zstd-static|1.4.5|1.5.6|
 |zutils|1.7|1.13|
 |zxing-cpp|1.4.0|2.2.1|
