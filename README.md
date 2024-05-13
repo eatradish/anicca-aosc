@@ -104,7 +104,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |aspell|0.60.8|0.60.8.1|
 |aspnetcore-runtime-6.0|6.0.0|6.0.29|
 |aspnetcore-targeting-pack-6.0|6.0.0|6.0.29|
-|assimp|5.3.1|5.4.0|
+|assimp|5.3.1|5.4.1|
 |ast-grep|0.22.2|0.22.3|
 |astroid|2.12.2|3.2.0|
 |astrometry.net|0.94|0.95|
@@ -128,7 +128,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |audit|3.1|4.0.1|
 |audiveris|5.1.0|5.3.1|
 |autobahn|19.2.1|23.6.2|
-|autobuild4|4.2.1|1.9.1|Possible downgrade from the current version (4.2.1   1.9.1)|
 |autoconf-archive|2021.02.19|2023.02.20|
 |autofs|5.1.8|5.1.9|
 |autojump-rs|0.5.1<br>+22.5.3|0.5.1|Compound version number '0.5.1+22.5.3'<br>Possible downgrade from the current version (0.5.1+22.5.3   0.5.1)|
@@ -1639,8 +1638,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libxdmcp+32|1.1.3|1.1.5|
 |libxkbcommon+32|0.9.1|1.7.0|
 |libxml++|2.40.1|5.2.0|
-|libxml2|2.10.4|2.12.6|
-|libxml2+32|2.10.4|2.12.6|
+|libxml2|2.10.4|2.12.7|
+|libxml2+32|2.10.4|2.12.7|
 |libxmlb|0.3.15|0.3.19|
 |libxnvctrl|545.23.06|550.54.14|
 |libxnvctrl+32|545.23.06|550.54.14|
@@ -1798,7 +1797,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |menumaker|0.99.12|0.99.14|
 |mercurial|5.2.1|6.7.3|
 |merkuro|23.08.5|24.02.2|
-|mesa|24.0.6<br>+dxheaders1.611.0|24.0.7|Compound version number '24.0.6+dxheaders1.611.0'|
+|mesa|24.0.7<br>+dxheaders1.613.1|24.0.7|Compound version number '24.0.7+dxheaders1.613.1'|
 |mesa+32|22.1.7|24.0.7|
 |mesa-amber|21.3.9|24.0.7|
 |messagelib|23.08.5|24.02.2|
