@@ -863,7 +863,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hyper-h2|4.0.0|4.1.0|
 |hyperframe|6.0.0|6.0.1|
 |hyperlink|19.0.0|21.0.0|
-|hypothesis-python|6.97.4|6.102.0|
+|hypothesis-python|6.97.4|6.102.1|
 |hysteria|2.4.0|2.4.3|
 |i2c-tools|4.1|4.3|
 |i2pd|2.41.0|2.52.0|
@@ -1077,7 +1077,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kemoticons|5.115.0|6.0.4|
 |kernel-tools|6.7.5|5.19.17|Possible downgrade from the current version (6.7.5   5.19.17)|
 |keximdb-trinity|14.1.0|14.1.2|
-|keyring|21.7.0|25.2.0|
+|keyring|21.7.0|25.2.1|
 |keysmith|23.08.5|24.02.2|
 |kfilemetadata|5.115.0|6.0.4|
 |kfind|23.08.5|24.02.2|
@@ -2986,6 +2986,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vulkan-loader|1.3.280.0|1.3.283|
 |vulkan-loader+32|1.3.272|1.3.283|
 |vulkan-tools|1.3.280.0|1.3.283|
+|vulkan-tools+32|1.3.227|1.3.283|
 |vulkan-utility-libraries|1.3.280.0|1.3.283|
 |vulkan-validationlayers|1.3.280.0|1.3.283|
 |warpinator|1.6.3|1.8.3|
@@ -3038,6 +3039,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |x265+32|2.2|3.6|
 |xa|2.4.0|2.4.1|
 |xalan-c|1.12|1.12.0|
+|xapian-core|1.4.18|1.4.25|
 |xapps|2.6.1|2.8.2|
 |xarchiver|0.5.4.15|0.5.4.23|
 |xcalibrate|0.9<br>+git20200330|0.9|Compound version number '0.9+git20200330'<br>Version number indicates a snapshot (+git) is used|
