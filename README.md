@@ -576,7 +576,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |flightgear|2020.3.13|2020.3.19|
 |flint|2.5.2|3.1.2|
 |fltk|1.3.5|1.3.9|
-|fluidsynth|2.0.5|2.3.5|
 |fluidsynth+32|1.1.6|2.3.5|
 |fmt|8.0.1|10.2.1|
 |folks|0.15.5|0.15.9|
@@ -957,6 +956,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |jasper|2.0.21|4.2.4|
 |jbig2dec|0.18|0.20|
 |jdcal|1.4|1.4.1|
+|jedi|0.18.1|0.19.1|
 |jeepney|0.6.0|0.8.0|
 |jellyfish|0.6.0|1.0.3|
 |jetring|0.29|0.31|
@@ -1134,7 +1134,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kio-zeroconf|23.08.5|24.02.2|
 |kiosktool-trinity|14.1.0|14.1.2|
 |kipi-plugins|23.08.5|24.02.2|
-|kirigami-addons|0.11.0|1.1.0|
+|kirigami-addons|0.11.0|1.2.0|
 |kirigami-gallery|23.08.5|24.02.2|
 |kirigami2|5.115.0|6.0.4|
 |kiriki|23.08.5|24.02.2|
@@ -1777,7 +1777,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |materialx|1.38.8|1.38.10|
 |mathemagics-trinity|14.1.0|14.1.2|
 |mathjax|2.7.5|3.2.2|
-|matplotlib|3.8.0|3.8.4|
 |maturin|1.4.0|1.5.1|
 |mawk|1.3.4<br>+20190203|1.3.4-20240123|Compound version number '1.3.4+20190203'|
 |maxima|5.46.0|5.47.0|
@@ -1895,6 +1894,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |neatvnc|0.7.1|0.8.0|
 |nemo|5.8.3|6.0.2|
 |nemo-extensions|5.8.0|6.0.1|
+|neochat|23.08.5|24.02.2|
 |neomutt|20200619|20240425|
 |neon+32|0.31.2|0.33.0|
 |nestopia|1.51.0|1.52.1|
@@ -2704,7 +2704,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sord|0.16.4|0.16.16|
 |sortedcontainers|2.3.0|2.4.0|
 |sos|4.4|4.7.1|
-|sound-juicer|3.38.0|3.40.0|
 |soundkonverter-trinity|14.1.0|14.1.2|
 |soundtouch|2.3.3|2.3.1|Possible downgrade from the current version (2.3.3   2.3.1)|
 |soundtouch+32|1.9.2|2.3.1|
@@ -2755,6 +2754,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |srtp|2.4.0|2.6.0|
 |srtp+32|1.5.4|2.6.0|
 |ss-tproxy|4.6.1|4.8|
+|sshfs|3.6.0|3.7.3|
 |sshpass|1.06|1.10|
 |sslh|1.19c|2.1.1|
 |stalonetray|0.8.4|0.8.5|
@@ -3016,6 +3016,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |virtualgl+32|2.5.2|3.1.1|
 |vkd3d|1.9|1.11|
 |vkd3d+32|1.9|1.11|
+|vkmark|2017.08<br>+git20230412|2017.08|Compound version number '2017.08+git20230412'<br>Version number indicates a snapshot (+git) is used|
 |vmpk|0.8.0|0.9.0|
 |vnstat|2.4|2.12|
 |volk|2.5.0|3.1.2|
