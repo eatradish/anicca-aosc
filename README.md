@@ -2367,7 +2367,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pylast|3.0.0|5.2.0|
 |pylev|1.3.0|1.4.0|
 |pylibacl|0.5.4|0.7.0|
-|pylint|2.14.4|3.1.1|
+|pylint|2.14.4|3.2.0|
 |pymarkups|3.0.0|4.0.0|
 |pymediainfo|5.0.3|6.1.0|
 |pymysql|0.9.3|1.1.0|
@@ -2824,6 +2824,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |terminator|2.1.1|2.1.3|
 |tesseract|5.3.4|5.2.1|Possible downgrade from the current version (5.3.4   5.2.1)|
 |testdisk|7.0|7.2|
+|tevent|0.13.0|0.16.1|
 |texlive|20220321|2024|Possible downgrade from the current version (20220321   2024)|
 |texmaker|5.1.2|5.1.4|
 |texstudio|4.0.2|4.8.0|
@@ -3090,7 +3091,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |yelp|42.1|42.2|
 |yelp-tools|42.0|42.1|
 |yelp-xsl|42.0|42.1|
-|yosys|0.39|0.40|
+|yosys|0.39|0.41|
 |ytmusicapi|1.5.1|1.7.1|
 |yubico-pam|2.26|2.27|
 |yubico-piv-tool|2.3.1|2.5.2|
