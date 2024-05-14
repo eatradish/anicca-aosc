@@ -257,6 +257,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |certbot-nginx|2.5.0|2.10.0|
 |certifi|2020.12.5|2024.2.2|
 |cervisia|23.08.5|24.02.2|
+|cffi|1.15.0|1.16.0|
 |cfitsio|3.450|4.4.0|
 |cgal|5.2|5.6.1|
 |cgns|4.2.0|4.4.0|
@@ -788,16 +789,13 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gstreamer-1-0+32|1.16.2|1.24.3|
 |gtest|1.10.0<br>+git20210513|1.14.0|Compound version number '1.10.0+git20210513'<br>Version number indicates a snapshot (+git) is used|
 |gti|1.6.1|1.9.1|
-|gtk-2+32|2.24.32|2.24.33|
 |gtk-4|4.14.1|4.14.4|
 |gtk-doc|1.33.2|1.34.0|
 |gtk-engines-2|2.21.0|2.20.2|Possible downgrade from the current version (2.21.0   2.20.2)|
 |gtk-layer-shell|0.8.1|0.8.2|
 |gtk-qt-engine|14.1.0|14.1.2|
 |gtk3-tqt-engine|14.1.0|14.1.2|
-|gtkmm-3|3.24.6|3.24.9|
 |gtkmm-4|4.0.2|4.14.4|
-|gtksourceview-4|4.8.3|4.8.4|
 |gtkspell3|3.0.9|3.0.10|
 |gtkspellcheck|4.0.5|5.0.3|
 |gtranslator|42.0|46.1|
@@ -2227,7 +2225,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pillow|8.4.0|10.3.0|
 |pim-data-exporter|23.08.5|24.02.2|
 |pim-sieve-editor|23.08.5|24.02.2|
-|pimcommon|23.08.5|24.02.2|
 |pinentry|1.1.0|1.3.0|
 |pip|22.3.1|24.1b1|
 |piper|0.6|0.7|
@@ -2409,7 +2406,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |python-daemonize|2.5.0|3.8.0|
 |python-dbusmock|0.22.0|0.31.1|
 |python-djvulibre|0.8.6|0.8.8|
-|python-evdev|1.4.0|1.7.0|
+|python-evdev|1.4.0|1.7.1|
 |python-graphviz|0.16|0.20.3|
 |python-hglib|2.6.1|2.6.2|
 |python-installer|0.5.1|0.7.0|
@@ -2419,7 +2416,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |python-ly|0.9.6|0.9.7|
 |python-lz4|2.1.6|4.3.3|
 |python-markdown-math|0.6|0.8|
-|python-mpd2|3.0.5|3.1.1|
 |python-msgpack|1.0.2|1.0.8|
 |python-node-semver|0.8.0|0.9.0|
 |python-openid|2.2.5|3.2|
@@ -2474,7 +2470,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rarian|0.8.1|0.8.5|
 |razergenie|0.9.0|1.1.0|
 |razor-agents|2.85|2.152|
-|rbw|1.10.1|1.10.0|Possible downgrade from the current version (1.10.1   1.10.0)|
 |rclone|1.65.2|1.66.0|
 |rcm|1.3.4|1.3.6|
 |rdflib|6.2.0|7.0.0|
@@ -2993,7 +2988,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |wavpack|5.2.0|5.7.0|
 |wavpack+32|5.2.0|5.7.0|
 |wayland-utils|1.1.0|1.2.0|
-|wcslib|6.4|8.2.2|
+|wcslib|6.4|8.3|
 |wcwidth|0.1.8|0.2.13|
 |wdm|1.28|1.29|
 |webencodings|0.5|0.5.1|
