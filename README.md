@@ -594,7 +594,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fuse-python|0.3.1|1.0.7|
 |future|0.17.0|1.0.0|
 |futures|3.2.0|3.4.0|
-|fuzzel|1.9.2|1.10.2|
 |fvwm|2.6.9|2.7.0|
 |fwupd|1.9.13|1.9.19|
 |fzf|0.46.1|0.52.0|
@@ -866,7 +865,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hysteria|2.4.0|2.4.3|
 |i2c-tools|4.1|4.3|
 |i2pd|2.41.0|2.52.0|
-|i3lock|2.14.1|2.15|
 |i3status-rust|0.31.9|0.33.1|
 |ibm-plex-fonts|6.3.0|6.4.0|
 |ibus|1.5.25|1.5.30|
@@ -2640,7 +2638,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |smplayer|19.10.2|24.5.0|
 |snapd|2.61.2|2.63|
 |snapd-glib|1.63|1.65|
-|snapper|0.10.7|0.11.0|
 |snapper-gui|0.1<br>+git20220626|0.1|Compound version number '0.1+git20220626'<br>Version number indicates a snapshot (+git) is used|
 |snappy|1.1.8|1.2.0|
 |sniffio|1.3.0|1.3.1|
@@ -2737,7 +2734,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |superslicer|2.5.59.8|2.5.59.9|
 |sushi|42.0|46.0|
 |svgpart|23.08.5|24.02.2|
-|swaybg|1.2.0|1.2.1|
 |sweeper|23.08.5|24.02.2|
 |swell-foop|41.1|46.0|
 |swig|4.1.1|4.2.1|
@@ -2828,7 +2824,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |terminator|2.1.1|2.1.3|
 |tesseract|5.3.4|5.2.1|Possible downgrade from the current version (5.3.4   5.2.1)|
 |testdisk|7.0|7.2|
-|tevent|0.13.0|0.16.1|
 |texlive|20220321|2024|Possible downgrade from the current version (20220321   2024)|
 |texmaker|5.1.2|5.1.4|
 |texstudio|4.0.2|4.8.0|
@@ -2979,18 +2974,18 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vrms|1.27|1.33|
 |vsftpd|3.0.3|3.0.5|
 |vte|0.68.0|0.76.1|
-|vulkan-extensionlayer|1.3.280.0|1.3.283|
-|vulkan-headers|1.3.280.0|1.3.284|
-|vulkan-headers+32|1.3.272|1.3.284|
-|vulkan-loader|1.3.280.0|1.3.283|
-|vulkan-loader+32|1.3.272|1.3.283|
+|vulkan-extensionlayer|1.3.280.0|1.3.285|
+|vulkan-headers|1.3.280.0|1.3.285|
+|vulkan-headers+32|1.3.272|1.3.285|
+|vulkan-loader|1.3.280.0|1.3.285|
+|vulkan-loader+32|1.3.272|1.3.285|
 |vulkan-tools|1.3.280.0|1.3.283|
 |vulkan-tools+32|1.3.227|1.3.283|
-|vulkan-utility-libraries|1.3.280.0|1.3.283|
-|vulkan-validationlayers|1.3.280.0|1.3.283|
+|vulkan-utility-libraries|1.3.280.0|1.3.285|
+|vulkan-validationlayers|1.3.280.0|1.3.285|
 |warpinator|1.6.3|1.8.3|
 |warzone2100|4.1.3|4.4.2|
-|watchman|4.9.0|2024.05.06.00|
+|watchman|4.9.0|2024.05.13.00|
 |wavpack|5.2.0|5.7.0|
 |wavpack+32|5.2.0|5.7.0|
 |wayland-utils|1.1.0|1.2.0|
@@ -3028,8 +3023,9 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |wrk|4.1.0|4.2.0|
 |wsproto|1.0.0|1.2.0|
 |wtforms|2.2.1|3.1.2|
-|wxgtk-3+32|3.0.4|3.2.4|
-|wxmaxima|22.05.0|24.02.2|
+|wxgtk-3+32|3.0.4|3.2.5|
+|wxmaxima|22.05.0|24.05.0|
+|wxwidgets|3.2.4|3.2.5|
 |x11-proto|2023.2|2024.1|
 |x11-proto+32|2019.2|2024.1|
 |x264|0<br>+git20240305|3190|Compound version number '0+git20240305'<br>Version number indicates a snapshot (+git) is used|
@@ -3072,7 +3068,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xournalpp|1.1.3|1.2.3|
 |xpra|5.0.8|6.0|
 |xray|1.8.4|1.8.11|
-|xrdp|0.10.0|0.9.25.1|Possible downgrade from the current version (0.10.0   0.9.25.1)|
 |xreader|3.8.5|4.0.2|
 |xsd|4.1.0~alpha11|4.0.0|Possible downgrade from the current version (4.1.0~alpha11   4.0.0)|
 |xsel|1.2.0|1.2.1|
