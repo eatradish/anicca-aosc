@@ -193,7 +193,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |borgbackup|1.1.17|1.2.8|
 |botan|1.10.17|3.4.0|
 |botan-2|2.12.1|3.4.0|
-|boto3|1.20.26|1.34.104|
+|boto3|1.20.26|1.34.105|
 |bottle|0.12.18|0.12.25|
 |bottles|2022.2.28<br>+trento<br>+4|51.11|Compound version number '2022.2.28+trento+4'<br>Possible downgrade from the current version (2022.2.28+trento+4   51.11)|
 |bovo|23.08.5|24.02.2|
@@ -596,7 +596,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |futures|3.2.0|3.4.0|
 |fvwm|2.6.9|2.7.0|
 |fwupd|1.9.13|1.9.19|
-|fzf|0.46.1|0.52.0|
+|fzf|0.46.1|0.52.1|
 |gajim|1.4.0|1.8.4|
 |game-music-emu+32|0.6.0|0.6.3|
 |gammaray|2.11.2|3.0.0|
@@ -911,7 +911,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |intel-gmmlib|22.3.18|22.3.19|
 |intel-graphics-compiler|1.0.16510.2|1.0.16747.7|
 |intel-media-driver|24.1.5|24.2.2|
-|intel-ucode|20221108|20240312|
+|intel-ucode|20221108|20240514|
 |inxi|3.3.31<br>+2|3.3.31-2|Compound version number '3.3.31+2'|
 |iodine|0.7.0|0.8.0|
 |iosevka-fonts|28.0.5|30.0.1|
@@ -2787,6 +2787,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tdegames|14.1.0|14.1.2|
 |tdegraphics|14.1.0|14.1.2|
 |tdeio-appinfo|14.1.0|14.1.2|
+|tdeio-apt|14.1.0|14.1.2|
 |tdeio-ftps|14.1.0|14.1.2|
 |tdeio-locate|14.1.0|14.1.2|
 |tdeio-sword|14.1.0|14.1.2|
