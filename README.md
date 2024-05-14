@@ -1711,7 +1711,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |m1n1|1.4.6<br>+logo20231113.1|1.4.12|Compound version number '1.4.6+logo20231113.1'|
 |m2crypto|0.38.0|0.41.0|
 |m2r|0.2.1|0.3.1|
-|m3u8|0.7.1|4.1.0|
+|m3u8|0.7.1|5.0.0|
 |mac-fdisk|0.1|0.1.orig|Possible downgrade from the current version (0.1   0.1.orig)|
 |magic-wormhole|0.11.2|0.14.0|
 |mailcommon|23.08.5|24.02.2|
