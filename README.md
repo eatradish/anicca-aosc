@@ -257,7 +257,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |certbot-nginx|2.5.0|2.10.0|
 |certifi|2020.12.5|2024.2.2|
 |cervisia|23.08.5|24.02.2|
-|cffi|1.15.0|1.16.0|
 |cfitsio|3.450|4.4.0|
 |cgal|5.2|5.6.1|
 |cgns|4.2.0|4.4.0|
@@ -2269,14 +2268,14 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |plymouth-kcm|5.27.11|6.0.4|
 |pmac-utils|1.1.3|1.1.3.orig|Possible downgrade from the current version (1.1.3   1.1.3.orig)|
 |pngquant|2.12.6|3.0.3|
-|pnpm|8.15.5|9.1.0-0|
+|pnpm|8.15.5|9.1.1|
 |po-debconf|1.0.21|1.0.21+nmu1|Possible downgrade from the current version (1.0.21   1.0.21+nmu1)|
 |po4a|0.63|0.71|
 |pocketsphinx|5~prealpha|0.8|Possible downgrade from the current version (5~prealpha   0.8)|
 |podcastparser|0.6.5|0.6.10|
-|podman|4.9.3<br>+vsock0.7.2|5.0.2|Compound version number '4.9.3+vsock0.7.2'|
+|podman|4.9.3<br>+vsock0.7.2|5.0.3|Compound version number '4.9.3+vsock0.7.2'|
 |podofo|0.9.6|0.10.3|
-|poedit|3.4.1|3.4.2-oss|
+|poedit|3.4.1|3.4.4-oss|
 |poetry|1.6.1|1.8.3|
 |poetry-core|1.7.0|1.9.0|
 |polari|42.1|46.0|
