@@ -2933,7 +2933,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |urfkill|0.5.0<br>+git20210401|0.5.0|Compound version number '0.5.0+git20210401'<br>Version number indicates a snapshot (+git) is used|
 |uritemplate|3.0.1|4.1.1|
 |urlgrabber|3.10.2|4.1.0|
-|urwid|2.1.2|2.6.11|
+|urwid|2.1.2|2.6.12|
 |usb-modeswitch|2.6.0|2.6.1|
 |usbredir|0.8.0|0.14.0|
 |usbutils|015|017|
