@@ -345,7 +345,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cryptsetup|2.7.0|2.7.2|
 |css-parser|1.0.6|1.0.10|
 |cssselect2|0.6.0|0.7.0|
-|cssutils|1.0.2|2.10.2|
+|cssutils|1.0.2|2.10.3|
 |ctags|20191203|6.1.20240505.0|Possible downgrade from the current version (20191203   6.1.20240505.0)|
 |cuda|12.4.0<br>+550.54.14|12.4.1|Compound version number '12.4.0+550.54.14'|
 |cunit|2.1<br>+3|2.1-3|Compound version number '2.1+3'|
@@ -922,6 +922,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |iperf3|3.16|3.17|
 |ipmitool|1.8.18|1_8_19|
 |iproute2|6.8.0|6.9.0|
+|ipset|7.1|7.21|
 |iptables|1.8.8|1.8.10|
 |iptraf-ng|1.1.4|1.2.1|
 |ipy|0.83|1.01|
@@ -1718,7 +1719,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mailcommon|23.08.5|24.02.2|
 |mailimporter|23.08.5|24.02.2|
 |maim|5.5.3|5.8.0|
-|mako|1.1.4|1.3.3|
+|mako|1.1.4|1.3.4|
 |mako-notification-daemon|1.8.0|1.9.0|
 |malcontent|0.10.5|0.12.0|
 |man-db|2.11.1|2.12.1|
