@@ -2744,7 +2744,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |swell-foop|41.1|46.0|
 |swig|4.1.1|4.2.1|
 |synaptic|0.90.2|0.91.3|
-|syncthing|1.27.3|1.27.6|
+|syncthing|1.27.3|1.27.7|
 |syncthing-gtk|0.9.4.4|0.9.4.5|
 |syndication|5.115.0|6.0.4|
 |synergy|1.11.1|2.3.2|
@@ -2759,6 +2759,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |taglib|1.11.1|2.0.1|
 |taglib+32|1.11|2.0.1|
 |tagparser|11.5.1|12.1.0|
+|tailscale|1.64.2|1.66.1|
 |taisei|1.3.2|1.4.1|
 |tali|40.8|40.9|
 |talloc|2.3.4|2.4.2|
@@ -2840,7 +2841,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |threadweaver|5.115.0|6.0.4|
 |throttled|0.9.2|0.10.0|
 |thunderbird|115.5.2|125.0|
-|tig|2.4.1|2.5.9|
+|tig|2.4.1|2.5.10|
 |tigervnc|1.12.0|1.13.1|
 |tikzplotlib|0.9.8|0.10.1|
 |tilda|1.4.1|2.0.0|
@@ -2849,6 +2850,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tint2|16.7|17.0.2|
 |tinycdb|0.78|0.81|
 |tinycss2|1.0.2|1.3.0|
+|tinyproxy|1.11.1|1.11.2|
 |tk|8.6.10|8.6.14|
 |tk+32|8.6.10|8.6.14|
 |tl-expected|1.0.0|1.1.0|
@@ -2865,7 +2867,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |totem|42.0|43.0|
 |toxcore|0.2.18|0.2.19|
 |tpm-tools|1.3.9.1|1.3.9.2|
-|tpm2-tss|2.3.3|4.1.0|
+|tpm2-tss|2.3.3|4.1.1|
 |tqca|14.1.0|14.1.2|
 |tqdm|4.62.3|4.66.4|
 |tqt3|14.1.0|14.1.2|
