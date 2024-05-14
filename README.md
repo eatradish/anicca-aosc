@@ -1717,7 +1717,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mailcommon|23.08.5|24.02.2|
 |mailimporter|23.08.5|24.02.2|
 |maim|5.5.3|5.8.0|
-|mako|1.1.4|1.3.4|
+|mako|1.1.4|1.3.5|
 |mako-notification-daemon|1.8.0|1.9.0|
 |malcontent|0.10.5|0.12.0|
 |man-db|2.11.1|2.12.1|
