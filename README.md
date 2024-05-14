@@ -453,7 +453,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dpdk|22.11.1|24.03|
 |dragon|23.08.5|24.02.2|
 |drkonqi|5.27.11|6.0.4|
-|dropbox|148.4.4519|198.4.7615|
+|dropbox|148.4.4519|199.4.6287|
 |drumstick|2.0.0|2.9.0|
 |dssim|3.2.0|3.3.1|
 |dssim-c|1.3.2<br>+git20200922|3.3.1|Compound version number '1.3.2+git20200922'<br>Version number indicates a snapshot (+git) is used|
@@ -2479,6 +2479,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |re2|20190901|2024-05-01|Possible downgrade from the current version (20190901   2024-05-01)|
 |re2c|1.3|3.1|
 |readline|8.2.1|8.2|Possible downgrade from the current version (8.2.1   8.2)|
+|readline+32|6.3.008|8.2|
 |realmd|0.17.1|0.16.3|Possible downgrade from the current version (0.17.1   0.16.3)|
 |recode|3.7.7|3.7.14|
 |recode+32|3.6|3.7.14|
