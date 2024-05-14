@@ -108,6 +108,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |astroid|2.12.2|3.2.0|
 |astrometry.net|0.94|0.95|
 |astyle|3.4.14|3.4.15|
+|at-spi2-atk+32|2.26.3|2.38.0|
 |at-spi2-core+32|2.26.3|2.52.0|
 |atk+32|2.26.1|2.38.0|
 |atkmm|2.28.0|2.36.3|
@@ -195,6 +196,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |boto3|1.20.26|1.34.104|
 |bottle|0.12.18|0.12.25|
 |bottles|2022.2.28<br>+trento<br>+4|51.11|Compound version number '2022.2.28+trento+4'<br>Possible downgrade from the current version (2022.2.28+trento+4   51.11)|
+|bovo|23.08.5|24.02.2|
 |bpftrace|0.19.1|0.20.3|
 |bread-dog|0.1.0|0.1.1|
 |breeze|5.27.11|6.0.4|
@@ -532,6 +534,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ffnvcodec|11.1.5.1|12.2.72.0|
 |fftw|3.3.8|3.3.10|
 |fftw+32|3.3.4|3.3.10|
+|fido2|0.9.1|1.1.3|
 |file-roller|3.42.0|44.2|
 |filelight|23.08.5|24.02.2|
 |filelight-trinity|14.1.0|14.1.2|
@@ -891,6 +894,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |imagemagick+7|7.1.0<br>+43|7.1.1-32|Compound version number '7.1.0+43'|
 |imagesize|1.1.0|1.4.1|
 |imake|1.0.8|1.0.10|
+|imapsync|1.977|2.229|
 |imath|3.1.5|3.1.11|
 |img2pdf|0.4.0|0.5.1|
 |imlib2|1.5.1|1.12.2|
@@ -918,7 +922,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |iperf3|3.16|3.17|
 |ipmitool|1.8.18|1_8_19|
 |iproute2|6.8.0|6.9.0|
-|ipset|7.1|7.21|
 |iptables|1.8.8|1.8.10|
 |iptraf-ng|1.1.4|1.2.1|
 |ipy|0.83|1.01|
@@ -1246,6 +1249,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ksquirrel-trinity|14.1.0|14.1.2|
 |ksshaskpass|5.27.11|6.0.4|
 |kstars|3.6.7|3.7.0|
+|kstreamripper-trinity|14.1.0|14.1.2|
 |ksudoku|23.08.5|24.02.2|
 |ksystemlog|23.08.5|24.02.2|
 |ksystemlog-trinity|14.1.0|14.1.2|
@@ -1703,6 +1707,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lzip|1.23|1.24.1|
 |lziprecover|1.21|1.24|
 |lzlib|1.11|1.14|
+|m17n-db|1.8.0|1.8.5|
 |m17n-lib|1.8.0|1.8.4|
 |m1n1|1.4.6<br>+logo20231113.1|1.4.12|Compound version number '1.4.6+logo20231113.1'|
 |m2crypto|0.38.0|0.41.0|
@@ -1923,6 +1928,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |okular|23.08.5|24.02.2|
 |olefile|0.46|0.47|
 |oma|1.3.8|1.12.13|
+|onefetch|2.20.0|2.21.0|
 |onig|6.9.5<br>+rev1|6.9.9|Compound version number '6.9.5+rev1'|
 |oolite|1.90|1.91.0.7604-240417-a536cbe|
 |opam|2.1.3|2.1.5|
@@ -1934,7 +1940,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |opencascade|7.6.3|7.8.0|
 |opencc|1.1.3|1.1.7|
 |opencl-clang|17.0.0|18.1.0|
-|opencl-registry-api|2022.01.04|2023.12.14|
+|opencl-registry-api|2022.01.04|2024.05.08|
 |opencolorio|2.1.2|2.3.2|
 |openconnect|8.10|9.12|
 |opencore-amr|0.1.5|0.1.6|
@@ -1958,7 +1964,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |openldap|2.6.7|2_6_7|
 |openldap+32|2.4.59|2_6_7|
 |openmpi|4.1.6|5.0.3|
-|openmpt|0.6.4|0.7.6|
+|openmpt|0.6.4|0.7.7|
 |openpgl|0.5.0|0.6.0|
 |openpyxl|2.6.0|3.1.2|
 |openra|20210321|20231010|
@@ -2036,12 +2042,12 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pcre+32|8.44|8.45|
 |pcre-static|8.44|8.45|
 |pcsc-perl|1.4.14|1.4.16|
-|pcsclite|1.9.9|2.2.0|
-|pcsx2|1.6.0<br>+git20210825|1.7.5788|Compound version number '1.6.0+git20210825'<br>Version number indicates a snapshot (+git) is used|
+|pcsclite|1.9.9|2.2.1|
+|pcsx2|1.6.0<br>+git20210825|1.7.5806|Compound version number '1.6.0+git20210825'<br>Version number indicates a snapshot (+git) is used|
 |pdfgrep|2.1.2|2.2.0|
 |pdfminer|20191020|20231228|
 |pdlzip|1.9|1.13|
-|peazip|7.9.0|9.7.1|
+|peazip|7.9.0|9.8.0|
 |peewee|3.17.1|3.17.5|
 |peg|0.1.18|0.1.20|
 |pep517|0.12.0|0.13.1|
@@ -2893,7 +2899,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |txtorcon|19.1.0|23.11.0|
 |typed-ast|1.4.3|1.5.5|
 |typing-extensions|4.7.1|4.11.0|
-|typst|0.10.0|0.11.0|
 |tzdata|2023d|2024a|
 |uboot-asahi|2023.07.02<br>+3|2024.04-1|Compound version number '2023.07.02+3'|
 |uboot-tools|2022.10|2024.04|
