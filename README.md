@@ -824,7 +824,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hashcat|6.2.6|24.4.28|
 |hatch-fancy-pypi-readme|22.8.0|24.1.0|
 |hatch-vcs|0.3.0|0.4.0|
-|hatchling|1.21.1|1.10.0|Possible downgrade from the current version (1.21.1   1.10.0)|
+|hatchling|1.21.1|1.11.0|Possible downgrade from the current version (1.21.1   1.11.0)|
 |haveged|1.9.13|1.9.18|
 |hddtemp|0.3.52|0.4.3|
 |hdf5|1.10.5|1.14.4.1|
@@ -2611,7 +2611,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |shellingham|1.3.1|1.5.4|
 |shotcut|21.08.11|24.04.28|
 |shotwell|0.31.4|0.32.6|
-|showmethekey|1.12.0|1.13.0|
+|showmethekey|1.12.0|1.13.1|
 |shutter|0.94|0.99.2|
 |siege|4.0.7|4.1.6|
 |signon|8.60|8.61|
@@ -2628,7 +2628,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |skanlite|23.08.5|24.04.90|
 |skanpage|23.08.5|24.02.2|
 |skktools|1.3.4|1_3_4|
-|slirp4netns|1.2.2|1.3.0|
+|slirp4netns|1.2.2|1.3.1|
 |slock|1.4|1.5|
 |slop|7.4|7.6|
 |slurm|0.4.4|0.5.1|
@@ -2652,7 +2652,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sof-firmware|2.2.3|2.8.1|
 |sof-tools|2.2.3|2.8.1|
 |sofia-sip|1.12.11|1.13.17|
-|solaar|1.1.11|1.1.12|
+|solaar|1.1.11|1.1.13|
 |solid|5.115.0|6.0.4|
 |sonic-visualiser|4.4|4.5.2|
 |sonnet|5.115.0|6.0.4|
@@ -2697,7 +2697,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sqlite+32|3.32.3|3.45.3|
 |sqlite-fdw|2.1.0|2.4.0|
 |sqlitebrowser|3.12.1|83649a3-3357|
-|sqlmap|1.8.2|1.8.4|
+|sqlmap|1.8.2|1.8.5|
 |sqlparse|0.4.1|0.5.0|
 |squashfs-tools|4.5|4.6.1|
 |squashfs-tools-ng|1.2.0|1.3.1|
