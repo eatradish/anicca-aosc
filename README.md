@@ -789,13 +789,16 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gstreamer-1-0+32|1.16.2|1.24.3|
 |gtest|1.10.0<br>+git20210513|1.14.0|Compound version number '1.10.0+git20210513'<br>Version number indicates a snapshot (+git) is used|
 |gti|1.6.1|1.9.1|
+|gtk-2+32|2.24.32|2.24.33|
 |gtk-4|4.14.1|4.14.4|
 |gtk-doc|1.33.2|1.34.0|
 |gtk-engines-2|2.21.0|2.20.2|Possible downgrade from the current version (2.21.0   2.20.2)|
 |gtk-layer-shell|0.8.1|0.8.2|
 |gtk-qt-engine|14.1.0|14.1.2|
 |gtk3-tqt-engine|14.1.0|14.1.2|
+|gtkmm-3|3.24.6|3.24.9|
 |gtkmm-4|4.0.2|4.14.4|
+|gtksourceview-4|4.8.3|4.8.4|
 |gtkspell3|3.0.9|3.0.10|
 |gtkspellcheck|4.0.5|5.0.3|
 |gtranslator|42.0|46.1|
@@ -2225,6 +2228,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pillow|8.4.0|10.3.0|
 |pim-data-exporter|23.08.5|24.02.2|
 |pim-sieve-editor|23.08.5|24.02.2|
+|pimcommon|23.08.5|24.02.2|
 |pinentry|1.1.0|1.3.0|
 |pip|22.3.1|24.1b1|
 |piper|0.6|0.7|
@@ -2416,6 +2420,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |python-ly|0.9.6|0.9.7|
 |python-lz4|2.1.6|4.3.3|
 |python-markdown-math|0.6|0.8|
+|python-mpd2|3.0.5|3.1.1|
 |python-msgpack|1.0.2|1.0.8|
 |python-node-semver|0.8.0|0.9.0|
 |python-openid|2.2.5|3.2|
@@ -2505,14 +2510,14 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rng-tools|6.7|6.16|
 |robin-hood-hashing|3.11.4|3.11.5|
 |rockbox-utility|3.15<br>+final|3.15-final|Compound version number '3.15+final'|
-|rocm-bandwidth-test|6.0.2|6.1.0|
-|rocm-cmake|6.0.2|6.1.0|
-|rocm-llvm|6.0.2|6.1.0|
-|rocm-smi-lib|6.0.2|6.1.0|
-|rocminfo|6.0.2|6.1.0|
-|rocr-runtime|6.0.2|6.1.0|
+|rocm-bandwidth-test|6.0.2|6.1.1|
+|rocm-cmake|6.0.2|6.1.1|
+|rocm-llvm|6.0.2|6.1.1|
+|rocm-smi-lib|6.0.2|6.1.1|
+|rocminfo|6.0.2|6.1.1|
+|rocr-runtime|6.0.2|6.1.1|
 |rocs|23.08.5|24.02.2|
-|roct-thunk-interface|6.0.0|6.1.0|
+|roct-thunk-interface|6.0.0|6.1.1|
 |ronn-ng|0.9.1|0.10.1|
 |rosegarden|20.12|23.12|
 |rosegarden-trinity|14.1.0|14.1.2|
@@ -2553,7 +2558,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |samtools|1.16.1|1.20|
 |sane-backends|1.0.32|1.3.0|
 |sanlock|3.8.5|3.9.2|
-|sarasa-gothic-fonts|1.0.3|1.0.11|
+|sarasa-gothic-fonts|1.0.3|1.0.12|
 |sass-listen|4.0.0|3.9.0|Possible downgrade from the current version (4.0.0   3.9.0)|
 |sassc|3.6.1|3.6.2|
 |sbc|1.4|2.0|
@@ -2599,7 +2604,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sg3-utils|1.47r915|1.48|
 |shaderc|2023.7|2024.1|
 |shadow|4.13|4.15.1|
-|shadowsocks-rust|1.15.3|1.18.3|
+|shadowsocks-rust|1.15.3|1.18.4|
 |shapelib|1.5.0|1.6.0|
 |shared-color-targets|0.1.7|0_1_7|
 |shared-mime-info|2.2|2.4|
@@ -2783,7 +2788,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tdebase|14.1.0|14.1.2|
 |tdebindings|14.1.0|14.1.2|
 |tdedocker|14.1.0|14.1.2|
-|tdeedu|14.1.0|14.1.2|
 |tdegames|14.1.0|14.1.2|
 |tdegraphics|14.1.0|14.1.2|
 |tdeio-appinfo|14.1.0|14.1.2|
