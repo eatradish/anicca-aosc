@@ -346,7 +346,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |css-parser|1.0.6|1.0.10|
 |cssselect2|0.6.0|0.7.0|
 |cssutils|1.0.2|2.10.3|
-|ctags|20191203|6.1.20240505.0|Possible downgrade from the current version (20191203   6.1.20240505.0)|
+|ctags|20191203|6.1.20240512.0|Possible downgrade from the current version (20191203   6.1.20240512.0)|
 |cuda|12.4.0<br>+550.54.14|12.4.1|Compound version number '12.4.0+550.54.14'|
 |cunit|2.1<br>+3|2.1-3|Compound version number '2.1+3'|
 |cups|2.4.7|2.4.8|
@@ -678,7 +678,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |glslang|13.1.1|14.2.0|
 |glslang+32|7.11.3214|14.2.0|
 |glu+32|9.0.1|9.0.3|
-|gmic|3.2.6|3.3.5|
+|gmic|3.2.6|3.3.6|
 |gmime-3|3.2.7|3.2.14|
 |gmp+32|6.1.2|6.3.0|
 |gnome-applets|3.44.0|3.52.0|
@@ -2232,7 +2232,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pinentry|1.1.0|1.3.0|
 |pip|22.3.1|24.1b1|
 |piper|0.6|0.7|
-|pipewire|1.0.4|1.0.6|
 |pipewire-0.2|0.2.7|1.0.6|
 |pixman|0.43.0|0.43.4|
 |pixman+32|0.40.0|0.43.4|
@@ -2310,7 +2309,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |prettytable|0.7.2|3.10.0|
 |primus+32|20150328|0.2|Possible downgrade from the current version (20150328   0.2)|
 |print-manager|23.08.5|24.02.2|
-|prismlauncher|8.2|8.3|
 |prison5|5.115.0|6.0.4|
 |progress|0.16|0.17|
 |proj|9.2.1|9.4.0|
@@ -2929,7 +2927,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |unrpyc|1.1.6|2.0.1|
 |unshield|1.4.3|1.5.1|
 |upower|1.90.0|1.90.4|
-|upx|4.2.1|4.2.3|
+|upx|4.2.1|4.2.4|
 |urfkill|0.5.0<br>+git20210401|0.5.0|Compound version number '0.5.0+git20210401'<br>Version number indicates a snapshot (+git) is used|
 |uritemplate|3.0.1|4.1.1|
 |urlgrabber|3.10.2|4.1.0|
@@ -2952,7 +2950,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vala-panel-appmenu|0.7.4|24.02|
 |valgrind|3.22.0|3.23.0|
 |vamp-plugin-sdk|2.9.0|2.10.0|
-|vapoursynth|57|67|
+|vapoursynth|57|68|
 |variety|0.7.1|0.8.12|
 |varnish|6.3.2|7.5.0|
 |vasm|1.9f|1.9.f|
@@ -2966,6 +2964,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vice|3.5|3.8|
 |vicious|2.3.3|2.7.0|
 |vid.stab|0.98b|1.1.1|
+|vim|9.1.0393|9.1.0412|
 |virglrenderer|0.10.4|1.0.1|
 |virtualenv|20.25.0|20.26.2|
 |virtualgl+32|2.5.2|3.1.1|
@@ -3021,7 +3020,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |wireguard-tools|1.0.20200827|1.0.20210914|
 |wireless-regdb|2022.08.12|2024.05.08|
 |wireless-tools|30.pre9|29|Possible downgrade from the current version (30.pre9   29)|
-|wireplumber|0.5.0|0.5.2|
 |wireshark|4.2.3|4.2.4|
 |wmutils|20170223|1.7|Possible downgrade from the current version (20170223   1.7)|
 |wpebackend-fdo|1.12.1|1.14.2|
