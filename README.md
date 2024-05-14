@@ -2787,7 +2787,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tdegames|14.1.0|14.1.2|
 |tdegraphics|14.1.0|14.1.2|
 |tdeio-appinfo|14.1.0|14.1.2|
-|tdeio-apt|14.1.0|14.1.2|
 |tdeio-ftps|14.1.0|14.1.2|
 |tdeio-locate|14.1.0|14.1.2|
 |tdeio-sword|14.1.0|14.1.2|
