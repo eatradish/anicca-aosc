@@ -917,6 +917,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |intel-media-driver|24.1.5|24.2.2|
 |intel-ucode|20221108|20240514|
 |inxi|3.3.31<br>+2|3.3.31-2|Compound version number '3.3.31+2'|
+|iodine|0.7.0|0.8.0|
 |iosevka-fonts|28.0.5|30.0.1|
 |iozone|3.492|3.506|
 |ipcalc|0.41|1.0.3|
@@ -1602,6 +1603,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libvisual+32|0.4.0|0.4.2|
 |libvncserver|0.9.13|0.9.14|
 |libvoikko|4.3.1|4.3.2|
+|libvpx|1.10.0|1.14.0|
 |libvpx+32|1.9.0|1.14.0|
 |libwacom|2.4.0|2.11.0|
 |libwebp|1.3.1|1.4.0|
@@ -2993,6 +2995,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |wayland-utils|1.1.0|1.2.0|
 |wcslib|6.4|8.3|
 |wcwidth|0.1.8|0.2.13|
+|wdm|1.28|1.29|
 |webencodings|0.5|0.5.1|
 |webkit2gtk|2.42.5|2.44.1|
 |webrtc-audio-processing|0.3|1.3|
