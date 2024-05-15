@@ -913,7 +913,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |iosevka-fonts|28.0.5|30.0.1|
 |iozone|3.492|3.506|
 |ipcalc|0.41|1.0.3|
-|iperf3|3.16|3.17|
+|iperf3|3.16|3.17.1|
 |ipmitool|1.8.18|1_8_19|
 |iproute2|6.8.0|6.9.0|
 |ipset|7.1|7.21|
