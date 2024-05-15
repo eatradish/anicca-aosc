@@ -984,6 +984,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kasts|23.08.5|24.02.2|
 |katapult-trinity|14.1.0|14.1.2|
 |kate|23.08.5|24.02.2|
+|katomic|23.08.5|24.02.2|
 |kauth|5.115.0|6.0.4|
 |kbarcode-trinity|14.1.0|14.1.2|
 |kbd|2.5.1|2.6.4|
@@ -1864,7 +1865,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |network-manager-applet|1.28.0|1.36.0|
 |networkmanager|1.40.6|1.46.0|
 |networkmanager-iodine|1.2.0<br>+git20220728|1.2.0|Compound version number '1.2.0+git20220728'<br>Version number indicates a snapshot (+git) is used|
-|networkmanager-l2tp|1.8.6|1.20.14|
+|networkmanager-l2tp|1.8.6|1.20.16|
 |networkmanager-openconnect|1.2.6<br>+git20210918|1.2.10|Compound version number '1.2.6+git20210918'<br>Version number indicates a snapshot (+git) is used|
 |networkmanager-openvpn|1.8.12|1.11.0|
 |networkmanager-pptp|1.2.10|1.2.12|
@@ -3069,7 +3070,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xss-lock|0.3.0<br>+git20140302|0.3.0|Compound version number '0.3.0+git20140302'<br>Version number indicates a snapshot (+git) is used|
 |xterm|390|391|
 |xviewer|3.0.2|3.4.4|
-|xwayland|23.2.6|23.2.7|
+|xwayland|23.2.6|24.1.0|
 |xxhash|0.8.1|0.8.2|
 |xz|5.4.1|5.6.1|
 |xz+32|5.2.5|5.6.1|
