@@ -546,6 +546,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fim|0.7<br>+git20240221|0.7.0|Compound version number '0.7+git20240221'<br>Version number indicates a snapshot (+git) is used|
 |findlib|1.9.5|1.9.6|
 |fio|3.35|3.37|
+|firefox|123.0|126.0|
 |firehol|3.1.6|3.1.7|
 |firewalld|2.0.0|2.1.2|
 |flac|1.3.3|1.4.3|
@@ -916,7 +917,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |intel-media-driver|24.1.5|24.2.2|
 |intel-ucode|20221108|20240514|
 |inxi|3.3.31<br>+2|3.3.31-2|Compound version number '3.3.31+2'|
-|iodine|0.7.0|0.8.0|
 |iosevka-fonts|28.0.5|30.0.1|
 |iozone|3.492|3.506|
 |ipcalc|0.41|1.0.3|
@@ -1602,7 +1602,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libvisual+32|0.4.0|0.4.2|
 |libvncserver|0.9.13|0.9.14|
 |libvoikko|4.3.1|4.3.2|
-|libvpx|1.10.0|1.14.0|
 |libvpx+32|1.9.0|1.14.0|
 |libwacom|2.4.0|2.11.0|
 |libwebp|1.3.1|1.4.0|
@@ -2711,7 +2710,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sshpass|1.06|1.10|
 |sslh|1.19c|2.1.1|
 |stalonetray|0.8.4|0.8.5|
-|starship|1.17.1|1.18.2|
+|starship|1.17.1|1.19.0|
 |stellarium|0.21.3|24.1|
 |step|23.08.5|24.02.2|
 |stepmania|5.0.12<br>+git20221114|5.0.12|Compound version number '5.0.12+git20221114'<br>Version number indicates a snapshot (+git) is used|
@@ -2994,7 +2993,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |wayland-utils|1.1.0|1.2.0|
 |wcslib|6.4|8.3|
 |wcwidth|0.1.8|0.2.13|
-|wdm|1.28|1.29|
 |webencodings|0.5|0.5.1|
 |webkit2gtk|2.42.5|2.44.1|
 |webrtc-audio-processing|0.3|1.3|
@@ -3018,7 +3016,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |wireguard-tools|1.0.20200827|1.0.20210914|
 |wireless-regdb|2022.08.12|2024.05.08|
 |wireless-tools|30.pre9|29|Possible downgrade from the current version (30.pre9   29)|
-|wireshark|4.2.3|4.2.4|
+|wireshark|4.2.3|4.2.5|
 |wmutils|20170223|1.7|Possible downgrade from the current version (20170223   1.7)|
 |wpebackend-fdo|1.12.1|1.14.2|
 |wqy-unibit|1.1.0|4.3.0|
