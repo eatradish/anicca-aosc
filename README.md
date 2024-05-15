@@ -984,7 +984,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kasts|23.08.5|24.02.2|
 |katapult-trinity|14.1.0|14.1.2|
 |kate|23.08.5|24.02.2|
-|katomic|23.08.5|24.02.2|
 |kauth|5.115.0|6.0.4|
 |kbarcode-trinity|14.1.0|14.1.2|
 |kbd|2.5.1|2.6.4|
@@ -1115,7 +1114,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kio-zeroconf|23.08.5|24.02.2|
 |kiosktool-trinity|14.1.0|14.1.2|
 |kipi-plugins|23.08.5|24.02.2|
-|kirigami-addons|0.11.0|1.2.0|
+|kirigami-addons|0.11.0|1.2.1|
 |kirigami-gallery|23.08.5|24.02.2|
 |kirigami2|5.115.0|6.0.4|
 |kiriki|23.08.5|24.02.2|
