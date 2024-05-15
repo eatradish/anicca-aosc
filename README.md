@@ -100,8 +100,10 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |asio|1.18.1|1.30.2|
 |asn1crypto|1.2.0|1.5.1|
 |aspell|0.60.8|0.60.8.1|
-|aspnetcore-runtime-6.0|6.0.0|6.0.29|
-|aspnetcore-targeting-pack-6.0|6.0.0|6.0.29|
+|aspnetcore-runtime-6.0|6.0.0|6.0.30|
+|aspnetcore-runtime-8.0|8.0.4|8.0.5|
+|aspnetcore-targeting-pack-6.0|6.0.0|6.0.30|
+|aspnetcore-targeting-pack-8.0|8.0.4|8.0.5|
 |assimp|5.3.1|5.4.1|
 |ast-grep|0.22.2|0.22.3|
 |astroid|2.12.2|3.2.0|
@@ -430,18 +432,24 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dolphin-trinity|14.1.0|14.1.2|
 |dosbox|0.74<br>+3|0.74-3|Compound version number '0.74+3'|
 |dotconf|1.3|1.4.1|
-|dotnet-apphost-pack-6.0|6.0.0|6.0.29|
+|dotnet-apphost-pack-6.0|6.0.0|6.0.30|
+|dotnet-apphost-pack-8.0|8.0.4|8.0.5|
+|dotnet-host|8.0.4|8.0.5|
 |dotnet-host-fxr|5.0.11|5.0.17|
-|dotnet-hostfxr-6.0|6.0.0|6.0.29|
+|dotnet-hostfxr-6.0|6.0.0|6.0.30|
+|dotnet-hostfxr-8.0|8.0.4|8.0.5|
 |dotnet-runtime-2.1|2.1.21|2.1.30|
 |dotnet-runtime-3.1|3.1.11|3.1.32|
 |dotnet-runtime-5.0|5.0.11|5.0.17|
-|dotnet-runtime-6.0|6.0.0|6.0.29|
-|dotnet-runtime-deps-6.0|6.0.0|6.0.29|
-|dotnet-sdk-6.0|6.0.100|6.0.421|
-|dotnet-targeting-pack-6.0|6.0.0|6.0.29|
-|dotnet-templates-6.0|6.0.100|6.0.421|
-|dotnet-templates-8.0|8.0.204|6.0.421|Possible downgrade from the current version (8.0.204   6.0.421)|
+|dotnet-runtime-6.0|6.0.0|6.0.30|
+|dotnet-runtime-8.0|8.0.4|8.0.5|
+|dotnet-runtime-deps-6.0|6.0.0|6.0.30|
+|dotnet-sdk-6.0|6.0.100|6.0.422|
+|dotnet-sdk-8.0|8.0.204|8.0.300|
+|dotnet-targeting-pack-6.0|6.0.0|6.0.30|
+|dotnet-targeting-pack-8.0|8.0.4|8.0.5|
+|dotnet-templates-6.0|6.0.100|6.0.422|
+|dotnet-templates-8.0|8.0.204|6.0.422|Possible downgrade from the current version (8.0.204   6.0.422)|
 |double-conversion|3.2.1|3.3.0|
 |dovecot|2.3.10.1|2.3.21|
 |doxygen|1.10.0|1_10_0|
@@ -538,7 +546,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fim|0.7<br>+git20240221|0.7.0|Compound version number '0.7+git20240221'<br>Version number indicates a snapshot (+git) is used|
 |findlib|1.9.5|1.9.6|
 |fio|3.35|3.37|
-|firefox|123.0|126.0|
 |firehol|3.1.6|3.1.7|
 |firewalld|2.0.0|2.1.2|
 |flac|1.3.3|1.4.3|
@@ -2481,7 +2488,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |recode+32|3.6|3.7.14|
 |recommonmark|20180907|0.7.1|Possible downgrade from the current version (20180907   0.7.1)|
 |redsocks2|0.67<br>+git20201229|0.1|Compound version number '0.67+git20201229'<br>Version number indicates a snapshot (+git) is used<br>Possible downgrade from the current version (0.67+git20201229   0.1)|
-|regex|2019.02.21|2024.5.10|
+|regex|2019.02.21|2024.5.15|
 |reiser4progs|1.2.2|1.2.2.|
 |remmina|1.4.31|1.4.35|
 |renderdoc|1.16|1.32|
