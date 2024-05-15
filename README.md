@@ -857,7 +857,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hyper-h2|4.0.0|4.1.0|
 |hyperframe|6.0.0|6.0.1|
 |hyperlink|19.0.0|21.0.0|
-|hypothesis-python|6.97.4|6.102.2|
+|hypothesis-python|6.97.4|6.102.4|
 |hysteria|2.4.0|2.4.3|
 |i2c-tools|4.1|4.3|
 |i2pd|2.41.0|2.52.0|
@@ -1604,6 +1604,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libwm|20161006|1.3|Possible downgrade from the current version (20161006   1.3)|
 |libwmf|0.2.8.4|0.2.13|
 |libwnck-3|40.1|43.0|
+|libwpd|0.10.2|0.10.3|
 |libwpe|1.12.2|1.16.0|
 |libwpg|0.3.3|0.3.4|
 |libwps|0.4.10|0.4.14|
