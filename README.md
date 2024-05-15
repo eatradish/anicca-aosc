@@ -1777,6 +1777,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mjpegtools|2.1.0|2.2.1|
 |mjpegtools+32|2.1.0|2.2.1|
 |mkvtoolnix|79.0|84.0|
+|mldonkey|3.1.7<br>+2<br>+git20210505|3-1-7-2|Compound version number '3.1.7+2+git20210505'<br>Version number indicates a snapshot (+git) is used|
 |mlt|7.22.0|7.24.0|
 |mlterm|3.8.9|3.9.3|
 |mobile-broadband-provider-info|20190618|20240407|
@@ -2031,13 +2032,13 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pciutils|3.9.0|3.12.0|
 |pcl|1.13.1|1.12|Possible downgrade from the current version (1.13.1   1.12)|
 |pcmanfm|1.3.1|1.3.2|
-|pcp|6.0.1|6.2.1|
+|pcp|6.0.1|6.2.2|
 |pcre|8.44|8.45|
 |pcre+32|8.44|8.45|
 |pcre-static|8.44|8.45|
 |pcsc-perl|1.4.14|1.4.16|
 |pcsclite|1.9.9|2.2.1|
-|pcsx2|1.6.0<br>+git20210825|1.7.5806|Compound version number '1.6.0+git20210825'<br>Version number indicates a snapshot (+git) is used|
+|pcsx2|1.6.0<br>+git20210825|1.7.5811|Compound version number '1.6.0+git20210825'<br>Version number indicates a snapshot (+git) is used|
 |pdfgrep|2.1.2|2.2.0|
 |pdfminer|20191020|20231228|
 |pdlzip|1.9|1.13|
