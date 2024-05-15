@@ -556,7 +556,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fltk|1.3.5|1.3.9|
 |fluidsynth|2.0.5|2.3.5|
 |fluidsynth+32|1.1.6|2.3.5|
-|fmt|8.0.1|10.2.1|
 |folks|0.15.5|0.15.9|
 |font-awesome|6.5.1|6.5.2|
 |fontconfig|2.14.0|2.15.0|
@@ -2658,7 +2657,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sozu|0.15.2|1.0.0|
 |spamassassin|3.4.6|4.0.1|
 |spandsp|0.0.6|3.0.0|
-|spdlog|1.9.2|1.14.1|
 |spdx-licenses|3.11|3.23|
 |spectacle|22.12.3|24.02.2|
 |speech-dispatcher|0.11.2|0.11.5|
