@@ -2909,6 +2909,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |unace|2.5|2.5.orig|Possible downgrade from the current version (2.5   2.5.orig)|
 |unar|1.10.1|1.10.8|
 |unbound|1.19.2<br>+icannbundle20210902|1.20.0|Compound version number '1.19.2+icannbundle20210902'|
+|uncrustify|0.78.1|0.79.0|
 |unidecode|1.0.23|1.3.8|
 |unifont|15.1.04|15.1.05|
 |unixodbc|2.3.9|2.3.12|
