@@ -848,7 +848,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |httrack|3.49.2|3.49.5|
 |hub|2.14.2<br>+git20230617|2.14.2|Compound version number '2.14.2+git20230617'<br>Version number indicates a snapshot (+git) is used|
 |hugin|2022.0.0|2023.0.0|
-|hugo|0.123.6|0.125.7|
+|hugo|0.123.6|0.126.0|
 |humanize|0.5.1|4.9.0|
 |hunspell|1.7.0|1.7.2|
 |hwdata|0.377|0.382|
@@ -1604,7 +1604,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libwm|20161006|1.3|Possible downgrade from the current version (20161006   1.3)|
 |libwmf|0.2.8.4|0.2.13|
 |libwnck-3|40.1|43.0|
-|libwpd|0.10.2|0.10.3|
 |libwpe|1.12.2|1.16.0|
 |libwpg|0.3.3|0.3.4|
 |libwps|0.4.10|0.4.14|
@@ -2256,7 +2255,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |plasma-workspace|5.27.11|6.0.4|
 |plasma-workspace-wallpapers|5.27.11|6.0.4|
 |plasmatube|23.08.5|24.02.2|
-|platformdirs|2.5.2|4.2.1|
+|platformdirs|2.5.2|4.2.2|
 |playerctl|2.0.1|2.4.1|
 |pluggy|1.0.0|1.5.0|
 |plymouth|22.02.122|24.004.60|
