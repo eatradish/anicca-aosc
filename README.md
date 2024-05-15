@@ -4,7 +4,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 | Package | Repo Version | New Version | Issues |
 |---------|--------------|-------------|--------|
 |1-ming|8.00|8.10|
-|7-zip|23.01|24.03|
+|7-zip|23.01|24.05|
 |a2ps|4.14|4.15.6|
 |aalib|1.4rc5|1.2|Possible downgrade from the current version (1.4rc5   1.2)|
 |aalib+32|1.4rc5|1.2|Possible downgrade from the current version (1.4rc5   1.2)|
