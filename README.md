@@ -3070,6 +3070,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xss-lock|0.3.0<br>+git20140302|0.3.0|Compound version number '0.3.0+git20140302'<br>Version number indicates a snapshot (+git) is used|
 |xterm|390|391|
 |xviewer|3.0.2|3.4.4|
+|xwayland|23.2.6|23.2.7|
 |xxhash|0.8.1|0.8.2|
 |xz|5.4.1|5.6.1|
 |xz+32|5.2.5|5.6.1|
