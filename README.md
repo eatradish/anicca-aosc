@@ -1339,7 +1339,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libcdr|0.1.6|0.1.7|
 |libcgroup|2.0|3.1.0|
 |libchamplain|0.12.20|0.12.21|
-|libchewing|0.5.1|0.7.0|
+|libchewing|0.5.1|0.8.0|
 |libclc|17.0.3|18.1.5|
 |libcloudproviders|0.3.1|0.3.6|
 |libcmis|0.5.2|0.6.2|
