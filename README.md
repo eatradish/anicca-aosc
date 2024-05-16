@@ -1057,7 +1057,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kdialog|23.08.5|24.02.2|
 |kdiamond|23.08.5|24.02.2|
 |kdiff3-trinity|14.1.0|14.1.2|
-|kdirstat-trinity|14.1.0|14.1.2|
 |kdiskmark|2.3.0|3.1.4-standalone|
 |kdnssd|5.115.0|6.0.4|
 |kdoctools|5.115.0|6.0.4|
@@ -1936,7 +1935,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |opencl-registry-api|2022.01.04|2024.05.08|
 |opencolorio|2.1.2|2.3.2|
 |openconnect|8.10|9.12|
-|opencore-amr|0.1.5|0.1.6|
 |opencore-amr+32|0.1.5|0.1.6|
 |opencryptoki|3.21.0|3.23.0|
 |opencsg|1.5.1|1.6.0|
