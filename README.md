@@ -534,7 +534,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ffmpeg+32|4.2.5|7.0|
 |ffmpegthumbs|23.08.5|24.02.2|
 |ffms2|2.23|2.40|
-|ffnvcodec|11.1.5.1|12.2.72.0|
 |fftw|3.3.8|3.3.10|
 |fftw+32|3.3.4|3.3.10|
 |fido2|0.9.1|1.1.3|
