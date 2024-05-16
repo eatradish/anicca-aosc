@@ -423,7 +423,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |docbook-dtd|4.5|5.1|
 |docbook-sgml|0|4.5|
 |docbook-xml|0|5.1|
-|docker|25.0.3<br>+tini0.19.0|26.1.2|Compound version number '25.0.3+tini0.19.0'|
+|docker|25.0.3<br>+tini0.19.0|26.1.3|Compound version number '25.0.3+tini0.19.0'|
 |docker-compose|2.24.6|2.27.0|
 |docutils|0.20.1|0.21.2|
 |dolphin|23.08.5|24.02.2|
@@ -2994,7 +2994,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |wcwidth|0.1.8|0.2.13|
 |wdm|1.28|1.29|
 |webencodings|0.5|0.5.1|
-|webkit2gtk|2.42.5|2.44.1|
+|webkit2gtk|2.42.5|2.44.2|
 |webrtc-audio-processing|0.3|1.3|
 |websocket-client|1.7.0|1.8.0|
 |websockets|12.0|1.4.4|Possible downgrade from the current version (12.0   1.4.4)|
