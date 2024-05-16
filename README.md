@@ -1422,6 +1422,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libhangul|0.1.0<br>+git20210406|0.1.0|Compound version number '0.1.0+git20210406'<br>Version number indicates a snapshot (+git) is used|
 |libical|3.0.8|3.0.18|
 |libidn|1.41|1.42|
+|libidn+32|1.33|1.42|
 |libidn2|2.3.0|2.3.7|
 |libindi|2.0.5|2.0.7|
 |libinput|1.24.0|1.25.0|
@@ -2514,6 +2515,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rocr-runtime|6.0.2|6.1.1|
 |rocs|23.08.5|24.02.2|
 |roct-thunk-interface|6.0.0|6.1.1|
+|ronn-ng|0.9.1|0.10.1|
 |rosegarden|20.12|23.12|
 |rosegarden-trinity|14.1.0|14.1.2|
 |roxterm|3.14.3|3.15.0|
