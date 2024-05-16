@@ -184,6 +184,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |bluez-qt|5.115.0|6.0.4|
 |bochs|2.6.11|2.8|
 |boinc|7.24.3|8.0/8.0.1|
+|bolt|0.9.7|0.9.8|
 |bomber|23.08.5|24.02.2|
 |boost|1.83.0|1.85.0|
 |boost+32|1.63.0|1.85.0|
@@ -1421,7 +1422,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libhangul|0.1.0<br>+git20210406|0.1.0|Compound version number '0.1.0+git20210406'<br>Version number indicates a snapshot (+git) is used|
 |libical|3.0.8|3.0.18|
 |libidn|1.41|1.42|
-|libidn+32|1.33|1.42|
 |libidn2|2.3.0|2.3.7|
 |libindi|2.0.5|2.0.7|
 |libinput|1.24.0|1.25.0|
@@ -1694,7 +1694,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lucene++|3.0.8|3.0.9|
 |lunzip|1.10|1.14|
 |lutris|0.5.11|0.5.17|
-|lvm2|2.03.14|2.03.23|
+|lvm2|2.03.14|2.03.24|
 |lxappearance|0.6.2|0.6.3|
 |lxc|5.0.2|6.0.0|
 |lxcfs|3.0.3|6.0.0|
@@ -2514,7 +2514,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rocr-runtime|6.0.2|6.1.1|
 |rocs|23.08.5|24.02.2|
 |roct-thunk-interface|6.0.0|6.1.1|
-|ronn-ng|0.9.1|0.10.1|
 |rosegarden|20.12|23.12|
 |rosegarden-trinity|14.1.0|14.1.2|
 |roxterm|3.14.3|3.15.0|
