@@ -1055,6 +1055,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kdev-php|23.08.5|24.02.2|
 |kdev-python|23.08.5|24.02.2|
 |kdevelop|23.08.5|24.02.2|
+|kdevelop-pg-qt|2.2.1|2.2.2|
 |kdewebkit|5.115.0|6.0.4|
 |kdf|23.08.5|24.02.2|
 |kdiagram|2.8.0|3.0.1|
@@ -2987,6 +2988,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |watchman|4.9.0|2024.05.13.00|
 |wavpack|5.2.0|5.7.0|
 |wavpack+32|5.2.0|5.7.0|
+|wayland-utils|1.1.0|1.2.0|
 |wcslib|6.4|8.3|
 |wcwidth|0.1.8|0.2.13|
 |wdm|1.28|1.29|
