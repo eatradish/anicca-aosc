@@ -1076,7 +1076,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |keepass-plugin-twofish|1.3|1.4|
 |keepassxc|2.6.6|2.7.8|
 |kemoticons|5.115.0|6.0.4|
-|kernel-tools|6.7.5|5.19.17|Possible downgrade from the current version (6.7.5   5.19.17)|
+|kernel-tools|6.9.0|5.19.17|Possible downgrade from the current version (6.9.0   5.19.17)|
 |keximdb-trinity|14.1.0|14.1.2|
 |keyring|21.7.0|25.2.1|
 |keysmith|23.08.5|24.02.2|
@@ -1645,14 +1645,14 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lincity-ng|2.9.0|2.0|Possible downgrade from the current version (2.9.0   2.0)|
 |link-grammar|5.10.1|5.99.42|
 |linux+api|6.7.12|5.19.17|Possible downgrade from the current version (6.7.12   5.19.17)|
-|linux+kernel|6.7.5|5.19.17|Possible downgrade from the current version (6.7.5   5.19.17)|
+|linux+kernel|6.9.0|5.19.17|Possible downgrade from the current version (6.9.0   5.19.17)|
 |linux+kernel+asahi|6.5.11|5.19.17|Possible downgrade from the current version (6.5.11   5.19.17)|
 |linux+kernel+lts|6.6.17|5.10.216|Possible downgrade from the current version (6.6.17   5.10.216)|
 |linux+kernel+rc|5.8.0|5.19.17|
 |linux+kernel+retro|5.10.132|5.10.216|
 |linux+kernel+retro+minimal|5.15.17|5.10.216|Possible downgrade from the current version (5.15.17   5.10.216)|
 |linux-firmware|20240506<br>+debian20230210<br>+5~bpo11<br>+1|20240513|Compound version number '20240506+debian20230210+5~bpo11+1'|
-|linux-kernel|6.7.5|5.19.17|Possible downgrade from the current version (6.7.5   5.19.17)|
+|linux-kernel|6.9.0|5.19.17|Possible downgrade from the current version (6.9.0   5.19.17)|
 |linux-kernel-lts|6.6.17|5.19.17|Possible downgrade from the current version (6.6.17   5.19.17)|
 |linux-kernel-retro|5.10.132|5.10.216|
 |linux-kernel-retro-minimal|5.15.17|5.10.216|Possible downgrade from the current version (5.15.17   5.10.216)|
@@ -2495,7 +2495,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |requests-cache|0.5.2|1.2.0|
 |rest|0.8.1|0.9.1|
 |retext|7.2.2|8.0.2|
-|rexml|3.2.5|3.2.7|
+|rexml|3.2.5|3.2.8|
 |rfc3986|1.4.0|2.0.0|
 |rhythmbox|3.4.4|3.4.7|
 |rime-cantonese|2023.06.15<br>+git20230912|2023.06.15|Compound version number '2023.06.15+git20230912'<br>Version number indicates a snapshot (+git) is used|
