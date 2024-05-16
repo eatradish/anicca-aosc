@@ -164,7 +164,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |bcrypt|3.1.7|4.1.3|
 |beaker|1.11.0|1.13.0|
 |beancount|2.2.1|2.3.6|
-|beautifulsoup4|4.10.0|4.12.3|
 |benchmark|1.8.2|1.8.3|
 |bibletime-trinity|14.1.0|14.1.2|
 |bigsh0t|2.5.1|2.7|
@@ -961,7 +960,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |juk|23.08.5|24.02.2|
 |jupyter-client|5.2.4|8.6.1|
 |jupyter-core|4.4.0|5.7.2|
-|k3b|23.08.5|24.02.2|
 |k3b-trinity|14.1.0|14.1.2|
 |k9copy-trinity|14.1.0|14.1.2|
 |kaccounts-integration|23.08.5|24.02.2|
@@ -1057,6 +1055,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kdialog|23.08.5|24.02.2|
 |kdiamond|23.08.5|24.02.2|
 |kdiff3-trinity|14.1.0|14.1.2|
+|kdirstat-trinity|14.1.0|14.1.2|
 |kdiskmark|2.3.0|3.1.4-standalone|
 |kdnssd|5.115.0|6.0.4|
 |kdoctools|5.115.0|6.0.4|
@@ -1935,6 +1934,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |opencl-registry-api|2022.01.04|2024.05.08|
 |opencolorio|2.1.2|2.3.2|
 |openconnect|8.10|9.12|
+|opencore-amr|0.1.5|0.1.6|
 |opencore-amr+32|0.1.5|0.1.6|
 |opencryptoki|3.21.0|3.23.0|
 |opencsg|1.5.1|1.6.0|
@@ -2051,7 +2051,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-app-cpanminus|1.7044|1.7047|
 |perl-archive-zip|1.64|1.68|
 |perl-authen-sasl|2.1401|2.1700|
-|perl-b-hooks-endofscope|0.24|0.28|
 |perl-cairo|1.106|1.109|
 |perl-canary-stability|2012|2013|
 |perl-cgi|4.47|4.64|
@@ -2670,7 +2669,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sphinxcontrib-serializinghtml|1.1.5|1.1.10|
 |sphinxcontrib-websupport|1.2.4|1.2.7|
 |spim|9.1.23|9.1.24|
-|spirv-headers|1.3.280.0|1.5.4.raytracing.fixed|
 |spirv-llvm-translator|17.0.0|18.1.0|
 |spirv-tools|1.3.275.0|2024.1|
 |spread-sheet-widget|0.3|0.10|
