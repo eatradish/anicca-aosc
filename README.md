@@ -1340,7 +1340,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libcdr|0.1.6|0.1.7|
 |libcgroup|2.0|3.1.0|
 |libchamplain|0.12.20|0.12.21|
-|libchewing|0.5.1|0.8.0|
+|libchewing|0.5.1|0.8.1|
 |libclc|17.0.3|18.1.5|
 |libcloudproviders|0.3.1|0.3.6|
 |libcmis|0.5.2|0.6.2|
@@ -1392,7 +1392,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libgee|0.20.5|0.20.6|
 |libgeotiff|1.5.1|1.7.1|
 |libgig|4.4.0|4.4.1|
-|libgit2|1.7.2|1.8.0|
+|libgit2|1.7.2|1.8.1|
 |libgksu|2.0.13~pre1|2.0.12|Possible downgrade from the current version (2.0.13~pre1   2.0.12)|
 |libglvnd+32|1.6.0|1.7.0|
 |libgnome-games-support|1.8.2|2.0.0|
@@ -1501,7 +1501,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libpcap+32|1.10.1|1.10.4|
 |libpeas|1.32.0|2.0.2|
 |libpfm|4.12.0|4.13.0|
-|libphonenumber|8.12.17|8.13.36|
+|libphonenumber|8.12.17|8.13.37|
 |libpinyin|2.6.0|2.8.1|
 |libpipeline|1.5.3|1.5.7|
 |libplist|2.3.0|2.6.0|
