@@ -2262,7 +2262,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |plasma-workspace-wallpapers|5.27.11|6.0.4|
 |plasmatube|23.08.5|24.02.2|
 |platformdirs|2.5.2|4.2.2|
-|playerctl|2.0.1|2.4.1|
 |pluggy|1.0.0|1.5.0|
 |plymouth|22.02.122|24.004.60|
 |plymouth-kcm|5.27.11|6.0.4|
