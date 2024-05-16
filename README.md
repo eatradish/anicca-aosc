@@ -164,6 +164,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |bcrypt|3.1.7|4.1.3|
 |beaker|1.11.0|1.13.0|
 |beancount|2.2.1|2.3.6|
+|beautifulsoup4|4.10.0|4.12.3|
 |benchmark|1.8.2|1.8.3|
 |bibletime-trinity|14.1.0|14.1.2|
 |bigsh0t|2.5.1|2.7|
@@ -425,7 +426,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |docutils|0.20.1|0.21.2|
 |dolphin|23.08.5|24.02.2|
 |dolphin-emu|5.0<br>+git20211101|5.0|Compound version number '5.0+git20211101'<br>Version number indicates a snapshot (+git) is used|
-|dolphin-plugins|23.08.5|24.02.2|
 |dolphin-trinity|14.1.0|14.1.2|
 |dosbox|0.74<br>+3|0.74-3|Compound version number '0.74+3'|
 |dotconf|1.3|1.4.1|
@@ -452,6 +452,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |doxygen|1.10.0|1_10_0|
 |doxyqml|0.5.0|0.5.3|
 |dpdk|22.11.1|24.03|
+|dracut|059|101|
 |dragon|23.08.5|24.02.2|
 |drkonqi|5.27.11|6.0.4|
 |dropbox|148.4.4519|199.4.6287|
@@ -960,6 +961,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |juk|23.08.5|24.02.2|
 |jupyter-client|5.2.4|8.6.1|
 |jupyter-core|4.4.0|5.7.2|
+|k3b|23.08.5|24.02.2|
 |k3b-trinity|14.1.0|14.1.2|
 |k9copy-trinity|14.1.0|14.1.2|
 |kaccounts-integration|23.08.5|24.02.2|
@@ -1297,7 +1299,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lcms2|2.14|2.16|
 |lcms2+32|2.9|2.16|
 |ldb|2.6.1|2.9.0|
-|ldc|1.35.0|1.38.0|
 |leatherman|1.9.1|1.12.13|
 |lensfun|0.3.4|0.3.95|
 |levenshtein|0.12.0|0.25.1|
@@ -1865,7 +1866,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |networkmanager-openconnect|1.2.6<br>+git20210918|1.2.10|Compound version number '1.2.6+git20210918'<br>Version number indicates a snapshot (+git) is used|
 |networkmanager-openvpn|1.8.12|1.11.0|
 |networkmanager-pptp|1.2.10|1.2.12|
-|networkmanager-qt|5.115.0|6.0.4|
 |networkmanager-strongswan|1.5.2|1.6.0|
 |networkmanager-vpnc|1.2.6|1.2.8|
 |networkx|2.8.5|3.3|
@@ -2051,6 +2051,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-app-cpanminus|1.7044|1.7047|
 |perl-archive-zip|1.64|1.68|
 |perl-authen-sasl|2.1401|2.1700|
+|perl-b-hooks-endofscope|0.24|0.28|
 |perl-cairo|1.106|1.109|
 |perl-canary-stability|2012|2013|
 |perl-cgi|4.47|4.64|
@@ -2669,6 +2670,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sphinxcontrib-serializinghtml|1.1.5|1.1.10|
 |sphinxcontrib-websupport|1.2.4|1.2.7|
 |spim|9.1.23|9.1.24|
+|spirv-headers|1.3.280.0|1.5.4.raytracing.fixed|
 |spirv-llvm-translator|17.0.0|18.1.0|
 |spirv-tools|1.3.275.0|2024.1|
 |spread-sheet-widget|0.3|0.10|
@@ -2879,7 +2881,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |txt2tags|3.7|3.9|
 |txtorcon|19.1.0|23.11.0|
 |typed-ast|1.4.3|1.5.5|
-|typing-extensions|4.7.1|4.11.0|
+|typing-extensions|4.7.1|4.12.0a2|
 |tzdata|2023d|2024a|
 |uboot-asahi|2023.07.02<br>+3|2024.04-1|Compound version number '2023.07.02+3'|
 |uboot-tools|2022.10|2024.04|
