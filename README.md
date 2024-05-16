@@ -236,7 +236,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |castxml|0.6.2|0.6.6|
 |catatonit|0.1.7|0.2.0|
 |catch2|2.13.8|3.6.0|
-|cava|0.10.1|0.10.2|
 |cbm|0.2|0.3.2|
 |ccid|1.5.1|1.5.5|
 |cddlib|0.94j|0.94m|
@@ -546,7 +545,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fim|0.7<br>+git20240221|0.7.0|Compound version number '0.7+git20240221'<br>Version number indicates a snapshot (+git) is used|
 |findlib|1.9.5|1.9.6|
 |fio|3.35|3.37|
-|firefox|123.0|126.0|
+|firefox|125.0.3|126.0|
 |firehol|3.1.6|3.1.7|
 |firewalld|2.0.0|2.1.2|
 |flac|1.3.3|1.4.3|
@@ -783,7 +782,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gssdp|1.2.3|1.6.3|
 |gssproxy|0.8.2|0.9.2|
 |gst-libav-1-0+32|1.16.2|1.24.3|
-|gst-plugins-bad-1-0+32|1.16.2|1.24.3|
 |gst-plugins-base-1-0+32|1.16.2|1.24.3|
 |gst-plugins-good-1-0+32|1.16.2|1.24.3|
 |gst-plugins-ugly-1-0+32|1.16.2|1.24.3|
@@ -1488,7 +1486,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libnice|0.1.17|0.1.22|
 |libnl|3.5.0|3.9.0|
 |libnl+32|3.2.28|3.9.0|
-|libnma|1.10.2|1.10.6|
 |libnotify|0.7.9|0.8.3|
 |libnsl2|1.3.0|2.0.1|
 |libnspsl|0.1.6|0.1.7|
@@ -1739,7 +1736,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |materialx|1.38.8|1.38.10|
 |mathemagics-trinity|14.1.0|14.1.2|
 |mathjax|2.7.5|3.2.2|
-|matplotlib|3.8.0|3.8.4|
+|matplotlib|3.8.0|3.9.0|
 |maturin|1.4.0|1.5.1|
 |mawk|1.3.4<br>+20190203|1.3.4-20240123|Compound version number '1.3.4+20190203'|
 |maxima|5.46.0|5.47.0|
@@ -1871,7 +1868,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |netsurf-buildsystem|1.9|1.10|
 |nettle|3.7.2|3.9.1|
 |nettle+32|3.7.2|3.9.1|
-|network-manager-applet|1.28.0|1.36.0|
 |networkmanager|1.40.6|1.46.0|
 |networkmanager-iodine|1.2.0<br>+git20220728|1.2.0|Compound version number '1.2.0+git20220728'<br>Version number indicates a snapshot (+git) is used|
 |networkmanager-l2tp|1.8.6|1.20.16|
@@ -2939,7 +2935,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |uthash|2.1.0|2.3.0|
 |util-linux+32|2.29.2|2.40.1|
 |util-macros|1.20.0|1.20.1|
-|util-macros+32|999|1.20.1|Possible downgrade from the current version (999   1.20.1)|
 |v2ray|5.13.0|5.16.1|
 |v2raya|2.2.5.1|2.2.5|Possible downgrade from the current version (2.2.5.1   2.2.5)|
 |v4l-utils|1.22.1|1.26.1|
