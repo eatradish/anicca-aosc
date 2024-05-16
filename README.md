@@ -1925,7 +1925,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |onefetch|2.20.0|2.21.0|
 |onig|6.9.5<br>+rev1|6.9.9|Compound version number '6.9.5+rev1'|
 |oolite|1.90|1.91.0.7604-240417-a536cbe|
-|opam|2.1.3|2.1.5|
+|opam|2.1.3|2.1.6|
 |open-iscsi|2.1.8|2.1.9|
 |open-isns|0.101|0.102|
 |open-rs|5.0.1|5.1.2|
@@ -2853,7 +2853,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tpm-tools|1.3.9.1|1.3.9.2|
 |tpm2-tss|2.3.3|4.1.1|
 |tqca|14.1.0|14.1.2|
-|tqdm|4.62.3|4.66.4|
 |tqt3|14.1.0|14.1.2|
 |tqtinterface|14.1.0|14.1.2|
 |trace-cmd|2.8.3|3.2|
