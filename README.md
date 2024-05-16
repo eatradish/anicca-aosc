@@ -189,7 +189,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |borgbackup|1.1.17|1.2.8|
 |botan|1.10.17|3.4.0|
 |botan-2|2.12.1|3.4.0|
-|boto3|1.20.26|1.34.106|
+|boto3|1.20.26|1.34.107|
 |bottle|0.12.18|0.12.25|
 |bottles|2022.2.28<br>+trento<br>+4|51.11|Compound version number '2022.2.28+trento+4'<br>Possible downgrade from the current version (2022.2.28+trento+4   51.11)|
 |bovo|23.08.5|24.02.2|
@@ -426,6 +426,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |docutils|0.20.1|0.21.2|
 |dolphin|23.08.5|24.02.2|
 |dolphin-emu|5.0<br>+git20211101|5.0|Compound version number '5.0+git20211101'<br>Version number indicates a snapshot (+git) is used|
+|dolphin-plugins|23.08.5|24.02.2|
 |dolphin-trinity|14.1.0|14.1.2|
 |dosbox|0.74<br>+3|0.74-3|Compound version number '0.74+3'|
 |dotconf|1.3|1.4.1|
@@ -1299,6 +1300,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lcms2|2.14|2.16|
 |lcms2+32|2.9|2.16|
 |ldb|2.6.1|2.9.0|
+|ldc|1.35.0|1.38.0|
 |leatherman|1.9.1|1.12.13|
 |lensfun|0.3.4|0.3.95|
 |levenshtein|0.12.0|0.25.1|
@@ -1866,6 +1868,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |networkmanager-openconnect|1.2.6<br>+git20210918|1.2.10|Compound version number '1.2.6+git20210918'<br>Version number indicates a snapshot (+git) is used|
 |networkmanager-openvpn|1.8.12|1.11.0|
 |networkmanager-pptp|1.2.10|1.2.12|
+|networkmanager-qt|5.115.0|6.0.4|
 |networkmanager-strongswan|1.5.2|1.6.0|
 |networkmanager-vpnc|1.2.6|1.2.8|
 |networkx|2.8.5|3.3|
@@ -2436,7 +2439,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qjackctl|0.9.7|0.9.91|
 |qmlkonsole|23.08.5|24.02.2|
 |qmltermwidget|0.2.0<br>+git20220109|0.6.0|Compound version number '0.2.0+git20220109'<br>Version number indicates a snapshot (+git) is used|
-|qmmp|1.6.5|2.1.7|
+|qmmp|1.6.5|2.1.8|
 |qownnotes|22.6.1|24.5.1|
 |qqc2-desktop-style|5.115.0|6.0.4|
 |qrencode|4.0.2|4.1.1|
