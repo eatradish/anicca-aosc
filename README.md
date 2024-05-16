@@ -665,7 +665,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gitui|0.25.0|0.26.1|
 |gjs|1.74.0|1.80.2|
 |gksu|2.0.2|2.0.12|
-|glances|3.4.0.2|4.0.2|
+|glances|3.4.0.2|4.0.4|
 |glib|2.80.0|2.80.2|
 |glib+32|2.62.6|2.80.2|
 |glib-networking|2.72.2|2.80.0|
@@ -2875,7 +2875,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |transmission-remote-gtk|1.5.1|1.6.0|
 |trash-cli|0.17.1.14|0.24.4.17|
 |tre|20161208|0.8.0|Possible downgrade from the current version (20161208   0.8.0)|
-|trio|0.24.0|0.25.0|
+|trio|0.24.0|0.25.1|
 |trollius|2.1|2.2.1|
 |trove-classifiers|2024.1.31|2024.4.10|
 |tslib|1.21|1.23|
