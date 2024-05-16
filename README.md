@@ -2496,7 +2496,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |requests-cache|0.5.2|1.2.0|
 |rest|0.8.1|0.9.1|
 |retext|7.2.2|8.0.2|
-|rexml|3.2.5|3.2.6|
+|rexml|3.2.5|3.2.7|
 |rfc3986|1.4.0|2.0.0|
 |rhythmbox|3.4.4|3.4.7|
 |rime-cantonese|2023.06.15<br>+git20230912|2023.06.15|Compound version number '2023.06.15+git20230912'<br>Version number indicates a snapshot (+git) is used|
