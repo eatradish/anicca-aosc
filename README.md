@@ -2291,7 +2291,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |popt+32|1.16|1.19|
 |portaudio|19<br>+20140130|190600_20161030|Compound version number '19+20140130'|
 |portaudio+32|19<br>+20140130|190600_20161030|Compound version number '19+20140130'|
-|portmidi|217|236|
+|portmidi|2.0.4|236|
 |postfix|3.7.3|3.9.0|
 |postgresql|13.13|16.3|
 |potracegui-trinity|14.1.0|14.1.2|
@@ -2355,7 +2355,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pydot|1.4.1|2.0.0|
 |pyelftools|0.30|0.31|
 |pyenchant|2.0.0|3.2.2|
-|pygame|2.0.2|2.5.2|
 |pygccxml|2.1.0|2.5.0|
 |pyglet|1.3.2|2.0.15|
 |pygments|2.10.0|2.18.0|
