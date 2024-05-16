@@ -1564,7 +1564,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libthai|0.1.28|0.1.29|
 |libticables2|1.3.4|1.3.5|
 |libticalcs2|1.1.8|1.1.9|
-|libticonv|1.1.4|1.1.5|
 |libtiff|4.4.0|4.6.0|
 |libtiff+32|4.0.10|4.6.0|
 |libtifiles2|1.1.6|1.1.7|
@@ -1928,7 +1927,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |opam|2.1.3|2.1.6|
 |open-iscsi|2.1.8|2.1.9|
 |open-isns|0.101|0.102|
-|open-rs|5.0.1|5.1.2|
+|open-rs|5.0.1|5.1.3|
 |open-vm-tools|12.3.5|12.4.0|
 |openblas|0.3.21<br>+git20221105|0.3.27|Compound version number '0.3.21+git20221105'<br>Version number indicates a snapshot (+git) is used|
 |opencascade|7.6.3|7.8.0|
@@ -2037,7 +2036,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pcre-static|8.44|8.45|
 |pcsc-perl|1.4.14|1.4.16|
 |pcsclite|1.9.9|2.2.1|
-|pcsx2|1.6.0<br>+git20210825|1.7.5811|Compound version number '1.6.0+git20210825'<br>Version number indicates a snapshot (+git) is used|
+|pcsx2|1.6.0<br>+git20210825|1.7.5815|Compound version number '1.6.0+git20210825'<br>Version number indicates a snapshot (+git) is used|
 |pdfgrep|2.1.2|2.2.0|
 |pdfminer|20191020|20231228|
 |pdlzip|1.9|1.13|
@@ -2853,6 +2852,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tpm-tools|1.3.9.1|1.3.9.2|
 |tpm2-tss|2.3.3|4.1.1|
 |tqca|14.1.0|14.1.2|
+|tqdm|4.62.3|4.66.4|
 |tqt3|14.1.0|14.1.2|
 |tqtinterface|14.1.0|14.1.2|
 |trace-cmd|2.8.3|3.2|
