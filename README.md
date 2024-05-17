@@ -94,7 +94,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |arts|14.1.0|14.1.2|
 |asahi-common|20231113|20231113-aosc|Possible downgrade from the current version (20231113   20231113-aosc)|
 |asahi-fwextract|0.6.21|0.7.3|
-|asciidoc|8.6.10|10.2.0|
 |asciidoctor|2.0.12|2.0.22|
 |asio|1.18.1|1.30.2|
 |asn1crypto|1.2.0|1.5.1|
@@ -125,7 +124,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |audit|3.1|4.0.1|
 |audiveris|5.1.0|5.3.1|
 |autobahn|19.2.1|23.6.2|
-|autofs|5.1.8|5.1.9|
 |autojump-rs|0.5.1<br>+22.5.3|0.5.1|Compound version number '0.5.1+22.5.3'<br>Possible downgrade from the current version (0.5.1+22.5.3   0.5.1)|
 |automake|1.16i|1.16.5|
 |automat|20.2.0|22.10.0|
@@ -150,9 +148,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |backports-functools-lru-cache|1.5|2.0.0|
 |baloo|5.115.0|6.0.4|
 |baloo-widgets|23.08.5|24.02.2|
-|balsa|2.6.3|2.6.4|
 |balz|1.20|9.86|
-|bamf|0.5.5|0.5.6|
 |bandwhich|0.20.0|0.22.2|
 |baobab|42.0|46.0|
 |bash|5.2.26|5.2.21|Possible downgrade from the current version (5.2.26   5.2.21)|
@@ -1738,6 +1734,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mdadm|4.2|4.3|
 |mdbook|0.4.14|0.4.37|
 |mdds|2.0.2|2.1.1|
+|mechanize|0.4.5|0.4.10|
 |mediainfo|22.06|24.04|
 |meld|3.21.3|3.22.2|
 |melonds|0.9.2|0.9.5|
@@ -1753,7 +1750,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |metacity|3.44.0|3.46.0|
 |mgba|0.9.2|0.10.3|
 |microsoft-gsl|3.0.1|4.0.0|
-|mihomo|1.18.2|1.18.4|
 |milkytracker|1.02.00|1.04.00|
 |milou|5.27.11|6.0.4|
 |mimalloc|2.1.2|2.1.6|
@@ -2435,7 +2431,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qmlkonsole|23.08.5|24.02.2|
 |qmltermwidget|0.2.0<br>+git20220109|0.6.0|Compound version number '0.2.0+git20220109'<br>Version number indicates a snapshot (+git) is used|
 |qmmp|1.6.5|2.1.8|
-|qownnotes|22.6.1|24.5.1|
+|qownnotes|22.6.1|24.5.2|
 |qqc2-desktop-style|5.115.0|6.0.4|
 |qrencode|4.0.2|4.1.1|
 |qscintilla|2.13.1|2.14.1|
@@ -3080,7 +3076,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ytmusicapi|1.5.1|1.7.1|
 |yubico-pam|2.26|2.27|
 |yubico-piv-tool|2.3.1|2.5.2|
-|yubikey-manager|4.0.1|5.4.0|
 |yubikey-manager-qt|1.2.1|1.2.6|
 |yubioath-desktop|5.1.0|7.0.0|
 |yuzu|1582|1732|
