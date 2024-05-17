@@ -924,7 +924,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |itinerary|23.08.5|24.02.2|
 |itsdangerous|1.1.0|2.2.0|
 |iverilog|12.0|12_0|
-|iw|5.19|6.7|
+|iw|5.19|6.9|
 |iwd|1.20|2.17|
 |ixion|0.17.0|0.19.0|
 |j4-dmenu-desktop|2.17|2.18|
@@ -1632,15 +1632,15 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |linux+api|6.7.12|5.19.17|Possible downgrade from the current version (6.7.12   5.19.17)|
 |linux+kernel|6.9.0|5.19.17|Possible downgrade from the current version (6.9.0   5.19.17)|
 |linux+kernel+asahi|6.5.11|5.19.17|Possible downgrade from the current version (6.5.11   5.19.17)|
-|linux+kernel+lts|6.6.17|5.10.216|Possible downgrade from the current version (6.6.17   5.10.216)|
+|linux+kernel+lts|6.6.17|5.10.217|Possible downgrade from the current version (6.6.17   5.10.217)|
 |linux+kernel+rc|5.8.0|5.19.17|
-|linux+kernel+retro|5.10.132|5.10.216|
-|linux+kernel+retro+minimal|5.15.17|5.10.216|Possible downgrade from the current version (5.15.17   5.10.216)|
+|linux+kernel+retro|5.10.132|5.10.217|
+|linux+kernel+retro+minimal|5.15.17|5.10.217|Possible downgrade from the current version (5.15.17   5.10.217)|
 |linux-firmware|20240506<br>+debian20230210<br>+5~bpo11<br>+1|20240513|Compound version number '20240506+debian20230210+5~bpo11+1'|
 |linux-kernel|6.9.0|5.19.17|Possible downgrade from the current version (6.9.0   5.19.17)|
 |linux-kernel-lts|6.6.17|5.19.17|Possible downgrade from the current version (6.6.17   5.19.17)|
-|linux-kernel-retro|5.10.132|5.10.216|
-|linux-kernel-retro-minimal|5.15.17|5.10.216|Possible downgrade from the current version (5.15.17   5.10.216)|
+|linux-kernel-retro|5.10.132|5.10.217|
+|linux-kernel-retro-minimal|5.15.17|5.10.217|Possible downgrade from the current version (5.15.17   5.10.217)|
 |linux-pam|1.6.0|1.6.1|
 |linuxsampler|2.3.0|2.3.1|
 |lirc|0.9.4d|0.10.2|
@@ -2614,6 +2614,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |smartmontools|7.3|7.4|
 |smb4k-trinity|14.1.0|14.1.2|
 |smmap|5.0.0|6.0.0|
+|smpeg|0.4.5|2_0_0|
 |smpeg+32|0.4.5|2_0_0|
 |smplayer|19.10.2|24.5.0|
 |snapd|2.61.2|2.63|
@@ -2937,7 +2938,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vice|3.5|3.8|
 |vicious|2.3.3|2.7.0|
 |vid.stab|0.98b|1.1.1|
-|vim|9.1.0393|9.1.0412|
+|vim|9.1.0393|9.1.0414|
 |virglrenderer|0.10.4|1.0.1|
 |virtualenv|20.25.0|20.26.2|
 |virtualgl+32|2.5.2|3.1.1|
@@ -2947,6 +2948,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vmpk|0.8.0|0.9.0|
 |vnstat|2.4|2.12|
 |volk|2.5.0|3.1.2|
+|volk-meta-loader|1.3.280.0|1.3.283.0|
 |vorbis-tools|1.4.0|1.4.2|
 |vpnc|0.5.3r550|0.5.3|
 |vrms|1.27|1.33|
