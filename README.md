@@ -2074,6 +2074,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-devel-symdump|2.0604|2.18|Possible downgrade from the current version (2.0604   2.18)|
 |perl-digest-hmac|1.03|1.04|
 |perl-email-abstract|3.008|3.010|
+|perl-email-address|1.912|1.913|
 |perl-email-date-format|1.005|1.008|
 |perl-email-messageid|1.406|1.408|
 |perl-email-mime|1.946|1.954|
@@ -2613,7 +2614,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |smartmontools|7.3|7.4|
 |smb4k-trinity|14.1.0|14.1.2|
 |smmap|5.0.0|6.0.0|
-|smpeg|0.4.5|2_0_0|
 |smpeg+32|0.4.5|2_0_0|
 |smplayer|19.10.2|24.5.0|
 |snapd|2.61.2|2.63|
