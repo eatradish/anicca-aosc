@@ -91,7 +91,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |artikulate|23.08.5|24.02.2|
 |arts|14.1.0|14.1.2|
 |asahi-common|20231113|20231113-aosc|Possible downgrade from the current version (20231113   20231113-aosc)|
-|asahi-fwextract|0.6.21|0.7.3|
+|asahi-fwextract|0.6.21|0.7.5|
 |asciidoctor|2.0.12|2.0.22|
 |asio|1.18.1|1.30.2|
 |asn1crypto|1.2.0|1.5.1|
@@ -102,7 +102,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |aspnetcore-targeting-pack-8.0|8.0.4|8.0.5|
 |assimp|5.4.0|5.4.1|
 |ast-grep|0.22.2|0.22.3|
-|astroid|2.12.2|3.2.0|
+|astroid|2.12.2|3.2.1|
 |astrometry.net|0.94|0.95|
 |astyle|3.4.14|3.4.15|
 |at-spi2-atk+32|2.26.3|2.38.0|
