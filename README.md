@@ -398,6 +398,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |digikam-trinity|14.1.0|14.1.2|
 |ding-libs|0.6.1|0.6.2|
 |discover|5.27.11|6.0.4|
+|distcc|3.3.5|3.4|
 |distlib|0.3.1|0.3.8|
 |distorm|3.5.1|3.5.2b|
 |distro|1.6.0|1.9.0|
@@ -669,7 +670,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |glu+32|9.0.1|9.0.3|
 |gmic|3.2.6|3.3.6|
 |gmime-3|3.2.7|3.2.14|
-|gmp+32|6.1.2|6.3.0|
 |gnome-applets|3.44.0|3.52.0|
 |gnome-autoar|0.4.3|0.4.4|
 |gnome-backgrounds|42.0|46.0|
@@ -683,7 +683,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-clocks|42.0|46.0|
 |gnome-color-manager|3.36.0|3_36_0|
 |gnome-connections|42.1.2|46.0|
-|gnome-contacts|42.0|46.0|
 |gnome-control-center|42.3|46.1|
 |gnome-desktop|42.4|44.0|
 |gnome-disk-utility|42.0|46.0|
@@ -941,7 +940,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |jmol|14.30.0|16.2.15|
 |john|1.8.0|1.9.0|
 |josepy|1.13.0|1.14.0|
-|jq|1.6|1.7.1|
 |json-c|0.16|0.17|
 |json-c+32|0.13.1<br>+20180305|0.17|Compound version number '0.13.1+20180305'|
 |json-glib|1.6.6|1.8.0-actual|
@@ -1213,7 +1211,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |krecorder|23.08.5|24.02.2|
 |krename-trinity|14.1.0|14.1.2|
 |kreversi|23.08.5|24.02.2|
-|krfb|23.08.5|24.02.2|
 |kross|5.115.0|6.0.4|
 |kruler|23.08.5|24.02.2|
 |krunner|5.115.0|6.0.4|
@@ -1493,7 +1490,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libpeas|1.32.0|2.0.2|
 |libpfm|4.12.0|4.13.0|
 |libphonenumber|8.12.17|8.13.37|
-|libpinyin|2.6.0|2.8.1|
 |libpipeline|1.5.3|1.5.7|
 |libplist|2.3.0|2.6.0|
 |libpng|1.6.42|1.6.43|
@@ -1554,6 +1550,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libthai|0.1.28|0.1.29|
 |libticables2|1.3.4|1.3.5|
 |libticalcs2|1.1.8|1.1.9|
+|libticonv|1.1.4|1.1.5|
 |libtiff|4.4.0|4.6.0|
 |libtiff+32|4.0.10|4.6.0|
 |libtifiles2|1.1.6|1.1.7|
@@ -2670,7 +2667,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sqlite|3.45.1|3.45.3|
 |sqlite+32|3.32.3|3.45.3|
 |sqlite-fdw|2.1.0|2.4.0|
-|sqlitebrowser|3.12.1|83649a3-3357|
 |sqlmap|1.8.2|1.8.5|
 |sqlparse|0.4.1|0.5.0|
 |squashfs-tools|4.5|4.6.1|
