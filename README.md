@@ -2074,7 +2074,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-devel-symdump|2.0604|2.18|Possible downgrade from the current version (2.0604   2.18)|
 |perl-digest-hmac|1.03|1.04|
 |perl-email-abstract|3.008|3.010|
-|perl-email-address|1.912|1.913|
 |perl-email-date-format|1.005|1.008|
 |perl-email-messageid|1.406|1.408|
 |perl-email-mime|1.946|1.954|
@@ -2840,7 +2839,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |totem|42.0|43.0|
 |toxcore|0.2.18|0.2.19|
 |tpm-tools|1.3.9.1|1.3.9.2|
-|tpm2-tss|2.3.3|4.1.1|
+|tpm2-tss|2.3.3|4.1.2|
 |tqca|14.1.0|14.1.2|
 |tqdm|4.62.3|4.66.4|
 |tqt3|14.1.0|14.1.2|
