@@ -571,7 +571,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |frameworkintegration|5.115.0|6.0.4|
 |freealut|1.1.0|1_1_0|
 |freealut+32|1.1.0|1_1_0|
-|freecell-solver|6.2.0|6.8.0|
 |freeciv|2.6.5|3.1.1|
 |freeglut+32|3.0.0|3.4.0|
 |freerdp|2.11.2|3.5.1|
@@ -2673,7 +2672,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sqlite|3.45.1|3.45.3|
 |sqlite+32|3.32.3|3.45.3|
 |sqlite-fdw|2.1.0|2.4.0|
-|sqlitebrowser|3.12.1|83649a3-3357|
 |sqlmap|1.8.2|1.8.5|
 |sqlparse|0.4.1|0.5.0|
 |squashfs-tools|4.5|4.6.1|
@@ -3076,6 +3074,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ytmusicapi|1.5.1|1.7.1|
 |yubico-pam|2.26|2.27|
 |yubico-piv-tool|2.3.1|2.5.2|
+|yubikey-manager|4.0.1|5.4.0|
 |yubikey-manager-qt|1.2.1|1.2.6|
 |yubioath-desktop|5.1.0|7.0.0|
 |yuzu|1582|1732|
