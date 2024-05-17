@@ -1180,6 +1180,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |konsole|23.08.5|24.02.2|
 |kontact|23.08.5|24.02.2|
 |kontactinterface|23.08.5|24.02.2|
+|kontrast|23.08.5|24.02.2|
 |konversation|23.08.5|24.02.2|
 |konversation-trinity|14.1.0|14.1.2|
 |kooldock-trinity|14.1.0|14.1.2|
@@ -2731,7 +2732,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |taglib|1.11.1|2.0.1|
 |taglib+32|1.11|2.0.1|
 |tagparser|11.5.1|12.1.0|
-|tailscale|1.64.2|1.66.1|
+|tailscale|1.64.2|1.66.3|
 |taisei|1.3.2|1.4.1|
 |tali|40.8|40.9|
 |talloc|2.3.4|2.4.2|
