@@ -867,6 +867,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |i2c-tools|4.1|4.3|
 |i2pd|2.41.0|2.52.0|
 |i3status-rust|0.31.9|0.33.1|
+|ibm-plex-fonts|6.4.0|6.4.2|
 |ibus|1.5.25|1.5.30|
 |ibus-anthy|1.5.13|1.5.16|
 |ibus-chewing|1.6.1|2.0.0|
@@ -1564,6 +1565,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libthai|0.1.28|0.1.29|
 |libticables2|1.3.4|1.3.5|
 |libticalcs2|1.1.8|1.1.9|
+|libticonv|1.1.4|1.1.5|
 |libtiff|4.4.0|4.6.0|
 |libtiff+32|4.0.10|4.6.0|
 |libtifiles2|1.1.6|1.1.7|
