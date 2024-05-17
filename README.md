@@ -188,7 +188,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |bottle|0.12.18|0.12.25|
 |bottles|2022.2.28<br>+trento<br>+4|51.11|Compound version number '2022.2.28+trento+4'<br>Possible downgrade from the current version (2022.2.28+trento+4   51.11)|
 |bovo|23.08.5|24.02.2|
-|bread-dog|0.1.0|0.1.1|
+|bread-dog|0.1.0|0.2.0|
 |breeze|5.27.11|6.0.4|
 |breeze-grub|5.27.11|6.0.4|
 |breeze-gtk|5.27.11|6.0.4|
@@ -571,6 +571,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |frameworkintegration|5.115.0|6.0.4|
 |freealut|1.1.0|1_1_0|
 |freealut+32|1.1.0|1_1_0|
+|freecell-solver|6.2.0|6.8.0|
 |freeciv|2.6.5|3.1.1|
 |freeglut+32|3.0.0|3.4.0|
 |freerdp|2.11.2|3.5.1|
@@ -2672,6 +2673,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sqlite|3.45.1|3.45.3|
 |sqlite+32|3.32.3|3.45.3|
 |sqlite-fdw|2.1.0|2.4.0|
+|sqlitebrowser|3.12.1|83649a3-3357|
 |sqlmap|1.8.2|1.8.5|
 |sqlparse|0.4.1|0.5.0|
 |squashfs-tools|4.5|4.6.1|
