@@ -810,7 +810,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hardinfo|0.5.1<br>+git20220724|0.5.1|Compound version number '0.5.1+git20220724'<br>Version number indicates a snapshot (+git) is used|
 |harfbuzz|8.4.0|8.5.0|
 |harfbuzz+32|2.6.7|8.5.0|
-|haruna|0.12.3|1.1.0|
+|haruna|0.12.3|1.1.1|
 |harvid|0.8.3|0.9.1|
 |hashcat|6.2.6|24.4.28|
 |hatch-fancy-pypi-readme|22.8.0|24.1.0|
