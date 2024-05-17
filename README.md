@@ -286,7 +286,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cmark|0.30.3|0.31.0|
 |cmus|2.9.1|2.10.0|
 |cock|0.6.0|0.11.0|
-|cockpit|286.1|316|
 |cockpit-machines|284.1|312|
 |cockpit-podman|63|87|
 |code-server|4.9.1|4.89.1|
