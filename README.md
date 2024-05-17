@@ -180,7 +180,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |bluedevil|5.27.11|6.0.4|
 |bluez-alsa|3.0.0|4.2.0|
 |bluez-qt|5.115.0|6.0.4|
-|bochs|2.6.11|2.8|
 |boinc|7.24.3|8.0/8.0.1|
 |bolt|0.9.7|0.9.8|
 |bomber|23.08.5|24.02.2|
@@ -462,7 +461,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dssim-c|1.3.2<br>+git20200922|3.3.1|Compound version number '1.3.2+git20200922'<br>Version number indicates a snapshot (+git) is used|
 |dsview|1.3.1|1.12|
 |dtc|1.6.0|1.7.0|
-|dua|2.28.0|2.29.0|
 |dub|1.34.0|1.37.0|
 |duktape|2.5.0|2.7.0|
 |dulwich|0.21.6|0.22.1|
@@ -640,7 +638,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |getdns|1.6.0|1.7.3|
 |gexiv2|0.14.0|0.14.2|
 |gfm|1.07|1.08|
-|gh|2.49.0|2.49.2|
 |ghc|9.4.8|9.10.1-release|
 |ghex|42.3|46.0|
 |ghidra|11.0|11.0.3_build|
@@ -658,7 +655,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |git-lfs|3.5.0|3.5.1|
 |gitdb|4.0.10|4.0.11|
 |gitg|41|44|
-|gitoxide|0.34.0|0.35.0|
 |gitpython|3.1.35|3.1.43|
 |gitui|0.25.0|0.26.1|
 |gjs|1.74.0|1.80.2|
@@ -912,7 +908,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |intel-gmmlib|22.3.18|22.3.19|
 |intel-graphics-compiler|1.0.16510.2|1.0.16900.3|
 |intel-media-driver|24.1.5|24.2.2|
-|intel-ucode|20221108|20240514|
 |inxi|3.3.31<br>+2|3.3.31-2|Compound version number '3.3.31+2'|
 |iodine|0.7.0|0.8.0|
 |iosevka-fonts|28.0.5|30.0.1|
@@ -1743,7 +1738,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mdadm|4.2|4.3|
 |mdbook|0.4.14|0.4.37|
 |mdds|2.0.2|2.1.1|
-|mechanize|0.4.5|0.4.10|
 |mediainfo|22.06|24.04|
 |meld|3.21.3|3.22.2|
 |melonds|0.9.2|0.9.5|
