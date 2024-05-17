@@ -183,7 +183,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |borgbackup|1.1.17|1.2.8|
 |botan|1.10.17|3.4.0|
 |botan-2|2.12.1|3.4.0|
-|boto3|1.20.26|1.34.107|
+|boto3|1.20.26|1.34.108|
 |bottle|0.12.18|0.12.25|
 |bottles|2022.2.28<br>+trento<br>+4|51.11|Compound version number '2022.2.28+trento+4'<br>Possible downgrade from the current version (2022.2.28+trento+4   51.11)|
 |bovo|23.08.5|24.02.2|
@@ -377,7 +377,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |deja-dup|42.9|45.2|
 |dejavu-fonts|2.37|2_37|
 |deluge|2.1.1|2.0.5|Possible downgrade from the current version (2.1.1   2.0.5)|
-|deno|1.31.3|1.43.3|
+|deno|1.31.3|1.43.4|
 |dephell-specifier|0.2.2|0.3.0|
 |deploykit-backend|0.1.1|0.1.0|Possible downgrade from the current version (0.1.1   0.1.0)|
 |deploykit-gui|0.2.1|test-ci|Versions not comparable: `0.2.1` and `test-ci`|
@@ -670,6 +670,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |glu+32|9.0.1|9.0.3|
 |gmic|3.2.6|3.3.6|
 |gmime-3|3.2.7|3.2.14|
+|gmp+32|6.1.2|6.3.0|
 |gnome-applets|3.44.0|3.52.0|
 |gnome-autoar|0.4.3|0.4.4|
 |gnome-backgrounds|42.0|46.0|
@@ -683,6 +684,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-clocks|42.0|46.0|
 |gnome-color-manager|3.36.0|3_36_0|
 |gnome-connections|42.1.2|46.0|
+|gnome-contacts|42.0|46.0|
 |gnome-control-center|42.3|46.1|
 |gnome-desktop|42.4|44.0|
 |gnome-disk-utility|42.0|46.0|
@@ -940,6 +942,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |jmol|14.30.0|16.2.15|
 |john|1.8.0|1.9.0|
 |josepy|1.13.0|1.14.0|
+|jq|1.6|1.7.1|
 |json-c|0.16|0.17|
 |json-c+32|0.13.1<br>+20180305|0.17|Compound version number '0.13.1+20180305'|
 |json-glib|1.6.6|1.8.0-actual|
@@ -1211,6 +1214,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |krecorder|23.08.5|24.02.2|
 |krename-trinity|14.1.0|14.1.2|
 |kreversi|23.08.5|24.02.2|
+|krfb|23.08.5|24.02.2|
 |kross|5.115.0|6.0.4|
 |kruler|23.08.5|24.02.2|
 |krunner|5.115.0|6.0.4|
@@ -1490,6 +1494,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libpeas|1.32.0|2.0.2|
 |libpfm|4.12.0|4.13.0|
 |libphonenumber|8.12.17|8.13.37|
+|libpinyin|2.6.0|2.8.1|
 |libpipeline|1.5.3|1.5.7|
 |libplist|2.3.0|2.6.0|
 |libpng|1.6.42|1.6.43|
@@ -2667,6 +2672,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sqlite|3.45.1|3.45.3|
 |sqlite+32|3.32.3|3.45.3|
 |sqlite-fdw|2.1.0|2.4.0|
+|sqlitebrowser|3.12.1|83649a3-3357|
 |sqlmap|1.8.2|1.8.5|
 |sqlparse|0.4.1|0.5.0|
 |squashfs-tools|4.5|4.6.1|
