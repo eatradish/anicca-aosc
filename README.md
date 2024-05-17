@@ -104,7 +104,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ast-grep|0.22.2|0.22.3|
 |astroid|2.12.2|3.2.1|
 |astrometry.net|0.94|0.95|
-|astyle|3.4.14|3.4.15|
+|astyle|3.4.14|3.4.16|
 |at-spi2-atk+32|2.26.3|2.38.0|
 |at-spi2-core+32|2.26.3|2.52.0|
 |atk+32|2.26.1|2.38.0|
@@ -2688,7 +2688,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ss-tproxy|4.6.1|4.8|
 |sshfs|3.6.0|3.7.3|
 |sshpass|1.06|1.10|
-|sslh|1.19c|2.1.1|
+|sslh|1.19c|2.1.2|
+|sssd|2.9.4|2.9.5|
 |stalonetray|0.8.4|0.8.5|
 |stellarium|0.21.3|24.1|
 |step|23.08.5|24.02.2|
