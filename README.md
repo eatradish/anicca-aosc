@@ -74,7 +74,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |apr-util|1.6.1|1.6.3|
 |apsw|3.30.1|3.45.3.0|
 |apt|2.6.1|2.7.14|
-|apt-fast|1.9.11|1.11.0|
 |aqbanking|6.2.2|6.5.4|
 |arandr|0.1.10|0.1.11|
 |aranym|1.1.0|1_1_0|
@@ -86,7 +85,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |argyllcms|3.1.0|3.2.0|
 |arianna|23.08.5|24.02.2|
 |ark|23.08.5|24.02.2|
-|arp-scan|1.9.8|1.10.0|
 |arpack-ng|3.8.0|3.9.1|
 |arpwatch|2.1a15|3.6|
 |arrow|1.0.3|1.3.0|
@@ -102,7 +100,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |aspnetcore-runtime-8.0|8.0.4|8.0.5|
 |aspnetcore-targeting-pack-6.0|6.0.0|6.0.30|
 |aspnetcore-targeting-pack-8.0|8.0.4|8.0.5|
-|assimp|5.3.1|5.4.1|
+|assimp|5.4.0|5.4.1|
 |ast-grep|0.22.2|0.22.3|
 |astroid|2.12.2|3.2.0|
 |astrometry.net|0.94|0.95|
@@ -902,7 +900,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |inotify-tools|3.21.9.6|4.23.9.0|
 |intel-compute-runtime|24.13.29138.7|24.17.29377.8|
 |intel-gmmlib|22.3.18|22.3.19|
-|intel-graphics-compiler|1.0.16510.2|1.0.16900.3|
+|intel-graphics-compiler|1.0.16695.4|1.0.16900.3|
 |intel-media-driver|24.1.5|24.2.2|
 |inxi|3.3.31<br>+2|3.3.31-2|Compound version number '3.3.31+2'|
 |iodine|0.7.0|0.8.0|
@@ -1182,7 +1180,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |konsole|23.08.5|24.02.2|
 |kontact|23.08.5|24.02.2|
 |kontactinterface|23.08.5|24.02.2|
-|kontrast|23.08.5|24.02.2|
 |konversation|23.08.5|24.02.2|
 |konversation-trinity|14.1.0|14.1.2|
 |kooldock-trinity|14.1.0|14.1.2|
@@ -2859,7 +2856,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tre|20161208|0.8.0|Possible downgrade from the current version (20161208   0.8.0)|
 |trio|0.24.0|0.25.1|
 |trollius|2.1|2.2.1|
-|trove-classifiers|2024.1.31|2024.4.10|
+|trove-classifiers|2024.1.31|2024.5.17|
 |tslib|1.21|1.23|
 |ttf-misaki|2021.05.05|2021-05-05|
 |ttf-tibetan-machine-unicode|1.901b|1.901|
