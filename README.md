@@ -172,6 +172,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |blinken|23.08.5|24.02.2|
 |blinker|1.4|1.8.2|
 |bluedevil|5.27.11|6.0.4|
+|bluez|5.75|5.76|
 |bluez-alsa|3.0.0|4.2.0|
 |bluez-qt|5.115.0|6.0.4|
 |boinc|7.24.3|8.0/8.0.1|
@@ -305,7 +306,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |configshell-fb|1.1.28|1.1.30|
 |confuse|3.2.2|3.3|
 |conky|1.10.8|1.21.0|
-|conmon|2.1.10|2.1.11|
+|conmon|2.1.10|2.1.12|
 |constantly|15.1.0|23.10.4|
 |construct|2.9.45|2.10.70|
 |containerd|1.7.13|1.7.16|
