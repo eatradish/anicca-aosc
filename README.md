@@ -636,8 +636,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ghc|9.4.8|9.10.1-release|
 |ghex|42.3|46.0|
 |ghidra|11.0|11.0.3_build|
-|ghostscript|9.54.0|10.03.0|
-|ghostscript+32|9.27|10.03.0|
+|ghostscript|9.54.0|10.03.1|
+|ghostscript+32|9.27|10.03.1|
 |ghostwriter|23.08.5|24.02.2|
 |giac|1.9.0<br>+93|1.9.0|Compound version number '1.9.0+93'<br>Possible downgrade from the current version (1.9.0+93   1.9.0)|
 |giflib|5.1.8|5.2.2|
