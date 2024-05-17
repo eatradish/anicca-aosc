@@ -286,6 +286,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cmark|0.30.3|0.31.0|
 |cmus|2.9.1|2.10.0|
 |cock|0.6.0|0.11.0|
+|cockpit|286.1|316|
 |cockpit-machines|284.1|312|
 |cockpit-podman|63|87|
 |code-server|4.9.1|4.89.1|
@@ -308,7 +309,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |conmon|2.1.10|2.1.12|
 |constantly|15.1.0|23.10.4|
 |construct|2.9.45|2.10.70|
-|containerd|1.7.13|1.7.16|
+|containerd|1.7.13|1.7.17|
 |containers-common|0.57.0<br>+image5.29.0<br>+shortnames2023.02.20<br>+skopeo1.14.0<br>+storage1.51.0|1.0.1|Compound version number '0.57.0+image5.29.0+shortnames2023.02.20+skopeo1.14.0+storage1.51.0'|
 |convertall|0.7.5|1.0.1|
 |coreboot-utils|4.15|24.05|
@@ -397,7 +398,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |digikam-trinity|14.1.0|14.1.2|
 |ding-libs|0.6.1|0.6.2|
 |discover|5.27.11|6.0.4|
-|distcc|3.3.5|3.4|
 |distlib|0.3.1|0.3.8|
 |distorm|3.5.1|3.5.2b|
 |distro|1.6.0|1.9.0|
@@ -1357,7 +1357,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libe-book|0.1.2|0.1.3|
 |libebml|1.4.0|1.4.5|
 |libeconf|0.5.0|0.6.3|
-|libedit|20191231<br>+3.1|20230828-3.1|Compound version number '20191231+3.1'|
+|libedit|20191231<br>+3.1|20240517-3.1|Compound version number '20191231+3.1'|
 |libepoxy+32|1.2|1.5.10|
 |libepubgen|0.1.0|0.1.1|
 |libertine-fonts|8.0.2|8.1.2|
@@ -1554,7 +1554,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libthai|0.1.28|0.1.29|
 |libticables2|1.3.4|1.3.5|
 |libticalcs2|1.1.8|1.1.9|
-|libticonv|1.1.4|1.1.5|
 |libtiff|4.4.0|4.6.0|
 |libtiff+32|4.0.10|4.6.0|
 |libtifiles2|1.1.6|1.1.7|
@@ -2952,7 +2951,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |volk-meta-loader|1.3.280.0|1.3.283.0|
 |vorbis-tools|1.4.0|1.4.2|
 |vpnc|0.5.3r550|0.5.3|
-|vrms|1.27|1.33|
+|vrms|1.27|1.34|
 |vsftpd|3.0.3|3.0.5|
 |vte|0.68.0|0.76.1|
 |vulkan-extensionlayer|1.3.280.0|1.3.285|
