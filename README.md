@@ -1167,6 +1167,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kolf|23.08.5|24.02.2|
 |kollision|23.08.5|24.02.2|
 |kolourpaint|23.08.5|24.02.2|
+|kompare|23.08.5|24.02.2|
 |kompose-trinity|14.1.0|14.1.2|
 |kongress|23.08.5|24.02.2|
 |konqueror|23.08.5|24.02.2|
@@ -1873,6 +1874,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nsgenbind|0.8|0.9|
 |nspr+32|4.24|4.35|
 |nss|3.99|3.100|
+|nss+32|3.78|3.100|
 |nss-mdns|0.14.1|0.15.1|
 |nufraw|0.43<br>+3|0.42|Compound version number '0.43+3'<br>Possible downgrade from the current version (0.43+3   0.42)|
 |nuget|4.9.4|6.6.1.2.bin|
@@ -1937,7 +1939,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |openjpeg-legacy+32|1.5.2|2.5.2|
 |openldap|2.6.7|2_6_7|
 |openldap+32|2.4.59|2_6_7|
-|openmpi|4.1.6|5.0.3|
 |openmpt|0.6.4|0.7.7|
 |openpgl|0.5.0|0.6.0|
 |openpyxl|2.6.0|3.1.2|
@@ -2012,6 +2013,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pciutils|3.9.0|3.12.0|
 |pcl|1.13.1|1.12|Possible downgrade from the current version (1.13.1   1.12)|
 |pcmanfm|1.3.1|1.3.2|
+|pcp|6.0.1|6.2.2|
 |pcre|8.44|8.45|
 |pcre+32|8.44|8.45|
 |pcre-static|8.44|8.45|
@@ -2057,6 +2059,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-datetime-format-strptime|1.77|1.79|
 |perl-datetime-locale|1.26|1.42|
 |perl-datetime-timezone|2.39|2.62|
+|perl-dbd-mysql|4.050|5.005|
 |perl-dbd-sqlite|1.63<br>+03|1.74|Compound version number '1.63+03'|
 |perl-dbi|1.642|1.643|
 |perl-devel-checklib|1.13|1.16|
@@ -2866,6 +2869,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |txtorcon|19.1.0|23.11.0|
 |typed-ast|1.4.3|1.5.5|
 |typing-extensions|4.7.1|4.12.0a2|
+|typst|0.11.0|0.11.1|
 |tzdata|2023d|2024a|
 |uboot-asahi|2023.07.02<br>+3|2024.04-1|Compound version number '2023.07.02+3'|
 |uboot-tools|2022.10|2024.04|
@@ -2930,7 +2934,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vice|3.5|3.8|
 |vicious|2.3.3|2.7.0|
 |vid.stab|0.98b|1.1.1|
-|vim|9.1.0393|9.1.0414|
+|vim|9.1.0393|9.1.0418|
 |virglrenderer|0.10.4|1.0.1|
 |virtualenv|20.25.0|20.26.2|
 |virtualgl+32|2.5.2|3.1.1|
