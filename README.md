@@ -1939,6 +1939,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |openjpeg-legacy+32|1.5.2|2.5.2|
 |openldap|2.6.7|2_6_7|
 |openldap+32|2.4.59|2_6_7|
+|openmpi|4.1.6|5.0.3|
 |openmpt|0.6.4|0.7.7|
 |openpgl|0.5.0|0.6.0|
 |openpyxl|2.6.0|3.1.2|
