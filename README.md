@@ -582,6 +582,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |functools32|3.2.3<br>+2|3.2.3-2|Compound version number '3.2.3+2'|
 |fuse-exfat|1.3.0|1.4.0|
 |fuse-python|0.3.1|1.0.7|
+|future|0.17.0|1.0.0|
 |futures|3.2.0|3.4.0|
 |fvwm|2.6.9|2.7.0|
 |fwupd|1.9.13|1.9.19|
@@ -647,7 +648,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gitdb|4.0.10|4.0.11|
 |gitg|41|44|
 |gitpython|3.1.35|3.1.43|
-|gitui|0.25.0|0.26.1|
+|gitui|0.25.0|0.26.2|
 |gjs|1.74.0|1.80.2|
 |gksu|2.0.2|2.0.12|
 |glances|3.4.0.2|4.0.4|
@@ -1788,6 +1789,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mpg123+32|1.25.13|1.32.6|
 |mplayer|1.4|1.5|
 |mplayerthumbs-trinity|14.1.0|14.1.2|
+|mpmath|1.1.0|1.4.0a1|
 |mpv|0.37.0|0.38.0|
 |mpvpaper|1.4|1.6|
 |ms-sys|2.6.0|2.8.0|
@@ -2501,7 +2503,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rpcsvc-proto|1.4.2|1.4.4|
 |rpm|4.18.0|4.19.1.1-release|
 |rrdtool|1.7.2|1.8.0|
-|rsa|4.0|4.9|
 |rsync|3.2.7|3.3.0|
 |rt-tests|2.6|2.7|
 |rtaudio|5.1.0|6.0.1|
@@ -2716,7 +2717,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |swig|4.1.1|4.2.1|
 |synaptic|0.90.2|0.91.3|
 |syncthing|1.27.3|1.27.7|
-|syncthing-gtk|0.9.4.4|0.9.4.5|
 |syndication|5.115.0|6.0.4|
 |synergy|1.11.1|2.3.2|
 |syntax-highlighting|5.115.0|6.0.4|
