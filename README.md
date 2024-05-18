@@ -582,7 +582,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |functools32|3.2.3<br>+2|3.2.3-2|Compound version number '3.2.3+2'|
 |fuse-exfat|1.3.0|1.4.0|
 |fuse-python|0.3.1|1.0.7|
-|future|0.17.0|1.0.0|
 |futures|3.2.0|3.4.0|
 |fvwm|2.6.9|2.7.0|
 |fwupd|1.9.13|1.9.19|
@@ -615,6 +614,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gdb+cross-mips64r6el|12.1|14.2|
 |gdbm+32|1.11|1.23|
 |gdk-pixbuf|2.42.8|2.42.12|
+|gdk-pixbuf+32|2.38.2|2.42.12|
 |gdm|42.0|46.0|
 |gdome2|0.8.1<br>+debian|0.8.1|Compound version number '0.8.1+debian'|
 |geany|2.0|2.0.0|
@@ -1166,6 +1166,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kodi-pvr-iptvsimple|19.2.2|21.8.4-Omega|
 |koffice-trinity|14.1.0|14.1.2|
 |koko|23.08.5|24.02.2|
+|kolf|23.08.5|24.02.2|
 |kollision|23.08.5|24.02.2|
 |kolourpaint|23.08.5|24.02.2|
 |kompare|23.08.5|24.02.2|
@@ -1726,7 +1727,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mccabe|0.6.1|0.7.0|
 |mcomix|1.2.1|3.1.0|
 |mdadm|4.2|4.3|
-|mdbook|0.4.14|0.4.37|
+|mdbook|0.4.14|0.4.40|
 |mdds|2.0.2|2.1.1|
 |mechanize|0.4.5|0.4.10|
 |mediainfo|22.06|24.04|
@@ -1787,7 +1788,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mpg123+32|1.25.13|1.32.6|
 |mplayer|1.4|1.5|
 |mplayerthumbs-trinity|14.1.0|14.1.2|
-|mpmath|1.1.0|1.4.0a1|
 |mpv|0.37.0|0.38.0|
 |mpvpaper|1.4|1.6|
 |ms-sys|2.6.0|2.8.0|
@@ -2557,6 +2557,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sdl-ttf+32|2.0.11|2.22.0|
 |sdl2|2.24.2|2.30.3|
 |sdl2-image|2.0.5|2.8.2|
+|sdl2-mixer|2.0.4|2.8.0|
 |sdl2-net|2.0.1|2.2.0|
 |sdl2-ttf|2.0.15|2.22.0|
 |seahorse|42.0|43.0|
@@ -2730,6 +2731,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |taglib+32|1.11|2.0.1|
 |tagparser|11.5.1|12.1.0|
 |tailscale|1.64.2|1.66.3|
+|taisei|1.3.2|1.4.1|
 |tali|40.8|40.9|
 |talloc|2.3.4|2.4.2|
 |targetcli-fb|2.1.54|2.1.58|
