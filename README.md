@@ -12,6 +12,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |abakus-trinity|14.1.0|14.1.2|
 |abseil-cpp|20220623.1|20240116.2|
 |abyss|2.1.5|2.3.7|
+|acbs|20240510.2|20240519|
 |acccheck|0.2.1|0-2-1|
 |accerciser|3.40.0|3.42.0|
 |accountsservice|22.08.8|23.13.9|
@@ -227,6 +228,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |catch2|2.13.8|3.6.0|
 |cbm|0.2|0.3.2|
 |ccid|1.5.1|1.5.5|
+|ccls|0.20220729|0.20240202|
 |cddlib|0.94j|0.94m|
 |cdecl|20161129|2.5|Possible downgrade from the current version (20161129   2.5)|
 |cdemu-client|3.2.4|3.2.5|
@@ -2342,7 +2344,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pylast|3.0.0|5.2.0|
 |pylev|1.3.0|1.4.0|
 |pylibacl|0.5.4|0.7.0|
-|pylint|2.14.4|3.2.0|
+|pylint|2.14.4|3.2.1|
 |pymarkups|3.0.0|4.0.0|
 |pymediainfo|5.0.3|6.1.0|
 |pymysql|0.9.3|1.1.0|
