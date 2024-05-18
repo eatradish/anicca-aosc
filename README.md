@@ -2331,6 +2331,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pyelftools|0.30|0.31|
 |pyenchant|2.0.0|3.2.2|
 |pygccxml|2.1.0|2.5.0|
+|pygit2|1.14.1|1.15.0|
 |pyglet|1.3.2|2.0.15|
 |pygments|2.10.0|2.18.0|
 |pygobject-3|3.42.2|3.48.2|
@@ -2421,7 +2422,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qmlkonsole|23.08.5|24.02.2|
 |qmltermwidget|0.2.0<br>+git20220109|0.6.0|Compound version number '0.2.0+git20220109'<br>Version number indicates a snapshot (+git) is used|
 |qmmp|1.6.5|2.1.8|
-|qownnotes|22.6.1|24.5.2|
+|qownnotes|22.6.1|24.5.4|
 |qqc2-desktop-style|5.115.0|6.0.4|
 |qrencode|4.0.2|4.1.1|
 |qscintilla|2.13.1|2.14.1|
