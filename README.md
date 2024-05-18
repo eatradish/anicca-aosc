@@ -1119,6 +1119,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kiten|23.08.5|24.02.2|
 |kitinerary|23.08.5|24.02.2|
 |kitty|0.26.4|0.34.1|
+|kiwisolver|1.0.1|1.4.5|
 |kjobwidgets|5.115.0|6.0.4|
 |kjournald|23.08.5|24.02.2|
 |kjs|5.115.0|6.0.4|
@@ -2528,6 +2529,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rustc-demangle|0.1.21|0.1.24|
 |rxvt-unicode|9.22|9.31|
 |rygel|0.40.4|0.42.6|
+|s-tui|1.1.3|1.1.6|
 |s2tc|1.0<br>+git20210317|1.0|Compound version number '1.0+git20210317'<br>Version number indicates a snapshot (+git) is used|
 |s2tc+32|20150112|1.0|Possible downgrade from the current version (20150112   1.0)|
 |s3transfer|0.5.0|0.10.1|
