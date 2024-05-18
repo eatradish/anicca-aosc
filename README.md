@@ -64,14 +64,11 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |aosc-community-wallpapers-extras-2024|2024.04.1|2024.04.0|Possible downgrade from the current version (2024.04.1   2024.04.0)|
 |aosc-media-writer|0.3.4|5.0.9|
 |aosc-xdg-menu|20200412|20160217|Possible downgrade from the current version (20200412   20160217)|
-|apache-maven|3.9.4|3.9.6|
 |apicula|0.9.1|0.12|
 |apparmor|3.0.8|3.1.7|
-|appres|1.0.5|1.0.6|
 |appstream|0.16.0|1.0.3|
 |appstream-glib|0.7.18|0_8_2|
 |apr|1.6.5|1.7.4|
-|apr-util|1.6.1|1.6.3|
 |apsw|3.30.1|3.45.3.0|
 |apt|2.6.1|2.7.14|
 |aqbanking|6.2.2|6.5.4|
