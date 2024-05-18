@@ -3,6 +3,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
 | Package | Repo Version | New Version | Issues |
 |---------|--------------|-------------|--------|
+|7-zip|23.01|24.05|
 |a2ps|4.14|4.15.6|
 |aalib|1.4rc5|1.2|Possible downgrade from the current version (1.4rc5   1.2)|
 |aalib+32|1.4rc5|1.2|Possible downgrade from the current version (1.4rc5   1.2)|
@@ -152,13 +153,13 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |bcachefs-tools|1.4.1|1.7.0|
 |bcftools|1.10.2|1.20|
 |bcrypt|3.1.7|4.1.3|
+|beaker|1.11.0|1.13.0|
 |beancount|2.2.1|2.3.6|
 |beautifulsoup4|4.10.0|4.12.3|
 |benchmark|1.8.2|1.8.3|
 |bibletime-trinity|14.1.0|14.1.2|
 |bigsh0t|2.5.1|2.7|
 |bind|9.18.24|9.16.33|Possible downgrade from the current version (9.18.24   9.16.33)|
-|binutils+32|2.38|2.42|
 |binutils+w64|2.34|2.42|
 |bird|2.14|2.15.1|
 |black-hole-solver|1.10.1|1.12.0|
@@ -350,7 +351,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |darkradiant|3.8.0|3.9.0|
 |dateutil|2.8.2|2.9.0.post0|
 |dav1d|1.4.0|1.4.1|
-|db+32|6.1.26|5.3.28|Possible downgrade from the current version (6.1.26   5.3.28)|
 |dblatex|0.3.12|1.0.97|
 |dbus+32|1.12.18|1.14.10|
 |dbus-1-tqt|14.1.0|14.1.2|
@@ -490,7 +490,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |exceptiongroup|1.2.0|1.2.1|
 |exempi|2.5.1|2.6.5|
 |exiv2|0.27.5|0.28.2|
-|expat+32|2.2.9|2.6.2|
 |extra-cmake-modules|5.115.0|6.0.4|
 |eyed3|0.9.5|0.9.7|
 |eza|0.11.0|0.10.1|Possible downgrade from the current version (0.11.0   0.10.1)|
@@ -593,7 +592,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gc|8.2.6|8.2.4|Possible downgrade from the current version (8.2.6   8.2.4)|
 |gcab|1.1|1.6|
 |gcc|13.2.0|14.1.0|
-|gcc+32|11.2.0|14.1.0|
+|gcc+32|13.2.0|14.1.0|
 |gcc+cross-amd64|9.3.1|14.1.0|
 |gcc+cross-arm64|12.2.0<br>+glibc2.36<br>+4|14.1.0|Compound version number '12.2.0+glibc2.36+4'|
 |gcc+cross-loongarch64|13.2.0<br>+glibc2.37<br>+1|14.1.0|Compound version number '13.2.0+glibc2.37+1'|
@@ -653,7 +652,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |glib+32|2.62.6|2.80.2|
 |glib-networking|2.72.2|2.80.0|
 |glibc|2.38|2.39|
-|glibc+32|2.34|2.39|
+|glibc+32|2.38|2.39|
 |glibmm|2.66.2|2.80.0|
 |glibmm-2.68|2.78.0|2.80.0|
 |glm|0.9.9.8|1.0.1|
@@ -664,7 +663,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |glu+32|9.0.1|9.0.3|
 |gmic|3.2.6|3.3.6|
 |gmime-3|3.2.7|3.2.14|
-|gmp+32|6.1.2|6.3.0|
 |gnome-applets|3.44.0|3.52.0|
 |gnome-autoar|0.4.3|0.4.4|
 |gnome-backgrounds|42.0|46.0|
@@ -728,7 +726,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |google-auth-httplib2|0.0.4|0.2.0|
 |google-chrome|124.0.6367.118|125.0.6422.60|
 |goverlay|1.0|1.1.1|
-|gpac|2.2.1|2.4.0|
 |gperftools|2.13|2.15|
 |gpodder|3.10.17|3.11.4|
 |gpsd|3.18.1|3.25|
@@ -1625,6 +1622,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lincity-ng|2.9.0|2.0|Possible downgrade from the current version (2.9.0   2.0)|
 |link-grammar|5.10.1|5.99.42|
 |linux+api|6.7.12|5.19.17|Possible downgrade from the current version (6.7.12   5.19.17)|
+|linux+api+32|6.7.12|5.19.17|Possible downgrade from the current version (6.7.12   5.19.17)|
 |linux+kernel|6.9.0|5.19.17|Possible downgrade from the current version (6.9.0   5.19.17)|
 |linux+kernel+asahi|6.5.11|5.19.17|Possible downgrade from the current version (6.5.11   5.19.17)|
 |linux+kernel+lts|6.6.17|5.10.217|Possible downgrade from the current version (6.6.17   5.10.217)|
@@ -1780,8 +1778,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mp3gain|1.6.2|1_6_2|
 |mp4v2|4.1.3|2.1.3|Possible downgrade from the current version (4.1.3   2.1.3)|
 |mp4v2+32|2.0.0|2.1.3|
-|mpc+32|1.0.3|1.3.1|
-|mpfr+32|3.1.4|4.2.1|
 |mpg123|1.25.13|1.32.6|
 |mpg123+32|1.25.13|1.32.6|
 |mplayer|1.4|1.5|
@@ -1823,7 +1819,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ncbi-vdb|3.0.2|3.1.0|
 |ncdu|1.16|2.4|
 |ncompress|4.2.4.6|5.0|
-|ncurses+32|6.0|6.4|
 |ndctl|72|79|
 |neatvnc|0.7.1|0.8.0|
 |nemo|5.8.3|6.0.2|
@@ -2157,6 +2152,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-path-tiny|0.108|0.146|
 |perl-pod-parser|1.63|1.67|
 |perl-proc-processtable|0.56|0.636|
+|perl-role-tiny|2.001004|2.002004|
 |perl-specio|0.46|0.48|
 |perl-string-util|1.31|1.34|
 |perl-sub-install|0.928|0.929|
@@ -2456,7 +2452,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |re2|20190901|2024-05-01|Possible downgrade from the current version (20190901   2024-05-01)|
 |re2c|1.3|3.1|
 |readline|8.2.1|8.2|Possible downgrade from the current version (8.2.1   8.2)|
-|readline+32|6.3.008|8.2|
+|readline+32|8.2.1|8.2|Possible downgrade from the current version (8.2.1   8.2)|
 |realmd|0.17.1|0.16.3|Possible downgrade from the current version (0.17.1   0.16.3)|
 |recode|3.7.7|3.7.14|
 |recode+32|3.6|3.7.14|
@@ -3056,7 +3052,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xwayland|23.2.6|24.1.0|
 |xxhash|0.8.1|0.8.2|
 |xz|5.4.1|5.6.1|
-|xz+32|5.2.5|5.6.1|
+|xz+32|5.4.1|5.6.1|
 |yad|0.40.0|13.0|
 |yakuake|23.08.5|24.02.2|
 |yakuake-trinity|14.1.0|14.1.2|
@@ -3092,7 +3088,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |zimg|3.0.2|3.0.5|
 |zita-alsa-pcmi|0.3.2|0.6.1|
 |zita-resampler|1.8.0|1.11.2|
-|zlib+32|1.2.11|1.3.1|
 |zlib-static|1.2.12|1.3.1|
 |zmusic|1.1.8|1.1.13|
 |znc|1.8.2|1.9.0|
