@@ -1973,7 +1973,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |osdlyrics|20190407|0.5.15|Possible downgrade from the current version (20190407   0.5.15)|
 |osinfo-db|20230719|20240510|
 |osinfo-db-tools|1.10.0|1.11.0|
-|ostree|2023.1|2024.5|
+|ostree|2023.1|2024.6|
 |owntone|28.6|28.9|
 |oxygen|5.27.11|6.0.4|
 |oxygen-icons|5.115.0|6.0.4|
