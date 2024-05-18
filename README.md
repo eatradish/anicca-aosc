@@ -1283,7 +1283,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ladish|20200418|1.2|Possible downgrade from the current version (20200418   1.2)|
 |lash|0.6.0~rc2|0.5.4|Possible downgrade from the current version (0.6.0~rc2   0.5.4)|
 |layer-shell-qt|5.27.11|6.0.4|
-|lazarus|3.2|2.2.6-0|Possible downgrade from the current version (3.2   2.2.6-0)|
 |lazy-object-proxy|1.7.1|1.10.0|
 |lcms2|2.14|2.16|
 |lcms2+32|2.9|2.16|
@@ -2503,6 +2502,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rpcsvc-proto|1.4.2|1.4.4|
 |rpm|4.18.0|4.19.1.1-release|
 |rrdtool|1.7.2|1.8.0|
+|rsa|4.0|4.9|
 |rsync|3.2.7|3.3.0|
 |rt-tests|2.6|2.7|
 |rtaudio|5.1.0|6.0.1|
@@ -2717,6 +2717,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |swig|4.1.1|4.2.1|
 |synaptic|0.90.2|0.91.3|
 |syncthing|1.27.3|1.27.7|
+|syncthing-gtk|0.9.4.4|0.9.4.5|
 |syndication|5.115.0|6.0.4|
 |synergy|1.11.1|2.3.2|
 |syntax-highlighting|5.115.0|6.0.4|
@@ -3084,7 +3085,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |zathura-pdf-poppler|0.3.1|0.3.2|
 |zbar|0.23.90|0.23.93|
 |zeitgeist|1.0.3|1.0.4|
-|zellij|0.39.2|0.40.1|
 |zenity|3.42.1|4.0.1|
 |zeroconf|0.28.6|0.132.2|
 |zeromq|4.3.4|4.3.5|
