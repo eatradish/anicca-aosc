@@ -281,7 +281,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |clucene|2.3.3.4<br>+git20130812|2.3.3.4|Compound version number '2.3.3.4+git20130812'<br>Version number indicates a snapshot (+git) is used|
 |clzip|1.10|1.14|
 |cmark|0.30.3|0.31.0|
-|cmus|2.9.1|2.10.0|
 |cock|0.6.0|0.11.0|
 |cockpit|286.1|316|
 |cockpit-machines|284.1|312|
@@ -800,7 +799,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gvfs|1.50.2|1.54.0|
 |gwc|0.21<br>+19|0.22-06|Compound version number '0.21+19'|
 |gwenhywfar|5.4.0|5.10.2|
-|gwenview|23.08.5|24.02.2|
 |gwenview-trinity|14.1.0|14.1.2|
 |gzdoom|4.6.1|4.12.2|
 |gzip|1.12|1.13|
@@ -2069,7 +2067,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-dbi|1.642|1.643|
 |perl-devel-checklib|1.13|1.16|
 |perl-devel-stacktrace|2.04|2.05|
-|perl-devel-symdump|2.0604|2.18|Possible downgrade from the current version (2.0604   2.18)|
 |perl-digest-hmac|1.03|1.04|
 |perl-email-abstract|3.008|3.010|
 |perl-email-address|1.912|1.913|
@@ -2989,7 +2986,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |wildmidi+32|0.4.3|0.4.6|
 |wimlib|1.13.6|1.14.4|
 |windowmaker|0.95.9<br>+git20220812|0.96.0|Compound version number '0.95.9+git20220812'<br>Version number indicates a snapshot (+git) is used|
-|wine|9.8<br>+gecko2.47.4<br>+mono9.1.0|9.8|Compound version number '9.8+gecko2.47.4+mono9.1.0'|
+|wine|9.8<br>+gecko2.47.4<br>+mono9.1.0|9.9|Compound version number '9.8+gecko2.47.4+mono9.1.0'|
 |wireguard|1|0.0.20191219|Possible downgrade from the current version (1   0.0.20191219)|
 |wireguard-tools|1.0.20200827|1.0.20210914|
 |wireless-regdb|2022.08.12|2024.05.08|
