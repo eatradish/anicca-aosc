@@ -92,7 +92,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |arts|14.1.0|14.1.2|
 |asahi-common|20231113|20231113-aosc|Possible downgrade from the current version (20231113   20231113-aosc)|
 |asahi-fwextract|0.6.21|0.7.5|
-|asciidoctor|2.0.12|2.0.22|
+|asciidoctor|2.0.12|2.0.23|
 |asio|1.18.1|1.30.2|
 |asn1crypto|1.2.0|1.5.1|
 |aspell|0.60.8|0.60.8.1|
@@ -755,7 +755,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |grilo-plugins|0.3.15|0.3.16|
 |gringo|5.4.1|5.7.1|
 |groff|1.22.4|1.23.0|
-|grpc|1.46.2|1.63.0|
+|grpc|1.46.2|1.64.0|
 |grsync|1.2.8|1.3.1|
 |grub|2.12<br>+unifont15.1.04|2.12|Compound version number '2.12+unifont15.1.04'|
 |grub-customizer|5.2.4|5.2.5|
@@ -1119,7 +1119,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kiten|23.08.5|24.02.2|
 |kitinerary|23.08.5|24.02.2|
 |kitty|0.26.4|0.34.1|
-|kiwisolver|1.0.1|1.4.5|
 |kjobwidgets|5.115.0|6.0.4|
 |kjournald|23.08.5|24.02.2|
 |kjs|5.115.0|6.0.4|
@@ -2529,7 +2528,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rustc-demangle|0.1.21|0.1.24|
 |rxvt-unicode|9.22|9.31|
 |rygel|0.40.4|0.42.6|
-|s-tui|1.1.3|1.1.6|
 |s2tc|1.0<br>+git20210317|1.0|Compound version number '1.0+git20210317'<br>Version number indicates a snapshot (+git) is used|
 |s2tc+32|20150112|1.0|Possible downgrade from the current version (20150112   1.0)|
 |s3transfer|0.5.0|0.10.1|
