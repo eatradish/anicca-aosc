@@ -533,7 +533,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |findlib|1.9.5|1.9.6|
 |fio|3.35|3.37|
 |firefox|125.0.3|126.0|
-|firehol|3.1.6|3.1.7|
 |firewalld|2.0.0|2.1.2|
 |flac|1.3.3|1.4.3|
 |flac+32|1.3.3|1.4.3|
@@ -912,7 +911,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ipython|7.28.0|8.24.0|
 |irrlicht|1.8.4|1.8.5|
 |irssi|1.2.3|1.4.5|
-|iso-codes|4.4|4.16.0|
 |isomd5sum|1.2.3|1.2.4|
 |isort|4.3.21|5.13.2|
 |ispc|1.22.0|1.23.0|
@@ -2440,6 +2438,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |quickjs|2024.01.13|2024-01-13|
 |qwt5|6.1.5|6.3.0|
 |qzdl|3.2.2.3<br>+git20210516|3.2.2.3|Compound version number '3.2.2.3+git20210516'<br>Version number indicates a snapshot (+git) is used|
+|racket|8.12|8.13|
 |ragel|6.10|7.0.4|
 |random2|1.0.1|1.0.2|
 |rapidfuzz|3.2.0|3.1.1|Possible downgrade from the current version (3.2.0   3.1.1)|
@@ -2765,7 +2764,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tdeio-apt|14.1.0|14.1.2|
 |tdeio-ftps|14.1.0|14.1.2|
 |tdeio-locate|14.1.0|14.1.2|
-|tdeio-sword|14.1.0|14.1.2|
 |tdeio-umountwrapper|14.1.0|14.1.2|
 |tdelibs|14.1.0|14.1.2|
 |tdemultimedia|14.1.0|14.1.2|
