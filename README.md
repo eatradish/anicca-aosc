@@ -726,6 +726,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |google-auth-httplib2|0.0.4|0.2.0|
 |google-chrome|124.0.6367.118|125.0.6422.60|
 |goverlay|1.0|1.1.1|
+|gpac|2.2.1|2.4.0|
 |gperftools|2.13|2.15|
 |gpodder|3.10.17|3.11.4|
 |gpsd|3.18.1|3.25|
@@ -1762,7 +1763,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mlt|7.22.0|7.24.0|
 |mlterm|3.8.9|3.9.3|
 |mobile-broadband-provider-info|20190618|20240407|
-|mock|2.0.0|5.1.0|
 |modem-manager-gui|0.0.19.1|0.0.20|
 |modemmanager|1.18.12|1.22.0|
 |modemmanager-qt|5.115.0|6.0.4|
@@ -1900,7 +1900,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |okteta|0.26.9|0.26.15|
 |okular|23.08.5|24.02.2|
 |olefile|0.46|0.47|
-|oma|1.3.10|1.12.13|
+|oma|1.3.11|1.12.13|
 |onefetch|2.20.0|2.21.0|
 |onig|6.9.5<br>+rev1|6.9.9|Compound version number '6.9.5+rev1'|
 |oolite|1.90|1.91.0.7604-240417-a536cbe|
@@ -2415,7 +2415,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qcef|1.1.6|1.1.8|
 |qd|2.3.22|2.3.24|
 |qgnomeplatform|0.8.4|0.9.2|
-|qhull|7.2.0|8.0.2|
 |qjackctl|0.9.7|0.9.91|
 |qmlkonsole|23.08.5|24.02.2|
 |qmltermwidget|0.2.0<br>+git20220109|0.6.0|Compound version number '0.2.0+git20220109'<br>Version number indicates a snapshot (+git) is used|
@@ -2673,7 +2672,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |srain|1.5.1|1.7.0|
 |sratom|0.6.4|0.6.16|
 |srecord|1.64|1.65.0|
-|srtp|2.4.0|2.6.0|
 |srtp+32|1.5.4|2.6.0|
 |ss-tproxy|4.6.1|4.8|
 |sshfs|3.6.0|3.7.3|
@@ -2815,7 +2813,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |timezonemap|0.4.6|0.4.5.3|Possible downgrade from the current version (0.4.6   0.4.5.3)|
 |tint2|16.7|17.0.2|
 |tinycdb|0.78|0.81|
-|tinycss2|1.0.2|1.3.0|
 |tinyproxy|1.11.1|1.11.2|
 |tk|8.6.10|8.6.14|
 |tk+32|8.6.10|8.6.14|
