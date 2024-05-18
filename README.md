@@ -148,7 +148,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |baobab|42.0|46.0|
 |bash|5.2.26|5.2.21|Possible downgrade from the current version (5.2.26   5.2.21)|
 |bash-completion|2.13.0|2.14.0|
-|bash-git-status|0.2.2|0.1.0|Possible downgrade from the current version (0.2.2   0.1.0)|
+|bash-git-status|0.2.2|0.3.0|
 |basket-trinity|14.1.0|14.1.2|
 |bcachefs-tools|1.4.1|1.7.0|
 |bcftools|1.10.2|1.20|
@@ -281,6 +281,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |clucene|2.3.3.4<br>+git20130812|2.3.3.4|Compound version number '2.3.3.4+git20130812'<br>Version number indicates a snapshot (+git) is used|
 |clzip|1.10|1.14|
 |cmark|0.30.3|0.31.0|
+|cmus|2.9.1|2.10.0|
 |cock|0.6.0|0.11.0|
 |cockpit|286.1|316|
 |cockpit-machines|284.1|312|
@@ -614,7 +615,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gdb+cross-mips64r6el|12.1|14.2|
 |gdbm+32|1.11|1.23|
 |gdk-pixbuf|2.42.8|2.42.12|
-|gdk-pixbuf+32|2.38.2|2.42.12|
 |gdm|42.0|46.0|
 |gdome2|0.8.1<br>+debian|0.8.1|Compound version number '0.8.1+debian'|
 |geany|2.0|2.0.0|
@@ -799,6 +799,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gvfs|1.50.2|1.54.0|
 |gwc|0.21<br>+19|0.22-06|Compound version number '0.21+19'|
 |gwenhywfar|5.4.0|5.10.2|
+|gwenview|23.08.5|24.02.2|
 |gwenview-trinity|14.1.0|14.1.2|
 |gzdoom|4.6.1|4.12.2|
 |gzip|1.12|1.13|
@@ -1165,7 +1166,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kodi-pvr-iptvsimple|19.2.2|21.8.4-Omega|
 |koffice-trinity|14.1.0|14.1.2|
 |koko|23.08.5|24.02.2|
-|kolf|23.08.5|24.02.2|
 |kollision|23.08.5|24.02.2|
 |kolourpaint|23.08.5|24.02.2|
 |kompare|23.08.5|24.02.2|
@@ -1689,7 +1689,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lzlib|1.11|1.14|
 |m17n-db|1.8.0|1.8.5|
 |m17n-lib|1.8.0|1.8.4|
-|m1n1|1.4.6<br>+logo20231113.1|1.4.12|Compound version number '1.4.6+logo20231113.1'|
+|m1n1|1.4.6<br>+logo20231113.1|1.4.14|Compound version number '1.4.6+logo20231113.1'|
 |m2crypto|0.38.0|0.41.0|
 |m2r|0.2.1|0.3.1|
 |m3u8|0.7.1|5.0.0|
@@ -2067,6 +2067,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-dbi|1.642|1.643|
 |perl-devel-checklib|1.13|1.16|
 |perl-devel-stacktrace|2.04|2.05|
+|perl-devel-symdump|2.0604|2.18|Possible downgrade from the current version (2.0604   2.18)|
 |perl-digest-hmac|1.03|1.04|
 |perl-email-abstract|3.008|3.010|
 |perl-email-address|1.912|1.913|
@@ -2556,7 +2557,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sdl-ttf+32|2.0.11|2.22.0|
 |sdl2|2.24.2|2.30.3|
 |sdl2-image|2.0.5|2.8.2|
-|sdl2-mixer|2.0.4|2.8.0|
 |sdl2-net|2.0.1|2.2.0|
 |sdl2-ttf|2.0.15|2.22.0|
 |seahorse|42.0|43.0|
@@ -2709,6 +2709,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |superslicer|2.5.59.8|2.5.59.9|
 |sushi|42.0|46.0|
 |svgpart|23.08.5|24.02.2|
+|svt-av1|2.0.0|2.1.0|
 |sweeper|23.08.5|24.02.2|
 |swell-foop|41.1|46.0|
 |swig|4.1.1|4.2.1|
@@ -2729,7 +2730,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |taglib+32|1.11|2.0.1|
 |tagparser|11.5.1|12.1.0|
 |tailscale|1.64.2|1.66.3|
-|taisei|1.3.2|1.4.1|
 |tali|40.8|40.9|
 |talloc|2.3.4|2.4.2|
 |targetcli-fb|2.1.54|2.1.58|
