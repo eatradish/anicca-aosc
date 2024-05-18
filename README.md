@@ -3,7 +3,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
 | Package | Repo Version | New Version | Issues |
 |---------|--------------|-------------|--------|
-|7-zip|23.01|24.05|
 |a2ps|4.14|4.15.6|
 |aalib|1.4rc5|1.2|Possible downgrade from the current version (1.4rc5   1.2)|
 |aalib+32|1.4rc5|1.2|Possible downgrade from the current version (1.4rc5   1.2)|
@@ -153,7 +152,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |bcachefs-tools|1.4.1|1.7.0|
 |bcftools|1.10.2|1.20|
 |bcrypt|3.1.7|4.1.3|
-|beaker|1.11.0|1.13.0|
 |beancount|2.2.1|2.3.6|
 |beautifulsoup4|4.10.0|4.12.3|
 |benchmark|1.8.2|1.8.3|
@@ -269,7 +267,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cinnamon-translations|5.8.1|6.0.2|
 |cjs|5.8.0|6.0.0|
 |clamav|1.3.0|1.3.1|
-|clash-verge-rev|1.5.11|1.6.2|
 |cldr-emoji-annotation|37.0<br>+13.0<br>+0<br>+2|37.0_13.0_0_2|Compound version number '37.0+13.0+0+2'|
 |cleo|2.0.1|2.1.0|
 |cli-helpers|1.1.0|2.3.1|
@@ -1283,6 +1280,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ladish|20200418|1.2|Possible downgrade from the current version (20200418   1.2)|
 |lash|0.6.0~rc2|0.5.4|Possible downgrade from the current version (0.6.0~rc2   0.5.4)|
 |layer-shell-qt|5.27.11|6.0.4|
+|lazarus|3.2|2.2.6-0|Possible downgrade from the current version (3.2   2.2.6-0)|
 |lazy-object-proxy|1.7.1|1.10.0|
 |lcms2|2.14|2.16|
 |lcms2+32|2.9|2.16|
@@ -1973,6 +1971,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |osinfo-db|20230719|20240510|
 |osinfo-db-tools|1.10.0|1.11.0|
 |ostree|2023.1|2024.6|
+|osu-lazer|2024.412.1|2024.517.0|
 |owntone|28.6|28.9|
 |oxygen|5.27.11|6.0.4|
 |oxygen-icons|5.115.0|6.0.4|
@@ -2023,7 +2022,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pcre-static|8.44|8.45|
 |pcsc-perl|1.4.14|1.4.16|
 |pcsclite|1.9.9|2.2.1|
-|pcsx2|1.6.0<br>+git20210825|1.7.5815|Compound version number '1.6.0+git20210825'<br>Version number indicates a snapshot (+git) is used|
+|pcsx2|1.6.0<br>+git20210825|1.7.5818|Compound version number '1.6.0+git20210825'<br>Version number indicates a snapshot (+git) is used|
 |pdfgrep|2.1.2|2.2.0|
 |pdfminer|20191020|20231228|
 |pdlzip|1.9|1.13|
@@ -2158,7 +2157,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-path-tiny|0.108|0.146|
 |perl-pod-parser|1.63|1.67|
 |perl-proc-processtable|0.56|0.636|
-|perl-role-tiny|2.001004|2.002004|
 |perl-specio|0.46|0.48|
 |perl-string-util|1.31|1.34|
 |perl-sub-install|0.928|0.929|
