@@ -1763,6 +1763,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mlt|7.22.0|7.24.0|
 |mlterm|3.8.9|3.9.3|
 |mobile-broadband-provider-info|20190618|20240407|
+|mock|2.0.0|5.1.0|
 |modem-manager-gui|0.0.19.1|0.0.20|
 |modemmanager|1.18.12|1.22.0|
 |modemmanager-qt|5.115.0|6.0.4|
@@ -2415,6 +2416,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qcef|1.1.6|1.1.8|
 |qd|2.3.22|2.3.24|
 |qgnomeplatform|0.8.4|0.9.2|
+|qhull|7.2.0|8.0.2|
 |qjackctl|0.9.7|0.9.91|
 |qmlkonsole|23.08.5|24.02.2|
 |qmltermwidget|0.2.0<br>+git20220109|0.6.0|Compound version number '0.2.0+git20220109'<br>Version number indicates a snapshot (+git) is used|
@@ -2813,6 +2815,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |timezonemap|0.4.6|0.4.5.3|Possible downgrade from the current version (0.4.6   0.4.5.3)|
 |tint2|16.7|17.0.2|
 |tinycdb|0.78|0.81|
+|tinycss2|1.0.2|1.3.0|
 |tinyproxy|1.11.1|1.11.2|
 |tk|8.6.10|8.6.14|
 |tk+32|8.6.10|8.6.14|
