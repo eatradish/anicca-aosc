@@ -902,6 +902,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ipmitool|1.8.18|1_8_19|
 |iproute2|6.8.0|6.9.0|
 |ipset|7.1|7.21|
+|ipt2socks|1.1.3|1.1.4|
 |iptables|1.8.8|1.8.10|
 |iptraf-ng|1.1.4|1.2.1|
 |ipy|0.83|1.01|
@@ -1075,7 +1076,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kholidays|5.115.0|6.0.4|
 |khotkeys|5.27.11|6.0.4|
 |khtml|5.115.0|6.0.4|
-|ki18n|5.115.0|6.0.4|
 |kiconthemes|5.115.0|6.0.4|
 |kid3|3.8.3|3.9.5|
 |kidentitymanagement|23.08.5|24.02.2|
@@ -1699,7 +1699,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mako-notification-daemon|1.8.0|1.9.0|
 |malcontent|0.10.5|0.12.0|
 |man-db|2.11.1|2.12.1|
-|man-pages|6.05.01<br>+posix2017a|6.7|Compound version number '6.05.01+posix2017a'|
+|man-pages|6.05.01<br>+posix2017a|6.8|Compound version number '6.05.01+posix2017a'|
 |mangohud|0.7.0|0.7.1|
 |mangohud+32|0.7.0|0.7.1|
 |marble|23.08.5|24.02.2|
@@ -2233,6 +2233,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |plasma-workspace-wallpapers|5.27.11|6.0.4|
 |plasmatube|23.08.5|24.02.2|
 |platformdirs|2.5.2|4.2.2|
+|pluggy|1.0.0|1.5.0|
 |plymouth|22.02.122|24.004.60|
 |plymouth-kcm|5.27.11|6.0.4|
 |pmac-utils|1.1.3|1.1.3.orig|Possible downgrade from the current version (1.1.3   1.1.3.orig)|
