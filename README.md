@@ -1962,7 +1962,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |osinfo-db|20230719|20240510|
 |osinfo-db-tools|1.10.0|1.11.0|
 |ostree|2023.1|2024.6|
-|osu-lazer|2024.412.1|2024.517.0|
+|osu-lazer|2024.412.1|2024.519.1|
 |owntone|28.6|28.9|
 |oxygen|5.27.11|6.0.4|
 |oxygen-icons|5.115.0|6.0.4|
@@ -2011,7 +2011,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pcre-static|8.44|8.45|
 |pcsc-perl|1.4.14|1.4.16|
 |pcsclite|1.9.9|2.2.1|
-|pcsx2|1.6.0<br>+git20210825|1.7.5818|Compound version number '1.6.0+git20210825'<br>Version number indicates a snapshot (+git) is used|
+|pcsx2|1.6.0<br>+git20210825|1.7.5825|Compound version number '1.6.0+git20210825'<br>Version number indicates a snapshot (+git) is used|
 |pdfgrep|2.1.2|2.2.0|
 |pdfminer|20191020|20231228|
 |pdlzip|1.9|1.13|
@@ -2364,7 +2364,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pysol-sound-server|3.01|3.20|
 |pysolfc|2.12.0|3.0.0|
 |pyte|0.8.0|0.8.2|
-|pytest|7.1.1|8.2.0|
+|pytest|7.1.1|8.2.1|
 |python-2+32|999|2.7.18|Possible downgrade from the current version (999   2.7.18)|
 |python-3|3.10.13|3.12.3|
 |python-augeas|1.0.3|1.1.0|
@@ -2507,6 +2507,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ruby|3.2.2|3.3.1|
 |ruby-bundler|2.1.4|2.5.10|
 |ruby-ffi|1.10.0|1.16.3|
+|ruby-gettext|3.2.9|3.4.9|
 |ruby-locale|2.1.3|2.1.4|
 |ruby-native-package-installer|1.0.9|1.1.9|
 |ruby-pg|1.1.4|1.5.6|
