@@ -340,7 +340,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |curtsies|0.3.4|0.4.2|
 |cycler|0.10.0|0.12.1|
 |cymem|2.0.5|2.0.8|
-|cyrus-sasl|2.1.27|2.1.28|
 |cython|3.0.2|3.0.10|
 |cython-0.29|0.29.36|3.0.10|
 |czmq|4.2.0|4.2.1|
@@ -363,7 +362,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ddnet|17.0.3|18.2|
 |ddrescue|1.24|1.28|
 |ddrescueview|1.23|0.4.5|Possible downgrade from the current version (1.23   0.4.5)|
-|debconf|1.5.83|1.5.86|
 |debian-archive-keyring|2021.1.1|2023.4|
 |debian-ports-archive-keyring|2022.02.15~deb11u1|2024.02.02|
 |debianutils|5.7|5.17|
@@ -527,7 +525,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |filelight|23.08.5|24.02.2|
 |filelight-trinity|14.1.0|14.1.2|
 |filezilla|3.66.4|3.60.2|Possible downgrade from the current version (3.66.4   3.60.2)|
-|fim|0.7<br>+git20240221|0.7.0|Compound version number '0.7+git20240221'<br>Version number indicates a snapshot (+git) is used|
+|fim|0.7<br>+git20240221|0.7.1|Compound version number '0.7+git20240221'<br>Version number indicates a snapshot (+git) is used|
 |findlib|1.9.5|1.9.6|
 |fio|3.35|3.37|
 |firefox|125.0.3|126.0|
@@ -797,7 +795,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gwenview|23.08.5|24.02.2|
 |gwenview-trinity|14.1.0|14.1.2|
 |gzdoom|4.6.1|4.12.2|
-|gzip|1.12|1.13|
 |hardinfo|0.5.1<br>+git20220724|0.5.1|Compound version number '0.5.1+git20220724'<br>Version number indicates a snapshot (+git) is used|
 |harfbuzz|8.4.0|8.5.0|
 |harfbuzz+32|2.6.7|8.5.0|
@@ -1076,6 +1073,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kholidays|5.115.0|6.0.4|
 |khotkeys|5.27.11|6.0.4|
 |khtml|5.115.0|6.0.4|
+|ki18n|5.115.0|6.0.4|
 |kiconthemes|5.115.0|6.0.4|
 |kid3|3.8.3|3.9.5|
 |kidentitymanagement|23.08.5|24.02.2|
@@ -2454,7 +2452,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |readline|8.2.1|8.2|Possible downgrade from the current version (8.2.1   8.2)|
 |readline+32|8.2.1|8.2|Possible downgrade from the current version (8.2.1   8.2)|
 |realmd|0.17.1|0.16.3|Possible downgrade from the current version (0.17.1   0.16.3)|
-|recode|3.7.7|3.7.14|
 |recode+32|3.6|3.7.14|
 |recommonmark|20180907|0.7.1|Possible downgrade from the current version (20180907   0.7.1)|
 |redsocks2|0.67<br>+git20201229|0.1|Compound version number '0.67+git20201229'<br>Version number indicates a snapshot (+git) is used<br>Possible downgrade from the current version (0.67+git20201229   0.1)|
