@@ -1318,7 +1318,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libcgroup|2.0|3.1.0|
 |libchamplain|0.12.20|0.12.21|
 |libchewing|0.5.1|0.8.1|
-|libclc|17.0.3|18.1.5|
+|libclc|17.0.3|18.1.6|
 |libcloudproviders|0.3.1|0.3.6|
 |libcmis|0.5.2|0.6.2|
 |libconfig|1.7.2|1.7.3|
@@ -1634,9 +1634,9 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lksctp-tools|1.0.17|1.0.19|
 |lldpd|1.0.17|1.0.18|
 |llfuse|1.4.1|1.5.0|
-|llvm|17.0.6|18.1.5|
-|llvm+32|14.0.6|18.1.5|
-|llvm-runtime+wasi|17.0.6|18.1.5|
+|llvm|17.0.6|18.1.6|
+|llvm+32|14.0.6|18.1.6|
+|llvm-runtime+wasi|17.0.6|18.1.6|
 |lm-sensors|3.6.0|3-6-0|
 |lmdb|0.9.28|0.9.32|
 |lmms|1.2.2<br>+git20240508|1.2.2|Compound version number '1.2.2+git20240508'<br>Version number indicates a snapshot (+git) is used|
@@ -1670,6 +1670,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lxappearance|0.6.2|0.6.3|
 |lxc|5.0.2|6.0.0|
 |lxcfs|3.0.3|6.0.0|
+|lxgwcleargothic-font|0.300.4|0.310|
+|lxgwnewcleargothic-font|1.121|1.122|
 |lxml|4.7.1|4.9.1|
 |lxpanel|0.9.3|0.10.1|
 |lxterminal|0.3.2|0.4.0|
