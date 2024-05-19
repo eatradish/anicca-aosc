@@ -1077,7 +1077,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |khotkeys|5.27.11|6.0.4|
 |khtml|5.115.0|6.0.4|
 |ki18n|5.115.0|6.0.4|
-|kicad|7.0.0|8.0.2|
 |kiconthemes|5.115.0|6.0.4|
 |kid3|3.8.3|3.9.5|
 |kidentitymanagement|23.08.5|24.02.2|
@@ -1396,6 +1395,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libgweather|4.1.0|4.4.2|
 |libgxps|0.2.5|0.3.2|
 |libhandy|1.6.3|1.8.3|
+|libhangul|0.1.0<br>+git20210406|0.1.0|Compound version number '0.1.0+git20210406'<br>Version number indicates a snapshot (+git) is used|
 |libical|3.0.8|3.0.18|
 |libidn|1.41|1.42|
 |libidn+32|1.33|1.42|
@@ -1759,6 +1759,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mitmproxy|7.0.4|10.3.0|
 |mjpegtools|2.1.0|2.2.1|
 |mjpegtools+32|2.1.0|2.2.1|
+|mkvtoolnix|79.0|84.0|
 |mldonkey|3.1.7<br>+2<br>+git20210505|3-1-7-2|Compound version number '3.1.7+2+git20210505'<br>Version number indicates a snapshot (+git) is used|
 |mlt|7.22.0|7.24.0|
 |mlterm|3.8.9|3.9.3|
@@ -1895,7 +1896,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ocaml-stdlib-shims|0.2.0|0.3.0|
 |ocamlbuild|0.14.1|0.14.3|
 |ocrad|0.27|0.29|
-|ocrmypdf|11.7.0|16.2.0|
+|ocrmypdf|11.7.0|16.3.0|
 |ocserv|1.1.2|1.3.0|
 |ofono|1.30|2.7|
 |okteta|0.26.9|0.26.15|
