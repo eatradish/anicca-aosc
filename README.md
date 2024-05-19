@@ -182,6 +182,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |bottle|0.12.18|0.12.25|
 |bottles|2022.2.28<br>+trento<br>+4|51.11|Compound version number '2022.2.28+trento+4'<br>Possible downgrade from the current version (2022.2.28+trento+4   51.11)|
 |bovo|23.08.5|24.02.2|
+|bread-dog|0.2.0|0.2.1|
 |breeze|5.27.11|6.0.4|
 |breeze-grub|5.27.11|6.0.4|
 |breeze-gtk|5.27.11|6.0.4|
@@ -455,7 +456,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dune|3.4.1|3.15.2|
 |dunst|1.10.0|1.11.0|
 |duplicity|2.2.2|2.2.3|
-|easy-rsa|3.0.8|3.1.7|
+|easy-rsa|3.0.8|3.2.0|
 |ecl|23.9.9|24.5.10|
 |editables|0.3|0.5|
 |editline|1.16.1|1.17.1|
@@ -935,7 +936,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |jq|1.6|1.7.1|
 |json-c|0.16|0.17|
 |json-c+32|0.13.1<br>+20180305|0.17|Compound version number '0.13.1+20180305'|
-|json-glib|1.6.6|1.8.0-actual|
 |jsonlines|1.2.0|4.0.0|
 |jsonpointer|2.3|2.4|
 |jsonrpc-glib|3.42.0|3.44.0|
