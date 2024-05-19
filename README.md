@@ -336,6 +336,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cunit|2.1<br>+3|2.1-3|Compound version number '2.1+3'|
 |cups|2.4.7|2.4.8|
 |cups+32|2.3.3|2.4.8|
+|curl+32|8.6.0|8.7.1|
 |curtsies|0.3.4|0.4.2|
 |cycler|0.10.0|0.12.1|
 |cymem|2.0.5|2.0.8|
@@ -539,6 +540,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |flask-wtf|0.14|1.2.1|
 |flat-remix-gtk-theme|20200718|20220627|
 |flat-remix-icon-theme|20191122|20240201|
+|flatbuffers|2.0.6|24.3.25|
 |flatpak|1.14.6|1.14.8|
 |flatpak-builder|1.0.14|1.4.3|
 |flent|1.3.2|2.1.1|
@@ -810,7 +812,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hdf5|1.10.5|1.14.4.1|
 |hdrhistogram-c|0.11.6|0.11.8|
 |hdsentinel|0.17|400s|
-|helix|23.10|24.03|
 |help2man|1.48.1|1.49.3|
 |herbstluftwm|0.7.2|0.9.5|
 |hexchat|2.16.1|2.16.2|
@@ -1617,6 +1618,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lilv|0.24.12|0.24.24|
 |lilypond|2.23.0|2.25.4|
 |limba|0.5.6|0_5_6|
+|lincity-ng|2.9.0|2.0|Possible downgrade from the current version (2.9.0   2.0)|
 |link-grammar|5.10.1|5.99.42|
 |linux+api|6.7.12|5.19.17|Possible downgrade from the current version (6.7.12   5.19.17)|
 |linux+api+32|6.7.12|5.19.17|Possible downgrade from the current version (6.7.12   5.19.17)|
@@ -1719,7 +1721,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mbox-importer|23.08.5|24.02.2|
 |mbpfan|2.2.1|2.4.0|
 |mccabe|0.6.1|0.7.0|
-|mcfly|0.8.5|0.8.6|
 |mcomix|1.2.1|3.1.0|
 |mdadm|4.2|4.3|
 |mdbook|0.4.14|0.4.40|
@@ -1783,7 +1784,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mplayerthumbs-trinity|14.1.0|14.1.2|
 |mpmath|1.1.0|1.4.0a1|
 |mpv|0.37.0|0.38.0|
-|mpvpaper|1.4|1.6|
 |ms-sys|2.6.0|2.8.0|
 |msgpack-c|6.0.0|6.0.1|
 |msgpack-c++|6.1.0|6.1.1|
@@ -1978,7 +1978,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |palapeli|23.08.5|24.02.2|
 |palp|2.1|2.21|
 |pam-python|1.0.7|1.0.8|
-|pam-u2f|1.0.8|1.3.0|
 |pam-wrapper|1.1.3|1.1.5|
 |pamixer|1.4|1.6|
 |pandas|2.1.2|2.2.2|
@@ -2234,7 +2233,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |plasma-workspace-wallpapers|5.27.11|6.0.4|
 |plasmatube|23.08.5|24.02.2|
 |platformdirs|2.5.2|4.2.2|
-|pluggy|1.0.0|1.5.0|
 |plymouth|22.02.122|24.004.60|
 |plymouth-kcm|5.27.11|6.0.4|
 |pmac-utils|1.1.3|1.1.3.orig|Possible downgrade from the current version (1.1.3   1.1.3.orig)|
