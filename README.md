@@ -646,7 +646,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gitpython|3.1.35|3.1.43|
 |gjs|1.74.0|1.80.2|
 |gksu|2.0.2|2.0.12|
-|glances|3.4.0.2|4.0.4|
+|glances|3.4.0.2|4.0.5|
 |glib|2.80.0|2.80.2|
 |glib+32|2.62.6|2.80.2|
 |glib-networking|2.72.2|2.80.0|
@@ -936,6 +936,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |jq|1.6|1.7.1|
 |json-c|0.16|0.17|
 |json-c+32|0.13.1<br>+20180305|0.17|Compound version number '0.13.1+20180305'|
+|json-glib|1.6.6|1.8.0-actual|
 |jsonlines|1.2.0|4.0.0|
 |jsonpointer|2.3|2.4|
 |jsonrpc-glib|3.42.0|3.44.0|
@@ -1722,6 +1723,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mbox-importer|23.08.5|24.02.2|
 |mbpfan|2.2.1|2.4.0|
 |mccabe|0.6.1|0.7.0|
+|mcfly|0.8.5|0.8.6|
 |mcomix|1.2.1|3.1.0|
 |mdadm|4.2|4.3|
 |mdbook|0.4.14|0.4.40|
