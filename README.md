@@ -99,7 +99,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |aspnetcore-targeting-pack-6.0|6.0.0|6.0.30|
 |aspnetcore-targeting-pack-8.0|8.0.4|8.0.5|
 |assimp|5.4.0|5.4.1|
-|ast-grep|0.22.2|0.22.3|
 |astroid|2.12.2|3.2.1|
 |astrometry.net|0.94|0.95|
 |astyle|3.4.14|3.4.16|
@@ -149,9 +148,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |baobab|42.0|46.0|
 |bash|5.2.26|5.2.21|Possible downgrade from the current version (5.2.26   5.2.21)|
 |bash-completion|2.13.0|2.14.0|
-|bash-git-status|0.2.2|0.3.0|
 |basket-trinity|14.1.0|14.1.2|
-|bcachefs-tools|1.4.1|1.7.0|
+|bcachefs-tools|1.6.4|1.7.0|
 |bcftools|1.10.2|1.20|
 |bcrypt|3.1.7|4.1.3|
 |beaker|1.11.0|1.13.0|
@@ -184,7 +182,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |bottle|0.12.18|0.12.25|
 |bottles|2022.2.28<br>+trento<br>+4|51.11|Compound version number '2022.2.28+trento+4'<br>Possible downgrade from the current version (2022.2.28+trento+4   51.11)|
 |bovo|23.08.5|24.02.2|
-|bread-dog|0.1.0|0.2.0|
 |breeze|5.27.11|6.0.4|
 |breeze-grub|5.27.11|6.0.4|
 |breeze-gtk|5.27.11|6.0.4|
@@ -646,7 +643,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gitdb|4.0.10|4.0.11|
 |gitg|41|44|
 |gitpython|3.1.35|3.1.43|
-|gitui|0.25.0|0.26.2|
 |gjs|1.74.0|1.80.2|
 |gksu|2.0.2|2.0.12|
 |glances|3.4.0.2|4.0.4|
@@ -1911,7 +1907,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |opam|2.1.3|2.1.6|
 |open-iscsi|2.1.8|2.1.9|
 |open-isns|0.101|0.102|
-|open-rs|5.0.1|5.1.3|
 |open-vm-tools|12.3.5|12.4.0|
 |openblas|0.3.21<br>+git20221105|0.3.27|Compound version number '0.3.21+git20221105'<br>Version number indicates a snapshot (+git) is used|
 |opencascade|7.6.3|7.8.0|
