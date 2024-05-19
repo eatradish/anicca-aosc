@@ -156,13 +156,13 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |bcrypt|3.1.7|4.1.3|
 |beaker|1.11.0|1.13.0|
 |beancount|2.2.1|2.3.6|
+|bear|3.1.3|3.1.4|
 |beautifulsoup4|4.10.0|4.12.3|
 |benchmark|1.8.2|1.8.3|
 |bibletime-trinity|14.1.0|14.1.2|
 |bigsh0t|2.5.1|2.7|
 |bind|9.18.24|9.16.33|Possible downgrade from the current version (9.18.24   9.16.33)|
 |binutils+w64|2.34|2.42|
-|bird|2.14|2.15.1|
 |black-hole-solver|1.10.1|1.12.0|
 |bleachbit|4.0.0|4.6.0|
 |blender|4.0.2|4.1.1|
