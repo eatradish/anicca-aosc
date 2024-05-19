@@ -92,6 +92,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |asahi-fwextract|0.6.21|0.7.6|
 |asciidoctor|2.0.12|2.0.23|
 |asio|1.18.1|1.30.2|
+|asn1crypto|1.2.0|1.5.1|
 |aspell|0.60.8|0.60.8.1|
 |aspnetcore-runtime-6.0|6.0.0|6.0.30|
 |aspnetcore-runtime-8.0|8.0.4|8.0.5|
@@ -2506,7 +2507,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ruby|3.2.2|3.3.1|
 |ruby-bundler|2.1.4|2.5.10|
 |ruby-ffi|1.10.0|1.16.3|
-|ruby-gettext|3.2.9|3.4.9|
 |ruby-locale|2.1.3|2.1.4|
 |ruby-native-package-installer|1.0.9|1.1.9|
 |ruby-pg|1.1.4|1.5.6|
