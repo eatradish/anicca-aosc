@@ -336,7 +336,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cunit|2.1<br>+3|2.1-3|Compound version number '2.1+3'|
 |cups|2.4.7|2.4.8|
 |cups+32|2.3.3|2.4.8|
-|curl+32|8.6.0|8.7.1|
 |curtsies|0.3.4|0.4.2|
 |cycler|0.10.0|0.12.1|
 |cymem|2.0.5|2.0.8|
@@ -540,7 +539,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |flask-wtf|0.14|1.2.1|
 |flat-remix-gtk-theme|20200718|20220627|
 |flat-remix-icon-theme|20191122|20240201|
-|flatbuffers|2.0.6|24.3.25|
 |flatpak|1.14.6|1.14.8|
 |flatpak-builder|1.0.14|1.4.3|
 |flent|1.3.2|2.1.1|
@@ -845,7 +843,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hyperframe|6.0.0|6.0.1|
 |hyperlink|19.0.0|21.0.0|
 |hypothesis-python|6.97.4|6.102.4|
-|hysteria|2.4.0|2.4.3|
+|hysteria|2.4.0|2.4.4|
 |i2c-tools|4.1|4.3|
 |i2pd|2.41.0|2.52.0|
 |i3status-rust|0.31.9|0.33.1|
@@ -1619,7 +1617,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lilv|0.24.12|0.24.24|
 |lilypond|2.23.0|2.25.4|
 |limba|0.5.6|0_5_6|
-|lincity-ng|2.9.0|2.0|Possible downgrade from the current version (2.9.0   2.0)|
 |link-grammar|5.10.1|5.99.42|
 |linux+api|6.7.12|5.19.17|Possible downgrade from the current version (6.7.12   5.19.17)|
 |linux+api+32|6.7.12|5.19.17|Possible downgrade from the current version (6.7.12   5.19.17)|
