@@ -370,7 +370,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |deja-dup|42.9|45.2|
 |dejavu-fonts|2.37|2_37|
 |deluge|2.1.1|2.0.5|Possible downgrade from the current version (2.1.1   2.0.5)|
-|deno|1.31.3|1.43.4|
+|deno|1.31.3|1.43.5|
 |dephell-specifier|0.2.2|0.3.0|
 |deploykit-backend|0.1.1|0.1.0|Possible downgrade from the current version (0.1.1   0.1.0)|
 |deploykit-gui|0.2.1|test-ci|Versions not comparable: `0.2.1` and `test-ci`|
@@ -1313,7 +1313,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libc+wasi|20|22|
 |libcacard|2.7.0|2.8.1|
 |libcaldav|14.1.0|14.1.2|
-|libcap+32|2.31|2.69|
+|libcap|2.69|2.70|
+|libcap+32|2.31|2.70|
 |libcap-ng|0.7.11|0.8.5|
 |libcarddav|14.1.0|14.1.2|
 |libcbor|0.8.0|0.11.0|
