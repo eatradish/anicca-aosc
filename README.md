@@ -2940,7 +2940,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vorbis-tools|1.4.0|1.4.2|
 |vpnc|0.5.3r550|0.5.3|
 |vrms|1.27|1.34|
-|vsftpd|3.0.3|3.0.5|
 |vte|0.68.0|0.76.1|
 |vulkan-extensionlayer|1.3.280.0|1.3.285|
 |vulkan-headers|1.3.280.0|1.3.285|
