@@ -92,7 +92,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |asahi-fwextract|0.6.21|0.7.6|
 |asciidoctor|2.0.12|2.0.23|
 |asio|1.18.1|1.30.2|
-|asn1crypto|1.2.0|1.5.1|
 |aspell|0.60.8|0.60.8.1|
 |aspnetcore-runtime-6.0|6.0.0|6.0.30|
 |aspnetcore-runtime-8.0|8.0.4|8.0.5|
@@ -519,7 +518,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fftw|3.3.8|3.3.10|
 |fftw+32|3.3.4|3.3.10|
 |fido2|0.9.1|1.1.3|
-|file-roller|3.42.0|44.2|
+|file-roller|3.42.0|44.3|
 |filelight|23.08.5|24.02.2|
 |filelight-trinity|14.1.0|14.1.2|
 |filezilla|3.66.4|3.60.2|Possible downgrade from the current version (3.66.4   3.60.2)|
@@ -1738,6 +1737,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |metacity|3.44.0|3.46.0|
 |mgba|0.9.2|0.10.3|
 |microsoft-gsl|3.0.1|4.0.0|
+|mihomo|1.18.4|1.18.5|
 |milkytracker|1.02.00|1.04.00|
 |milou|5.27.11|6.0.4|
 |mimalloc|2.1.2|2.1.6|
@@ -1850,13 +1850,13 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |newflasher|52|57|
 |newt|0.52.23|0.52.24|
 |nfs-utils|2.6.2|2.6.4|
-|nghttp2|1.58.0|1.62.0|
+|nghttp2|1.58.0|1.62.1|
 |nginx|1.25.3|1.26.0|
 |ngspice|35|42|
 |nmap|7.93|7.95|
 |nodejs|20.13.0|21.7.1|
 |noip|2.1.9|3.0.0|
-|noise-suppression-for-voice|0.91|1.03|
+|noise-suppression-for-voice|0.91|1.10|
 |nokogiri|1.13.9|1.16.5|
 |nomino|1.3.1|1.3.4|
 |normaliz|3.6.3|3.10.2|
@@ -2940,6 +2940,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vorbis-tools|1.4.0|1.4.2|
 |vpnc|0.5.3r550|0.5.3|
 |vrms|1.27|1.34|
+|vsftpd|3.0.3|3.0.5|
 |vte|0.68.0|0.76.1|
 |vulkan-extensionlayer|1.3.280.0|1.3.285|
 |vulkan-headers|1.3.280.0|1.3.285|
