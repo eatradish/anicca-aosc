@@ -1396,7 +1396,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libgweather|4.1.0|4.4.2|
 |libgxps|0.2.5|0.3.2|
 |libhandy|1.6.3|1.8.3|
-|libhangul|0.1.0<br>+git20210406|0.1.0|Compound version number '0.1.0+git20210406'<br>Version number indicates a snapshot (+git) is used|
 |libical|3.0.8|3.0.18|
 |libidn|1.41|1.42|
 |libidn+32|1.33|1.42|
@@ -1760,7 +1759,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mitmproxy|7.0.4|10.3.0|
 |mjpegtools|2.1.0|2.2.1|
 |mjpegtools+32|2.1.0|2.2.1|
-|mkvtoolnix|79.0|84.0|
 |mldonkey|3.1.7<br>+2<br>+git20210505|3-1-7-2|Compound version number '3.1.7+2+git20210505'<br>Version number indicates a snapshot (+git) is used|
 |mlt|7.22.0|7.24.0|
 |mlterm|3.8.9|3.9.3|
