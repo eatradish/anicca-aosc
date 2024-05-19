@@ -89,7 +89,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |artikulate|23.08.5|24.02.2|
 |arts|14.1.0|14.1.2|
 |asahi-common|20231113|20231113-aosc|Possible downgrade from the current version (20231113   20231113-aosc)|
-|asahi-fwextract|0.6.21|0.7.5|
+|asahi-fwextract|0.6.21|0.7.6|
 |asciidoctor|2.0.12|2.0.23|
 |asio|1.18.1|1.30.2|
 |asn1crypto|1.2.0|1.5.1|
@@ -1683,6 +1683,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lxpanel|0.9.3|0.10.1|
 |lxterminal|0.3.2|0.4.0|
 |lynx|2.9.0|2.9.1|
+|lyx|2.3.7|2.3.8|
 |lzd|1.0|1.4|
 |lzip|1.23|1.24.1|
 |lziprecover|1.21|1.24|
@@ -2449,6 +2450,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rarian|0.8.1|0.8.5|
 |razergenie|0.9.0|1.1.0|
 |razor-agents|2.85|2.152|
+|rb-inotify|0.10.1|0.11.1|
 |rclone|1.65.2|1.66.0|
 |rcm|1.3.4|1.3.6|
 |rdflib|6.2.0|7.0.0|
