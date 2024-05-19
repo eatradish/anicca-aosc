@@ -226,7 +226,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |catch2|2.13.8|3.6.0|
 |cbm|0.2|0.3.2|
 |ccid|1.5.1|1.5.5|
-|ccls|0.20220729|0.20240202|
 |cddlib|0.94j|0.94m|
 |cdecl|20161129|2.5|Possible downgrade from the current version (20161129   2.5)|
 |cdemu-client|3.2.4|3.2.5|
@@ -256,7 +255,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |chmlib|0.40a|0.40|
 |chntpw|1.1|140201|
 |chromaprint|1.5.0|1.5.1|
-|chromium|124.0.6367.118|125.0.6422.60|
 |cifs-utils|6.10|7.0|
 |cinnamon|5.8.3|6.0.4|
 |cinnamon-control-center|5.8.1|6.0.1|
@@ -721,7 +719,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |google-api-python-client|1.7.11|2.129.0|
 |google-auth|1.6.3|2.29.0|
 |google-auth-httplib2|0.0.4|0.2.0|
-|google-chrome|124.0.6367.118|125.0.6422.60|
 |goverlay|1.0|1.1.1|
 |gpac|2.2.1|2.4.0|
 |gperftools|2.13|2.15|
@@ -1294,8 +1291,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libapt-pkg-perl|0.1.36|0.1.40|
 |libarchive|3.7.3|3.7.4|
 |libart-lgpl|14.1.0|14.1.2|
-|libass|0.15.1|0.17.1|
-|libass+32|0.15.1|0.17.1|
+|libass|0.15.1|0.17.2|
+|libass+32|0.15.1|0.17.2|
 |libassuan|2.5.3|2.5.7|
 |libatomic-ops|7.8.0|7.8.2|
 |libavif|0.11.1|1.0.4|
@@ -1514,7 +1511,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libshout+32|2.4.3|2.4.6|
 |libsidplay|1.36.59|2.1.1|
 |libsidplay+32|1.36.59|2.1.1|
-|libsidplayfp|1.8.8|2.7.0|
+|libsidplayfp|1.8.8|2.7.1|
 |libsigc++|2.10.8|3.6.0|
 |libsigc++-3.0|3.4.0|3.6.0|
 |libsigsegv|2.12|2.14|
@@ -1969,7 +1966,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |oxygen-sounds|5.25.3|6.0.4|
 |p-vector|0.3.6|0.3.8|
 |p11-kit+32|0.23.18.1|0.25.3|
-|p7zip|17.04|17.05|
 |packaging|23.0|24.0|
 |pacman|6.0.1|6.1.0|
 |pahole|1.25|1.26|
