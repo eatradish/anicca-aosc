@@ -302,7 +302,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |configparser|3.7.3|3.12.3|
 |configshell-fb|1.1.28|1.1.30|
 |confuse|3.2.2|3.3|
-|conky|1.10.8|1.21.0|
+|conky|1.10.8|1.21.1|
 |conmon|2.1.10|2.1.12|
 |constantly|15.1.0|23.10.4|
 |construct|2.9.45|2.10.70|
@@ -1927,6 +1927,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |opencv|4.7.0|4.9.0|
 |openexr|3.1.8|3.2.126|
 |openfortivpn|1.18.0|1.22.0|
+|openh264|2.4.0<br>+gmp114<br>+2|2.4.1|Compound version number '2.4.0+gmp114+2'|
 |openimagedenoise|1.4.3|2.2.2|
 |openimageio|2.4.17.0|2.5.11.0|
 |openixcard|1.0.1|1.1.8|
@@ -2357,7 +2358,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pyparted|3.11.6|3.12.0|
 |pypdf|4.0.1|4.2.0|
 |pypdf2|1.26.0|4.2.0|
-|pyperf|2.5.0|2.6.3|
+|pyperf|2.5.0|2.7.0|
 |pypkgconfig|1.4.0|1.5.5|
 |pypsutil|5.8.0|5.9.8|
 |pyqt-builder|1.12.1|1.16.2|
@@ -2554,6 +2555,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sdl-gfx|2.0.25|2.0.27|
 |sdl-sound|1.0.3|2.0.2|
 |sdl-sound+32|1.0.3|2.0.2|
+|sdl-ttf|2.0.11|2.22.0|
 |sdl-ttf+32|2.0.11|2.22.0|
 |sdl2|2.24.2|2.30.3|
 |sdl2-image|2.0.5|2.8.2|
