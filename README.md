@@ -2458,7 +2458,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |repo|2.43|2.45|
 |reportlab|3.5.50|4.2.0|
 |reptyr|0.9.0|0.10.0|
-|requests|2.31.0|2.32.0|
+|requests|2.31.0|2.32.1|
 |requests-cache|0.5.2|1.2.0|
 |rest|0.8.1|0.9.1|
 |retext|7.2.2|8.0.2|
