@@ -2134,7 +2134,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-net-dns|1.19<br>+02|1.45|Compound version number '1.19+02'|
 |perl-net-http|6.18|6.23|
 |perl-net-server|2.009|2.014|
-|perl-net-ssleay|1.85|1.94|
 |perl-package-stash|0.38|0.40|
 |perl-package-stash-xs|0.29|0.30|
 |perl-par|1.016|1.020|
@@ -2158,6 +2157,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-term-readline-gnu|1.36|1.46|
 |perl-test-deep|1.130|1.204|
 |perl-test-fatal|0.014|0.017|
+|perl-test-nowarnings|1.04|1.06|
 |perl-text-bibtex|0.88|0.89|
 |perl-text-csv|1.99|2.04|
 |perl-text-csv-xs|1.38|1.54|
@@ -2452,6 +2452,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |realmd|0.17.1|0.16.3|Possible downgrade from the current version (0.17.1   0.16.3)|
 |recode+32|3.6|3.7.14|
 |recommonmark|20180907|0.7.1|Possible downgrade from the current version (20180907   0.7.1)|
+|redis|7.2.4|7.2.5|
 |redsocks2|0.67<br>+git20201229|0.1|Compound version number '0.67+git20201229'<br>Version number indicates a snapshot (+git) is used<br>Possible downgrade from the current version (0.67+git20201229   0.1)|
 |regex|2019.02.21|2024.5.15|
 |reiser4progs|1.2.2|1.2.2.|
