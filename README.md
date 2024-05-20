@@ -328,7 +328,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |css-parser|1.0.6|1.0.10|
 |cssselect2|0.6.0|0.7.0|
 |cssutils|1.0.2|2.11.0|
-|ctags|20191203|6.1.20240512.0|Possible downgrade from the current version (20191203   6.1.20240512.0)|
+|ctags|20191203|6.1.20240519.0|Possible downgrade from the current version (20191203   6.1.20240519.0)|
 |cuda|12.4.0<br>+550.54.14|12.4.1|Compound version number '12.4.0+550.54.14'|
 |cunit|2.1<br>+3|2.1-3|Compound version number '2.1+3'|
 |cups|2.4.7|2.4.8|
@@ -395,7 +395,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |django|5.0.3|5.0.6|
 |dkms|2.8.3|3.0.13|
 |dlib|19.20.0|19.24.4|
-|dmd|2.089.0|2.108.1|
+|dmd|2.106.1|2.108.1|
 |dmenu|5.2|5.3|
 |dmidecode|3.5|3.6|
 |dnsdiag|1.6.4|2.1.0|
@@ -2926,7 +2926,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vice|3.5|3.8|
 |vicious|2.3.3|2.7.0|
 |vid.stab|0.98b|1.1.1|
-|vim|9.1.0393|9.1.0418|
+|vim|9.1.0393|9.1.0421|
 |virglrenderer|0.10.4|1.0.1|
 |virtualenv|20.25.0|20.26.2|
 |virtualgl+32|2.5.2|3.1.1|
