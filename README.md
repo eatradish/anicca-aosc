@@ -433,7 +433,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dotnet-templates-8.0|8.0.204|6.0.422|Possible downgrade from the current version (8.0.204   6.0.422)|
 |double-conversion|3.2.1|3.3.0|
 |dovecot|2.3.10.1|2.3.21|
-|doxygen|1.10.0|1_10_0|
+|doxygen|1.10.0|1_11_0|
 |doxyqml|0.5.0|0.5.3|
 |dpdk|22.11.1|24.03|
 |dracut|059|101|
