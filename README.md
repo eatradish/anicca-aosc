@@ -396,7 +396,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |django|5.0.3|5.0.6|
 |dkms|2.8.3|3.0.13|
 |dlib|19.20.0|19.24.4|
-|dmd|2.106.1|2.108.1|
 |dmenu|5.2|5.3|
 |dmidecode|3.5|3.6|
 |dnsdiag|1.6.4|2.1.0|
@@ -446,12 +445,11 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dssim-c|1.3.2<br>+git20200922|3.3.1|Compound version number '1.3.2+git20200922'<br>Version number indicates a snapshot (+git) is used|
 |dsview|1.3.1|1.12|
 |dtc|1.6.0|1.7.0|
-|dub|1.34.0|1.37.0|
 |duktape|2.5.0|2.7.0|
 |dulwich|0.21.6|0.22.1|
 |dune|3.4.1|3.15.2|
 |dunst|1.10.0|1.11.0|
-|duplicity|2.2.2|2.2.3|
+|duplicity|2.2.2|2.2.4|
 |easy-rsa|3.0.8|3.2.0|
 |ecl|23.9.9|24.5.10|
 |editables|0.3|0.5|
@@ -1276,7 +1274,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lcms2|2.14|2.16|
 |lcms2+32|2.9|2.16|
 |ldb|2.6.1|2.9.0|
-|ldc|1.35.0|1.38.0|
 |leatherman|1.9.1|1.12.13|
 |lensfun|0.3.4|0.3.95|
 |levenshtein|0.12.0|0.25.1|
@@ -1619,13 +1616,13 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |linux+api+32|6.7.12|5.19.17|Possible downgrade from the current version (6.7.12   5.19.17)|
 |linux+kernel|6.9.0|5.19.17|Possible downgrade from the current version (6.9.0   5.19.17)|
 |linux+kernel+asahi|6.5.11|5.19.17|Possible downgrade from the current version (6.5.11   5.19.17)|
-|linux+kernel+lts|6.6.17|5.10.217|Possible downgrade from the current version (6.6.17   5.10.217)|
+|linux+kernel+lts|6.6.31|5.10.217|Possible downgrade from the current version (6.6.31   5.10.217)|
 |linux+kernel+rc|5.8.0|5.19.17|
 |linux+kernel+retro|5.10.132|5.10.217|
 |linux+kernel+retro+minimal|5.15.17|5.10.217|Possible downgrade from the current version (5.15.17   5.10.217)|
 |linux-firmware|20240506<br>+debian20230210<br>+5~bpo11<br>+1|20240513|Compound version number '20240506+debian20230210+5~bpo11+1'|
 |linux-kernel|6.9.0|5.19.17|Possible downgrade from the current version (6.9.0   5.19.17)|
-|linux-kernel-lts|6.6.17|5.19.17|Possible downgrade from the current version (6.6.17   5.19.17)|
+|linux-kernel-lts|6.6.31|5.19.17|Possible downgrade from the current version (6.6.31   5.19.17)|
 |linux-kernel-retro|5.10.132|5.10.217|
 |linux-kernel-retro-minimal|5.15.17|5.10.217|Possible downgrade from the current version (5.15.17   5.10.217)|
 |linux-pam|1.6.0|1.6.1|
