@@ -2134,6 +2134,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-net-dns|1.19<br>+02|1.45|Compound version number '1.19+02'|
 |perl-net-http|6.18|6.23|
 |perl-net-server|2.009|2.014|
+|perl-net-ssleay|1.85|1.94|
 |perl-package-stash|0.38|0.40|
 |perl-package-stash-xs|0.29|0.30|
 |perl-par|1.016|1.020|
