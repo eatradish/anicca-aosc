@@ -441,7 +441,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |drkonqi|5.27.11|6.0.4|
 |dropbox|148.4.4519|199.4.6287|
 |drumstick|2.0.0|2.9.0|
-|dssim|3.2.0|3.3.1|
 |dssim-c|1.3.2<br>+git20200922|3.3.1|Compound version number '1.3.2+git20200922'<br>Version number indicates a snapshot (+git) is used|
 |dsview|1.3.1|1.12|
 |dtc|1.6.0|1.7.0|
@@ -711,7 +710,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnutls|3.8.4|3.8.5|
 |gnutls+32|3.6.15|3.8.5|
 |go|1.22.3<br>+tools0.21.0<br>+net0.25.0|1.22.3|Compound version number '1.22.3+tools0.21.0+net0.25.0'|
-|go-md2man|2.0.3|2.0.4|
 |gobject-introspection|1.80.0|1.80.1|
 |goffice|0.10.48|0.10.57|
 |goldendict|1.5.0~rc2|1.5.0|
@@ -2457,6 +2455,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |repo|2.43|2.45|
 |reportlab|3.5.50|4.2.0|
 |reptyr|0.9.0|0.10.0|
+|requests|2.31.0|2.32.0|
 |requests-cache|0.5.2|1.2.0|
 |rest|0.8.1|0.9.1|
 |retext|7.2.2|8.0.2|
