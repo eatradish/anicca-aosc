@@ -441,6 +441,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |drkonqi|5.27.11|6.0.4|
 |dropbox|148.4.4519|199.4.6287|
 |drumstick|2.0.0|2.9.0|
+|dssim|3.2.0|3.3.1|
 |dssim-c|1.3.2<br>+git20200922|3.3.1|Compound version number '1.3.2+git20200922'<br>Version number indicates a snapshot (+git) is used|
 |dsview|1.3.1|1.12|
 |dtc|1.6.0|1.7.0|
