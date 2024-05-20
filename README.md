@@ -507,6 +507,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |feedparser|6.0.8|6.0.11|
 |feeluown|4.1.1|4.1.3|
 |feeluown-netease|1.0.1|1.0.3|
+|feeluown-qqmusic|1.0.2|1.0.3|
 |ffcall|2.2|2.4|
 |ffmpeg|4.4.4|7.0|
 |ffmpeg+32|4.2.5|7.0|
@@ -906,7 +907,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |isort|4.3.21|5.13.2|
 |ispc|1.22.0|1.23.0|
 |itinerary|23.08.5|24.02.2|
-|itsdangerous|1.1.0|2.2.0|
 |iverilog|12.0|12_0|
 |iw|5.19|6.9|
 |iwd|1.20|2.17|
@@ -1024,7 +1024,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kdesu|5.115.0|6.0.4|
 |kdev-php|23.08.5|24.02.2|
 |kdev-python|23.08.5|24.02.2|
-|kdevelop|23.08.5|24.02.2|
 |kdevelop-pg-qt|2.2.1|2.2.2|
 |kdewebkit|5.115.0|6.0.4|
 |kdf|23.08.5|24.02.2|
@@ -1736,6 +1735,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |microsoft-gsl|3.0.1|4.0.0|
 |mihomo|1.18.4|1.18.5|
 |milkytracker|1.02.00|1.04.00|
+|milou|5.27.11|6.0.4|
 |mimalloc|2.1.2|2.1.6|
 |mime-types|9|99|
 |minetest|5.7.0<br>+irrlicht1.9.0mt10|5.8.0|Compound version number '5.7.0+irrlicht1.9.0mt10'|
@@ -2632,7 +2632,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |speex+32|1.2.0|1.2.1|
 |spglib|1.16.2|2.4.0|
 |sphinx|7.0.1|7.3.7|
-|sphinx-press-theme|0.8.0|0.9.1|
 |sphinx-rtd-theme|1.0.0|2.0.0|
 |sphinx-tabs|3.4.1|3.4.5|
 |sphinxbase|5prealpha|0.8|Possible downgrade from the current version (5prealpha   0.8)|
@@ -2958,6 +2957,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |webkit2gtk|2.42.5|2.44.2|
 |webrtc-audio-processing|0.3|1.3|
 |websocket-client|1.7.0|1.8.0|
+|websockets|12.0|1.4.4|Possible downgrade from the current version (12.0   1.4.4)|
 |weechat|4.2.1|4.2.2|
 |weka|3.9.2|8.0.0|
 |werkzeug|1.0.1|3.0.3|
