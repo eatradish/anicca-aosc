@@ -99,7 +99,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |aspnetcore-targeting-pack-6.0|6.0.0|6.0.30|
 |aspnetcore-targeting-pack-8.0|8.0.4|8.0.5|
 |assimp|5.4.0|5.4.1|
-|astroid|2.12.2|3.2.1|
+|astroid|2.12.2|3.2.2|
 |astrometry.net|0.94|0.95|
 |astyle|3.4.14|3.4.16|
 |at-spi2-atk+32|2.26.3|2.38.0|
@@ -507,7 +507,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |feedparser|6.0.8|6.0.11|
 |feeluown|4.1.1|4.1.3|
 |feeluown-netease|1.0.1|1.0.3|
-|feeluown-qqmusic|1.0.2|1.0.3|
 |ffcall|2.2|2.4|
 |ffmpeg|4.4.4|7.0|
 |ffmpeg+32|4.2.5|7.0|
@@ -1737,7 +1736,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |microsoft-gsl|3.0.1|4.0.0|
 |mihomo|1.18.4|1.18.5|
 |milkytracker|1.02.00|1.04.00|
-|milou|5.27.11|6.0.4|
 |mimalloc|2.1.2|2.1.6|
 |mime-types|9|99|
 |minetest|5.7.0<br>+irrlicht1.9.0mt10|5.8.0|Compound version number '5.7.0+irrlicht1.9.0mt10'|
@@ -2960,7 +2958,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |webkit2gtk|2.42.5|2.44.2|
 |webrtc-audio-processing|0.3|1.3|
 |websocket-client|1.7.0|1.8.0|
-|websockets|12.0|1.4.4|Possible downgrade from the current version (12.0   1.4.4)|
 |weechat|4.2.1|4.2.2|
 |weka|3.9.2|8.0.0|
 |werkzeug|1.0.1|3.0.3|
