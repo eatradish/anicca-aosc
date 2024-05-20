@@ -2158,7 +2158,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-term-readline-gnu|1.36|1.46|
 |perl-test-deep|1.130|1.204|
 |perl-test-fatal|0.014|0.017|
-|perl-test-nowarnings|1.04|1.06|
 |perl-text-bibtex|0.88|0.89|
 |perl-text-csv|1.99|2.04|
 |perl-text-csv-xs|1.38|1.54|
@@ -2343,7 +2342,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pynput|1.7.6|1.7.7|
 |pyopengl|3.1.5|3.1.7|
 |pyopenssl|23.1.1|24.1.0|
-|pyotherside|1.5.9|1.6.0|
+|pyotherside|1.5.9|1.6.1|
 |pyparsing|2.4.7|3.1.2|
 |pyparted|3.11.6|3.12.0|
 |pypdf|4.0.1|4.2.0|
