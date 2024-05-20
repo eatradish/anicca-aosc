@@ -12,7 +12,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |abakus-trinity|14.1.0|14.1.2|
 |abseil-cpp|20220623.1|20240116.2|
 |abyss|2.1.5|2.3.7|
-|acbs|20240510.2|20240519|
+|acbs|20240510.2|20240519.2|
 |acccheck|0.2.1|0-2-1|
 |accerciser|3.40.0|3.42.0|
 |accountsservice|22.08.8|23.13.9|
@@ -2333,7 +2333,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pylast|3.0.0|5.2.0|
 |pylev|1.3.0|1.4.0|
 |pylibacl|0.5.4|0.7.0|
-|pylint|2.14.4|3.2.1|
+|pylint|2.14.4|3.2.2|
 |pymarkups|3.0.0|4.0.0|
 |pymediainfo|5.0.3|6.1.0|
 |pymysql|0.9.3|1.1.0|
