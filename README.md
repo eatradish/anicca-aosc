@@ -59,6 +59,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |amtk|5.5.1|5.6.1|
 |analitza|23.08.5|24.02.2|
 |angelfish|23.08.5|24.02.2|
+|annotated-types|0.6.0|0.7.0|
 |ansible|2.12.1|2.16.6|
 |aom|3.8.1|3.9.0|
 |aosc-community-wallpapers-extras-2023|2023.10.1|2024.04.0|
@@ -78,7 +79,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |arc-kde|20180614|20220908|
 |arc-theme|20210412|20221218|
 |arch-install-scripts|28<br>+mirrorlist20231113<br>+pacman6.0.1|28|Compound version number '28+mirrorlist20231113+pacman6.0.1'|
-|archlinux-keyring|20231222|20240429|
+|archlinux-keyring|20231222|20240520|
 |arduino-avr-core|1.8.3|1.8.6|
 |argyllcms|3.1.0|3.2.0|
 |arianna|23.08.5|24.02.2|
@@ -519,6 +520,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fido2|0.9.1|1.1.3|
 |file-roller|3.42.0|44.3|
 |filelight|23.08.5|24.02.2|
+|filelight-trinity|14.1.0|14.1.2|
 |filezilla|3.66.4|3.60.2|Possible downgrade from the current version (3.66.4   3.60.2)|
 |fim|0.7<br>+git20240221|0.7.1|Compound version number '0.7+git20240221'<br>Version number indicates a snapshot (+git) is used|
 |findlib|1.9.5|1.9.6|
@@ -808,6 +810,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |herbstluftwm|0.7.2|0.9.5|
 |hexchat|2.16.1|2.16.2|
 |hfsprogs|332.25|667.100.2|
+|hicolor-icon-theme|0.17|0.18|
 |hidapi|0.12.0|0.14.0|
 |highlight|4.2|4.10|
 |highway|1.0.2|1.1.0|
@@ -1923,6 +1926,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |openjpeg|2.5.0|2.5.2|
 |openjpeg-legacy|1.5.2|2.5.2|
 |openjpeg-legacy+32|1.5.2|2.5.2|
+|openldap|2.6.7|2_6_7|
 |openldap+32|2.4.59|2_6_7|
 |openmpi|4.1.6|5.0.3|
 |openmpt|0.6.4|0.7.7|
