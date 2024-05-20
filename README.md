@@ -182,7 +182,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |bottle|0.12.18|0.12.25|
 |bottles|2022.2.28<br>+trento<br>+4|51.11|Compound version number '2022.2.28+trento+4'<br>Possible downgrade from the current version (2022.2.28+trento+4   51.11)|
 |bovo|23.08.5|24.02.2|
-|bread-dog|0.2.0|0.2.1|
 |breeze|5.27.11|6.0.4|
 |breeze-grub|5.27.11|6.0.4|
 |breeze-gtk|5.27.11|6.0.4|
@@ -1667,7 +1666,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lunzip|1.10|1.14|
 |lutris|0.5.11|0.5.17|
 |lvm2|2.03.14|2.03.24|
-|lxappearance|0.6.2|0.6.3|
 |lxc|5.0.2|6.0.0|
 |lxcfs|3.0.3|6.0.0|
 |lxgwcleargothic-font|0.300.4|0.310|
@@ -2863,7 +2861,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |txtorcon|19.1.0|23.11.0|
 |typed-ast|1.4.3|1.5.5|
 |typing-extensions|4.7.1|4.12.0a2|
-|typst|0.11.0|0.11.1|
 |tzdata|2023d|2024a|
 |uboot-asahi|2023.07.02<br>+3|2024.04-1|Compound version number '2023.07.02+3'|
 |uboot-tools|2022.10|2024.04|
