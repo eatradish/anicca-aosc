@@ -341,7 +341,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cython|3.0.2|3.0.10|
 |cython-0.29|0.29.36|3.0.10|
 |czmq|4.2.0|4.2.1|
-|damo|1.0.9|2.3.4|
+|damo|1.0.9|2.3.5|
 |dante|1.4.2|1.4.3|
 |dar|2.7.13|2.7.14|
 |darkhttpd|1.13|1.16|
@@ -852,7 +852,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ibus-sunpinyin|3.0.0~rc1|2.0.3-rel-1|Possible downgrade from the current version (3.0.0~rc1   2.0.3-rel-1)|
 |ibus-table|1.14.1|1.17.4|
 |icdiff|1.9.5|2.0.7|
-|icewm|1.8.3|3.4.7|
+|icewm|1.8.3|3.5.0|
 |icewm-themes|1.2.26|1.2.26.orig|Possible downgrade from the current version (1.2.26   1.2.26.orig)|
 |icu|64.2|75-1|
 |icu+32|64.2|75-1|
