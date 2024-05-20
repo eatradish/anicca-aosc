@@ -208,6 +208,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cairosvg|2.5.2|2.7.1|
 |calendarsupport|23.08.5|24.02.2|
 |calibre|5.30.0|7.10.0|
+|caligula|0.4.5|0.4.6|
 |calindori|23.08.5|24.02.2|
 |callaudiod|0.1.4|0.1.9|
 |calver|2022.06.26|2022.6.26|
@@ -272,6 +273,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |clipit|1.4.2|1.4.5|
 |cln|1.3.6|1.3.7|
 |cloc|1.84|2.00|
+|cloud-init|24.1.4<br>+git20240513|24.1.4|Compound version number '24.1.4+git20240513'<br>Version number indicates a snapshot (+git) is used|
 |clucene|2.3.3.4<br>+git20130812|2.3.3.4|Compound version number '2.3.3.4+git20130812'<br>Version number indicates a snapshot (+git) is used|
 |clzip|1.10|1.14|
 |cmark|0.30.3|0.31.0|
@@ -907,6 +909,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |isort|4.3.21|5.13.2|
 |ispc|1.22.0|1.23.0|
 |itinerary|23.08.5|24.02.2|
+|itsdangerous|1.1.0|2.2.0|
 |iverilog|12.0|12_0|
 |iw|5.19|6.9|
 |iwd|1.20|2.17|
@@ -1024,6 +1027,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kdesu|5.115.0|6.0.4|
 |kdev-php|23.08.5|24.02.2|
 |kdev-python|23.08.5|24.02.2|
+|kdevelop|23.08.5|24.02.2|
 |kdevelop-pg-qt|2.2.1|2.2.2|
 |kdewebkit|5.115.0|6.0.4|
 |kdf|23.08.5|24.02.2|
@@ -2632,6 +2636,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |speex+32|1.2.0|1.2.1|
 |spglib|1.16.2|2.4.0|
 |sphinx|7.0.1|7.3.7|
+|sphinx-press-theme|0.8.0|0.9.1|
 |sphinx-rtd-theme|1.0.0|2.0.0|
 |sphinx-tabs|3.4.1|3.4.5|
 |sphinxbase|5prealpha|0.8|Possible downgrade from the current version (5prealpha   0.8)|
@@ -2971,7 +2976,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |wildmidi+32|0.4.3|0.4.6|
 |wimlib|1.13.6|1.14.4|
 |windowmaker|0.95.9<br>+git20220812|0.96.0|Compound version number '0.95.9+git20220812'<br>Version number indicates a snapshot (+git) is used|
-|wine|9.8<br>+gecko2.47.4<br>+mono9.1.0|9.9|Compound version number '9.8+gecko2.47.4+mono9.1.0'|
+|wine|9.9<br>+gecko2.47.4<br>+mono9.1.0|9.9|Compound version number '9.9+gecko2.47.4+mono9.1.0'|
 |wireguard|1|0.0.20191219|Possible downgrade from the current version (1   0.0.20191219)|
 |wireguard-tools|1.0.20200827|1.0.20210914|
 |wireless-regdb|2022.08.12|2024.05.08|
