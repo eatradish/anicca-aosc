@@ -2586,6 +2586,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |simple-scan|42.1|46.0|
 |simplejson|3.16.0|3.19.2|
 |simplescreenrecorder|0.4.3|0.4.4|
+|sing-box|1.8.13|1.8.14|
 |singular|4.1.1|2023.02.09|
 |sip|6.3.1|6.8.3|
 |skanlite|23.08.5|24.04.90|
