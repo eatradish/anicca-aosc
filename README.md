@@ -2567,7 +2567,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sg3-utils|1.47r915|1.48|
 |shaderc|2023.7|2024.1|
 |shadow|4.13|4.15.1|
-|shadowsocks-rust|1.15.3|1.18.4|
 |shapelib|1.5.0|1.6.0|
 |shared-color-targets|0.1.7|0_1_7|
 |shared-mime-info|2.2|2.4|
@@ -2714,6 +2713,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sysprof|3.44.0|46.0|
 |system-config-printer|1.5.17|1.5.18|
 |systemd|255.3|255.6|
+|systemd-boot-friend|0.26.1|0.26.2|
 |systemsettings|5.27.11|6.0.4|
 |systemtap|4.4|5.1|
 |sysv-ipc|1.0.1|1.1.0|
