@@ -515,7 +515,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ffmpegthumbs|23.08.5|24.02.2|
 |ffms2|2.23|2.40|
 |ffnvcodec|11.1.5.1|12.2.72.0|
-|fftw|3.3.8|3.3.10|
 |fftw+32|3.3.4|3.3.10|
 |fido2|0.9.1|1.1.3|
 |file-roller|3.42.0|44.3|
@@ -576,7 +575,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |future|0.17.0|1.0.0|
 |futures|3.2.0|3.4.0|
 |fvwm|2.6.9|2.7.0|
-|fwupd|1.9.13|1.9.20|
 |fzf|0.46.1|0.52.1|
 |gajim|1.4.0|1.8.4|
 |game-music-emu+32|0.6.0|0.6.3|
@@ -652,6 +650,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |glibmm|2.66.2|2.80.0|
 |glibmm-2.68|2.78.0|2.80.0|
 |glm|0.9.9.8|1.0.1|
+|glog|0.3.5|0.7.0|
 |gloox|1.0.27|1.0.28|
 |glslang|13.1.1|14.2.0|
 |glslang+32|7.11.3214|14.2.0|
@@ -1049,7 +1048,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |keepass-plugin-twofish|1.3|1.4|
 |keepassxc|2.6.6|2.7.8|
 |kemoticons|5.115.0|6.0.4|
-|kernel-tools|6.9.0|5.19.17|Possible downgrade from the current version (6.9.0   5.19.17)|
+|kernel-tools|6.9.1|5.19.17|Possible downgrade from the current version (6.9.1   5.19.17)|
 |keximdb-trinity|14.1.0|14.1.2|
 |keyring|21.7.0|25.2.1|
 |keysmith|23.08.5|24.02.2|
@@ -1616,14 +1615,14 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |link-grammar|5.10.1|5.99.42|
 |linux+api|6.7.12|5.19.17|Possible downgrade from the current version (6.7.12   5.19.17)|
 |linux+api+32|6.7.12|5.19.17|Possible downgrade from the current version (6.7.12   5.19.17)|
-|linux+kernel|6.9.0|5.19.17|Possible downgrade from the current version (6.9.0   5.19.17)|
+|linux+kernel|6.9.1|5.19.17|Possible downgrade from the current version (6.9.1   5.19.17)|
 |linux+kernel+asahi|6.5.11|5.19.17|Possible downgrade from the current version (6.5.11   5.19.17)|
 |linux+kernel+lts|6.6.31|5.10.217|Possible downgrade from the current version (6.6.31   5.10.217)|
 |linux+kernel+rc|5.8.0|5.19.17|
 |linux+kernel+retro|5.10.132|5.10.217|
 |linux+kernel+retro+minimal|5.15.17|5.10.217|Possible downgrade from the current version (5.15.17   5.10.217)|
 |linux-firmware|20240506<br>+debian20230210<br>+5~bpo11<br>+1|20240513|Compound version number '20240506+debian20230210+5~bpo11+1'|
-|linux-kernel|6.9.0|5.19.17|Possible downgrade from the current version (6.9.0   5.19.17)|
+|linux-kernel|6.9.1|5.19.17|Possible downgrade from the current version (6.9.1   5.19.17)|
 |linux-kernel-lts|6.6.31|5.19.17|Possible downgrade from the current version (6.6.31   5.19.17)|
 |linux-kernel-retro|5.10.132|5.10.217|
 |linux-kernel-retro-minimal|5.15.17|5.10.217|Possible downgrade from the current version (5.15.17   5.10.217)|
@@ -1794,7 +1793,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |munkres|1.0.12|release-1.1.4|
 |muparser|2.2.6.1|2.3.4|
 |mupdf|1.18.0|1.24.2|
-|mutagen|1.46.0|1.47.0|
 |mutter|42.4|46.1|
 |mxml|3.2|4.0.3|
 |mycli|1.23.2|1.27.2|
@@ -2155,7 +2153,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-test-deep|1.130|1.204|
 |perl-test-fatal|0.014|0.017|
 |perl-test-nowarnings|1.04|1.06|
-|perl-text-bibtex|0.88|0.89|
 |perl-text-csv|1.99|2.04|
 |perl-text-csv-xs|1.38|1.54|
 |perl-text-template|1.59|1.61|
@@ -2377,7 +2374,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |python-kaitaistruct|0.9|0.10|
 |python-ldap3|2.9|2.9.1|
 |python-linux-procfs|0.7.1|0.7.3|
-|python-ly|0.9.6|0.9.7|
 |python-lz4|2.1.6|4.3.3|
 |python-markdown-math|0.6|0.8|
 |python-mpd2|3.0.5|3.1.1|
