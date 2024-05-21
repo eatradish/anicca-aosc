@@ -338,7 +338,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |curtsies|0.3.4|0.4.2|
 |cycler|0.10.0|0.12.1|
 |cymem|2.0.5|2.0.8|
-|cython|3.0.2|3.0.10|
 |cython-0.29|0.29.36|3.0.10|
 |czmq|4.2.0|4.2.1|
 |damo|1.0.9|2.3.5|
@@ -810,7 +809,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hexchat|2.16.1|2.16.2|
 |hfsprogs|332.25|667.100.2|
 |hicolor-icon-theme|0.17|0.18|
-|hidapi|0.12.0|0.14.0|
 |highlight|4.2|4.10|
 |highway|1.0.2|1.1.0|
 |hitori|3.38.4|44.0|
@@ -867,7 +865,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |imagemagick|6.9.13<br>+7|6.9.13-10|Compound version number '6.9.13+7'|
 |imagemagick+7|7.1.0<br>+43|7.1.1-32|Compound version number '7.1.0+43'|
 |imagesize|1.1.0|1.4.1|
-|imake|1.0.8|1.0.10|
 |imapsync|1.977|2.229|
 |imath|3.1.5|3.1.11|
 |img2pdf|0.4.0|0.5.1|
@@ -1529,7 +1526,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libssh+32|0.8.9|0.10.6|
 |libssh2|1.9.0|1.11.0|
 |libssh2+32|1.9.0|1.11.0|
-|libstatgrab|0.91|0.92.1|
 |libstoragemgmt|1.7.3|1.10.0|
 |libsysstat|0.4.4|1.0.0|
 |libtasn1|4.15.0|4.19.0|
@@ -1582,7 +1578,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libwpd|0.10.2|0.10.3|
 |libwpe|1.12.2|1.16.0|
 |libwpg|0.3.3|0.3.4|
-|libwps|0.4.10|0.4.14|
 |libwww-perl|6.33|6.77|
 |libx86|1.1|3.5|
 |libx86emu|3.1|3.5|
@@ -1675,7 +1670,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lynx|2.9.0|2.9.1|
 |lyx|2.3.7|2.3.8|
 |lzd|1.0|1.4|
-|lzip|1.23|1.24.1|
 |lziprecover|1.21|1.24|
 |lzlib|1.11|1.14|
 |m17n-db|1.8.0|1.8.5|
@@ -1861,7 +1855,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nsd|4.7.0|4_9_1_REL|
 |nsgenbind|0.8|0.9|
 |nspr+32|4.24|4.35|
-|nss|3.99|3.100|
 |nss+32|3.78|3.100|
 |nss-mdns|0.14.1|0.15.1|
 |nufraw|0.43<br>+3|0.42|Compound version number '0.43+3'<br>Possible downgrade from the current version (0.43+3   0.42)|
@@ -1989,7 +1982,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |parted|3.5|3.6|
 |partimage|0.6.9|0.7.2|
 |partitionmanager|23.08.5|24.02.2|
-|pass|1.7.3|1.7.4|
 |pastel|0.2.0|0.2.1|
 |pathlib2|2.3.5|2.3.7.post1|
 |pathspec|0.11.0|0.12.1|
@@ -2030,7 +2022,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-class-inspector|1.28|1.36|
 |perl-class-method-modifiers|2.12|2.15|
 |perl-class-singleton|1.5|1.6|
-|perl-clone|0.41|0.46|
 |perl-common-sense|3.74|3.75|
 |perl-config-file|1.50|1.54|
 |perl-convert-asn1|0.27|0.34|
@@ -2055,7 +2046,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-email-abstract|3.008|3.010|
 |perl-email-address|1.912|1.913|
 |perl-email-date-format|1.005|1.008|
-|perl-email-messageid|1.406|1.408|
 |perl-email-mime|1.946|1.954|
 |perl-email-mime-contenttype|1.022|1.028|
 |perl-email-mime-encodings|1.315|1.317|
@@ -2171,7 +2161,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-xml-parser+32|999|2.47|Possible downgrade from the current version (999   2.47)|
 |perl-xml-sax|1.00|1.02|
 |perl-xml-sax-expat|0.51|1.33|
-|perl-xml-writer|0.625|0.900|
 |perl-xml-xpath|1.44|1.48|
 |perl-yaml-libyaml|0.85|0.89|
 |perl-yaml-tiny|1.73|1.74|
@@ -2228,7 +2217,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |plymouth-kcm|5.27.11|6.0.4|
 |pmac-utils|1.1.3|1.1.3.orig|Possible downgrade from the current version (1.1.3   1.1.3.orig)|
 |pngquant|2.12.6|3.0.3|
-|pnpm|8.15.5|9.1.1|
+|pnpm|8.15.5|9.1.2|
 |po-debconf|1.0.21|1.0.21+nmu1|Possible downgrade from the current version (1.0.21   1.0.21+nmu1)|
 |po4a|0.63|0.71|
 |pocketsphinx|5~prealpha|0.8|Possible downgrade from the current version (5~prealpha   0.8)|
@@ -2331,7 +2320,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pylint|2.14.4|3.2.2|
 |pymarkups|3.0.0|4.0.0|
 |pymediainfo|5.0.3|6.1.0|
-|pymysql|0.9.3|1.1.0|
+|pymysql|0.9.3|1.1.1|
 |pynacl|1.3.0|1.5.0|
 |pynput|1.7.6|1.7.7|
 |pyopengl|3.1.5|3.1.7|
@@ -2481,7 +2470,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ronn-ng|0.9.1|0.10.1|
 |rosegarden|20.12|23.12|
 |rosegarden-trinity|14.1.0|14.1.2|
-|roxterm|3.14.3|3.15.0|
 |rp-pppoe|3.15|4.0|
 |rpcbind|1.2.5|1.2.6|
 |rpcsvc-proto|1.4.2|1.4.4|
@@ -2532,7 +2520,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |scons|4.4.0|4.7.0|
 |scour|0.37|0.38.2|
 |screen|4.9.0|4.9.1|
-|scrot|0.8|1.10|
 |scummvm|2.2.0|2.8.1|
 |sdcc|4.3.6|4.4.0|
 |sddm-kcm|5.27.11|6.0.4|
@@ -2552,7 +2539,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |semver|2.8.1|3.0.2|
 |sequoia-sq|0.31.0|0.35.0|
 |ser2net|3.5|4.6.2|
-|serd|0.32.0|0.32.2|
 |serf|1.3.9|1.3.10|
 |service-identity|18.1.0|24.1.0|
 |setuptools-python2|44.1.0|70.0.0|
@@ -2657,7 +2643,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sqlmap|1.8.2|1.8.5|
 |sqlparse|0.4.1|0.5.0|
 |squashfs-tools|4.5|4.6.1|
-|squashfs-tools-ng|1.2.0|1.3.1|
 |squashfuse|0.1.105|0.5.2|
 |squid|5.7|6.9|
 |sra-tools|3.0.3|3.1.0|
@@ -2796,6 +2781,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |thin-provisioning-tools|1.0.10|1.0.12|
 |threadweaver|5.115.0|6.0.4|
 |thunderbird|115.5.2|125.0|
+|tig|2.4.1|2.5.10|
 |tigervnc|1.12.0|1.13.1|
 |tikzplotlib|0.9.8|0.10.1|
 |tilda|1.4.1|2.0.0|
