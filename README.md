@@ -253,6 +253,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |chmlib|0.40a|0.40|
 |chntpw|1.1|140201|
 |chromaprint|1.5.0|1.5.1|
+|cifs-utils|6.10|7.0|
 |cinnamon|5.8.3|6.0.4|
 |cinnamon-control-center|5.8.1|6.0.1|
 |cinnamon-desktop|5.8.0|6.0.0|
@@ -1753,6 +1754,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |modem-manager-gui|0.0.19.1|0.0.20|
 |modemmanager|1.18.12|1.22.0|
 |modemmanager-qt|5.115.0|6.0.4|
+|mokutil|0.6.0|0.7.2|
 |mold|2.4.0|2.31.0|
 |mono|6.12.0.182|6.12.0.206|
 |monotonic|1.5|1.6|
@@ -1862,8 +1864,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |numpy|1.26.1|1.26.4|
 |nut|2.7.4|2.8.2|
 |nvchecker|1.5|2.14.1|
-|nvidia|550.54.14|550.78|
-|nvidia+32|0|550.78|
+|nvidia|550.54.14|555.42.02|
+|nvidia+32|0|555.42.02|
 |nvme-cli|2.6|2.9.1|
 |obs-studio|27.0.0|30.1.2|
 |ocaml|4.14.2|5.2.0|
@@ -2121,6 +2123,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-par|1.016|1.020|
 |perl-par-dist|0.49|0.52|
 |perl-par-packer|1.050|1.063|
+|perl-parallel-forkmanager|1.20|2.02|
 |perl-params-util|1.07|1.102|
 |perl-params-validationcompiler|0.30|0.31|
 |perl-path-tiny|0.108|0.146|
@@ -2703,6 +2706,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |talloc|2.3.4|2.4.2|
 |targetcli-fb|2.1.54|2.1.58|
 |tarsnap|1.0.39|1.0.40|
+|taskwarrior|2.6.2|3.0.2|
 |tastymenu-trinity|14.1.0|14.1.2|
 |tbb|2021.11.0|2021.12.0|
 |tbb+32|4.4u4|2021.12.0|
