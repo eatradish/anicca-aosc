@@ -161,7 +161,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |bibletime-trinity|14.1.0|14.1.2|
 |bigsh0t|2.5.1|2.7|
 |bind|9.18.24|9.16.33|Possible downgrade from the current version (9.18.24   9.16.33)|
-|binutils+w64|2.34|2.42|
 |black-hole-solver|1.10.1|1.12.0|
 |bleachbit|4.0.0|4.6.0|
 |blender|4.0.2|4.1.1|
@@ -1439,7 +1438,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libmaxminddb|1.4.3|1.9.1|
 |libmd|1.0.4|1.1.0|
 |libmediaart|1.9.4|1.9.6|
-|libmediainfo|22.06|24.04|
 |libmicrohttpd|0.9.71|1.0.1|
 |libmikmod+32|3.3.7|3.3.11.1|
 |libmodplug|0.8.8.5|0.8.9.0|
@@ -1796,7 +1794,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mutter|42.4|46.1|
 |mxml|3.2|4.0.3|
 |mycli|1.23.2|1.27.2|
-|mygpoclient|1.8|1.9|
 |n2n|2.8|3.1.1|
 |nano|8.0<br>+nanorc2024.1.16|8.0|Compound version number '8.0+nanorc2024.1.16'|
 |nanomsg|1.1.5|1.2.1|
@@ -2413,6 +2410,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qscintilla|2.13.1|2.14.1|
 |qsynth|0.5.6|0.9.91|
 |qt-5|5.15.13<br>+webengine5.15.16<br>+webkit5.212.0<br>+kde20240408|5.15.13-lts-lgpl|Compound version number '5.15.13+webengine5.15.16+webkit5.212.0+kde20240408'<br>Possible downgrade from the current version (5.15.13+webengine5.15.16+webkit5.212.0+kde20240408   5.15.13-lts-lgpl)|
+|qt-6|6.7.0|6.7.1|
 |qt4-tqt-theme-engine-trinity|14.1.0|14.1.2|
 |qtcreator|12.0.1|13.0.1|
 |qtkeychain|0.13.2|0.14.3|
