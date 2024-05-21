@@ -450,6 +450,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dune|3.4.1|3.15.2|
 |dunst|1.10.0|1.11.0|
 |duplicity|2.2.2|2.2.4|
+|e2fsprogs|1.47.0|1.47.1|
 |easy-rsa|3.0.8|3.2.0|
 |ecl|23.9.9|24.5.10|
 |editables|0.3|0.5|
@@ -2668,7 +2669,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sshfs|3.6.0|3.7.3|
 |sshpass|1.06|1.10|
 |sslh|1.19c|2.1.2|
-|sssd|2.9.4|2.9.5|
 |stalonetray|0.8.4|0.8.5|
 |stellarium|0.21.3|24.1|
 |step|23.08.5|24.02.2|
@@ -2795,7 +2795,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |thermald|2.5.2|2.5.7|
 |thin-provisioning-tools|1.0.10|1.0.12|
 |threadweaver|5.115.0|6.0.4|
-|throttled|0.9.2|0.10.0|
 |thunderbird|115.5.2|125.0|
 |tig|2.4.1|2.5.10|
 |tigervnc|1.12.0|1.13.1|
@@ -2896,7 +2895,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |utfcpp|3.2.1|4.0.5|
 |uthash|2.1.0|2.3.0|
 |util-linux+32|2.29.2|2.40.1|
-|util-macros|1.20.0|1.20.1|
 |util-macros+32|999|1.20.1|Possible downgrade from the current version (999   1.20.1)|
 |v2raya|2.2.5.1|2.2.5|Possible downgrade from the current version (2.2.5.1   2.2.5)|
 |v4l-utils|1.22.1|1.26.1|
@@ -2996,7 +2994,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xa|2.4.0|2.4.1|
 |xalan-c|1.12|1.12.0|
 |xapian-core|1.4.18|1.4.25|
-|xapps|2.6.1|2.8.2|
 |xarchiver|0.5.4.15|0.5.4.23|
 |xcalibrate|0.9<br>+git20200330|0.9|Compound version number '0.9+git20200330'<br>Version number indicates a snapshot (+git) is used|
 |xcb-proto|1.16.0|1.17.0|
