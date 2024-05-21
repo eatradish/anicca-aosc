@@ -1305,6 +1305,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libc+wasi|20|22|
 |libcacard|2.7.0|2.8.1|
 |libcaldav|14.1.0|14.1.2|
+|libcamera|0.2.0|0.3.0|
 |libcap|2.69|2.70|
 |libcap+32|2.31|2.70|
 |libcap-ng|0.7.11|0.8.5|
@@ -1747,6 +1748,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |miniupnpc|2.1|2.2.7|
 |miniupnpd|2.3.5|2.3.6|
 |minizip|1.2.11|1.3.1|
+|minuet|23.08.5|24.02.2|
 |mitmproxy|7.0.4|10.3.0|
 |mjpegtools|2.1.0|2.2.1|
 |mjpegtools+32|2.1.0|2.2.1|
@@ -2785,6 +2787,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tesseract|5.3.4|5.2.1|Possible downgrade from the current version (5.3.4   5.2.1)|
 |testdisk|7.0|7.2|
 |tevent|0.13.0|0.16.1|
+|texlive|20220321|2024|Possible downgrade from the current version (20220321   2024)|
 |texmaker|5.1.2|5.1.4|
 |texstudio|4.0.2|4.8.0|
 |texworks|0.6.6|0.6.9|
