@@ -696,6 +696,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-themes-standard|3.27.90|3.28|
 |gnome-tour|42.0|46.0|
 |gnome-usage|3.38.1|46.0|
+|gnome-user-docs|42.0|46.1|
 |gnome-user-share|3.34.0|43.0|
 |gnome-video-effects|0.4.3|0.6.0|
 |gnome-weather|42.0|46.0|
@@ -2374,7 +2375,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |python-xlib|0.26|0.33|
 |python-xmp-toolkit|2.0.1|2.0.2|
 |pythondialog|3.3.0|3.5.3|
-|pytools|2019.1|2024.1.2|
+|pytools|2019.1|2024.1.3|
 |pytz|2021.1|2024.1|
 |pyudev|0.24.1|0.24.3|
 |pyusb|1.0.2|1.2.1|
@@ -2699,7 +2700,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |taglib|1.11.1|2.0.1|
 |taglib+32|1.11|2.0.1|
 |tagparser|11.5.1|12.1.0|
-|tailscale|1.64.2|1.66.3|
+|tailscale|1.64.2|1.66.4|
 |taisei|1.3.2|1.4.1|
 |tali|40.8|40.9|
 |talloc|2.3.4|2.4.2|
