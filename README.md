@@ -59,7 +59,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |analitza|23.08.5|24.02.2|
 |angelfish|23.08.5|24.02.2|
 |annotated-types|0.6.0|0.7.0|
-|ansible|2.12.1|2.16.6|
+|ansible|2.12.1|2.17.0|
 |aom|3.8.1|3.9.0|
 |aosc-community-wallpapers-extras-2023|2023.10.1|2024.04.0|
 |aosc-community-wallpapers-extras-2024|2024.04.1|2024.04.0|Possible downgrade from the current version (2024.04.1   2024.04.0)|
@@ -178,7 +178,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |borgbackup|1.1.17|1.2.8|
 |botan|1.10.17|3.4.0|
 |botan-2|2.12.1|3.4.0|
-|boto3|1.20.26|1.34.109|
+|boto3|1.20.26|1.34.110|
 |bottle|0.12.18|0.12.25|
 |bottles|2022.2.28<br>+trento<br>+4|51.11|Compound version number '2022.2.28+trento+4'<br>Possible downgrade from the current version (2022.2.28+trento+4   51.11)|
 |bovo|23.08.5|24.02.2|
@@ -716,6 +716,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |google-api-python-client|1.7.11|2.129.0|
 |google-auth|1.6.3|2.29.0|
 |google-auth-httplib2|0.0.4|0.2.0|
+|google-chrome|125.0.6422.60|125.0.6422.76|
 |goverlay|1.0|1.1.1|
 |gpac|2.2.1|2.4.0|
 |gperftools|2.13|2.15|
@@ -1917,8 +1918,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |openjpeg|2.5.0|2.5.2|
 |openjpeg-legacy|1.5.2|2.5.2|
 |openjpeg-legacy+32|1.5.2|2.5.2|
-|openldap|2.6.7|2_6_7|
-|openldap+32|2.4.59|2_6_7|
+|openldap|2.6.7|2_6_8|
+|openldap+32|2.4.59|2_6_8|
 |openmpi|4.1.6|5.0.3|
 |openmpt|0.6.4|0.7.7|
 |openpgl|0.5.0|0.6.0|
@@ -2903,7 +2904,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vice|3.5|3.8|
 |vicious|2.3.3|2.7.0|
 |vid.stab|0.98b|1.1.1|
-|vim|9.1.0393|9.1.0421|
+|vim|9.1.0393|9.1.0429|
 |virglrenderer|0.10.4|1.0.1|
 |virtualenv|20.25.0|20.26.2|
 |virtualgl+32|2.5.2|3.1.1|
