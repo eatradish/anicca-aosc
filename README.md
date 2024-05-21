@@ -1670,6 +1670,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lynx|2.9.0|2.9.1|
 |lyx|2.3.7|2.3.8|
 |lzd|1.0|1.4|
+|lzip|1.23|1.24.1|
 |lziprecover|1.21|1.24|
 |lzlib|1.11|1.14|
 |m17n-db|1.8.0|1.8.5|
