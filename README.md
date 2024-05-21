@@ -253,6 +253,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |chmlib|0.40a|0.40|
 |chntpw|1.1|140201|
 |chromaprint|1.5.0|1.5.1|
+|chromium|125.0.6422.60|125.0.6422.76|
 |cifs-utils|6.10|7.0|
 |cinnamon|5.8.3|6.0.4|
 |cinnamon-control-center|5.8.1|6.0.1|
@@ -329,7 +330,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cssselect2|0.6.0|0.7.0|
 |cssutils|1.0.2|2.11.0|
 |ctags|20191203|6.1.20240519.0|Possible downgrade from the current version (20191203   6.1.20240519.0)|
-|cuda|12.4.0<br>+550.54.14|12.4.1|Compound version number '12.4.0+550.54.14'|
+|cuda|12.4.0<br>+550.54.14|12.5.0|Compound version number '12.4.0+550.54.14'|
 |cunit|2.1<br>+3|2.1-3|Compound version number '2.1+3'|
 |cups|2.4.7|2.4.8|
 |cups+32|2.3.3|2.4.8|
@@ -2445,7 +2446,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |repo|2.43|2.45|
 |reportlab|3.5.50|4.2.0|
 |reptyr|0.9.0|0.10.0|
-|requests|2.31.0|2.32.1|
+|requests|2.31.0|2.32.2|
 |requests-cache|0.5.2|1.2.0|
 |rest|0.8.1|0.9.1|
 |retext|7.2.2|8.0.2|
@@ -2807,7 +2808,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |totem|42.0|43.0|
 |toxcore|0.2.18|0.2.19|
 |tpm-tools|1.3.9.1|1.3.9.2|
-|tpm2-tss|2.3.3|4.1.2|
+|tpm2-tss|2.3.3|4.1.3|
 |tqca|14.1.0|14.1.2|
 |tqdm|4.62.3|4.66.4|
 |tqt3|14.1.0|14.1.2|
