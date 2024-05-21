@@ -896,6 +896,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |iptables|1.8.8|1.8.10|
 |iptraf-ng|1.1.4|1.2.1|
 |ipy|0.83|1.01|
+|ipython|7.28.0|8.24.0|
 |irrlicht|1.8.4|1.8.5|
 |irssi|1.2.3|1.4.5|
 |iso-codes|4.4|4.16.0|
@@ -934,6 +935,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |jupyter-client|5.2.4|8.6.1|
 |jupyter-core|4.4.0|5.7.2|
 |k3b|23.08.5|24.02.2|
+|k3b-trinity|14.1.0|14.1.2|
 |k9copy-trinity|14.1.0|14.1.2|
 |kaccounts-integration|23.08.5|24.02.2|
 |kaccounts-providers|23.08.5|24.02.2|
@@ -1629,7 +1631,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |llvm+32|14.0.6|18.1.6|
 |llvm-runtime+wasi|17.0.6|18.1.6|
 |lm-sensors|3.6.0|3-6-0|
-|lmdb|0.9.28|0.9.32|
+|lmdb|0.9.28|0.9.33|
 |lmms|1.2.2<br>+git20240508|1.2.2|Compound version number '1.2.2+git20240508'<br>Version number indicates a snapshot (+git) is used|
 |log4cpp|1.1.3|1.1.4|
 |logrotate|3.18.1|3.21.0|
@@ -2537,7 +2539,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |secretstorage|3.3.0|3.3.3|
 |semantic-version|2.8.5|2.10.0|
 |semver|2.8.1|3.0.2|
-|sequoia-sq|0.31.0|0.35.0|
+|sequoia-sq|0.31.0|0.36.0|
 |ser2net|3.5|4.6.2|
 |serf|1.3.9|1.3.10|
 |service-identity|18.1.0|24.1.0|
@@ -2929,7 +2931,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vulkan-validationlayers|1.3.280.0|1.3.285|
 |warpinator|1.6.3|1.8.3|
 |warzone2100|4.1.3|4.4.2|
-|watchman|4.9.0|2024.05.13.00|
+|watchman|4.9.0|2024.05.20.00|
 |wavpack|5.2.0|5.7.0|
 |wavpack+32|5.2.0|5.7.0|
 |wayland-utils|1.1.0|1.2.0|
