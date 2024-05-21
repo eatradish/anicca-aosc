@@ -1880,11 +1880,12 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ocaml-csexp|1.5.1|1.5.2|
 |ocaml-graphics|5.1.0|5.1.2|
 |ocaml-integers|0.4.0|0.7.0|
+|ocaml-num|1.3|1.5|
 |ocaml-pp|1.1.2|1.2.0|
 |ocaml-stdlib-shims|0.2.0|0.3.0|
 |ocamlbuild|0.14.1|0.14.3|
 |ocrad|0.27|0.29|
-|ocrmypdf|11.7.0|16.3.0|
+|ocrmypdf|11.7.0|16.3.1|
 |ocserv|1.1.2|1.3.0|
 |ofono|1.30|2.7|
 |okteta|0.26.9|0.26.15|
@@ -1954,7 +1955,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |osdlyrics|20190407|0.5.15|Possible downgrade from the current version (20190407   0.5.15)|
 |osinfo-db|20230719|20240510|
 |osinfo-db-tools|1.10.0|1.11.0|
-|osu-lazer|2024.412.1|2024.519.1|
+|ostree|2023.1|2024.6|
+|osu-lazer|2024.412.1|2024.521.2|
 |owntone|28.6|28.9|
 |oxygen|5.27.11|6.0.4|
 |oxygen-icons|5.115.0|6.0.4|
@@ -2743,6 +2745,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tdebase|14.1.0|14.1.2|
 |tdebindings|14.1.0|14.1.2|
 |tdedocker|14.1.0|14.1.2|
+|tdeedu|14.1.0|14.1.2|
 |tdegames|14.1.0|14.1.2|
 |tdegraphics|14.1.0|14.1.2|
 |tdeio-appinfo|14.1.0|14.1.2|
@@ -2819,6 +2822,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |totem|42.0|43.0|
 |toxcore|0.2.18|0.2.19|
 |tpm-tools|1.3.9.1|1.3.9.2|
+|tpm2-tss|2.3.3|4.1.2|
 |tqca|14.1.0|14.1.2|
 |tqdm|4.62.3|4.66.4|
 |tqt3|14.1.0|14.1.2|
