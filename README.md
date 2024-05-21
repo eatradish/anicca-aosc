@@ -12,7 +12,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |abakus-trinity|14.1.0|14.1.2|
 |abseil-cpp|20220623.1|20240116.2|
 |abyss|2.1.5|2.3.7|
-|acbs|20240520|20240519.2|Possible downgrade from the current version (20240520   20240519.2)|
 |acccheck|0.2.1|0-2-1|
 |accerciser|3.40.0|3.42.0|
 |accountsservice|22.08.8|23.13.9|
@@ -254,7 +253,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |chmlib|0.40a|0.40|
 |chntpw|1.1|140201|
 |chromaprint|1.5.0|1.5.1|
-|cifs-utils|6.10|7.0|
 |cinnamon|5.8.3|6.0.4|
 |cinnamon-control-center|5.8.1|6.0.1|
 |cinnamon-desktop|5.8.0|6.0.0|
@@ -758,7 +756,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gst-plugins-base-1-0+32|1.16.2|1.24.3|
 |gst-plugins-good-1-0+32|1.16.2|1.24.3|
 |gst-plugins-ugly-1-0+32|1.16.2|1.24.3|
-|gstreamer|1.22.0|1.24.3|
 |gstreamer-1-0+32|1.16.2|1.24.3|
 |gtest|1.10.0<br>+git20210513|1.14.0|Compound version number '1.10.0+git20210513'<br>Version number indicates a snapshot (+git) is used|
 |gti|1.6.1|1.9.1|
@@ -1681,6 +1678,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |m3u8|0.7.1|5.0.0|
 |mac-fdisk|0.1|0.1.orig|Possible downgrade from the current version (0.1   0.1.orig)|
 |magic-wormhole|0.11.2|0.14.0|
+|mailcommon|23.08.5|24.02.2|
 |mailimporter|23.08.5|24.02.2|
 |maim|5.5.3|5.8.0|
 |mako|1.1.4|1.3.5|
@@ -1755,7 +1753,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |modem-manager-gui|0.0.19.1|0.0.20|
 |modemmanager|1.18.12|1.22.0|
 |modemmanager-qt|5.115.0|6.0.4|
-|mokutil|0.6.0|0.7.2|
 |mold|2.4.0|2.31.0|
 |mono|6.12.0.182|6.12.0.206|
 |monotonic|1.5|1.6|
@@ -2124,7 +2121,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-par|1.016|1.020|
 |perl-par-dist|0.49|0.52|
 |perl-par-packer|1.050|1.063|
-|perl-parallel-forkmanager|1.20|2.02|
 |perl-params-util|1.07|1.102|
 |perl-params-validationcompiler|0.30|0.31|
 |perl-path-tiny|0.108|0.146|
@@ -2376,6 +2372,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |python-xlib|0.26|0.33|
 |python-xmp-toolkit|2.0.1|2.0.2|
 |pythondialog|3.3.0|3.5.3|
+|pytools|2019.1|2024.1.2|
 |pytz|2021.1|2024.1|
 |pyudev|0.24.1|0.24.3|
 |pyusb|1.0.2|1.2.1|
@@ -2413,6 +2410,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qwt5|6.1.5|6.3.0|
 |qzdl|3.2.2.3<br>+git20210516|3.2.2.3|Compound version number '3.2.2.3+git20210516'<br>Version number indicates a snapshot (+git) is used|
 |racket|8.12|8.13|
+|radare2|5.9.0|5.9.2|
 |ragel|6.10|7.0.4|
 |random2|1.0.1|1.0.2|
 |rapidfuzz|3.2.0|3.1.1|Possible downgrade from the current version (3.2.0   3.1.1)|
@@ -2422,6 +2420,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |razergenie|0.9.0|1.1.0|
 |razor-agents|2.85|2.152|
 |rb-inotify|0.10.1|0.11.1|
+|rbw|1.10.1|1.10.2|
 |rclone|1.65.2|1.66.0|
 |rcm|1.3.4|1.3.6|
 |rdflib|6.2.0|7.0.0|
@@ -2470,7 +2469,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rosegarden|20.12|23.12|
 |rosegarden-trinity|14.1.0|14.1.2|
 |rp-pppoe|3.15|4.0|
-|rpcbind|1.2.5|1.2.6|
 |rpcsvc-proto|1.4.2|1.4.4|
 |rpm|4.18.0|4.19.1.1-release|
 |rrdtool|1.7.2|1.8.0|
@@ -2705,7 +2703,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |talloc|2.3.4|2.4.2|
 |targetcli-fb|2.1.54|2.1.58|
 |tarsnap|1.0.39|1.0.40|
-|taskwarrior|2.6.2|3.0.2|
 |tastymenu-trinity|14.1.0|14.1.2|
 |tbb|2021.11.0|2021.12.0|
 |tbb+32|4.4u4|2021.12.0|
