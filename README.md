@@ -161,6 +161,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |bibletime-trinity|14.1.0|14.1.2|
 |bigsh0t|2.5.1|2.7|
 |bind|9.18.24|9.16.33|Possible downgrade from the current version (9.18.24   9.16.33)|
+|binutils+w64|2.34|2.42|
 |black-hole-solver|1.10.1|1.12.0|
 |bleachbit|4.0.0|4.6.0|
 |blender|4.0.2|4.1.1|
@@ -225,7 +226,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |catch2|2.13.8|3.6.0|
 |cbm|0.2|0.3.2|
 |ccid|1.5.1|1.5.5|
-|cddlib|0.94j|0.94m|
 |cdecl|20161129|2.5|Possible downgrade from the current version (20161129   2.5)|
 |cdemu-client|3.2.4|3.2.5|
 |cdemu-daemon|3.2.4|3.2.6|
@@ -1438,6 +1438,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libmaxminddb|1.4.3|1.9.1|
 |libmd|1.0.4|1.1.0|
 |libmediaart|1.9.4|1.9.6|
+|libmediainfo|22.06|24.04|
 |libmicrohttpd|0.9.71|1.0.1|
 |libmikmod+32|3.3.7|3.3.11.1|
 |libmodplug|0.8.8.5|0.8.9.0|
@@ -1794,6 +1795,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mutter|42.4|46.1|
 |mxml|3.2|4.0.3|
 |mycli|1.23.2|1.27.2|
+|mygpoclient|1.8|1.9|
 |n2n|2.8|3.1.1|
 |nano|8.0<br>+nanorc2024.1.16|8.0|Compound version number '8.0+nanorc2024.1.16'|
 |nanomsg|1.1.5|1.2.1|
