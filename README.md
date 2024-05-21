@@ -896,7 +896,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |iptables|1.8.8|1.8.10|
 |iptraf-ng|1.1.4|1.2.1|
 |ipy|0.83|1.01|
-|ipython|7.28.0|8.24.0|
 |irrlicht|1.8.4|1.8.5|
 |irssi|1.2.3|1.4.5|
 |iso-codes|4.4|4.16.0|
@@ -935,7 +934,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |jupyter-client|5.2.4|8.6.1|
 |jupyter-core|4.4.0|5.7.2|
 |k3b|23.08.5|24.02.2|
-|k3b-trinity|14.1.0|14.1.2|
 |k9copy-trinity|14.1.0|14.1.2|
 |kaccounts-integration|23.08.5|24.02.2|
 |kaccounts-providers|23.08.5|24.02.2|
