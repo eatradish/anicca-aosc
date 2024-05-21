@@ -2004,8 +2004,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pcre+32|8.44|8.45|
 |pcre-static|8.44|8.45|
 |pcsc-perl|1.4.14|1.4.16|
-|pcsclite|1.9.9|2.2.1|
-|pcsx2|1.6.0<br>+git20210825|1.7.5825|Compound version number '1.6.0+git20210825'<br>Version number indicates a snapshot (+git) is used|
+|pcsclite|1.9.9|2.2.2|
+|pcsx2|1.6.0<br>+git20210825|1.7.5830|Compound version number '1.6.0+git20210825'<br>Version number indicates a snapshot (+git) is used|
 |pdfgrep|2.1.2|2.2.0|
 |pdfminer|20191020|20231228|
 |pdlzip|1.9|1.13|
@@ -2555,8 +2555,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |serd|0.32.0|0.32.2|
 |serf|1.3.9|1.3.10|
 |service-identity|18.1.0|24.1.0|
-|setuptools-python2|44.1.0|69.5.1|
-|setuptools-python3|69.1.0|69.5.1|
+|setuptools-python2|44.1.0|70.0.0|
+|setuptools-python3|69.1.0|70.0.0|
 |setuptools-rust|1.5.2|1.9.0|
 |setuptools-scm|7.1.0|8.1.0|
 |sfml|2.5.1|2.6.1|
@@ -2796,7 +2796,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |thin-provisioning-tools|1.0.10|1.0.12|
 |threadweaver|5.115.0|6.0.4|
 |thunderbird|115.5.2|125.0|
-|tig|2.4.1|2.5.10|
 |tigervnc|1.12.0|1.13.1|
 |tikzplotlib|0.9.8|0.10.1|
 |tilda|1.4.1|2.0.0|
