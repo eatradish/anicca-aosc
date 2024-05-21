@@ -652,7 +652,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |glibmm|2.66.2|2.80.0|
 |glibmm-2.68|2.78.0|2.80.0|
 |glm|0.9.9.8|1.0.1|
-|glog|0.3.5|0.7.0|
 |gloox|1.0.27|1.0.28|
 |glslang|13.1.1|14.2.0|
 |glslang+32|7.11.3214|14.2.0|
@@ -792,6 +791,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gwenview|23.08.5|24.02.2|
 |gwenview-trinity|14.1.0|14.1.2|
 |gzdoom|4.6.1|4.12.2|
+|handbrake|1.7.3|1.8.0|
 |hardinfo|0.5.1<br>+git20220724|0.5.1|Compound version number '0.5.1+git20220724'<br>Version number indicates a snapshot (+git) is used|
 |harfbuzz|8.4.0|8.5.0|
 |harfbuzz+32|2.6.7|8.5.0|
@@ -881,13 +881,13 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |inetutils|2.4|2.5|
 |inih|53|58|
 |iniparse|0.4|0.5|
-|iniparser|4.1|4.2.1|
+|iniparser|4.1|4.2.2|
 |inkscape|1.3.2|1_3_2|
 |inotify-tools|3.21.9.6|4.23.9.0|
 |intel-compute-runtime|24.13.29138.7|24.17.29377.8|
 |intel-gmmlib|22.3.18|22.3.19|
 |intel-graphics-compiler|1.0.16695.4|1.0.16900.3|
-|intel-media-driver|24.1.5|24.2.2|
+|intel-media-driver|24.1.5|24.2.3|
 |inxi|3.3.31<br>+2|3.3.31-2|Compound version number '3.3.31+2'|
 |iodine|0.7.0|0.8.0|
 |iosevka-fonts|28.0.5|30.0.1|
