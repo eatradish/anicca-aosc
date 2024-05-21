@@ -696,7 +696,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-themes-standard|3.27.90|3.28|
 |gnome-tour|42.0|46.0|
 |gnome-usage|3.38.1|46.0|
-|gnome-user-docs|42.0|46.1|
 |gnome-user-share|3.34.0|43.0|
 |gnome-video-effects|0.4.3|0.6.0|
 |gnome-weather|42.0|46.0|
@@ -2676,7 +2675,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sunpinyin|3.0.0~rc1|2.0.3-rel-1|Possible downgrade from the current version (3.0.0~rc1   2.0.3-rel-1)|
 |sunshine|0.23.0|0.23.1|
 |sunxi-tools|1.4.2<br>+git20220729|1.4.2|Compound version number '1.4.2+git20220729'<br>Version number indicates a snapshot (+git) is used|
-|superslicer|2.5.59.8|2.5.59.9|
+|superslicer|2.5.59.8|2.5.59.10|
 |sushi|42.0|46.0|
 |svgpart|23.08.5|24.02.2|
 |svt-av1|2.0.0|2.1.0|
