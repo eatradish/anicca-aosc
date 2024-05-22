@@ -502,7 +502,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |faulthandler|3.1|3.2|
 |fcitx5-mozc|2.29.5160.102<br>+fcitx5<br>+git20230919|2.29.5374.102|Compound version number '2.29.5160.102+fcitx5+git20230919'<br>Version number indicates a snapshot (+git) is used|
 |fcitx5-pinyin-zhwiki|0.2.3<br>+dict20210823|0.2.5|Compound version number '0.2.3+dict20210823'|
-|fdkaac|1.0.1|1.0.6|
 |feedbackd|0.2.1|0.3.0|
 |feedparser|6.0.8|6.0.11|
 |feeluown|4.1.1|4.1.4|
@@ -512,7 +511,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ffmpeg|4.4.4|7.0|
 |ffmpeg+32|4.2.5|7.0|
 |ffmpegthumbs|23.08.5|24.02.2|
-|ffms2|2.23|2.40|
 |ffnvcodec|11.1.5.1|12.2.72.0|
 |fftw+32|3.3.4|3.3.10|
 |fido2|0.9.1|1.1.3|
@@ -1304,6 +1302,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libcaldav|14.1.0|14.1.2|
 |libcamera|0.2.0|0.3.0|
 |libcap|2.69|2.70|
+|libcap+32|2.31|2.70|
 |libcap-ng|0.7.11|0.8.5|
 |libcarddav|14.1.0|14.1.2|
 |libcbor|0.8.0|0.11.0|
@@ -1579,6 +1578,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libwpg|0.3.3|0.3.4|
 |libwww-perl|6.33|6.77|
 |libx86|1.1|3.5|
+|libx86emu|3.1|3.5|
 |libxau+32|1.0.9|1.0.11|
 |libxaw3d|1.6.3|1.6.6|
 |libxcb|1.16.1|1.17.0|
@@ -1789,7 +1789,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mxml|3.2|4.0.3|
 |mycli|1.23.2|1.27.2|
 |mygpoclient|1.8|1.9|
-|n2n|2.8|3.1.1|
 |nano|8.0<br>+nanorc2024.1.16|8.0|Compound version number '8.0+nanorc2024.1.16'|
 |nanomsg|1.1.5|1.2.1|
 |nas|1.9.4|1.9.5|
@@ -1984,7 +1983,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pathlib2|2.3.5|2.3.7.post1|
 |pathspec|0.11.0|0.12.1|
 |patool|1.12|upstream/2.2.0|Possible downgrade from the current version (1.12   upstream/2.2.0)|
-|pavucontrol|3.0|5.0|
+|pavucontrol|3.0|6.0|
 |pbr|5.6.0|6.0.0|
 |pciutils|3.9.0|3.12.0|
 |pcl|1.13.1|1.12|Possible downgrade from the current version (1.13.1   1.12)|
@@ -3034,7 +3033,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |yelp-tools|42.0|42.1|
 |yelp-xsl|42.0|42.1|
 |yosys|0.39|0.41|
-|ytmusicapi|1.5.1|1.7.2|
+|you-get|0.4.1650|0.4.1700|
 |yubico-pam|2.26|2.27|
 |yubico-piv-tool|2.3.1|2.5.2|
 |yubikey-manager|4.0.1|5.4.0|
