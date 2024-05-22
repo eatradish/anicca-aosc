@@ -367,7 +367,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |deja-dup|42.9|45.2|
 |dejavu-fonts|2.37|2_37|
 |deluge|2.1.1|2.0.5|Possible downgrade from the current version (2.1.1   2.0.5)|
-|deno|1.31.3|1.43.5|
+|deno|1.31.3|1.43.6|
 |dephell-specifier|0.2.2|0.3.0|
 |deploykit-backend|0.1.1|0.1.0|Possible downgrade from the current version (0.1.1   0.1.0)|
 |deploykit-gui|0.2.1|test-ci|Versions not comparable: `0.2.1` and `test-ci`|
@@ -1067,7 +1067,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ki18n|5.115.0|6.0.5|
 |kiconthemes|5.115.0|6.0.5|
 |kid3|3.8.3|3.9.5|
-|kidentitymanagement|23.08.5|24.02.2|
 |kidletime|5.115.0|6.0.5|
 |kig|23.08.5|24.02.2|
 |kigo|23.08.5|24.02.2|
@@ -1284,7 +1283,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libapt-pkg-perl|0.1.36|0.1.40|
 |libarchive|3.7.3|3.7.4|
 |libart-lgpl|14.1.0|14.1.2|
-|libass|0.15.1|0.17.2|
 |libass+32|0.15.1|0.17.2|
 |libassuan|2.5.3|2.5.7|
 |libatomic-ops|7.8.0|7.8.2|
@@ -1467,7 +1465,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libosmgpsmap|1.1.0|1.2.0|
 |libp11|0.4.10|0.4.12|
 |libpano13|2.9.19|2.9.22|
-|libpaper|2.1.2|2.2.5|
 |libpcap+32|1.10.1|1.10.4|
 |libpeas|1.32.0|2.0.2|
 |libpfm|4.12.0|4.13.0|
@@ -1480,7 +1477,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libpng-1.6+32|1.6.37|1.6.43|
 |libportal|0.6|0.7.1|
 |libpqxx|6.4.5|7.9.0|
-|libproxy|0.5.5|0.5.6|
 |libpwquality|1.4.2|1.4.5|
 |libqaccessibilityclient|0.4.1|0.6.0|
 |libqalculate|4.5.1|5.1.1|
@@ -1789,6 +1785,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mxml|3.2|4.0.3|
 |mycli|1.23.2|1.27.2|
 |mygpoclient|1.8|1.9|
+|n2n|2.8|3.1.1|
 |nano|8.0<br>+nanorc2024.1.16|8.0|Compound version number '8.0+nanorc2024.1.16'|
 |nanomsg|1.1.5|1.2.1|
 |nas|1.9.4|1.9.5|
@@ -1851,7 +1848,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |npth|1.6|1.7|
 |nsd|4.7.0|4_9_1_REL|
 |nsgenbind|0.8|0.9|
-|nspr+32|4.24|4.35|
 |nss+32|3.78|3.100|
 |nss-mdns|0.14.1|0.15.1|
 |nufraw|0.43<br>+3|0.42|Compound version number '0.43+3'<br>Possible downgrade from the current version (0.43+3   0.42)|
@@ -2143,7 +2139,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-text-csv|1.99|2.04|
 |perl-text-csv-xs|1.38|1.54|
 |perl-text-template|1.59|1.61|
-|perl-time-duration|1.20|1.21|
 |perl-timedate|2.30|2.33|
 |perl-tk|804.034|804.036|
 |perl-try-tiny|0.30|0.31|
@@ -2212,7 +2207,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pluggy|1.0.0|1.5.0|
 |plymouth|22.02.122|24.004.60|
 |plymouth-kcm|5.27.11|6.0.5|
-|pmac-utils|1.1.3|1.1.3.orig|Possible downgrade from the current version (1.1.3   1.1.3.orig)|
 |pngquant|2.12.6|3.0.3|
 |pnpm|8.15.5|9.1.2|
 |po-debconf|1.0.21|1.0.21+nmu1|Possible downgrade from the current version (1.0.21   1.0.21+nmu1)|
@@ -2375,7 +2369,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pythondialog|3.3.0|3.5.3|
 |pytools|2019.1|2024.1.3|
 |pytz|2021.1|2024.1|
-|pyudev|0.24.1|0.24.3|
 |pyusb|1.0.2|1.2.1|
 |pyutil|3.3.0|3.3.6|
 |pywbem|0.13.0|1.7.2|
@@ -2586,7 +2579,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |snapd|2.61.2|2.63|
 |snapd-glib|1.63|1.65|
 |snapper-gui|0.1<br>+git20220626|0.1|Compound version number '0.1+git20220626'<br>Version number indicates a snapshot (+git) is used|
-|snappy|1.1.8|1.2.0|
+|snappy|1.1.8|1.2.1|
 |sniffio|1.3.0|1.3.1|
 |snowball|2.1.0|2.2.0|
 |snowballstemmer|1.2.1|2.2.0|
@@ -2706,7 +2699,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tarsnap|1.0.39|1.0.40|
 |taskwarrior|2.6.2|3.0.2|
 |tastymenu-trinity|14.1.0|14.1.2|
-|tbb|2021.11.0|2021.12.0|
 |tbb+32|4.4u4|2021.12.0|
 |tcl|8.6.10|8.6.14|
 |tcl+32|8.6.10|8.6.14|
@@ -3028,7 +3020,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |yarl|1.6.3|1.9.4|
 |yarn|1.22.17|1.22.22|
 |yaspin|1.2.0|3.0.2|
-|yaz|5.31.0|5.34.0|
 |yelp|42.1|42.2|
 |yelp-tools|42.0|42.1|
 |yelp-xsl|42.0|42.1|
