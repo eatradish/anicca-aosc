@@ -182,6 +182,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |bottle|0.12.18|0.12.25|
 |bottles|2022.2.28<br>+trento<br>+4|51.11|Compound version number '2022.2.28+trento+4'<br>Possible downgrade from the current version (2022.2.28+trento+4   51.11)|
 |bovo|23.08.5|24.02.2|
+|bpftrace|0.20.3|0.20.4|
 |breeze|5.27.11|6.0.5|
 |breeze-grub|5.27.11|6.0.5|
 |breeze-gtk|5.27.11|6.0.5|
@@ -386,6 +387,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |digikam|7.9.0|8.3.0|
 |digikam-trinity|14.1.0|14.1.2|
 |ding-libs|0.6.1|0.6.2|
+|discover|5.27.11|6.0.5|
 |distcc|3.3.5|3.4|
 |distlib|0.3.1|0.3.8|
 |distorm|3.5.1|3.5.2b|
@@ -446,7 +448,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |duktape|2.5.0|2.7.0|
 |dulwich|0.21.6|0.22.1|
 |dune|3.4.1|3.15.2|
-|dunst|1.10.0|1.11.0|
 |duplicity|2.2.2|2.2.4|
 |e2fsprogs|1.47.0|1.47.1|
 |easy-rsa|3.0.8|3.2.0|
@@ -1684,7 +1685,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mailimporter|23.08.5|24.02.2|
 |maim|5.5.3|5.8.0|
 |mako|1.1.4|1.3.5|
-|mako-notification-daemon|1.8.0|1.9.0|
 |malcontent|0.10.5|0.12.0|
 |man-db|2.11.1|2.12.1|
 |man-pages|6.05.01<br>+posix2017a|6.8|Compound version number '6.05.01+posix2017a'|
@@ -2942,7 +2942,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |webrtc-audio-processing|0.3|1.3|
 |websocket-client|1.7.0|1.8.0|
 |websockets|12.0|1.4.4|Possible downgrade from the current version (12.0   1.4.4)|
-|weechat|4.2.1|4.2.2|
 |weka|3.9.2|8.0.0|
 |werkzeug|1.0.1|3.0.3|
 |wesnoth|1.16.10|1.18.0|
