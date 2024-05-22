@@ -2973,6 +2973,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xarchiver|0.5.4.15|0.5.4.23|
 |xcalibrate|0.9<br>+git20200330|0.9|Compound version number '0.9+git20200330'<br>Version number indicates a snapshot (+git) is used|
 |xcb-proto|1.16.0|1.17.0|
+|xcb-proto+32|1.14|1.17.0|
 |xcffib|0.7.0|1.5.0|
 |xclip|20191017|0.13|Possible downgrade from the current version (20191017   0.13)|
 |xcompmgr|1.1.8|1.1.9|
