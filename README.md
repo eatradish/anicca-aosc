@@ -877,7 +877,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |intel-compute-runtime|24.17.29377.6|24.17.29377.8|
 |intel-graphics-compiler|1.0.16695.4|1.0.16900.3|
 |intel-media-driver|24.1.5|24.2.3|
-|inxi|3.3.31<br>+2|3.3.31-2|Compound version number '3.3.31+2'|
 |iodine|0.7.0|0.8.0|
 |iosevka-fonts|28.0.5|30.0.1|
 |iozone|3.492|3.506|
