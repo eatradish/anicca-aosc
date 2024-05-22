@@ -942,6 +942,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kalarm|23.08.5|24.02.2|
 |kalgebra|23.08.5|24.02.2|
 |kalk|23.08.5|24.02.2|
+|kalzium|23.08.5|24.02.2|
 |kamera|23.08.5|24.02.2|
 |kamoso|23.08.5|24.02.2|
 |kanagram|23.08.5|24.02.2|
@@ -1960,7 +1961,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |paper-icon-theme|20180816|.1.5.0|Possible downgrade from the current version (20180816   .1.5.0)|
 |paprefs|1.1|1.2|
 |paq8o|9|10t|
-|parallel|20191122|20240422|
+|parallel|20191122|20240522|
 |paramiko|2.10.3|3.4.0|
 |pari|2.13.1|2.15.5|
 |parley|23.08.5|24.02.2|
