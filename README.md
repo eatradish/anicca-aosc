@@ -177,7 +177,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |borgbackup|1.1.17|1.2.8|
 |botan|1.10.17|3.4.0|
 |botan-2|2.12.1|3.4.0|
-|boto3|1.20.26|1.34.110|
+|boto3|1.20.26|1.34.111|
 |bottle|0.12.18|0.12.25|
 |bottles|2022.2.28<br>+trento<br>+4|51.11|Compound version number '2022.2.28+trento+4'<br>Possible downgrade from the current version (2022.2.28+trento+4   51.11)|
 |bovo|23.08.5|24.02.2|
@@ -1712,9 +1712,9 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |menumaker|0.99.12|0.99.14|
 |mercurial|5.2.1|6.7.3|
 |merkuro|23.08.5|24.02.2|
-|mesa|24.0.7<br>+dxheaders1.613.1|24.0.8|Compound version number '24.0.7+dxheaders1.613.1'|
-|mesa+32|22.1.7|24.0.8|
-|mesa-amber|21.3.9|24.0.8|
+|mesa|24.0.7<br>+dxheaders1.613.1|24.1.0|Compound version number '24.0.7+dxheaders1.613.1'|
+|mesa+32|22.1.7|24.1.0|
+|mesa-amber|21.3.9|24.1.0|
 |messagelib|23.08.5|24.02.2|
 |metacity|3.44.0|3.46.0|
 |mgba|0.9.2|0.10.3|
@@ -1722,7 +1722,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mihomo|1.18.4|1.18.5|
 |milkytracker|1.02.00|1.04.00|
 |milou|5.27.11|6.0.5|
-|mimalloc|2.1.2|2.1.6|
+|mimalloc|2.1.2|2.1.7|
 |mime-types|9|99|
 |minetest|5.7.0<br>+irrlicht1.9.0mt10|5.8.0|Compound version number '5.7.0+irrlicht1.9.0mt10'|
 |mingw+w64|8.0.0|11.0.1|
@@ -1770,7 +1770,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mstflint|4.28.0<br>+1|4.28.0-1|Compound version number '4.28.0+1'|
 |mtd-utils|2.1.5|2.2.0|
 |mtdev|1.1.6|1.1.7|
-|muffin|5.8.0|6.0.1|
 |mugshot|0.4.1|0.4.3|
 |multipath-tools|0.9.3|0.9.8|
 |munkres|1.0.12|release-1.1.4|
@@ -2440,7 +2439,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rinutils|0.4.1|0.10.2|
 |rlvm|0.14<br>+git20220404|0.14|Compound version number '0.14+git20220404'<br>Version number indicates a snapshot (+git) is used|
 |rlwrap|0.43|0.46.1|
-|rng-tools|6.7|6.16|
 |robin-hood-hashing|3.11.4|3.11.5|
 |rockbox-utility|3.15<br>+final|3.15-final|Compound version number '3.15+final'|
 |rocm-bandwidth-test|6.0.2|6.1.1|
@@ -2804,7 +2802,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tre|20161208|0.8.0|Possible downgrade from the current version (20161208   0.8.0)|
 |trio|0.24.0|0.25.1|
 |trollius|2.1|2.2.1|
-|trove-classifiers|2024.1.31|2024.5.17|
+|trove-classifiers|2024.1.31|2024.5.22|
 |tslib|1.21|1.23|
 |ttf-misaki|2021.05.05|2021-05-05|
 |ttf-tibetan-machine-unicode|1.901b|1.901|
