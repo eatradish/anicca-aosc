@@ -331,7 +331,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cssselect2|0.6.0|0.7.0|
 |cssutils|1.0.2|2.11.0|
 |ctags|20191203|6.1.20240519.0|Possible downgrade from the current version (20191203   6.1.20240519.0)|
-|cuda|12.4.0<br>+550.54.14|12.5.0|Compound version number '12.4.0+550.54.14'|
+|cuda|12.5.0<br>+555.42.02|12.5.0|Compound version number '12.5.0+555.42.02'<br>Possible downgrade from the current version (12.5.0+555.42.02   12.5.0)|
 |cunit|2.1<br>+3|2.1-3|Compound version number '2.1+3'|
 |cups|2.4.7|2.4.8|
 |cups+32|2.3.3|2.4.8|
@@ -1067,6 +1067,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ki18n|5.115.0|6.0.5|
 |kiconthemes|5.115.0|6.0.5|
 |kid3|3.8.3|3.9.5|
+|kidentitymanagement|23.08.5|24.02.2|
 |kidletime|5.115.0|6.0.5|
 |kig|23.08.5|24.02.2|
 |kigo|23.08.5|24.02.2|
@@ -1848,6 +1849,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |npth|1.6|1.7|
 |nsd|4.7.0|4_9_1_REL|
 |nsgenbind|0.8|0.9|
+|nspr+32|4.24|4.35|
 |nss+32|3.78|3.100|
 |nss-mdns|0.14.1|0.15.1|
 |nufraw|0.43<br>+3|0.42|Compound version number '0.43+3'<br>Possible downgrade from the current version (0.43+3   0.42)|
@@ -1889,7 +1891,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |opencascade|7.6.3|7.8.0|
 |opencc|1.1.3|1.1.7|
 |opencl-clang|17.0.0|18.1.0|
-|opencl-registry-api|2022.01.04|2024.05.08|
 |opencolorio|2.1.2|2.3.2|
 |openconnect|8.10|9.12|
 |opencore-amr|0.1.5|0.1.6|
@@ -2207,6 +2208,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pluggy|1.0.0|1.5.0|
 |plymouth|22.02.122|24.004.60|
 |plymouth-kcm|5.27.11|6.0.5|
+|pmac-utils|1.1.3|1.1.3.orig|Possible downgrade from the current version (1.1.3   1.1.3.orig)|
 |pngquant|2.12.6|3.0.3|
 |pnpm|8.15.5|9.1.2|
 |po-debconf|1.0.21|1.0.21+nmu1|Possible downgrade from the current version (1.0.21   1.0.21+nmu1)|
@@ -2369,6 +2371,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pythondialog|3.3.0|3.5.3|
 |pytools|2019.1|2024.1.3|
 |pytz|2021.1|2024.1|
+|pyudev|0.24.1|0.24.3|
 |pyusb|1.0.2|1.2.1|
 |pyutil|3.3.0|3.3.6|
 |pywbem|0.13.0|1.7.2|
@@ -2394,7 +2397,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qt-5|5.15.13<br>+webengine5.15.16<br>+webkit5.212.0<br>+kde20240408|5.15.13-lts-lgpl|Compound version number '5.15.13+webengine5.15.16+webkit5.212.0+kde20240408'<br>Possible downgrade from the current version (5.15.13+webengine5.15.16+webkit5.212.0+kde20240408   5.15.13-lts-lgpl)|
 |qt-6|6.7.0|6.7.1|
 |qt4-tqt-theme-engine-trinity|14.1.0|14.1.2|
-|qtcreator|12.0.1|13.0.1|
 |qtkeychain|0.13.2|0.14.3|
 |qtpy|2.1.0|2.4.1|
 |qtractor|0.9.23|0.9.91|
@@ -2415,7 +2417,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |razor-agents|2.85|2.152|
 |rb-inotify|0.10.1|0.11.1|
 |rbw|1.10.1|1.10.2|
-|rclone|1.65.2|1.66.0|
 |rcm|1.3.4|1.3.6|
 |rdflib|6.2.0|7.0.0|
 |rdiscount|2.2.0.2|2.2.7.3|
@@ -2626,7 +2627,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |spirv-tools|1.3.275.0|2024.1|
 |spread-sheet-widget|0.3|0.10|
 |sqlalchemy|1.2.18|2.0.30|
-|sqlcipher|4.5.6|4.5.7|
+|sqlcipher|4.5.6|4.6.0|
 |sqlite|3.45.1|3.45.3|
 |sqlite+32|3.32.3|3.45.3|
 |sqlite-fdw|2.1.0|2.4.0|
@@ -2636,7 +2637,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |squashfs-tools|4.5|4.6.1|
 |squashfuse|0.1.105|0.5.2|
 |squid|5.7|6.9|
-|sra-tools|3.0.3|3.1.0|
+|sra-tools|3.0.3|3.1.1|
 |srain|1.5.1|1.7.0|
 |sratom|0.6.4|0.6.16|
 |srecord|1.64|1.65.0|
@@ -2699,6 +2700,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tarsnap|1.0.39|1.0.40|
 |taskwarrior|2.6.2|3.0.2|
 |tastymenu-trinity|14.1.0|14.1.2|
+|tbb|2021.11.0|2021.12.0|
 |tbb+32|4.4u4|2021.12.0|
 |tcl|8.6.10|8.6.14|
 |tcl+32|8.6.10|8.6.14|
