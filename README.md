@@ -335,7 +335,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cunit|2.1<br>+3|2.1-3|Compound version number '2.1+3'|
 |cups|2.4.7|2.4.8|
 |cups+32|2.3.3|2.4.8|
-|curl+32|8.6.0|8.7.1|
+|curl|8.7.1|8.8.0|
+|curl+32|8.6.0|8.8.0|
 |curtsies|0.3.4|0.4.2|
 |cycler|0.10.0|0.12.1|
 |cymem|2.0.5|2.0.8|
@@ -2417,6 +2418,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |razor-agents|2.85|2.152|
 |rb-inotify|0.10.1|0.11.1|
 |rbw|1.10.1|1.10.2|
+|rclone|1.65.2|1.66.0|
 |rcm|1.3.4|1.3.6|
 |rdflib|6.2.0|7.0.0|
 |rdiscount|2.2.0.2|2.2.7.3|
