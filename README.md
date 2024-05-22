@@ -562,7 +562,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |freetds|1.00.112|1.4.19|
 |freetype|2.12.1|2.13.2|
 |freetype+32|2.12.1|2.13.2|
-|freexl|1.0.5|2.0.0|
 |frei0r-plugins|2.2.0|2.3.2|
 |frescobaldi|3.2|3.3.0|
 |fribidi|1.0.10|1.0.14|
@@ -2080,7 +2079,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-http-daemon|6.01|6.16|
 |perl-http-date|6.02|6.06|
 |perl-http-message|6.11|6.45|
-|perl-image-exiftool|12.50|12.84|
+|perl-image-exiftool|12.50|12.85|
 |perl-io-socket-inet6|2.72|2.73|
 |perl-io-socket-ssl|2.062|2.085|
 |perl-io-tee|0.65|0.66|
@@ -2156,7 +2155,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-xml-sax|1.00|1.02|
 |perl-xml-sax-expat|0.51|1.33|
 |perl-xml-xpath|1.44|1.48|
-|perl-yaml-libyaml|0.85|0.89|
 |perl-yaml-tiny|1.73|1.74|
 |perl4-corelibs|0.004|0.005|
 |pexpect|4.8.0|4.9.0|
@@ -3054,7 +3052,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |znc|1.8.2|1.9.0|
 |zope-component|4.4.1|6.0|
 |zope-event|4.3.0|5.0|
-|zope-interface|5.4.0|6.4|
+|zope-interface|5.4.0|6.4.post0|
 |zotero|6.0.26|6.0.37|
 |zram-generator|1.1.1|1.1.2|
 |zshdb|1.1.3|1.1.4|
