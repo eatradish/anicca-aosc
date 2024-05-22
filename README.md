@@ -340,6 +340,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cymem|2.0.5|2.0.8|
 |cython-0.29|0.29.36|3.0.10|
 |czmq|4.2.0|4.2.1|
+|damo|1.0.9|2.3.5|
 |dante|1.4.2|1.4.3|
 |dar|2.7.13|2.7.14|
 |darkhttpd|1.13|1.16|
@@ -941,7 +942,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kalarm|23.08.5|24.02.2|
 |kalgebra|23.08.5|24.02.2|
 |kalk|23.08.5|24.02.2|
-|kalzium|23.08.5|24.02.2|
 |kamera|23.08.5|24.02.2|
 |kamoso|23.08.5|24.02.2|
 |kanagram|23.08.5|24.02.2|
@@ -1160,6 +1160,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kooldock-trinity|14.1.0|14.1.2|
 |kopeninghours|23.08.5|24.02.2|
 |kopete|23.08.5|24.02.2|
+|kopete-otr-trinity|14.1.0|14.1.2|
 |korganizer|23.08.5|24.02.2|
 |kosmindoormap|23.08.5|24.02.2|
 |kpackage|5.115.0|6.0.5|
@@ -1478,6 +1479,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libqofono|0.98|0.122|
 |libqtxdg|3.6.0|4.0.0|
 |libquotient|0.8.1.2|0.8.2|
+|libraw|0.20.0|0.21.2|
 |librcc|0.2.12|0.2.13|
 |libreoffice|7.5.4.2|24.2.4.1|
 |librevenge|0.0.4|0.0.5|
@@ -1684,6 +1686,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |markupsafe|2.1.1|2.1.5|
 |marshmallow|3.20.2|3.21.2|
 |mat2|0.13.0|0.6.1|Possible downgrade from the current version (0.13.0   0.6.1)|
+|mate-control-center|1.28.0|1.28.1|
 |materialx|1.38.8|1.38.10|
 |mathemagics-trinity|14.1.0|14.1.2|
 |mathjax|2.7.5|3.2.2|
