@@ -146,6 +146,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |baobab|42.0|46.0|
 |bash|5.2.26|5.2.21|Possible downgrade from the current version (5.2.26   5.2.21)|
 |bash-completion|2.13.0|2.14.0|
+|bash-startup|0.6.6|0.6.5|Possible downgrade from the current version (0.6.6   0.6.5)|
 |basket-trinity|14.1.0|14.1.2|
 |bcachefs-tools|1.6.4|1.7.0|
 |bcftools|1.10.2|1.20|
@@ -1259,7 +1260,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ladish|20200418|1.2|Possible downgrade from the current version (20200418   1.2)|
 |lash|0.6.0~rc2|0.5.4|Possible downgrade from the current version (0.6.0~rc2   0.5.4)|
 |layer-shell-qt|5.27.11|6.0.5|
-|lazarus|3.2|2.2.6-0|Possible downgrade from the current version (3.2   2.2.6-0)|
 |lazy-object-proxy|1.7.1|1.10.0|
 |lcms2|2.14|2.16|
 |lcms2+32|2.9|2.16|
@@ -1305,7 +1305,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libcdr|0.1.6|0.1.7|
 |libcgroup|2.0|3.1.0|
 |libchamplain|0.12.20|0.12.21|
-|libchewing|0.5.1|0.8.1|
+|libchewing|0.5.1|0.8.2|
 |libclc|17.0.3|18.1.6|
 |libcloudproviders|0.3.1|0.3.6|
 |libcmis|0.5.2|0.6.2|
