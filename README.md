@@ -231,7 +231,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cdrdao|1.2.4|1.2.5|
 |celluloid|0.18|0.26|
 |cerberus|1.3.2|1.3.5|
-|cereal|1.3.0|1.3.2|
 |certbot|2.5.0|2.10.0|
 |certbot-apache|2.5.0|2.10.0|
 |certbot-dns-cloudflare|2.5.0|2.10.0|
@@ -577,7 +576,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gammaray|2.11.2|3.0.0|
 |gap|4.10.2|4.13.0|
 |gaupol|1.7|1.14.1|
-|gawk|5.2.1|5.3.0|
 |gc|8.2.6|8.2.4|Possible downgrade from the current version (8.2.6   8.2.4)|
 |gcab|1.1|1.6|
 |gcc|13.2.0|14.1.0|
@@ -769,7 +767,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gtkmm-3|3.24.6|3.24.9|
 |gtkmm-4|4.0.2|4.14.4|
 |gtksourceview-4|4.8.3|4.8.4|
-|gtkspell3|3.0.9|3.0.10|
 |gtkspellcheck|4.0.5|5.0.3|
 |gtranslator|42.0|46.1|
 |gucharmap|15.1.3|15.1.4|
@@ -805,7 +802,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |herbstluftwm|0.7.2|0.9.5|
 |hexchat|2.16.1|2.16.2|
 |hfsprogs|332.25|667.100.2|
-|hicolor-icon-theme|0.17|0.18|
 |highlight|4.2|4.10|
 |highway|1.0.2|1.1.0|
 |hitori|3.38.4|44.0|
@@ -1740,7 +1736,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mitmproxy|7.0.4|10.3.0|
 |mjpegtools|2.1.0|2.2.1|
 |mjpegtools+32|2.1.0|2.2.1|
-|mkvtoolnix|79.0|84.0|
 |mldonkey|3.1.7<br>+2<br>+git20210505|3-1-7-2|Compound version number '3.1.7+2+git20210505'<br>Version number indicates a snapshot (+git) is used|
 |mlt|7.22.0|7.24.0|
 |mlterm|3.8.9|3.9.3|
@@ -1772,7 +1767,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |msgpack-c++|6.1.0|6.1.1|
 |msitools|0.101|0.103|
 |msr-tools|20170320|1.3|Possible downgrade from the current version (20170320   1.3)|
-|mstflint|4.25.0<br>+1|4.28.0-1|Compound version number '4.25.0+1'|
+|mstflint|4.28.0<br>+1|4.28.0-1|Compound version number '4.28.0+1'|
 |mtd-utils|2.1.5|2.2.0|
 |mtdev|1.1.6|1.1.7|
 |muffin|5.8.0|6.0.1|
@@ -2028,7 +2023,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-datetime|1.52|1.65|
 |perl-datetime-format-strptime|1.77|1.79|
 |perl-datetime-locale|1.26|1.42|
-|perl-datetime-timezone|2.39|2.62|
 |perl-dbd-mysql|4.050|5.005|
 |perl-dbd-sqlite|1.63<br>+03|1.74|Compound version number '1.63+03'|
 |perl-dbi|1.642|1.643|
@@ -2046,12 +2040,10 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-error|0.17027|0.17029|
 |perl-ev|4.25|4.34|
 |perl-exception-class|1.44|1.45|
-|perl-exporter-tiny|1.001<br>+001|1.006002|Compound version number '1.001+001'|
 |perl-extutils-config|0.008|0.009|
 |perl-extutils-depends|0.405|0.8001|
 |perl-extutils-installpaths|0.012|0.013|
 |perl-fcgi|0.78|0.82|
-|perl-ffi-checklib|0.25|0.31|
 |perl-file-basedir|0.08|0.09|
 |perl-file-copy-recursive|0.44|0.45|
 |perl-file-listing|6.04|6.16|
@@ -2205,7 +2197,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |plasmatube|23.08.5|24.02.2|
 |platformdirs|2.5.2|4.2.2|
 |pluggy|1.0.0|1.5.0|
-|plymouth|22.02.122|24.004.60|
 |plymouth-kcm|5.27.11|6.0.5|
 |pmac-utils|1.1.3|1.1.3.orig|Possible downgrade from the current version (1.1.3   1.1.3.orig)|
 |pngquant|2.12.6|3.0.3|
@@ -2505,7 +2496,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sbcl|2.4.3|2.4.4|
 |sbsigntool|0.9.4|0.9.5|
 |scandir|1.9.0|1.10.0|
-|scapy|2.4.4|2.5.0|
 |sccache|0.3.3|0.8.0|
 |scdoc|1.11.2|1.11.3|
 |schema|0.7.5|0.7.7|
@@ -2652,7 +2642,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |stepmania|5.0.12<br>+git20221114|5.0.12|Compound version number '5.0.12+git20221114'<br>Version number indicates a snapshot (+git) is used|
 |sticky|1.16|1.19|
 |stlink|1.7.0|1.8.0|
-|stm32flash|0.6|0.7|
 |stopit|0<br>+git20190827|1.1.2|Compound version number '0+git20190827'<br>Version number indicates a snapshot (+git) is used|
 |stow|2.3.1|2.4.0|
 |strace|6.5|6.9|
