@@ -45,7 +45,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |akregator|23.08.5|24.02.2|
 |alabaster|0.7.12|0.7.16|
 |alacarte|3.44.2|3.52.0|
-|alacritty|0.13.1|0.13.2|
 |allegro|5.2.6.0|5.2.9.1|
 |allegro+32|4.4.2|5.2.9.1|
 |alligator|23.08.5|24.02.2|
@@ -74,7 +73,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |apt|2.6.1|2.7.14|
 |aqbanking|6.2.2|6.5.4|
 |arandr|0.1.10|0.1.11|
-|aranym|1.1.0|1_1_0|
 |arc-kde|20180614|20220908|
 |arc-theme|20210412|20221218|
 |arch-install-scripts|28<br>+mirrorlist20231113<br>+pacman6.0.1|28|Compound version number '28+mirrorlist20231113+pacman6.0.1'|
@@ -2056,7 +2054,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-ffi-checklib|0.25|0.31|
 |perl-file-basedir|0.08|0.09|
 |perl-file-copy-recursive|0.44|0.45|
-|perl-file-listing|6.04|6.16|
 |perl-file-mimeinfo|0.28<br>+03|0.35|Compound version number '0.28+03'|
 |perl-file-next|1.16|1.18|
 |perl-file-sharedir|1.116|1.118|
@@ -2622,7 +2619,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sphinxcontrib-htmlhelp|2.0.0|2.0.5|
 |sphinxcontrib-qthelp|1.0.3|1.0.7|
 |sphinxcontrib-serializinghtml|1.1.5|1.1.10|
-|sphinxcontrib-websupport|1.2.4|1.2.7|
 |spim|9.1.23|9.1.24|
 |spirv-headers|1.3.280.0|1.5.4.raytracing.fixed|
 |spirv-llvm-translator|17.0.0|18.1.0|
@@ -2673,7 +2669,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |superslicer|2.5.59.8|2.5.59.10|
 |sushi|42.0|46.0|
 |svgpart|23.08.5|24.02.2|
-|svt-av1|2.0.0|2.1.0|
 |sweeper|23.08.5|24.02.2|
 |swell-foop|41.1|46.0|
 |swig|4.1.1|4.2.1|
@@ -2806,6 +2801,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tqdm|4.62.3|4.66.4|
 |tqt3|14.1.0|14.1.2|
 |tqtinterface|14.1.0|14.1.2|
+|trace-cmd|2.8.3|3.2|
 |tracker-miners|3.3.1|3.7.3|
 |traitlets|5.0.5|5.14.3|
 |transcode|1.1.7|1_1_7|
