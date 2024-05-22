@@ -562,6 +562,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |freetds|1.00.112|1.4.19|
 |freetype|2.12.1|2.13.2|
 |freetype+32|2.12.1|2.13.2|
+|freexl|1.0.5|2.0.0|
 |frei0r-plugins|2.2.0|2.3.2|
 |frescobaldi|3.2|3.3.0|
 |fribidi|1.0.10|1.0.14|
@@ -2155,6 +2156,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-xml-sax|1.00|1.02|
 |perl-xml-sax-expat|0.51|1.33|
 |perl-xml-xpath|1.44|1.48|
+|perl-yaml-libyaml|0.85|0.89|
 |perl-yaml-tiny|1.73|1.74|
 |perl4-corelibs|0.004|0.005|
 |pexpect|4.8.0|4.9.0|
@@ -2804,7 +2806,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tqdm|4.62.3|4.66.4|
 |tqt3|14.1.0|14.1.2|
 |tqtinterface|14.1.0|14.1.2|
-|trace-cmd|2.8.3|3.2|
 |tracker-miners|3.3.1|3.7.3|
 |traitlets|5.0.5|5.14.3|
 |transcode|1.1.7|1_1_7|
