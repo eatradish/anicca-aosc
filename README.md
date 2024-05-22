@@ -877,6 +877,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |intel-compute-runtime|24.17.29377.6|24.17.29377.8|
 |intel-graphics-compiler|1.0.16695.4|1.0.16900.3|
 |intel-media-driver|24.1.5|24.2.3|
+|inxi|3.3.31<br>+2|3.3.31-2|Compound version number '3.3.31+2'|
 |iodine|0.7.0|0.8.0|
 |iosevka-fonts|28.0.5|30.0.1|
 |iozone|3.492|3.506|
@@ -1481,7 +1482,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libquotient|0.8.1.2|0.8.2|
 |libraw|0.20.0|0.21.2|
 |librcc|0.2.12|0.2.13|
-|libreoffice|7.5.4.2|24.2.3.2|
+|libreoffice|7.5.4.2|24.2.4.1|
 |librevenge|0.0.4|0.0.5|
 |librsvg|2.56.1|2.58.91|
 |librsvg+32|2.40.21|2.58.91|
@@ -1711,9 +1712,9 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |menumaker|0.99.12|0.99.14|
 |mercurial|5.2.1|6.7.3|
 |merkuro|23.08.5|24.02.2|
-|mesa|24.0.7<br>+dxheaders1.613.1|24.0.7|Compound version number '24.0.7+dxheaders1.613.1'|
-|mesa+32|22.1.7|24.0.7|
-|mesa-amber|21.3.9|24.0.7|
+|mesa|24.0.7<br>+dxheaders1.613.1|24.0.8|Compound version number '24.0.7+dxheaders1.613.1'|
+|mesa+32|22.1.7|24.0.8|
+|mesa-amber|21.3.9|24.0.8|
 |messagelib|23.08.5|24.02.2|
 |metacity|3.44.0|3.46.0|
 |mgba|0.9.2|0.10.3|
