@@ -1304,7 +1304,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libcaldav|14.1.0|14.1.2|
 |libcamera|0.2.0|0.3.0|
 |libcap|2.69|2.70|
-|libcap+32|2.31|2.70|
 |libcap-ng|0.7.11|0.8.5|
 |libcarddav|14.1.0|14.1.2|
 |libcbor|0.8.0|0.11.0|
@@ -1580,7 +1579,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libwpg|0.3.3|0.3.4|
 |libwww-perl|6.33|6.77|
 |libx86|1.1|3.5|
-|libx86emu|3.1|3.5|
 |libxau+32|1.0.9|1.0.11|
 |libxaw3d|1.6.3|1.6.6|
 |libxcb|1.16.1|1.17.0|
