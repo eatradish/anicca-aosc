@@ -467,7 +467,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |epub2txt|0.1.4<br>+git20200105|0.1.6|Compound version number '0.1.4+git20200105'<br>Version number indicates a snapshot (+git) is used|
 |et-xmlfile|1.0.1|1.1.0|
 |etckeeper|1.18.20|1.18.21|
-|ethtool|6.0|6.7|
+|ethtool|6.0|6.9|
 |etl|1.2.2|1.5.1|
 |eudev+32|3.1.5|3.2.14|
 |eventviews|23.08.5|24.05.0|
@@ -535,6 +535,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fluidsynth|2.0.5|2.3.5|
 |fluidsynth+32|1.1.6|2.3.5|
 |folks|0.15.5|0.15.9|
+|font-awesome|6.5.1|6.5.2|
 |fontconfig|2.14.0|2.15.0|
 |fontconfig+32|2.14.0|2.15.0|
 |fonttools|4.47.2|4.51.0|
@@ -784,7 +785,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hashcat|6.2.6|24.4.28|
 |hatch-fancy-pypi-readme|22.8.0|24.1.0|
 |hatch-vcs|0.3.0|0.4.0|
-|hatchling|1.21.1|1.11.0|Possible downgrade from the current version (1.21.1   1.11.0)|
+|hatchling|1.21.1|1.11.1|Possible downgrade from the current version (1.21.1   1.11.1)|
 |haveged|1.9.13|1.9.18|
 |hddtemp|0.3.52|0.4.3|
 |hdf5|1.10.5|1.14.4.1|
@@ -1462,7 +1463,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libpng-1.6+32|1.6.37|1.6.43|
 |libportal|0.6|0.7.1|
 |libpqxx|6.4.5|7.9.0|
-|libpwquality|1.4.2|1.4.5|
 |libqaccessibilityclient|0.4.1|0.6.0|
 |libqalculate|4.5.1|5.1.1|
 |libqmi|1.30.8|1.34.0|
@@ -1916,7 +1916,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |orc+32|0.4.32|0.4.38|
 |orca|42.3|46.1|
 |osdlyrics|20190407|0.5.15|Possible downgrade from the current version (20190407   0.5.15)|
-|osinfo-db|20230719|20240510|
+|osinfo-db|20230719|20240523|
 |osinfo-db-tools|1.10.0|1.11.0|
 |ostree|2023.1|2024.6|
 |osu-lazer|2024.412.1|2024.521.2|
@@ -2747,7 +2747,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tint2|16.7|17.0.2|
 |tinycdb|0.78|0.81|
 |tinycss2|1.0.2|1.3.0|
-|tinyproxy|1.11.1|1.11.2|
 |tk|8.6.10|8.6.14|
 |tk+32|8.6.10|8.6.14|
 |tl-expected|1.0.0|1.1.0|
