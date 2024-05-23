@@ -535,7 +535,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fluidsynth|2.0.5|2.3.5|
 |fluidsynth+32|1.1.6|2.3.5|
 |folks|0.15.5|0.15.9|
-|font-awesome|6.5.1|6.5.2|
 |fontconfig|2.14.0|2.15.0|
 |fontconfig+32|2.14.0|2.15.0|
 |fonttools|4.47.2|4.51.0|
@@ -2967,7 +2966,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xmlsec|1.2.36|1.3.4|
 |xournalpp|1.1.3|1.2.3|
 |xpra|5.0.8|6.0|
-|xray|1.8.4|1.8.11|
+|xray|1.8.4|1.8.13|
 |xray-plugin|1.8.11|1.8.12|
 |xreader|3.8.5|4.0.2|
 |xsd|4.1.0~alpha11|4.0.0|Possible downgrade from the current version (4.1.0~alpha11   4.0.0)|
