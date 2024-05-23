@@ -330,6 +330,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cssutils|1.0.2|2.11.0|
 |ctags|20191203|6.1.20240519.0|Possible downgrade from the current version (20191203   6.1.20240519.0)|
 |cuda|12.5.0<br>+555.42.02|12.5.0|Compound version number '12.5.0+555.42.02'<br>Possible downgrade from the current version (12.5.0+555.42.02   12.5.0)|
+|cunit|2.1<br>+3|2.1-3|Compound version number '2.1+3'|
 |cups|2.4.7|2.4.8|
 |cups+32|2.3.3|2.4.8|
 |curl|8.7.1|8.8.0|
@@ -1342,7 +1343,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libexif|0.6.22|0.6.24|
 |libexif+32|0.6.22|0.6.24|
 |libexttextcat|3.4.5|3.4.6|
-|libfdk-aac|2.0.1|2.0.3|
 |libffado|2.4.4|2.4.8|
 |libffi|3.4.4|3.4.6|
 |libffi+32|3.4.2|3.4.6|
@@ -1445,7 +1445,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libnl|3.5.0|3.9.0|
 |libnl+32|3.2.28|3.9.0|
 |libnotify|0.7.9|0.8.3|
-|libnsl2|1.3.0|2.0.1|
 |libnspsl|0.1.6|0.1.7|
 |libnumbertext|1.0.7|1.0.11|
 |libnvme|1.6|1.9|
