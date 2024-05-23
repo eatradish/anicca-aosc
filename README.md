@@ -826,6 +826,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hyper-h2|4.0.0|4.1.0|
 |hyperframe|6.0.0|6.0.1|
 |hyperlink|19.0.0|21.0.0|
+|hypothesis-python|6.97.4|6.102.5|
 |hysteria|2.4.0|2.4.4|
 |i2c-tools|4.1|4.3|
 |i2pd|2.41.0|2.52.0|
@@ -2350,6 +2351,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pytz|2021.1|2024.1|
 |pyudev|0.24.1|0.24.3|
 |pyusb|1.0.2|1.2.1|
+|pyutil|3.3.0|3.3.6|
 |pywbem|0.13.0|1.7.2|
 |pyx|0.14.1|0.16|
 |pyxattr|0.6.1|0.8.1|
@@ -2977,6 +2979,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xournalpp|1.1.3|1.2.3|
 |xpra|5.0.8|6.0|
 |xray|1.8.4|1.8.11|
+|xray-plugin|1.8.11|1.8.12|
 |xreader|3.8.5|4.0.2|
 |xsd|4.1.0~alpha11|4.0.0|Possible downgrade from the current version (4.1.0~alpha11   4.0.0)|
 |xsel|1.2.0|1.2.1|
