@@ -734,7 +734,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gsasl|1.8.1|2.2.1|
 |gsettings-desktop-schemas|42.0|46.0|
 |gsl|2.5|2.7.1|
-|gsm|1.0.19|1.0.22|
 |gsm+32|1.0.19|1.0.22|
 |gsmartcontrol|1.1.3|1.1.4|
 |gsoap|2.8.124|2.8.134|
@@ -1487,6 +1486,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libsidplay|1.36.59|2.1.1|
 |libsidplay+32|1.36.59|2.1.1|
 |libsidplayfp|1.8.8|2.7.1|
+|libsigc++|2.10.8|3.6.0|
 |libsigc++-3.0|3.4.0|3.6.0|
 |libsigsegv|2.12|2.14|
 |libslirp|4.6.1|4.8.0|
