@@ -181,7 +181,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |bottle|0.12.18|0.12.25|
 |bottles|2022.2.28<br>+trento<br>+4|51.11|Compound version number '2022.2.28+trento+4'<br>Possible downgrade from the current version (2022.2.28+trento+4   51.11)|
 |bovo|23.08.5|24.02.2|
-|bpftrace|0.20.3|0.20.4|
 |breeze|5.27.11|6.0.5|
 |breeze-grub|5.27.11|6.0.5|
 |breeze-gtk|5.27.11|6.0.5|
@@ -563,7 +562,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |freexl|1.0.5|2.0.0|
 |frei0r-plugins|2.2.0|2.3.2|
 |frescobaldi|3.2|3.3.0|
-|fribidi|1.0.10|1.0.14|
 |fribidi+32|1.0.10|1.0.14|
 |functools32|3.2.3<br>+2|3.2.3-2|Compound version number '3.2.3+2'|
 |fuse-exfat|1.3.0|1.4.0|
@@ -699,7 +697,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-weather|42.0|46.0|
 |gnote|42.1|46.0|
 |gnu-efi|3.0.14|3.0.18|
-|gnupg|2.4.4|2.4.5|
 |gnustep-base|1.28.0|1_29_0|
 |gnustep-make|2.9.0|2_9_1|
 |gnutls|3.8.4|3.8.5|
@@ -1313,7 +1310,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libcork|1.0.0~rc3|0.15.0|Possible downgrade from the current version (1.0.0~rc3   0.15.0)|
 |libcpuid|0.5.1|0.6.5|
 |libcuckoo|0.3|0.3.1|
-|libdatrie|0.2.12|0.2.13|
 |libdc1394|2.2.6|2.2.7|
 |libde265|1.0.8|1.0.15|
 |libdecor|0.1.1|0.2.2|
@@ -1343,6 +1339,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libexif|0.6.22|0.6.24|
 |libexif+32|0.6.22|0.6.24|
 |libexttextcat|3.4.5|3.4.6|
+|libfdk-aac|2.0.1|2.0.3|
 |libffado|2.4.4|2.4.8|
 |libffi|3.4.4|3.4.6|
 |libffi+32|3.4.2|3.4.6|
@@ -1417,7 +1414,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libksysguard|5.27.11|6.0.5|
 |libktorrent|23.08.5|24.02.2|
 |liblangtag|0.6.3|0.6.7|
-|liblastfm|1.0.9|1.1.0|
 |liblo|0.29|0.32|
 |liblouis|3.12.0|3.29.0|
 |libltc|1.3.1|1.3.2|
@@ -1445,6 +1441,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libnl|3.5.0|3.9.0|
 |libnl+32|3.2.28|3.9.0|
 |libnotify|0.7.9|0.8.3|
+|libnsl2|1.3.0|2.0.1|
 |libnspsl|0.1.6|0.1.7|
 |libnumbertext|1.0.7|1.0.11|
 |libnvme|1.6|1.9|
@@ -1460,7 +1457,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libp11|0.4.10|0.4.12|
 |libpano13|2.9.19|2.9.22|
 |libpcap+32|1.10.1|1.10.4|
-|libpeas|1.32.0|2.0.2|
 |libpfm|4.12.0|4.13.0|
 |libphonenumber|8.12.17|8.13.37|
 |libpinyin|2.6.0|2.8.1|
@@ -1484,7 +1480,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |librevenge|0.0.4|0.0.5|
 |librsvg|2.56.1|2.58.91|
 |librsvg+32|2.40.21|2.58.91|
-|librsync|2.3.2|2.3.4|
 |librtas|2.0.2|2.0.6|
 |libsamplerate|0.1.9|0.2.2|
 |libsass|3.6.4|3.6.6|
@@ -1609,7 +1604,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |linux-kernel-lts|6.6.31|5.19.17|Possible downgrade from the current version (6.6.31   5.19.17)|
 |linux-kernel-retro|5.10.132|5.10.217|
 |linux-kernel-retro-minimal|5.15.17|5.10.217|Possible downgrade from the current version (5.15.17   5.10.217)|
-|linux-pam|1.6.0|1.6.1|
 |linuxsampler|2.3.0|2.3.1|
 |lirc|0.9.4d|0.10.2|
 |lksctp-tools|1.0.17|1.0.19|
@@ -1640,7 +1634,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lttng-ust|2.13.5|2.13.8|
 |lua-expat|1.4.1|1.5.1|
 |lua-messagepack|0.5.1|0.5.4|
-|lua-socket|3.0<br>+rc1|3.1.0|Compound version number '3.0+rc1'|
 |luafilesystem|1.7.0.2|1_8_0|
 |luajit|2.1.0b3<br>+git20240222|2.0.5|Compound version number '2.1.0b3+git20240222'<br>Version number indicates a snapshot (+git) is used<br>Possible downgrade from the current version (2.1.0b3+git20240222   2.0.5)|
 |luarocks|3.5.0|3.11.0|
@@ -1877,12 +1870,10 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |onig|6.9.5<br>+rev1|6.9.9|Compound version number '6.9.5+rev1'|
 |oolite|1.90|1.91.0.7604-240417-a536cbe|
 |opam|2.1.3|2.1.6|
-|open-iscsi|2.1.8|2.1.9|
 |open-isns|0.101|0.102|
 |open-vm-tools|12.3.5|12.4.0|
 |openblas|0.3.21<br>+git20221105|0.3.27|Compound version number '0.3.21+git20221105'<br>Version number indicates a snapshot (+git) is used|
 |opencascade|7.6.3|7.8.0|
-|opencc|1.1.3|1.1.7|
 |opencl-clang|17.0.0|18.1.0|
 |opencolorio|2.1.2|2.3.2|
 |openconnect|8.10|9.12|
@@ -1937,7 +1928,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |osinfo-db-tools|1.10.0|1.11.0|
 |ostree|2023.1|2024.6|
 |osu-lazer|2024.412.1|2024.521.2|
-|owntone|28.6|28.9|
 |oxygen|5.27.11|6.0.5|
 |oxygen-icons|5.115.0|6.0.5|
 |oxygen-sounds|5.25.3|6.0.5|
@@ -2034,7 +2024,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-email-date-format|1.005|1.008|
 |perl-email-mime|1.946|1.954|
 |perl-email-mime-contenttype|1.022|1.028|
-|perl-email-mime-encodings|1.315|1.317|
 |perl-email-simple|2.216|2.218|
 |perl-error|0.17027|0.17029|
 |perl-ev|4.25|4.34|
@@ -2137,7 +2126,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-uri|1.74|5.28|
 |perl-www-mechanize|1.91|2.18|
 |perl-x11-protocol-other|30|31|
-|perl-xml-libxml|2.0201|2.0210|
 |perl-xml-libxslt|1.96|2.002001|
 |perl-xml-namespacesupport|1.12<br>+9|1.12|Compound version number '1.12+9'<br>Possible downgrade from the current version (1.12+9   1.12)|
 |perl-xml-parser|2.44|2.47|
@@ -2486,7 +2474,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |s3transfer|0.5.0|0.10.1|
 |samba|4.17.2|4.20.1|
 |samtools|1.16.1|1.20|
-|sane-backends|1.0.32|1.3.0|
+|sane-backends|1.0.32|1.3.1|
 |sanlock|3.8.5|3.9.2|
 |sass-listen|4.0.0|3.9.0|Possible downgrade from the current version (4.0.0   3.9.0)|
 |sassc|3.6.1|3.6.2|
@@ -2965,7 +2953,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xclip|20191017|0.13|Possible downgrade from the current version (20191017   0.13)|
 |xcompmgr|1.1.8|1.1.9|
 |xcowsay|1.4|1.6|
-|xdelta|3.0.11|3.1.0|
 |xdg-dbus-proxy|0.1.2|0.1.5|
 |xdg-desktop-portal|1.16.0|1.18.4|
 |xdg-desktop-portal-gnome|42.3|46.1|
