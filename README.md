@@ -442,7 +442,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dsview|1.3.1|1.12|
 |dtc|1.6.0|1.7.0|
 |duktape|2.5.0|2.7.0|
-|dulwich|0.21.6|0.22.1|
 |dune|3.4.1|3.15.2|
 |duplicity|2.2.2|2.2.4|
 |e2fsprogs|1.47.0|1.47.1|
@@ -1841,7 +1840,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nut|2.7.4|2.8.2|
 |nvchecker|1.5|2.14.1|
 |nvidia|550.54.14|555.42.02|
-|nvidia+32|0|555.42.02|
 |nvme-cli|2.6|2.9.1|
 |obs-studio|27.0.0|30.1.2|
 |ocaml|4.14.2|5.2.0|
@@ -2154,7 +2152,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pkginfo|1.5.0.1|1.10.0|
 |pktstat|20160317|1.8.5|Possible downgrade from the current version (20160317   1.8.5)|
 |plank|0.11.89<br>+git20210222|0.11.89|Compound version number '0.11.89+git20210222'<br>Version number indicates a snapshot (+git) is used|
-|plasma-angelfish|22.06|24.04.90|
+|plasma-angelfish|22.06|24.05.0|
 |plasma-browser-integration|5.27.11|6.0.5|
 |plasma-desktop|5.27.11|6.0.5|
 |plasma-disks|5.27.11|6.0.5|
@@ -2522,7 +2520,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |siege|4.0.7|4.1.6|
 |signon|8.60|8.61|
 |signon-kwallet-extension|23.08.5|24.05.0|
-|signon-plugin-oauth2|0.24|0.25|
 |signon-ui|0.17<br>+17.10.20170606|0.15|Compound version number '0.17+17.10.20170606'<br>Possible downgrade from the current version (0.17+17.10.20170606   0.15)|
 |simgear|2020.3.13|2020.3.19|
 |simh|3.11<br>+1|3.12-2|Compound version number '3.11+1'|
@@ -2532,7 +2529,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sing-box|1.8.13|1.8.14|
 |singular|4.1.1|2023.02.09|
 |sip|6.3.1|6.8.3|
-|skanlite|23.08.5|24.04.90|
+|skanlite|23.08.5|24.05.0|
 |skanpage|23.08.5|24.05.0|
 |skktools|1.3.4|1_3_4|
 |slirp4netns|1.2.2|1.3.1|
@@ -2797,7 +2794,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |twolame|0.3.13|0.4.0|
 |twolame+32|0.3.13|0.4.0|
 |txaio|18.8.1|23.1.1|
-|txt2tags|3.7|3.9|
 |txtorcon|19.1.0|23.11.0|
 |typed-ast|1.4.3|1.5.5|
 |typing-extensions|4.7.1|4.12.0a2|
@@ -2984,7 +2980,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xz|5.4.1|5.6.1|
 |xz+32|5.4.1|5.6.1|
 |yad|0.40.0|13.0|
-|yakuake|23.08.5|24.02.2|
+|yakuake|23.08.5|24.05.0|
 |yakuake-trinity|14.1.0|14.1.2|
 |yaml-cpp|0.6.3|0.8.0|
 |yard|0.9.26|0.9.36|
