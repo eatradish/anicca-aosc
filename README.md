@@ -3029,7 +3029,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |znc|1.8.2|1.9.0|
 |zope-component|4.4.1|6.0|
 |zope-event|4.3.0|5.0|
-|zope-interface|5.4.0|6.4.post0|
+|zope-interface|5.4.0|6.4.post1|
 |zotero|6.0.26|6.0.37|
 |zram-generator|1.1.1|1.1.2|
 |zshdb|1.1.3|1.1.4|
