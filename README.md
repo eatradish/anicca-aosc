@@ -442,6 +442,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dsview|1.3.1|1.12|
 |dtc|1.6.0|1.7.0|
 |duktape|2.5.0|2.7.0|
+|dulwich|0.21.6|0.22.1|
 |dune|3.4.1|3.15.2|
 |duplicity|2.2.2|2.2.4|
 |e2fsprogs|1.47.0|1.47.1|
@@ -1840,6 +1841,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nut|2.7.4|2.8.2|
 |nvchecker|1.5|2.14.1|
 |nvidia|550.54.14|555.42.02|
+|nvidia+32|0|555.42.02|
 |nvme-cli|2.6|2.9.1|
 |obs-studio|27.0.0|30.1.2|
 |ocaml|4.14.2|5.2.0|
@@ -2794,6 +2796,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |twolame|0.3.13|0.4.0|
 |twolame+32|0.3.13|0.4.0|
 |txaio|18.8.1|23.1.1|
+|txt2tags|3.7|3.9|
 |txtorcon|19.1.0|23.11.0|
 |typed-ast|1.4.3|1.5.5|
 |typing-extensions|4.7.1|4.12.0a2|
