@@ -522,6 +522,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |flac+32|1.3.3|1.4.3|
 |flask|1.1.2|3.0.3|
 |flask-login|0.4.1|0.6.3|
+|flask-mail|0.9.1|0.10.0|
 |flask-wtf|0.14|1.2.1|
 |flat-remix-gtk-theme|20200718|20220627|
 |flat-remix-icon-theme|20191122|20240201|
@@ -734,6 +735,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gsasl|1.8.1|2.2.1|
 |gsettings-desktop-schemas|42.0|46.0|
 |gsl|2.5|2.7.1|
+|gsm|1.0.19|1.0.22|
 |gsm+32|1.0.19|1.0.22|
 |gsmartcontrol|1.1.3|1.1.4|
 |gsoap|2.8.124|2.8.134|
@@ -2578,7 +2580,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |speex+32|1.2.0|1.2.1|
 |spglib|1.16.2|2.4.0|
 |sphinx|7.0.1|7.3.7|
-|sphinx-press-theme|0.8.0|0.9.1|
 |sphinx-rtd-theme|1.0.0|2.0.0|
 |sphinx-tabs|3.4.1|3.4.5|
 |sphinxbase|5prealpha|0.8|Possible downgrade from the current version (5prealpha   0.8)|
