@@ -176,7 +176,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |borgbackup|1.1.17|1.2.8|
 |botan|1.10.17|3.4.0|
 |botan-2|2.12.1|3.4.0|
-|boto3|1.20.26|1.34.111|
+|boto3|1.20.26|1.34.112|
 |bottle|0.12.18|0.12.25|
 |bottles|2022.2.28<br>+trento<br>+4|51.11|Compound version number '2022.2.28+trento+4'<br>Possible downgrade from the current version (2022.2.28+trento+4   51.11)|
 |bovo|23.08.5|24.05.0|
@@ -821,7 +821,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hyper-h2|4.0.0|4.1.0|
 |hyperframe|6.0.0|6.0.1|
 |hyperlink|19.0.0|21.0.0|
-|hypothesis-python|6.97.4|6.102.5|
+|hypothesis-python|6.97.4|6.102.6|
 |hysteria|2.4.0|2.4.4|
 |i2c-tools|4.1|4.3|
 |i2pd|2.41.0|2.52.0|
@@ -1173,6 +1173,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kquickcharts|5.115.0|6.0.5|
 |kquickimageeditor|0.2.0|0.3.0|
 |kramdown|2.3.1|2.4.0|
+|krb5|1.17.1|1.21.2-final|
 |krb5+32|1.17.1|1.21.2-final|
 |krdc|23.08.5|24.05.0|
 |krecipes-trinity|14.1.0|14.1.2|
@@ -1290,6 +1291,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libcap+32|2.31|2.70|
 |libcap-ng|0.7.11|0.8.5|
 |libcarddav|14.1.0|14.1.2|
+|libcava|0.10.1|0.10.2|
 |libcbor|0.8.0|0.11.0|
 |libcdio+32|0.94|2.1.0|
 |libcdio-paranoia|10.2<br>+2.0.1|2.0.1|Compound version number '10.2+2.0.1'<br>Possible downgrade from the current version (10.2+2.0.1   2.0.1)|
