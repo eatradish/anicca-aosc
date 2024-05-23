@@ -128,7 +128,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |avr-gcc|10.3.1<br>+git20210510|14.1.0|Compound version number '10.3.1+git20210510'<br>Version number indicates a snapshot (+git) is used|
 |avr-libc|2.0.0|2.1.0|
 |avrdude|6.3|7.3|
-|ayatana-indicator-messages|0.8.2|23.10.0|
+|ayatana-indicator-messages|0.8.2|24.5.0|
 |b2sdk|1.14.0|2.3.0|
 |b43-firmware-installer|20160210|019|Possible downgrade from the current version (20160210   019)|
 |b43-tools|0<br>+git20170913|019|Compound version number '0+git20170913'<br>Version number indicates a snapshot (+git) is used|
@@ -596,7 +596,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gdk-pixbuf|2.42.8|2.42.12|
 |gdk-pixbuf+32|2.38.2|2.42.12|
 |gdm|42.0|46.0|
-|gdmd|0.1.0<br>+git20230214|script-0.1.0|Compound version number '0.1.0+git20230214'<br>Version number indicates a snapshot (+git) is used<br>Possible downgrade from the current version (0.1.0+git20230214   script-0.1.0)|
 |gdome2|0.8.1<br>+debian|0.8.1|Compound version number '0.8.1+debian'|
 |geany|2.0|2.0.0|
 |geany-plugins|2.0|2.0.0|
@@ -1985,7 +1984,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-app-cpanminus|1.7044|1.7047|
 |perl-archive-zip|1.64|1.68|
 |perl-authen-sasl|2.1401|2.1700|
-|perl-b-hooks-endofscope|0.24|0.28|
 |perl-cairo|1.106|1.109|
 |perl-canary-stability|2012|2013|
 |perl-cgi|4.47|4.64|
