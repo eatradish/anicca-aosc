@@ -146,7 +146,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |baobab|42.0|46.0|
 |bash|5.2.26|5.2.21|Possible downgrade from the current version (5.2.26   5.2.21)|
 |bash-completion|2.13.0|2.14.0|
-|bash-startup|0.6.6|0.6.5|Possible downgrade from the current version (0.6.6   0.6.5)|
 |basket-trinity|14.1.0|14.1.2|
 |bcachefs-tools|1.6.4|1.7.0|
 |bcftools|1.10.2|1.20|
@@ -155,7 +154,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |beancount|2.2.1|2.3.6|
 |bear|3.1.3|3.1.4|
 |beautifulsoup4|4.10.0|4.12.3|
-|benchmark|1.8.2|1.8.3|
+|benchmark|1.8.2|1.8.4|
 |bibletime-trinity|14.1.0|14.1.2|
 |bigsh0t|2.5.1|2.7|
 |bind|9.18.24|9.16.33|Possible downgrade from the current version (9.18.24   9.16.33)|
@@ -596,6 +595,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gdk-pixbuf|2.42.8|2.42.12|
 |gdk-pixbuf+32|2.38.2|2.42.12|
 |gdm|42.0|46.0|
+|gdmd|0.1.0<br>+git20230214|script-0.1.0|Compound version number '0.1.0+git20230214'<br>Version number indicates a snapshot (+git) is used<br>Possible downgrade from the current version (0.1.0+git20230214   script-0.1.0)|
 |gdome2|0.8.1<br>+debian|0.8.1|Compound version number '0.8.1+debian'|
 |geany|2.0|2.0.0|
 |geany-plugins|2.0|2.0.0|
@@ -1941,7 +1941,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pangomm-2.48|2.50.1|2.52.0|
 |paper-icon-theme|20180816|.1.5.0|Possible downgrade from the current version (20180816   .1.5.0)|
 |paprefs|1.1|1.2|
-|paq8o|9|10t|
 |parallel|20191122|20240522|
 |paramiko|2.10.3|3.4.0|
 |pari|2.13.1|2.15.5|
@@ -1984,6 +1983,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-app-cpanminus|1.7044|1.7047|
 |perl-archive-zip|1.64|1.68|
 |perl-authen-sasl|2.1401|2.1700|
+|perl-b-hooks-endofscope|0.24|0.28|
 |perl-cairo|1.106|1.109|
 |perl-canary-stability|2012|2013|
 |perl-cgi|4.47|4.64|
@@ -2359,7 +2359,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qmltermwidget|0.2.0<br>+git20220109|0.6.0|Compound version number '0.2.0+git20220109'<br>Version number indicates a snapshot (+git) is used|
 |qmmp|1.6.5|2.1.8|
 |qownnotes|22.6.1|24.5.7|
-|qqc2-desktop-style|5.115.0|6.0.5|
 |qrencode|4.0.2|4.1.1|
 |qscintilla|2.13.1|2.14.1|
 |qsynth|0.5.6|0.9.91|
@@ -2595,8 +2594,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |spread-sheet-widget|0.3|0.10|
 |sqlalchemy|1.2.18|2.0.30|
 |sqlcipher|4.5.6|4.6.0|
-|sqlite|3.45.1|3.45.3|
-|sqlite+32|3.32.3|3.45.3|
+|sqlite|3.45.1|3.46.0|
+|sqlite+32|3.32.3|3.46.0|
 |sqlite-fdw|2.1.0|2.4.0|
 |sqlitebrowser|3.12.1|83649a3-3357|
 |sqlmap|1.8.2|1.8.5|
