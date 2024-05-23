@@ -166,7 +166,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |blinker|1.4|1.8.2|
 |bluedevil|5.27.11|6.0.5|
 |bluez|5.75|5.76|
-|bluez-alsa|3.0.0|4.2.0|
+|bluez-alsa|4.1.1|4.2.0|
 |bluez-qt|5.115.0|6.0.5|
 |boinc|7.24.3|8.0/8.0.1|
 |bolt|0.9.7|0.9.8|
@@ -1941,6 +1941,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pangomm-2.48|2.50.1|2.52.0|
 |paper-icon-theme|20180816|.1.5.0|Possible downgrade from the current version (20180816   .1.5.0)|
 |paprefs|1.1|1.2|
+|paq8o|9|10t|
 |parallel|20191122|20240522|
 |paramiko|2.10.3|3.4.0|
 |pari|2.13.1|2.15.5|
@@ -2359,6 +2360,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qmltermwidget|0.2.0<br>+git20220109|0.6.0|Compound version number '0.2.0+git20220109'<br>Version number indicates a snapshot (+git) is used|
 |qmmp|1.6.5|2.1.8|
 |qownnotes|22.6.1|24.5.7|
+|qqc2-desktop-style|5.115.0|6.0.5|
 |qrencode|4.0.2|4.1.1|
 |qscintilla|2.13.1|2.14.1|
 |qsynth|0.5.6|0.9.91|
@@ -2469,7 +2471,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sanlock|3.8.5|3.9.2|
 |sass-listen|4.0.0|3.9.0|Possible downgrade from the current version (4.0.0   3.9.0)|
 |sassc|3.6.1|3.6.2|
-|sbc|1.4|2.0|
 |sbc+32|1.3|2.0|
 |sbcl|2.4.3|2.4.4|
 |sbsigntool|0.9.4|0.9.5|
