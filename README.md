@@ -448,6 +448,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |enchant-2|2.3.1|2.7.3|
 |endeavour|42.0|43.0|
 |enet|1.3.14|1.3.18|
+|entrypoints|0.3|0.4|
 |eog|42.3|45.3|
 |eog-plugins|42.1|44.0|
 |epiphany|42.4|46.0|
@@ -1420,6 +1421,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libnfs-static|4.0.0|5.0.3|
 |libnice|0.1.17|0.1.22|
 |libnl|3.5.0|3.9.0|
+|libnl+32|3.2.28|3.9.0|
 |libnotify|0.7.9|0.8.3|
 |libnsl2|1.3.0|2.0.1|
 |libnspsl|0.1.6|0.1.7|
@@ -2560,7 +2562,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sphinxcontrib-qthelp|1.0.3|1.0.7|
 |sphinxcontrib-serializinghtml|1.1.5|1.1.10|
 |sphinxcontrib-websupport|1.2.4|1.2.7|
-|spim|9.1.23|9.1.24|
 |spirv-headers|1.3.280.0|1.5.4.raytracing.fixed|
 |spirv-llvm-translator|17.0.0|18.1.0|
 |spirv-tools|1.3.275.0|2024.1|
