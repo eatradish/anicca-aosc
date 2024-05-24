@@ -544,7 +544,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |freetds|1.00.112|1.4.19|
 |freetype|2.12.1|2.13.2|
 |freetype+32|2.12.1|2.13.2|
-|freexl|1.0.5|2.0.0|
 |frei0r-plugins|2.2.0|2.3.2|
 |frescobaldi|3.2|3.3.0|
 |fribidi+32|1.0.10|1.0.14|
@@ -1622,8 +1621,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lvm2|2.03.14|2.03.24|
 |lxc|5.0.2|6.0.0|
 |lxcfs|3.0.3|6.0.0|
-|lxgwcleargothic-font|0.300.4|0.310|
-|lxgwnewcleargothic-font|1.121|1.122|
+|lxgwcleargothic-font|0.300.4|0.311|
+|lxgwnewcleargothic-font|1.121|1.123|
 |lxml|4.7.1|4.9.1|
 |lxpanel|0.9.3|0.10.1|
 |lxterminal|0.3.2|0.4.0|
@@ -2519,7 +2518,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |smpeg+32|0.4.5|2_0_0|
 |smplayer|19.10.2|24.5.0|
 |snapd|2.61.2|2.63|
-|snapd-glib|1.63|1.65|
 |snapper-gui|0.1<br>+git20220626|0.1|Compound version number '0.1+git20220626'<br>Version number indicates a snapshot (+git) is used|
 |snappy|1.1.8|1.2.1|
 |sniffio|1.3.0|1.3.1|
@@ -2544,7 +2542,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sozu|0.15.2|1.0.0|
 |spamassassin|3.4.6|4.0.1|
 |spandsp|0.0.6|3.0.0|
-|spdx-licenses|3.11|3.23|
+|spdx-licenses|3.11|3.24.0|
 |spectacle|22.12.3|24.05.0|
 |speech-dispatcher|0.11.2|0.11.5|
 |speedometer|2.8|2.9|
