@@ -74,7 +74,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |arandr|0.1.10|0.1.11|
 |aranym|1.1.0|1_1_0|
 |arc-kde|20180614|20220908|
-|arc-theme|20210412|20221218|
 |arch-install-scripts|28<br>+mirrorlist20231113<br>+pacman6.0.1|28|Compound version number '28+mirrorlist20231113+pacman6.0.1'|
 |archlinux-keyring|20231222|20240520|
 |arduino-avr-core|1.8.3|1.8.6|
@@ -903,7 +902,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |jmol|14.30.0|16.2.15|
 |john|1.8.0|1.9.0|
 |josepy|1.13.0|1.14.0|
-|jq|1.6|1.7.1|
 |json-c|0.16|0.17|
 |json-c+32|0.13.1<br>+20180305|0.17|Compound version number '0.13.1+20180305'|
 |json-glib|1.6.6|1.8.0-actual|
@@ -1704,7 +1702,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mimalloc|2.1.2|2.1.7|
 |mime-types|9|99|
 |minetest|5.7.0<br>+irrlicht1.9.0mt10|5.8.0|Compound version number '5.7.0+irrlicht1.9.0mt10'|
-|mingw+w64|8.0.0|11.0.1|
+|mingw+w64|8.0.2|11.0.1|
 |mini-portile|2.8.0|2.8.6|
 |minicom|2.8|2.9|
 |miniserve|0.26.0|0.27.1|
@@ -1740,7 +1738,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mplayer|1.4|1.5|
 |mplayerthumbs-trinity|14.1.0|14.1.2|
 |mpmath|1.1.0|1.4.0a1|
-|mpv|0.37.0|0.38.0|
 |ms-sys|2.6.0|2.8.0|
 |msgpack-c|6.0.0|6.0.1|
 |msgpack-c++|6.1.0|6.1.1|
@@ -2977,7 +2974,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |yaml-cpp|0.6.3|0.8.0|
 |yard|0.9.26|0.9.36|
 |yarl|1.6.3|1.9.4|
-|yarn|1.22.17|1.22.22|
 |yaspin|1.2.0|3.0.2|
 |yelp|42.1|42.2|
 |yelp-tools|42.0|42.1|
