@@ -1144,7 +1144,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kongress|23.08.5|24.05.0|
 |konqueror|23.08.5|24.05.0|
 |konquest|23.08.5|24.05.0|
-|konsole|23.08.5|24.05.0|
 |kontact|23.08.5|24.05.0|
 |kontactinterface|23.08.5|24.05.0|
 |kontrast|23.08.5|24.05.0|
@@ -1204,6 +1203,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ksquares|23.08.5|24.05.0|
 |ksquirrel-trinity|14.1.0|14.1.2|
 |ksshaskpass|5.27.11|6.0.5|
+|kstars|3.6.7|3.7.0|
 |kstreamripper-trinity|14.1.0|14.1.2|
 |ksudoku|23.08.5|24.05.0|
 |ksystemlog|23.08.5|24.05.0|
@@ -1760,7 +1760,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |munkres|1.0.12|release-1.1.4|
 |muparser|2.2.6.1|2.3.4|
 |mupdf|1.18.0|1.24.2|
-|mutter|42.4|46.1|
 |mxml|3.2|4.0.3|
 |mycli|1.23.2|1.27.2|
 |mygpoclient|1.8|1.9|
@@ -1845,7 +1844,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ocaml|4.14.2|5.2.0|
 |ocaml-csexp|1.5.1|1.5.2|
 |ocaml-graphics|5.1.0|5.1.2|
-|ocaml-integers|0.4.0|0.7.0|
 |ocaml-num|1.3|1.5|
 |ocaml-pp|1.1.2|1.2.0|
 |ocaml-stdlib-shims|0.2.0|0.3.0|
