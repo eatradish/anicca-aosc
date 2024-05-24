@@ -192,7 +192,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |budgie-screensaver|5.0.2|5.1.0|
 |bulky|2.9|3.2|
 |bullet|2.88|3.25|
-|bup|0.30|0.33.3|
 |byobu|5.133|6.12|
 |c-blosc|1.21.3|1.21.5|
 |cabextract|1.9|1.11|
@@ -217,7 +216,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cargo-audit|0.18.1|0.20.0|
 |cargo-c|0.9.24|0.9.32+cargo-0.79.0|
 |cargo-release|0.24.11|0.25.7|
-|cargo-smart-release|0.17.0|0.30.0|
 |catatonit|0.1.7|0.2.0|
 |catch2|2.13.8|3.6.0|
 |cbm|0.2|0.3.2|
@@ -236,7 +234,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |certifi|2020.12.5|2024.2.2|
 |cervisia|23.08.5|24.05.0|
 |cffi|1.15.0|1.16.0|
-|cfitsio|3.450|4.4.0|
 |cgal|5.2|5.6.1|
 |cgns|4.2.0|4.4.0|
 |chardet|3.0.4|5.2.0|
@@ -476,7 +473,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |evtest|1.34|1.35|
 |exceptiongroup|1.2.0|1.2.1|
 |exempi|2.5.1|2.6.5|
-|exiv2|0.27.5|0.28.2|
 |extra-cmake-modules|5.115.0|6.0.5|
 |eyed3|0.9.5|0.9.7|
 |eza|0.11.0|0.10.1|Possible downgrade from the current version (0.11.0   0.10.1)|
@@ -792,6 +788,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hdf5|1.10.5|1.14.4.1|
 |hdrhistogram-c|0.11.6|0.11.8|
 |hdsentinel|0.17|400s|
+|helm|3.15.0|3.15.1|
 |help2man|1.48.1|1.49.3|
 |herbstluftwm|0.7.2|0.9.5|
 |hexchat|2.16.1|2.16.2|
@@ -898,7 +895,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |j4-dmenu-desktop|2.17|2.18|
 |jack|1.9.21|1.9.22|
 |jasper|2.0.21|4.2.4|
-|jbig2dec|0.18|0.20|
 |jdcal|1.4|1.4.1|
 |jedi|0.18.1|0.19.1|
 |jeepney|0.6.0|0.8.0|
@@ -1144,6 +1140,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kongress|23.08.5|24.05.0|
 |konqueror|23.08.5|24.05.0|
 |konquest|23.08.5|24.05.0|
+|konsole|23.08.5|24.05.0|
 |kontact|23.08.5|24.05.0|
 |kontactinterface|23.08.5|24.05.0|
 |kontrast|23.08.5|24.05.0|
@@ -1579,7 +1576,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |liferea|1.13.8|1.15.6|
 |light-locker|1.8.0|1.9.0|
 |lightsoff|40.0.1|46.0|
-|lighttpd|1.4.55|1.4.76|
 |lilv|0.24.12|0.24.24|
 |lilypond|2.23.0|2.25.4|
 |limba|0.5.6|0_5_6|
@@ -1760,6 +1756,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |munkres|1.0.12|release-1.1.4|
 |muparser|2.2.6.1|2.3.4|
 |mupdf|1.18.0|1.24.2|
+|mutter|42.4|46.1|
 |mxml|3.2|4.0.3|
 |mycli|1.23.2|1.27.2|
 |mygpoclient|1.8|1.9|
@@ -2114,7 +2111,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-try-tiny|0.30|0.31|
 |perl-type-serialiser|1.0|1.01|
 |perl-uri|1.74|5.28|
-|perl-www-mechanize|1.91|2.18|
 |perl-x11-protocol-other|30|31|
 |perl-xml-libxslt|1.96|2.002001|
 |perl-xml-namespacesupport|1.12<br>+9|1.12|Compound version number '1.12+9'<br>Possible downgrade from the current version (1.12+9   1.12)|
