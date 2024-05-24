@@ -383,7 +383,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |digikam-trinity|14.1.0|14.1.2|
 |ding-libs|0.6.1|0.6.2|
 |discover|5.27.11|6.0.5|
-|distcc|3.3.5|3.4|
 |distlib|0.3.1|0.3.8|
 |distorm|3.5.1|3.5.2b|
 |distro|1.6.0|1.9.0|
@@ -392,7 +391,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dkms|2.8.3|3.0.13|
 |dlib|19.20.0|19.24.4|
 |dmenu|5.2|5.3|
-|dmidecode|3.5|3.6|
 |dnsdiag|1.6.4|2.1.0|
 |dnsmasq|2.89|2.90|
 |dnspython|2.3.0|2.6.1|
@@ -705,7 +703,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |goffice|0.10.48|0.10.57|
 |goldendict|1.5.0~rc2|1.5.0|
 |gom|0.4|0.5.1|
-|google-api-python-client|1.7.11|2.129.0|
+|google-api-python-client|1.7.11|2.130.0|
 |google-auth|1.6.3|2.29.0|
 |google-auth-httplib2|0.0.4|0.2.0|
 |google-chrome|125.0.6422.60|125.0.6422.112|
@@ -818,7 +816,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hugo|0.123.6|0.126.1|
 |humanize|0.5.1|4.9.0|
 |hunspell|1.7.0|1.7.2|
-|hwdata|0.377|0.382|
 |hwloc|1.11.10|2.10.0|
 |hyper-h11|0.12.0|0.14.0|
 |hyper-h2|4.0.0|4.1.0|
@@ -1207,7 +1204,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ksquares|23.08.5|24.05.0|
 |ksquirrel-trinity|14.1.0|14.1.2|
 |ksshaskpass|5.27.11|6.0.5|
-|kstars|3.6.7|3.7.0|
 |kstreamripper-trinity|14.1.0|14.1.2|
 |ksudoku|23.08.5|24.05.0|
 |ksystemlog|23.08.5|24.05.0|
@@ -1384,7 +1380,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libisoburn|1.5.2|1.5.6|
 |libisofs|1.5.2|1.5.6.pl01|
 |libjcat|0.1.8|0.2.1|
-|libjpeg-turbo|3.0.2|3.0.3|
 |libjpeg-turbo+32|2.0.5|3.0.3|
 |libjxl|0.7.0|0.10.2|
 |libkcddb|23.08.5|24.05.0|
