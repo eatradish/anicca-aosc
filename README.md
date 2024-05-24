@@ -249,7 +249,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |chmlib|0.40a|0.40|
 |chntpw|1.1|140201|
 |chromaprint|1.5.0|1.5.1|
-|chromium|125.0.6422.60|125.0.6422.76|
+|chromium|125.0.6422.60|125.0.6422.112|
 |cifs-utils|6.10|7.0|
 |cinnamon|5.8.3|6.0.4|
 |cinnamon-control-center|5.8.1|6.0.1|
@@ -537,6 +537,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fluidsynth+32|1.1.6|2.3.5|
 |folks|0.15.5|0.15.9|
 |font-awesome|6.5.1|6.5.2|
+|font-manager|0.8.8|0.8.9|
 |fontconfig|2.14.0|2.15.0|
 |fontconfig+32|2.14.0|2.15.0|
 |fonttools|4.47.2|4.51.0|
@@ -628,6 +629,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |git-lfs|3.5.0|3.5.1|
 |gitdb|4.0.10|4.0.11|
 |gitg|41|44|
+|gitoxide|0.35.0|0.36.0|
 |gitpython|3.1.35|3.1.43|
 |gjs|1.74.0|1.80.2|
 |gksu|2.0.2|2.0.12|
@@ -706,7 +708,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |google-api-python-client|1.7.11|2.129.0|
 |google-auth|1.6.3|2.29.0|
 |google-auth-httplib2|0.0.4|0.2.0|
-|google-chrome|125.0.6422.60|125.0.6422.76|
+|google-chrome|125.0.6422.60|125.0.6422.112|
 |gpac|2.2.1|2.4.0|
 |gperftools|2.13|2.15|
 |gpodder|3.10.17|3.11.4|
@@ -2580,6 +2582,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |speex+32|1.2.0|1.2.1|
 |spglib|1.16.2|2.4.0|
 |sphinx|7.0.1|7.3.7|
+|sphinx-press-theme|0.8.0|0.9.1|
 |sphinx-rtd-theme|1.0.0|2.0.0|
 |sphinx-tabs|3.4.1|3.4.5|
 |sphinxbase|5prealpha|0.8|Possible downgrade from the current version (5prealpha   0.8)|
