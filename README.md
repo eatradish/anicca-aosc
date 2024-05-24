@@ -448,7 +448,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |enchant-2|2.3.1|2.7.3|
 |endeavour|42.0|43.0|
 |enet|1.3.14|1.3.18|
-|entrypoints|0.3|0.4|
 |eog|42.3|45.3|
 |eog-plugins|42.1|44.0|
 |epiphany|42.4|46.0|
@@ -544,6 +543,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |freetds|1.00.112|1.4.19|
 |freetype|2.12.1|2.13.2|
 |freetype+32|2.12.1|2.13.2|
+|freexl|1.0.5|2.0.0|
 |frei0r-plugins|2.2.0|2.3.2|
 |frescobaldi|3.2|3.3.0|
 |fribidi+32|1.0.10|1.0.14|
@@ -1420,7 +1420,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libnfs-static|4.0.0|5.0.3|
 |libnice|0.1.17|0.1.22|
 |libnl|3.5.0|3.9.0|
-|libnl+32|3.2.28|3.9.0|
 |libnotify|0.7.9|0.8.3|
 |libnsl2|1.3.0|2.0.1|
 |libnspsl|0.1.6|0.1.7|
@@ -2518,6 +2517,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |smpeg+32|0.4.5|2_0_0|
 |smplayer|19.10.2|24.5.0|
 |snapd|2.61.2|2.63|
+|snapd-glib|1.63|1.65|
 |snapper-gui|0.1<br>+git20220626|0.1|Compound version number '0.1+git20220626'<br>Version number indicates a snapshot (+git) is used|
 |snappy|1.1.8|1.2.1|
 |sniffio|1.3.0|1.3.1|
