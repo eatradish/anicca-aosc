@@ -354,8 +354,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ddnet|17.0.3|18.2|
 |ddrescue|1.24|1.28|
 |ddrescueview|1.23|0.4.5|Possible downgrade from the current version (1.23   0.4.5)|
-|debian-archive-keyring|2021.1.1|2023.4|
-|debian-ports-archive-keyring|2022.02.15~deb11u1|2024.02.02|
 |debianutils|5.7|5.17|
 |decorator|4.3.2|5.1.1|
 |deja-dup|42.9|45.2|
@@ -365,6 +363,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dephell-specifier|0.2.2|0.3.0|
 |deploykit-backend|0.1.1|0.1.0|Possible downgrade from the current version (0.1.1   0.1.0)|
 |deploykit-gui|0.2.1|test-ci|Versions not comparable: `0.2.1` and `test-ci`|
+|desktop-file-utils|0.26|0.27|
 |devhelp|41.2|43.0|
 |dex|0.8.0|0.9.0|
 |dfu-util|0.10|0.11|
@@ -386,7 +385,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |distro|1.6.0|1.9.0|
 |distrobox|1.4.2.1|1.7.2.1|
 |django|5.0.3|5.0.6|
-|dkms|2.8.3|3.0.13|
 |dlib|19.20.0|19.24.4|
 |dmenu|5.2|5.3|
 |dnsdiag|1.6.4|2.1.0|
@@ -878,7 +876,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |iso-codes|4.4|4.16.0|
 |isomd5sum|1.2.3|1.2.4|
 |isort|4.3.21|5.13.2|
-|ispc|1.22.0|1.23.0|
+|ispc|1.22.0|1.24.0|
 |itinerary|23.08.5|24.05.0|
 |itsdangerous|1.1.0|2.2.0|
 |iverilog|12.0|12_0|
@@ -1253,6 +1251,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libaal|1.0.7|24"|
 |libaccounts-glib|1.24|1.27|
 |libaccounts-qt|1.16|1.17|
+|libadwaita|1.5.0|1.5.1|
 |libaio|0.3.111|0.3.113|
 |libaio+32|0.3.110|0.3.113|
 |libantlr3c|3.4|4.13.1|
@@ -1681,7 +1680,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |memcached|1.6.12|1.6.27|
 |menulibre|2.2.1|2.4.0|
 |menumaker|0.99.12|0.99.14|
-|mercurial|5.2.1|6.7.3|
 |merkuro|23.08.5|24.05.0|
 |mesa|24.0.7<br>+dxheaders1.613.1|24.1.0|Compound version number '24.0.7+dxheaders1.613.1'|
 |mesa+32|22.1.7|24.1.0|
@@ -2563,7 +2561,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sphinxcontrib-qthelp|1.0.3|1.0.7|
 |sphinxcontrib-serializinghtml|1.1.5|1.1.10|
 |sphinxcontrib-websupport|1.2.4|1.2.7|
-|spim|9.1.23|9.1.24|
 |spirv-headers|1.3.280.0|1.5.4.raytracing.fixed|
 |spirv-llvm-translator|17.0.0|18.1.0|
 |spirv-tools|1.3.275.0|2024.1|
