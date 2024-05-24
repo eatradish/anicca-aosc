@@ -74,6 +74,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |arandr|0.1.10|0.1.11|
 |aranym|1.1.0|1_1_0|
 |arc-kde|20180614|20220908|
+|arc-theme|20210412|20221218|
 |arch-install-scripts|28<br>+mirrorlist20231113<br>+pacman6.0.1|28|Compound version number '28+mirrorlist20231113+pacman6.0.1'|
 |archlinux-keyring|20231222|20240520|
 |arduino-avr-core|1.8.3|1.8.6|
@@ -158,7 +159,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |binutils+w64|2.34|2.42|
 |black-hole-solver|1.10.1|1.12.0|
 |bleachbit|4.0.0|4.6.0|
-|blender|4.0.2|4.1.1|
 |blinken|23.08.5|24.05.0|
 |blinker|1.4|1.8.2|
 |bluedevil|5.27.11|6.0.5|
@@ -396,7 +396,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |docbook-sgml|0|4.5|
 |docbook-xml|0|5.1|
 |docker|25.0.3<br>+tini0.19.0|26.1.3|Compound version number '25.0.3+tini0.19.0'|
-|docker-compose|2.24.6|2.27.0|
+|docker-compose|2.24.6|2.27.1|
 |docutils|0.20.1|0.21.2|
 |dolphin|23.08.5|24.05.0|
 |dolphin-emu|5.0<br>+git20211101|5.0|Compound version number '5.0+git20211101'<br>Version number indicates a snapshot (+git) is used|
@@ -431,7 +431,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dsview|1.3.1|1.12|
 |dtc|1.6.0|1.7.0|
 |duktape|2.5.0|2.7.0|
-|dulwich|0.21.6|0.22.1|
 |dune|3.4.1|3.15.2|
 |duplicity|2.2.2|2.2.4|
 |e2fsprogs|1.47.0|1.47.1|
@@ -1283,7 +1282,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libcap+32|2.31|2.70|
 |libcap-ng|0.7.11|0.8.5|
 |libcarddav|14.1.0|14.1.2|
-|libcava|0.10.1|0.10.2|
 |libcbor|0.8.0|0.11.0|
 |libcdio+32|0.94|2.1.0|
 |libcdio-paranoia|10.2<br>+2.0.1|2.0.1|Compound version number '10.2+2.0.1'<br>Possible downgrade from the current version (10.2+2.0.1   2.0.1)|
@@ -1949,7 +1947,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pbr|5.6.0|6.0.0|
 |pciutils|3.9.0|3.12.0|
 |pcl|1.13.1|1.12|Possible downgrade from the current version (1.13.1   1.12)|
-|pcmanfm|1.3.1|1.3.2|
 |pcp|6.0.1|6.2.2|
 |pcre|8.44|8.45|
 |pcre+32|8.44|8.45|
@@ -1967,7 +1964,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl|5.36.3|5.38.2|
 |perl+32|999|5.38.2|Possible downgrade from the current version (999   5.38.2)|
 |perl-alien-build|1.92|2.80|
-|perl-alien-libxml2|0.11|0.19|
 |perl-anyevent|7.14|7.17|
 |perl-anyevent-i3|0.17|0.19|
 |perl-app-cpanminus|1.7044|1.7047|
@@ -2375,7 +2371,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |razergenie|0.9.0|1.1.0|
 |razor-agents|2.85|2.152|
 |rb-inotify|0.10.1|0.11.1|
-|rbw|1.10.1|1.10.2|
 |rclone|1.65.2|1.66.0|
 |rcm|1.3.4|1.3.6|
 |rdflib|6.2.0|7.0.0|
