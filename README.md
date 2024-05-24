@@ -93,9 +93,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |asn1crypto|1.2.0|1.5.1|
 |aspell|0.60.8|0.60.8.1|
 |aspnetcore-runtime-6.0|6.0.0|6.0.30|
-|aspnetcore-runtime-8.0|8.0.4|8.0.5|
 |aspnetcore-targeting-pack-6.0|6.0.0|6.0.30|
-|aspnetcore-targeting-pack-8.0|8.0.4|8.0.5|
 |assimp|5.4.0|5.4.1|
 |astroid|2.12.2|3.2.2|
 |astrometry.net|0.94|0.95|
@@ -194,6 +192,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |bullet|2.88|3.25|
 |bup|0.30|0.33.3|
 |byobu|5.133|6.12|
+|c-ares|1.28.1|1.29.0|
 |c-blosc|1.21.3|1.21.5|
 |cabextract|1.9|1.11|
 |cachecontrol|0.12.6|0.14.0|
@@ -407,23 +406,17 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dosbox|0.74<br>+3|0.74-3|Compound version number '0.74+3'|
 |dotconf|1.3|1.4.1|
 |dotnet-apphost-pack-6.0|6.0.0|6.0.30|
-|dotnet-apphost-pack-8.0|8.0.4|8.0.5|
-|dotnet-host|8.0.4|8.0.5|
 |dotnet-host-fxr|5.0.11|5.0.17|
 |dotnet-hostfxr-6.0|6.0.0|6.0.30|
-|dotnet-hostfxr-8.0|8.0.4|8.0.5|
 |dotnet-runtime-2.1|2.1.21|2.1.30|
 |dotnet-runtime-3.1|3.1.11|3.1.32|
 |dotnet-runtime-5.0|5.0.11|5.0.17|
 |dotnet-runtime-6.0|6.0.0|6.0.30|
-|dotnet-runtime-8.0|8.0.4|8.0.5|
 |dotnet-runtime-deps-6.0|6.0.0|6.0.30|
 |dotnet-sdk-6.0|6.0.100|6.0.422|
-|dotnet-sdk-8.0|8.0.204|8.0.300|
 |dotnet-targeting-pack-6.0|6.0.0|6.0.30|
-|dotnet-targeting-pack-8.0|8.0.4|8.0.5|
 |dotnet-templates-6.0|6.0.100|6.0.422|
-|dotnet-templates-8.0|8.0.204|6.0.422|Possible downgrade from the current version (8.0.204   6.0.422)|
+|dotnet-templates-8.0|8.0.300|6.0.422|Possible downgrade from the current version (8.0.300   6.0.422)|
 |double-conversion|3.2.1|3.3.0|
 |dovecot|2.3.10.1|2.3.21|
 |doxygen|1.10.0|1_11_0|
@@ -1837,7 +1830,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |numactl|2.0.14|2.0.18|
 |numix-icon-theme|20190917|24.04.22|Possible downgrade from the current version (20190917   24.04.22)|
 |numix-icon-theme-circle|20160927|24.04.22|Possible downgrade from the current version (20160927   24.04.22)|
-|numpy|1.26.1|1.26.4|
 |nut|2.7.4|2.8.2|
 |nvchecker|1.5|2.14.1|
 |nvidia|550.54.14|555.42.02|
@@ -2408,7 +2400,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |repo|2.43|2.45|
 |reportlab|3.5.50|4.2.0|
 |reptyr|0.9.0|0.10.0|
-|requests|2.31.0|2.32.2|
 |requests-cache|0.5.2|1.2.0|
 |rest|0.8.1|0.9.1|
 |retext|7.2.2|8.0.2|
