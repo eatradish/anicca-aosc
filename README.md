@@ -1334,7 +1334,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libgcrypt+32|1.9.1|1.10.3|
 |libgdiplus|6.0.5|6.1|
 |libgee|0.20.5|0.20.6|
-|libgeotiff|1.5.1|1.7.1|
+|libgeotiff|1.5.1|1.7.3|
 |libgig|4.4.0|4.4.1|
 |libgit2|1.7.2|1.8.1|
 |libgksu|2.0.13~pre1|2.0.12|Possible downgrade from the current version (2.0.13~pre1   2.0.12)|
@@ -2216,7 +2216,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pugixml|1.11.4|1.14|
 |pulseaudio|17.0<br>+xrdp0.7|17.0|Compound version number '17.0+xrdp0.7'|
 |pulseaudio+32|13.0|17.0|
-|pulseaudio-qt|1.3|1.4.0|
+|pulseaudio-qt|1.3|1.5.0|
 |pulsectl|20.5.1|24.4.0|
 |puremagic|1.15|1.23|
 |purple-matrix|0.0.0<br>+git20210626|0.1.0|Compound version number '0.0.0+git20210626'<br>Version number indicates a snapshot (+git) is used|
