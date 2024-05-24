@@ -159,6 +159,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |binutils+w64|2.34|2.42|
 |black-hole-solver|1.10.1|1.12.0|
 |bleachbit|4.0.0|4.6.0|
+|blender|4.0.2|4.1.1|
 |blinken|23.08.5|24.05.0|
 |blinker|1.4|1.8.2|
 |bluedevil|5.27.11|6.0.5|
@@ -431,6 +432,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dsview|1.3.1|1.12|
 |dtc|1.6.0|1.7.0|
 |duktape|2.5.0|2.7.0|
+|dulwich|0.21.6|0.22.1|
 |dune|3.4.1|3.15.2|
 |duplicity|2.2.2|2.2.4|
 |e2fsprogs|1.47.0|1.47.1|
@@ -657,7 +659,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-disk-utility|42.0|46.0|
 |gnome-flashback|3.45.1|3.52.1|
 |gnome-font-viewer|42.0|46.0|
-|gnome-initial-setup|42.2|46.1|
+|gnome-initial-setup|42.2|46.2|
 |gnome-keyring|40.0|46.1|
 |gnome-logs|3.36.0|43.0|
 |gnome-mahjongg|3.38.3|3.40.1|
@@ -1964,6 +1966,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl|5.36.3|5.38.2|
 |perl+32|999|5.38.2|Possible downgrade from the current version (999   5.38.2)|
 |perl-alien-build|1.92|2.80|
+|perl-alien-libxml2|0.11|0.19|
 |perl-anyevent|7.14|7.17|
 |perl-anyevent-i3|0.17|0.19|
 |perl-app-cpanminus|1.7044|1.7047|
@@ -2605,7 +2608,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |stopit|0<br>+git20190827|1.1.2|Compound version number '0+git20190827'<br>Version number indicates a snapshot (+git) is used|
 |stow|2.3.1|2.4.0|
 |strace|6.5|6.9|
-|strawberry|1.0.22|1.0.23|
 |streamlink|6.5.1|6.7.4|
 |strongswan|5.9.4|5.9.14|
 |structlog|19.1.0|24.1.0|
