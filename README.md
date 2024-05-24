@@ -764,7 +764,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gupnp-dlna|0.10.5|0.12.0|
 |gupnp-igd|0.2.5|1.6.0|
 |guvcview|2.0.5|2.1.0|
-|gvfs|1.50.2|1.54.0|
+|gvfs|1.50.2|1.54.1|
 |gwc|0.21<br>+19|0.22-06|Compound version number '0.21+19'|
 |gwenhywfar|5.4.0|5.10.2|
 |gwenview|23.08.5|24.05.0|
@@ -2394,7 +2394,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |renderdoc|1.16|1.32|
 |repo|2.43|2.45|
 |reportlab|3.5.50|4.2.0|
-|reptyr|0.9.0|0.10.0|
 |requests-cache|0.5.2|1.2.0|
 |rest|0.8.1|0.9.1|
 |retext|7.2.2|8.0.2|
