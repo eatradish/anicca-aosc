@@ -365,7 +365,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dephell-specifier|0.2.2|0.3.0|
 |deploykit-backend|0.1.1|0.1.0|Possible downgrade from the current version (0.1.1   0.1.0)|
 |deploykit-gui|0.2.1|test-ci|Versions not comparable: `0.2.1` and `test-ci`|
-|desktop-file-utils|0.26|0.27|
 |devhelp|41.2|43.0|
 |dex|0.8.0|0.9.0|
 |dfu-util|0.10|0.11|
@@ -479,7 +478,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |faad2|2.10.0|2.11.1|
 |faad2+32|2.10.0|2.11.1|
 |facile|1.1.3|1.1.4|
-|fail2ban|1.0.2|1.1.0|
 |falkon|23.08.5|24.05.0|
 |fann|20190109|2.2.0|Possible downgrade from the current version (20190109   2.2.0)|
 |fasteners|0.18|0.19|
@@ -858,7 +856,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |iniparse|0.4|0.5|
 |iniparser|4.1|4.2.2|
 |inkscape|1.3.2|1_3_2|
-|inotify-tools|3.21.9.6|4.23.9.0|
 |intel-compute-runtime|24.17.29377.6|24.17.29377.8|
 |intel-graphics-compiler|1.0.16695.4|1.0.16900.3|
 |intel-media-driver|24.1.5|24.2.3|
@@ -1272,7 +1269,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libbloom|1.6|2.0|
 |libbluray+32|1.2.1|1.3.4|
 |libbpf|1.2.0|1.4.2|
-|libbsd|0.10.0|0.12.2|
 |libburn|1.5.2|1.5.6|
 |libbytesize|2.1|2.10|
 |libc+wasi|20|22|
@@ -1430,7 +1426,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libnsl2|1.3.0|2.0.1|
 |libnspsl|0.1.6|0.1.7|
 |libnumbertext|1.0.7|1.0.11|
-|libnvme|1.6|1.9|
 |libodfgen|0.1.6|0.1.8|
 |libofono-qt|0.54<br>+git20190116|1.30|Compound version number '0.54+git20190116'<br>Version number indicates a snapshot (+git) is used|
 |libofx|0.9.15|0.10.8|
@@ -1602,7 +1597,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lmdb|0.9.28|0.9.33|
 |lmms|1.2.2<br>+git20240508|1.2.2|Compound version number '1.2.2+git20240508'<br>Version number indicates a snapshot (+git) is used|
 |log4cpp|1.1.3|1.1.4|
-|logrotate|3.18.1|3.21.0|
 |loguru|0.5.3|0.7.2|
 |lokalize|23.08.5|24.05.0|
 |loudmouth|1.5.3|1.5.4|
@@ -1830,7 +1824,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nvchecker|1.5|2.14.1|
 |nvidia|550.54.14|555.42.02|
 |nvidia+32|0|555.42.02|
-|nvme-cli|2.6|2.9.1|
 |obs-studio|27.0.0|30.1.2|
 |ocaml|4.14.2|5.2.0|
 |ocaml-csexp|1.5.1|1.5.2|
@@ -1905,9 +1898,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |orc+32|0.4.32|0.4.38|
 |orca|42.3|46.1|
 |osdlyrics|20190407|0.5.15|Possible downgrade from the current version (20190407   0.5.15)|
-|osinfo-db|20230719|20240523|
+|osinfo-db|20240510|20240523|
 |osinfo-db-tools|1.10.0|1.11.0|
-|ostree|2023.1|2024.6|
 |osu-lazer|2024.412.1|2024.521.2|
 |oxygen|5.27.11|6.0.5|
 |oxygen-icons|5.115.0|6.0.5|
@@ -2377,7 +2369,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rcm|1.3.4|1.3.6|
 |rdflib|6.2.0|7.0.0|
 |rdiscount|2.2.0.2|2.2.7.3|
-|rdma-core|38.0|51.0|
 |re2|20190901|2024-05-01|Possible downgrade from the current version (20190901   2024-05-01)|
 |re2c|1.3|3.1|
 |readline|8.2.1|8.2|Possible downgrade from the current version (8.2.1   8.2)|
@@ -2493,7 +2484,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sfml|2.5.1|2.6.1|
 |sg3-utils|1.47r915|1.48|
 |shaderc|2023.7|2024.1|
-|shadow|4.13|4.15.1|
 |shapelib|1.5.0|1.6.0|
 |shared-color-targets|0.1.7|0_1_7|
 |shared-mime-info|2.2|2.4|
