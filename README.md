@@ -807,7 +807,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |httrack|3.49.2|3.49.5|
 |hub|2.14.2<br>+git20230617|2.14.2|Compound version number '2.14.2+git20230617'<br>Version number indicates a snapshot (+git) is used|
 |hugin|2022.0.0|2023.0.0|
-|hugo|0.123.6|0.126.1|
 |humanize|0.5.1|4.9.0|
 |hunspell|1.7.0|1.7.2|
 |hwloc|1.11.10|2.10.0|
@@ -2394,6 +2393,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |renderdoc|1.16|1.32|
 |repo|2.43|2.45|
 |reportlab|3.5.50|4.2.0|
+|reptyr|0.9.0|0.10.0|
 |requests-cache|0.5.2|1.2.0|
 |rest|0.8.1|0.9.1|
 |retext|7.2.2|8.0.2|
@@ -2618,7 +2618,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sunpinyin|3.0.0~rc1|2.0.3-rel-1|Possible downgrade from the current version (3.0.0~rc1   2.0.3-rel-1)|
 |sunshine|0.23.0|0.23.1|
 |sunxi-tools|1.4.2<br>+git20220729|1.4.2|Compound version number '1.4.2+git20220729'<br>Version number indicates a snapshot (+git) is used|
-|superslicer|2.5.59.8|2.5.59.10|
 |sushi|42.0|46.0|
 |svgpart|23.08.5|24.05.0|
 |svt-av1|2.0.0|2.1.0|
