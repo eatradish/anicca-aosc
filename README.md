@@ -204,8 +204,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cairomm|1.12.2|1.18.0|
 |cairosvg|2.5.2|2.7.1|
 |calendarsupport|23.08.5|24.05.0|
-|calibre|5.30.0|7.10.0|
-|caligula|0.4.5|0.4.6|
+|calibre|5.30.0|7.11.0|
+|caligula|0.4.5|0.4.7|
 |calindori|23.08.5|24.05.0|
 |callaudiod|0.1.4|0.1.9|
 |calver|2022.06.26|2022.6.26|
@@ -470,9 +470,9 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |eudev+32|3.1.5|3.2.14|
 |eventviews|23.08.5|24.05.0|
 |evince|42.3|46.1|
-|evolution|3.44.4|3.52.1|
-|evolution-data-server|3.44.4|3.52.1|
-|evolution-ews|3.42.0|3.52.1|
+|evolution|3.44.4|3.52.2|
+|evolution-data-server|3.44.4|3.52.2|
+|evolution-ews|3.42.0|3.52.2|
 |evtest|1.34|1.35|
 |exceptiongroup|1.2.0|1.2.1|
 |exempi|2.5.1|2.6.5|
@@ -681,7 +681,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-shell|42.4|46.1|
 |gnome-shell-extension-gsconnect|53|57|
 |gnome-shell-extensions|42.3|46.1|
-|gnome-software|42.4|46.1|
+|gnome-software|42.4|46.2|
 |gnome-sudoku|42.0|46.1|
 |gnome-system-monitor|42.0|46.0|
 |gnome-terminal|3.44.1|3.97.0|
@@ -1877,6 +1877,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |opencv|4.7.0|4.9.0|
 |openexr|3.1.8|3.2.126|
 |openfortivpn|1.18.0|1.22.0|
+|openh264|2.4.0<br>+gmp114<br>+2|2.4.1|Compound version number '2.4.0+gmp114+2'|
 |openimagedenoise|1.4.3|2.2.2|
 |openimageio|2.4.17.0|2.5.11.0|
 |openixcard|1.0.1|1.1.8|
@@ -3017,7 +3018,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |znc|1.8.2|1.9.0|
 |zope-component|4.4.1|6.0|
 |zope-event|4.3.0|5.0|
-|zope-interface|5.4.0|6.4.post1|
+|zope-interface|5.4.0|6.4.post2|
 |zotero|6.0.26|6.0.37|
 |zram-generator|1.1.1|1.1.2|
 |zshdb|1.1.3|1.1.4|
