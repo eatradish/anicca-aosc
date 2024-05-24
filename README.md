@@ -266,7 +266,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |click|7.1.2|8.1.7|
 |clinfo|3.0.21.02.21|3.0.23.01.25|
 |clipit|1.4.2|1.4.5|
-|cln|1.3.6|1.3.7|
 |cloc|1.84|2.00|
 |cloud-init|24.1.4<br>+git20240513|24.1.4|Compound version number '24.1.4+git20240513'<br>Version number indicates a snapshot (+git) is used|
 |clucene|2.3.3.4<br>+git20130812|2.3.3.4|Compound version number '2.3.3.4+git20130812'<br>Version number indicates a snapshot (+git) is used|
@@ -1825,6 +1824,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nvidia+32|0|555.42.02|
 |obs-studio|27.0.0|30.1.2|
 |ocaml|4.14.2|5.2.0|
+|ocaml-cmdliner|1.2.0|1.3.0|
 |ocaml-csexp|1.5.1|1.5.2|
 |ocaml-graphics|5.1.0|5.1.2|
 |ocaml-num|1.3|1.5|
@@ -1841,7 +1841,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |oma|1.3.11|1.12.13|
 |onefetch|2.20.0|2.21.0|
 |onig|6.9.5<br>+rev1|6.9.9|Compound version number '6.9.5+rev1'|
-|oolite|1.90|1.91.0.7604-240417-a536cbe|
+|oolite|1.90|1.91.0.7614-240524-db7caf1|
 |opam|2.1.3|2.1.6|
 |open-isns|0.101|0.102|
 |open-vm-tools|12.3.5|12.4.0|
@@ -2522,6 +2522,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |snapd-glib|1.63|1.65|
 |snapper-gui|0.1<br>+git20220626|0.1|Compound version number '0.1+git20220626'<br>Version number indicates a snapshot (+git) is used|
 |snappy|1.1.8|1.2.1|
+|sniffio|1.3.0|1.3.1|
 |snowball|2.1.0|2.2.0|
 |snowballstemmer|1.2.1|2.2.0|
 |soci|4.0.1|4.0.3|
