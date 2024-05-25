@@ -322,7 +322,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cssselect2|0.6.0|0.7.0|
 |cssutils|1.0.2|2.11.0|
 |ctags|20191203|6.1.20240519.0|Possible downgrade from the current version (20191203   6.1.20240519.0)|
-|cuda|12.5.0<br>+555.42.02|12.5.0|Compound version number '12.5.0+555.42.02'<br>Possible downgrade from the current version (12.5.0+555.42.02   12.5.0)|
 |cunit|2.1<br>+3|2.1-3|Compound version number '2.1+3'|
 |cups|2.4.7|2.4.8|
 |cups+32|2.3.3|2.4.8|
@@ -1520,6 +1519,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libvisual+32|0.4.0|0.4.2|
 |libvncserver|0.9.13|0.9.14|
 |libvoikko|4.3.1|4.3.2|
+|libvpl|2.11.0|2023.4.0|
 |libvpx|1.10.0|1.14.0|
 |libvpx+32|1.9.0|1.14.0|
 |libwacom|2.4.0|2.11.0|
@@ -1813,7 +1813,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nvchecker|1.5|2.14.1|
 |nvidia|550.54.14|555.42.02|
 |nvidia+32|0|555.42.02|
-|obs-studio|27.0.0|30.1.2|
 |ocaml|4.14.2|5.2.0|
 |ocaml-cmdliner|1.2.0|1.3.0|
 |ocaml-csexp|1.5.1|1.5.2|
