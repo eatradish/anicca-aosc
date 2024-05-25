@@ -30,7 +30,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |aha|0.5|0.5.1|
 |aide|0.16.2|0.18.8|
 |aiohttp|3.7.4.post0|3.9.5|
-|aisleriot|3.22.24|3.22.32|
+|aisleriot|3.22.24|3.22.33|
 |akode|14.1.0|14.1.2|
 |akonadi|23.08.5|24.05.0|
 |akonadi-calendar|23.08.5|24.05.0|
@@ -451,7 +451,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |etl|1.2.2|1.5.1|
 |eudev+32|3.1.5|3.2.14|
 |eventviews|23.08.5|24.05.0|
-|evince|42.3|46.1|
+|evince|42.3|46.3|
 |evolution|3.44.4|3.52.2|
 |evolution-data-server|3.44.4|3.52.2|
 |evolution-ews|3.42.0|3.52.2|
@@ -519,7 +519,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |font-manager|0.8.8|0.8.9|
 |fontconfig|2.14.0|2.15.0|
 |fontconfig+32|2.14.0|2.15.0|
-|fonttools|4.47.2|4.51.0|
+|fonttools|4.47.2|4.52.1|
 |foolscap|0.13.2|23.11.0|
 |fortune-mod|3.6.1|3.20.0|
 |fortunes-zh|2.97|2.98|
@@ -612,7 +612,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gitpython|3.1.35|3.1.43|
 |gjs|1.74.0|1.80.2|
 |gksu|2.0.2|2.0.12|
-|glances|3.4.0.2|4.0.5|
+|glances|3.4.0.2|4.0.7|
 |glib|2.80.0|2.80.2|
 |glib+32|2.62.6|2.80.2|
 |glib-networking|2.72.2|2.80.0|
@@ -744,7 +744,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gtksourceview-4|4.8.3|4.8.4|
 |gtkspellcheck|4.0.5|5.0.3|
 |gtranslator|42.0|46.1|
-|gucharmap|15.1.3|15.1.4|
+|gucharmap|15.1.3|15.1.5|
 |guile|3.0.4|3.0.9|
 |gulp|4.0.0|5.0.0|
 |gupnp|1.2.4|1.6.6|
