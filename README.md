@@ -889,6 +889,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |jmol|14.30.0|16.2.15|
 |john|1.8.0|1.9.0|
 |josepy|1.13.0|1.14.0|
+|json-c|0.16|0.17|
 |json-c+32|0.13.1<br>+20180305|0.17|Compound version number '0.13.1+20180305'|
 |json-glib|1.6.6|1.8.0-actual|
 |jsonlines|1.2.0|4.0.0|
@@ -948,6 +949,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kcmautostart-trinity|14.1.0|14.1.2|
 |kcmutils|5.115.0|6.0.90|
 |kcodecs|5.115.0|6.0.90|
+|kcolorchooser|23.08.5|24.05.0|
 |kcolorpicker|0.2.0|0.3.1|
 |kcompletion|5.115.0|6.0.90|
 |kconfig|5.115.0|6.0.90|
@@ -1458,6 +1460,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libsecret|0.20.4|0.21.4|
 |libshout|2.4.3|2.4.6|
 |libshout+32|2.4.3|2.4.6|
+|libshumate|1.2.1|1.2.2|
 |libsidplay|1.36.59|2.1.1|
 |libsidplay+32|1.36.59|2.1.1|
 |libsidplayfp|1.8.8|2.7.1|
@@ -2802,7 +2805,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |v2raya|2.2.5.1|2.2.5|Possible downgrade from the current version (2.2.5.1   2.2.5)|
 |v4l-utils|1.22.1|1.26.1|
 |v4l-utils+32|1.18.0|1.26.1|
-|v4l2loopback|0.12.5|0.13.1|
+|v4l2loopback|0.12.5|0.13.2|
 |vala|0.56.16|0.56.17|
 |vala-panel-appmenu|0.7.4|24.02|
 |valgrind|3.22.0|3.23.0|
@@ -2821,7 +2824,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vice|3.5|3.8|
 |vicious|2.3.3|2.7.0|
 |vid.stab|0.98b|1.1.1|
-|vim|9.1.0393|9.1.0433|
+|vim|9.1.0393|9.1.0444|
 |virglrenderer|0.10.4|1.0.1|
 |virtualenv|20.25.0|20.26.2|
 |virtualgl+32|2.5.2|3.1.1|
