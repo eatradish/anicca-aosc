@@ -169,7 +169,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |bomber|23.08.5|24.05.0|
 |boost|1.83.0|1.85.0|
 |boost+32|1.63.0|1.85.0|
-|borgbackup|1.1.17|1.2.8|
 |botan|1.10.17|3.4.0|
 |botan-2|2.12.1|3.4.0|
 |boto3|1.20.26|1.34.113|
@@ -771,7 +770,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hatchling|1.21.1|1.11.1|Possible downgrade from the current version (1.21.1   1.11.1)|
 |haveged|1.9.13|1.9.18|
 |hddtemp|0.3.52|0.4.3|
-|hdf5|1.10.5|1.14.4.1|
+|hdf5|1.10.5|1.14.4.3|
 |hdrhistogram-c|0.11.6|0.11.8|
 |hdsentinel|0.17|400s|
 |helm|3.15.0|3.15.1|
@@ -948,7 +947,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kchmviewer-trinity|14.1.0|14.1.2|
 |kclock|23.08.5|24.05.0|
 |kcmautostart-trinity|14.1.0|14.1.2|
-|kcmutils|5.115.0|6.0.90|
 |kcodecs|5.115.0|6.0.90|
 |kcolorchooser|23.08.5|24.05.0|
 |kcolorpicker|0.2.0|0.3.1|
@@ -2196,7 +2194,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |proj|9.2.1|9.4.0|
 |projectm|4.0.0|4.1.1|
 |prompt-toolkit|2.0.8|3.0.43|
-|proot|5.1.20171016|5.4.0|
 |protobuf|3.15.6|27.0|
 |protobuf-c|1.3.3|1.5.0|
 |proxychains-ng+32|20161205|4.17|Possible downgrade from the current version (20161205   4.17)|
