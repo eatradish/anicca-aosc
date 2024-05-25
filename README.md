@@ -63,6 +63,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |aosc-community-wallpapers-extras-2024|2024.04.1|2024.04.0|Possible downgrade from the current version (2024.04.1   2024.04.0)|
 |aosc-media-writer|0.3.4|5.0.9|
 |aosc-xdg-menu|20200412|20160217|Possible downgrade from the current version (20200412   20160217)|
+|apache-maven|3.9.6|3.9.7|
 |apicula|0.9.1|0.12|
 |apparmor|3.0.8|3.1.7|
 |appstream|0.16.0|1.0.3|
@@ -130,7 +131,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |babel|2.9.1|2.15.0|
 |babeld|1.9.2|1.13.1|
 |babeltrace|1.5.7|1.5.11|
-|babl|0.1.108|0_1_108|
 |backcall|0.1.0|0.2.0|
 |backports|0|1.1|
 |backports-functools-lru-cache|1.5|2.0.0|
@@ -190,7 +190,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |bup|0.30|0.33.3|
 |byobu|5.133|6.12|
 |c-ares|1.28.1|1.29.0|
-|c-blosc|1.21.3|1.21.5|
 |cabextract|1.9|1.11|
 |cachecontrol|0.12.6|0.14.0|
 |cachetools|3.1.0|5.3.3|
