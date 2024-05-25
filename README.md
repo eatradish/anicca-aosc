@@ -2839,7 +2839,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vpnc|0.5.3r550|0.5.3|
 |vrms|1.27|1.34|
 |vsftpd|3.0.3|3.0.5|
-|vte|0.68.0|0.76.1|
+|vte|0.68.0|0.76.2|
 |vulkan-extensionlayer|1.3.280.0|1.3.285|
 |vulkan-headers|1.3.280.0|1.3.285|
 |vulkan-headers+32|1.3.272|1.3.285|
@@ -2909,7 +2909,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xcowsay|1.4|1.6|
 |xdg-dbus-proxy|0.1.2|0.1.5|
 |xdg-desktop-portal|1.16.0|1.18.4|
-|xdg-desktop-portal-gnome|42.3|46.1|
+|xdg-desktop-portal-gnome|42.3|46.2|
 |xdg-desktop-portal-gtk|1.12.0|1.15.1|
 |xdg-desktop-portal-kde|5.27.11|6.0.5|
 |xdg-user-dirs|0.17|0.18|
