@@ -1570,15 +1570,15 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |linux+api+32|6.7.12|5.19.17|Possible downgrade from the current version (6.7.12   5.19.17)|
 |linux+kernel|6.9.1|5.19.17|Possible downgrade from the current version (6.9.1   5.19.17)|
 |linux+kernel+asahi|6.5.11|5.19.17|Possible downgrade from the current version (6.5.11   5.19.17)|
-|linux+kernel+lts|6.6.31|5.10.217|Possible downgrade from the current version (6.6.31   5.10.217)|
+|linux+kernel+lts|6.6.31|5.10.218|Possible downgrade from the current version (6.6.31   5.10.218)|
 |linux+kernel+rc|5.8.0|5.19.17|
-|linux+kernel+retro|5.10.132|5.10.217|
-|linux+kernel+retro+minimal|5.15.17|5.10.217|Possible downgrade from the current version (5.15.17   5.10.217)|
+|linux+kernel+retro|5.10.132|5.10.218|
+|linux+kernel+retro+minimal|5.15.17|5.10.218|Possible downgrade from the current version (5.15.17   5.10.218)|
 |linux-firmware|20240506<br>+debian20230210<br>+5~bpo11<br>+1|20240513|Compound version number '20240506+debian20230210+5~bpo11+1'|
 |linux-kernel|6.9.1|5.19.17|Possible downgrade from the current version (6.9.1   5.19.17)|
 |linux-kernel-lts|6.6.31|5.19.17|Possible downgrade from the current version (6.6.31   5.19.17)|
-|linux-kernel-retro|5.10.132|5.10.217|
-|linux-kernel-retro-minimal|5.15.17|5.10.217|Possible downgrade from the current version (5.15.17   5.10.217)|
+|linux-kernel-retro|5.10.132|5.10.218|
+|linux-kernel-retro-minimal|5.15.17|5.10.218|Possible downgrade from the current version (5.15.17   5.10.218)|
 |linuxsampler|2.3.0|2.3.1|
 |lirc|0.9.4d|0.10.2|
 |lksctp-tools|1.0.17|1.0.19|
@@ -2511,7 +2511,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |smplayer|19.10.2|24.5.0|
 |snapd|2.61.2|2.63|
 |snapd-glib|1.63|1.65|
-|snapper-gui|0.1<br>+git20220626|0.1|Compound version number '0.1+git20220626'<br>Version number indicates a snapshot (+git) is used|
 |snappy|1.1.8|1.2.1|
 |sniffio|1.3.0|1.3.1|
 |snowball|2.1.0|2.2.0|
