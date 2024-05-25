@@ -212,6 +212,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |capstone|5.0.1|5.0|Possible downgrade from the current version (5.0.1   5.0)|
 |cargo-audit|0.18.1|0.20.0|
 |cargo-c|0.9.24|0.9.32+cargo-0.79.0|
+|cargo-release|0.24.11|0.25.7|
 |cargo-smart-release|0.17.0|0.30.0|
 |catatonit|0.1.7|0.2.0|
 |catch2|2.13.8|3.6.0|
@@ -469,6 +470,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |falkon|23.08.5|24.05.0|
 |fann|20190109|2.2.0|Possible downgrade from the current version (20190109   2.2.0)|
 |fasteners|0.18|0.19|
+|fastfetch|2.11.5|2.13.2|
 |fastimport|0.9.8|0.9.14|
 |fatattr|1.0.1|1.0.1.orig|Possible downgrade from the current version (1.0.1   1.0.1.orig)|
 |faulthandler|3.1|3.2|
@@ -828,7 +830,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |igv|2.15.1|2.16.2|
 |iio-sensor-proxy|3.4|3.5|
 |imagemagick|6.9.13<br>+7|6.9.13-10|Compound version number '6.9.13+7'|
-|imagemagick+7|7.1.0<br>+43|7.1.1-32|Compound version number '7.1.0+43'|
+|imagemagick+7|7.1.1<br>+32|7.1.1-32|Compound version number '7.1.1+32'|
 |imagesize|1.1.0|1.4.1|
 |imapsync|1.977|2.229|
 |imath|3.1.5|3.1.11|
@@ -2211,7 +2213,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |purple-matrix|0.0.0<br>+git20210626|0.1.0|Compound version number '0.0.0+git20210626'<br>Version number indicates a snapshot (+git) is used|
 |purpose|5.115.0|6.0.90|
 |pv|1.6.20|1.8.9|
-|py-filelock|3.0.12|3.14.0|
 |py-setproctitle|1.1.10|1.3.3|
 |pyaaf2|1.6.0|1.7.1|
 |pyacoustid|1.1.7|1.3.0|
@@ -2593,7 +2594,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sudo|1.9.15p5|1_9_15p5|
 |suitesparse|7.6.1|7.7.0|
 |sunpinyin|3.0.0~rc1|2.0.3-rel-1|Possible downgrade from the current version (3.0.0~rc1   2.0.3-rel-1)|
-|sunshine|0.23.0|0.23.1|
+|sunshine|0.23.0|2024.525.32353|
 |sunxi-tools|1.4.2<br>+git20220729|1.4.2|Compound version number '1.4.2+git20220729'<br>Version number indicates a snapshot (+git) is used|
 |sushi|42.0|46.0|
 |svgpart|23.08.5|24.05.0|
@@ -2675,6 +2676,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tdmtheme|14.1.0|14.1.2|
 |tectonic|0.12.0|0.15.0|
 |teeworlds|0.7.5<br>+git20220313|0.7.5|Compound version number '0.7.5+git20220313'<br>Version number indicates a snapshot (+git) is used|
+|telegram-desktop|5.0.1|5.0.2|
 |telepathy-accounts-signon|1.0|2.1|
 |telepathy-glib|0.24.1|0.24.2|
 |telepathy-idle|0.2.0|0.2.2|
