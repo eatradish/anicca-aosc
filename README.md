@@ -366,7 +366,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dex|0.8.0|0.9.0|
 |dfu-util|0.10|0.11|
 |dhcp|4.4.3.P1|4.4.3-P1|
-|dhcpcd|9.2.0|10.0.6|
+|dhcpcd|9.2.0|10.0.8|
 |dia|0.97.3|1|
 |dialog|1.3<br>+20191110|1.3-20230209|Compound version number '1.3+20191110'|
 |dieharder|3.31.1|3.31.1_20110601-1|
@@ -422,7 +422,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dtc|1.6.0|1.7.0|
 |duktape|2.5.0|2.7.0|
 |dulwich|0.21.6|0.22.1|
-|dune|3.4.1|3.15.2|
+|dune|3.4.1|3.15.3|
 |duplicity|2.2.2|2.2.4|
 |e2fsprogs|1.47.0|1.47.1|
 |easy-rsa|3.0.8|3.2.0|
@@ -653,7 +653,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-mahjongg|3.38.3|3.40.1|
 |gnome-maps|42.3|46.11|
 |gnome-nibbles|3.38.2|4.0.4|
-|gnome-online-accounts|3.44.0|3.50.1|
+|gnome-online-accounts|3.44.0|3.50.2|
 |gnome-packagekit|3.32.0|43.0|
 |gnome-panel|3.44.0|3.52.0|
 |gnome-remote-desktop|42.4|46.2|
@@ -2511,6 +2511,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |smplayer|19.10.2|24.5.0|
 |snapd|2.61.2|2.63|
 |snapd-glib|1.63|1.65|
+|snapper-gui|0.1<br>+git20220626|0.1|Compound version number '0.1+git20220626'<br>Version number indicates a snapshot (+git) is used|
 |snappy|1.1.8|1.2.1|
 |sniffio|1.3.0|1.3.1|
 |snowball|2.1.0|2.2.0|
