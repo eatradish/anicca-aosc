@@ -209,9 +209,9 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |camlp5|8.02.01|6023|
 |cantor|23.08.5|24.05.0|
 |capnproto|0.10.2|1.0.2|
+|capstone|5.0.1|5.0|Possible downgrade from the current version (5.0.1   5.0)|
 |cargo-audit|0.18.1|0.20.0|
 |cargo-c|0.9.24|0.9.32+cargo-0.79.0|
-|cargo-release|0.24.11|0.25.7|
 |cargo-smart-release|0.17.0|0.30.0|
 |catatonit|0.1.7|0.2.0|
 |catch2|2.13.8|3.6.0|
@@ -1347,6 +1347,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libgxps|0.2.5|0.3.2|
 |libhandy|1.6.3|1.8.3|
 |libhangul|0.1.0<br>+git20210406|0.1.0|Compound version number '0.1.0+git20210406'<br>Version number indicates a snapshot (+git) is used|
+|libidn|1.41|1.42|
 |libidn+32|1.33|1.42|
 |libidn2|2.3.0|2.3.7|
 |libindi|2.0.5|2.0.7|
@@ -1997,6 +1998,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-file-mimeinfo|0.28<br>+03|0.35|Compound version number '0.28+03'|
 |perl-file-next|1.16|1.18|
 |perl-file-sharedir|1.116|1.118|
+|perl-file-sharedir-install|0.13|0.14|
 |perl-file-which|1.23|1.27|
 |perl-finance-quote|1.49|1.5301|
 |perl-font-ttf|1.05|1.06|
@@ -2901,6 +2903,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xclip|20191017|0.13|Possible downgrade from the current version (20191017   0.13)|
 |xcompmgr|1.1.8|1.1.9|
 |xcowsay|1.4|1.6|
+|xdg-dbus-proxy|0.1.2|0.1.5|
 |xdg-desktop-portal|1.16.0|1.18.4|
 |xdg-desktop-portal-gnome|42.3|46.1|
 |xdg-desktop-portal-gtk|1.12.0|1.15.1|
