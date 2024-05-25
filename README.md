@@ -266,7 +266,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |clipit|1.4.2|1.4.5|
 |cln|1.3.6|1.3.7|
 |cloc|1.84|2.00|
-|cloud-init|24.1.4<br>+git20240513|24.1.4|Compound version number '24.1.4+git20240513'<br>Version number indicates a snapshot (+git) is used|
+|cloud-init|24.1.4<br>+git20240513|24.1.6|Compound version number '24.1.4+git20240513'<br>Version number indicates a snapshot (+git) is used|
 |clucene|2.3.3.4<br>+git20130812|2.3.3.4|Compound version number '2.3.3.4+git20130812'<br>Version number indicates a snapshot (+git) is used|
 |clzip|1.10|1.14|
 |cmark|0.30.3|0.31.0|
@@ -715,7 +715,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |grub-customizer|5.2.4|5.2.5|
 |gsasl|1.8.1|2.2.1|
 |gsettings-desktop-schemas|42.0|46.0|
-|gsl|2.5|2.7.1|
+|gsl|2.5|2.8|
 |gsm|1.0.19|1.0.22|
 |gsm+32|1.0.19|1.0.22|
 |gsmartcontrol|1.1.3|1.1.4|
