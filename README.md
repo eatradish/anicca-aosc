@@ -338,7 +338,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |darkhttpd|1.13|1.16|
 |darkradiant|3.8.0|3.9.0|
 |dateutil|2.8.2|2.9.0.post0|
-|dav1d|1.4.0|1.4.1|
+|dav1d|1.4.0|1.4.2|
 |dblatex|0.3.12|1.0.97|
 |dbus+32|1.12.18|1.14.10|
 |dbus-1-tqt|14.1.0|14.1.2|
