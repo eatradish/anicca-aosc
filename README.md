@@ -95,7 +95,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |assimp|5.4.0|5.4.1|
 |astroid|2.12.2|3.2.2|
 |astrometry.net|0.94|0.95|
-|astyle|3.4.14|3.4.16|
 |at-spi2-atk+32|2.26.3|2.38.0|
 |at-spi2-core+32|2.26.3|2.52.0|
 |atk+32|2.26.1|2.38.0|
@@ -696,7 +695,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gptfdisk|1.0.9|1.0.10|
 |gradle|8.3|8.7.0|
 |granatier|23.08.5|24.05.0|
-|grantlee-editor|23.08.5|24.05.0|
 |grantleetheme|23.08.5|24.05.0|
 |graphene|1.10.2|1.10.8|
 |graphviz|10.0.1|11.0.0|
@@ -1738,7 +1736,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |munkres|1.0.12|release-1.1.4|
 |muparser|2.2.6.1|2.3.4|
 |mupdf|1.18.0|1.24.2|
-|mutter|42.4|46.1|
+|mutter|42.4|46.2|
 |mxml|3.2|4.0.3|
 |mycli|1.23.2|1.27.2|
 |mygpoclient|1.8|1.9|
