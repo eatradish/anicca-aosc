@@ -76,7 +76,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |arc-kde|20180614|20220908|
 |arc-theme|20210412|20221218|
 |arch-install-scripts|28<br>+mirrorlist20231113<br>+pacman6.0.1|28|Compound version number '28+mirrorlist20231113+pacman6.0.1'|
-|archlinux-keyring|20231222|20240520|
 |arduino-avr-core|1.8.3|1.8.6|
 |argyllcms|3.1.0|3.2.0|
 |arianna|23.08.5|24.05.0|
@@ -92,8 +91,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |asio|1.18.1|1.30.2|
 |asn1crypto|1.2.0|1.5.1|
 |aspell|0.60.8|0.60.8.1|
-|aspnetcore-runtime-6.0|6.0.0|6.0.30|
-|aspnetcore-targeting-pack-6.0|6.0.0|6.0.30|
 |assimp|5.4.0|5.4.1|
 |astroid|2.12.2|3.2.2|
 |astrometry.net|0.94|0.95|
@@ -266,6 +263,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |click|7.1.2|8.1.7|
 |clinfo|3.0.21.02.21|3.0.23.01.25|
 |clipit|1.4.2|1.4.5|
+|cln|1.3.6|1.3.7|
 |cloc|1.84|2.00|
 |cloud-init|24.1.4<br>+git20240513|24.1.4|Compound version number '24.1.4+git20240513'<br>Version number indicates a snapshot (+git) is used|
 |clucene|2.3.3.4<br>+git20130812|2.3.3.4|Compound version number '2.3.3.4+git20130812'<br>Version number indicates a snapshot (+git) is used|
@@ -401,17 +399,11 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dolphin-trinity|14.1.0|14.1.2|
 |dosbox|0.74<br>+3|0.74-3|Compound version number '0.74+3'|
 |dotconf|1.3|1.4.1|
-|dotnet-apphost-pack-6.0|6.0.0|6.0.30|
 |dotnet-host-fxr|5.0.11|5.0.17|
-|dotnet-hostfxr-6.0|6.0.0|6.0.30|
 |dotnet-runtime-2.1|2.1.21|2.1.30|
 |dotnet-runtime-3.1|3.1.11|3.1.32|
 |dotnet-runtime-5.0|5.0.11|5.0.17|
-|dotnet-runtime-6.0|6.0.0|6.0.30|
 |dotnet-runtime-deps-6.0|6.0.0|6.0.30|
-|dotnet-sdk-6.0|6.0.100|6.0.422|
-|dotnet-targeting-pack-6.0|6.0.0|6.0.30|
-|dotnet-templates-6.0|6.0.100|6.0.422|
 |dotnet-templates-8.0|8.0.300|6.0.422|Possible downgrade from the current version (8.0.300   6.0.422)|
 |double-conversion|3.2.1|3.3.0|
 |dovecot|2.3.10.1|2.3.21|
@@ -1419,7 +1411,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libnfs|4.0.0|5.0.3|
 |libnfs-static|4.0.0|5.0.3|
 |libnice|0.1.17|0.1.22|
-|libnl|3.5.0|3.9.0|
 |libnl+32|3.2.28|3.9.0|
 |libnotify|0.7.9|0.8.3|
 |libnsl2|1.3.0|2.0.1|
@@ -1865,7 +1856,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |openjdk-8|8u382<br>+ga|8u412-b08|Compound version number '8u382+ga'|
 |openjfx-11|11.0.20<br>+1|11.0.23+9|Compound version number '11.0.20+1'|
 |openjfx-8|8u202<br>+ga|8u202-ga|Compound version number '8u202+ga'|
-|openjpeg|2.5.0|2.5.2|
 |openjpeg-legacy|1.5.2|2.5.2|
 |openjpeg-legacy+32|1.5.2|2.5.2|
 |openldap|2.6.7|2_6_8|
@@ -1899,7 +1889,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |osdlyrics|20190407|0.5.15|Possible downgrade from the current version (20190407   0.5.15)|
 |osinfo-db|20240510|20240523|
 |osinfo-db-tools|1.10.0|1.11.0|
-|osu-lazer|2024.412.1|2024.521.2|
+|osu-lazer|2024.412.1|2024.523.0|
 |oxygen|5.27.11|6.0.5|
 |oxygen-icons|5.115.0|6.0.90|
 |oxygen-sounds|5.25.3|6.0.5|
@@ -1945,7 +1935,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pcre-static|8.44|8.45|
 |pcsc-perl|1.4.14|1.4.16|
 |pcsclite|1.9.9|2.2.2|
-|pcsx2|1.6.0<br>+git20210825|1.7.5836|Compound version number '1.6.0+git20210825'<br>Version number indicates a snapshot (+git) is used|
+|pcsx2|1.6.0<br>+git20210825|1.7.5839|Compound version number '1.6.0+git20210825'<br>Version number indicates a snapshot (+git) is used|
 |pdfgrep|2.1.2|2.2.0|
 |pdfminer|20191020|20231228|
 |pdlzip|1.9|1.13|
@@ -2148,7 +2138,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |plasma-systemmonitor|5.27.11|6.0.5|
 |plasma-thunderbolt|5.27.11|6.0.5|
 |plasma-vault|5.27.11|6.0.5|
-|plasma-wayland-protocols|1.10.0|1.11.1|
+|plasma-wayland-protocols|1.10.0|1.13.0|
 |plasma-welcome|5.27.11|6.0.5|
 |plasma-workspace|5.27.11|6.0.5|
 |plasma-workspace-wallpapers|5.27.11|6.0.5|
@@ -2472,7 +2462,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |seahorse|42.0|43.0|
 |secretstorage|3.3.0|3.3.3|
 |semver|2.8.1|3.0.2|
-|sequoia-sq|0.31.0|0.36.0|
 |ser2net|3.5|4.6.2|
 |serf|1.3.9|1.3.10|
 |service-identity|18.1.0|24.1.0|
