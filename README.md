@@ -164,11 +164,12 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |bluez|5.75|5.76|
 |bluez-alsa|4.1.1|4.2.0|
 |bluez-qt|5.115.0|6.0.90|
-|boinc|7.24.3|8.0/8.0.1|
+|boinc|7.24.3|8.0/8.0.2|
 |bolt|0.9.7|0.9.8|
 |bomber|23.08.5|24.05.0|
 |boost|1.83.0|1.85.0|
 |boost+32|1.63.0|1.85.0|
+|borgbackup|1.1.17|1.2.8|
 |botan|1.10.17|3.4.0|
 |botan-2|2.12.1|3.4.0|
 |boto3|1.20.26|1.34.113|
@@ -470,7 +471,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |falkon|23.08.5|24.05.0|
 |fann|20190109|2.2.0|Possible downgrade from the current version (20190109   2.2.0)|
 |fasteners|0.18|0.19|
-|fastfetch|2.11.5|2.13.2|
 |fastimport|0.9.8|0.9.14|
 |fatattr|1.0.1|1.0.1.orig|Possible downgrade from the current version (1.0.1   1.0.1.orig)|
 |faulthandler|3.1|3.2|
@@ -899,6 +899,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |juk|23.08.5|24.05.0|
 |jupyter-client|5.2.4|8.6.2|
 |jupyter-core|4.4.0|5.7.2|
+|just|1.26.0|1.27.0|
 |k3b|23.08.5|24.05.0|
 |k3b-trinity|14.1.0|14.1.2|
 |k9copy-trinity|14.1.0|14.1.2|
@@ -947,6 +948,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kchmviewer-trinity|14.1.0|14.1.2|
 |kclock|23.08.5|24.05.0|
 |kcmautostart-trinity|14.1.0|14.1.2|
+|kcmutils|5.115.0|6.0.90|
 |kcodecs|5.115.0|6.0.90|
 |kcolorchooser|23.08.5|24.05.0|
 |kcolorpicker|0.2.0|0.3.1|
@@ -2194,6 +2196,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |proj|9.2.1|9.4.0|
 |projectm|4.0.0|4.1.1|
 |prompt-toolkit|2.0.8|3.0.43|
+|proot|5.1.20171016|5.4.0|
 |protobuf|3.15.6|27.0|
 |protobuf-c|1.3.3|1.5.0|
 |proxychains-ng+32|20161205|4.17|Possible downgrade from the current version (20161205   4.17)|
@@ -2296,7 +2299,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |python-linux-procfs|0.7.1|0.7.3|
 |python-lz4|2.1.6|4.3.3|
 |python-markdown-math|0.6|0.8|
-|python-mpd2|3.0.5|3.1.1|
 |python-msgpack|1.0.2|1.0.8|
 |python-node-semver|0.8.0|0.9.0|
 |python-openid|2.2.5|3.2|
@@ -2971,7 +2973,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |zeromq|4.3.4|4.3.5|
 |zerotier-one|1.12.2|1.14.0|
 |zfec|1.5.3|1.5.7.4|
-|zimg|3.0.2|3.0.5|
 |zita-alsa-pcmi|0.3.2|0.6.1|
 |zita-resampler|1.8.0|1.11.2|
 |zlib-static|1.2.12|1.3.1|
