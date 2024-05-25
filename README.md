@@ -95,6 +95,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |assimp|5.4.0|5.4.1|
 |astroid|2.12.2|3.2.2|
 |astrometry.net|0.94|0.95|
+|astyle|3.4.14|3.4.16|
 |at-spi2-atk+32|2.26.3|2.38.0|
 |at-spi2-core+32|2.26.3|2.52.0|
 |atk+32|2.26.1|2.38.0|
@@ -539,7 +540,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |frei0r-plugins|2.2.0|2.3.2|
 |frescobaldi|3.2|3.3.0|
 |fribidi+32|1.0.10|1.0.14|
-|functools32|3.2.3<br>+2|3.2.3-2|Compound version number '3.2.3+2'|
 |fuse-exfat|1.3.0|1.4.0|
 |fuse-python|0.3.1|1.0.7|
 |future|0.17.0|1.0.0|
@@ -658,9 +658,9 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-remote-desktop|42.4|46.2|
 |gnome-session|42.0|46.0|
 |gnome-settings-daemon|42.2|46.0|
-|gnome-shell|42.4|46.1|
+|gnome-shell|42.4|46.2|
 |gnome-shell-extension-gsconnect|53|57|
-|gnome-shell-extensions|42.3|46.1|
+|gnome-shell-extensions|42.3|46.2|
 |gnome-software|42.4|46.2|
 |gnome-sudoku|42.0|46.1|
 |gnome-system-monitor|42.0|46.0|
@@ -695,6 +695,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gptfdisk|1.0.9|1.0.10|
 |gradle|8.3|8.7.0|
 |granatier|23.08.5|24.05.0|
+|grantlee-editor|23.08.5|24.05.0|
 |grantleetheme|23.08.5|24.05.0|
 |graphene|1.10.2|1.10.8|
 |graphviz|10.0.1|11.0.0|
@@ -849,7 +850,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |intel-media-driver|24.1.5|24.2.3|
 |inxi|3.3.31<br>+2|3.3.31-2|Compound version number '3.3.31+2'|
 |iodine|0.7.0|0.8.0|
-|iosevka-fonts|28.0.5|30.0.1|
+|iosevka-fonts|28.0.5|30.1.0|
 |iozone|3.492|3.506|
 |ipcalc|0.41|1.0.3|
 |iperf3|3.16|3.17.1|
