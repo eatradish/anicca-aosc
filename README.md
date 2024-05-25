@@ -37,7 +37,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |akonadi-calendar-tools|23.08.5|24.05.0|
 |akonadi-contacts|23.08.5|24.05.0|
 |akonadi-import-wizard|23.08.5|24.05.0|
-|akonadi-mime|23.08.5|24.05.0|
 |akonadi-notes|23.08.5|24.05.0|
 |akonadi-search|23.08.5|24.05.0|
 |akonadiconsole|23.08.5|24.05.0|
@@ -131,6 +130,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |babel|2.9.1|2.15.0|
 |babeld|1.9.2|1.13.1|
 |babeltrace|1.5.7|1.5.11|
+|babl|0.1.108|0_1_108|
 |backcall|0.1.0|0.2.0|
 |backports|0|1.1|
 |backports-functools-lru-cache|1.5|2.0.0|
@@ -190,6 +190,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |bup|0.30|0.33.3|
 |byobu|5.133|6.12|
 |c-ares|1.28.1|1.29.0|
+|c-blosc|1.21.3|1.21.5|
 |cabextract|1.9|1.11|
 |cachecontrol|0.12.6|0.14.0|
 |cachetools|3.1.0|5.3.3|
@@ -201,7 +202,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |calendarsupport|23.08.5|24.05.0|
 |calibre|5.30.0|7.11.0|
 |caligula|0.4.5|0.4.7|
-|calindori|23.08.5|24.05.0|
 |callaudiod|0.1.4|0.1.9|
 |calver|2022.06.26|2022.6.26|
 |camlp4|4.14<br>+1|5.1+1|Compound version number '4.14+1'|
@@ -970,7 +970,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kde-inotify-survey|23.08.5|24.05.0|
 |kdebugsettings|23.08.5|24.05.0|
 |kdeclarative|5.115.0|6.0.90|
-|kdeconnect|23.08.5|24.05.0|
 |kdecoration|5.27.11|6.0.5|
 |kded|5.115.0|6.0.90|
 |kdeedu-data|23.08.5|24.05.0|
@@ -2157,7 +2156,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |podman|4.9.3<br>+vsock0.7.2|5.0.3|Compound version number '4.9.3+vsock0.7.2'|
 |podofo|0.9.6|0.10.3|
 |poedit|3.4.1|3.4.4-oss|
-|poetry|1.6.1|1.8.3|
 |poetry-core|1.7.0|1.9.0|
 |polari|42.1|46.0|
 |polib|1.1.0|1.2.0|
