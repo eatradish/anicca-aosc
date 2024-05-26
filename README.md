@@ -242,6 +242,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cheetah3|3.2.5|3.2.6.post2|
 |cherrypy|18.1.0|18.9.0|
 |chinadns-ng|0.0<br>+git20231028|2024.05.12|Compound version number '0.0+git20231028'<br>Version number indicates a snapshot (+git) is used|
+|chmlib|0.40a|0.40|
 |chntpw|1.1|140201|
 |chromaprint|1.5.0|1.5.1|
 |chromium|125.0.6422.60|125.0.6422.112|
@@ -2147,7 +2148,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pngquant|2.12.6|3.0.3|
 |pnpm|8.15.5|9.1.2|
 |po-debconf|1.0.21|1.0.21+nmu1|Possible downgrade from the current version (1.0.21   1.0.21+nmu1)|
-|po4a|0.63|0.71|
+|po4a|0.63|0.72|
 |pocketsphinx|5~prealpha|0.8|Possible downgrade from the current version (5~prealpha   0.8)|
 |podcastparser|0.6.5|0.6.10|
 |podman|4.9.3<br>+vsock0.7.2|5.0.3|Compound version number '4.9.3+vsock0.7.2'|
@@ -2500,6 +2501,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |smpeg|0.4.5|2_0_0|
 |smpeg+32|0.4.5|2_0_0|
 |smplayer|19.10.2|24.5.0|
+|snapd|2.61.2|2.63|
 |snapd-glib|1.63|1.65|
 |snapper-gui|0.1<br>+git20220626|0.1|Compound version number '0.1+git20220626'<br>Version number indicates a snapshot (+git) is used|
 |snappy|1.1.8|1.2.1|
