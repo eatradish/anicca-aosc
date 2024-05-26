@@ -166,7 +166,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |boinc|7.24.3|8.0/8.0.2|
 |bolt|0.9.7|0.9.8|
 |bomber|23.08.5|24.05.0|
-|boost|1.83.0|1.85.0|
 |boost+32|1.63.0|1.85.0|
 |borgbackup|1.1.17|1.2.8|
 |botan|1.10.17|3.4.0|
@@ -296,7 +295,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |construct|2.9.45|2.10.70|
 |containerd|1.7.13|1.7.17|
 |containers-common|0.57.0<br>+image5.29.0<br>+shortnames2023.02.20<br>+skopeo1.14.0<br>+storage1.51.0|1.0.1|Compound version number '0.57.0+image5.29.0+shortnames2023.02.20+skopeo1.14.0+storage1.51.0'|
-|convertall|0.7.5|1.0.1|
 |coreboot-utils|4.15|24.05|
 |corefreq|20170301|1.97.2-x86_64|Possible downgrade from the current version (20170301   1.97.2-x86_64)|
 |coreutils|9.4|9.5|
@@ -480,8 +478,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |feeluown-netease|1.0.1|1.0.3|
 |feeluown-qqmusic|1.0.2|1.0.4|
 |ffcall|2.2|2.4|
-|ffmpeg|4.4.4|7.0|
-|ffmpeg+32|4.2.5|7.0|
+|ffmpeg|4.4.4|7.0.1|
+|ffmpeg+32|4.2.5|7.0.1|
 |ffmpegthumbs|23.08.5|24.05.0|
 |ffnvcodec|11.1.5.1|12.2.72.0|
 |fftw+32|3.3.4|3.3.10|
@@ -628,7 +626,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gmime-3|3.2.7|3.2.14|
 |gnome-applets|3.44.0|3.52.0|
 |gnome-autoar|0.4.3|0.4.4|
-|gnome-backgrounds|42.0|46.0|
 |gnome-bluetooth|42.2|46.0|
 |gnome-boxes|42.3|46.1|
 |gnome-builder|42.1|46.2|
@@ -1011,7 +1008,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |keximdb-trinity|14.1.0|14.1.2|
 |keyring|21.7.0|25.2.1|
 |keysmith|23.08.5|24.05.0|
-|kfilemetadata|5.115.0|6.0.90|
 |kfind|23.08.5|24.05.0|
 |kfloppy|23.04.3|24.05.0|
 |kfourinline|23.08.5|24.05.0|
@@ -1194,7 +1190,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ktextwidgets|5.115.0|6.0.90|
 |ktimer|23.08.5|24.05.0|
 |ktnef|23.08.5|24.05.0|
-|ktoblzcheck|1.53|1.57|
 |ktorrent|23.08.5|24.05.0|
 |ktorrent-trinity|14.1.0|14.1.2|
 |ktouch|23.08.5|24.05.0|
@@ -1281,7 +1276,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libcmis|0.5.2|0.6.2|
 |libconfig|1.7.2|1.7.3|
 |libcork|1.0.0~rc3|0.15.0|Possible downgrade from the current version (1.0.0~rc3   0.15.0)|
-|libcpuid|0.5.1|0.6.5|
 |libcuckoo|0.3|0.3.1|
 |libdc1394|2.2.6|2.2.7|
 |libde265|1.0.8|1.0.15|
@@ -1370,7 +1364,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libkexiv2|23.08.5|24.05.0|
 |libkexiv2-trinity|14.1.0|14.1.2|
 |libkeyfinder|2.2.5|2.2.8|
-|libkgapi|23.08.5|24.05.0|
 |libkipi|23.08.5|24.05.0|
 |libkipi-trinity|14.1.0|14.1.2|
 |libkkc|0.3.5<br>+git20210213|0.3.5|Compound version number '0.3.5+git20210213'<br>Version number indicates a snapshot (+git) is used|
@@ -1714,7 +1707,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mouseemu|0.16|0.16.orig|Possible downgrade from the current version (0.16   0.16.orig)|
 |movit|1.6.3|1.7.1|
 |mp3gain|1.6.2|1_6_2|
-|mp4v2|4.1.3|2.1.3|Possible downgrade from the current version (4.1.3   2.1.3)|
 |mp4v2+32|2.0.0|2.1.3|
 |mpg123|1.25.13|1.32.6|
 |mpg123+32|1.25.13|1.32.6|
@@ -1856,7 +1848,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |openjdk-8|8u382<br>+ga|8u412-b08|Compound version number '8u382+ga'|
 |openjfx-11|11.0.20<br>+1|11.0.23+9|Compound version number '11.0.20+1'|
 |openjfx-8|8u202<br>+ga|8u202-ga|Compound version number '8u202+ga'|
-|openjpeg-legacy|1.5.2|2.5.2|
 |openjpeg-legacy+32|1.5.2|2.5.2|
 |openldap|2.6.7|2_6_8|
 |openldap+32|2.4.59|2_6_8|
@@ -2157,7 +2148,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |poetry|1.6.1|1.8.3|
 |poetry-core|1.7.0|1.9.0|
 |polari|42.1|46.0|
-|polib|1.1.0|1.2.0|
 |polkit-agent-tde-trinity|14.1.0|14.1.2|
 |polkit-kde-agent-1|5.27.11|6.0.5|
 |polkit-qt-1|0.114.0|0.200.0|
@@ -2733,7 +2723,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |translate-shell|0.9.7|0.9.7.1|
 |translate-toolkit|2.3.1|3.13.0|
 |transmission-remote-gtk|1.5.1|1.6.0|
-|trash-cli|0.17.1.14|0.24.4.17|
+|trash-cli|0.17.1.14|0.24.5.26|
 |tre|20161208|0.8.0|Possible downgrade from the current version (20161208   0.8.0)|
 |trio|0.24.0|0.25.1|
 |trollius|2.1|2.2.1|
