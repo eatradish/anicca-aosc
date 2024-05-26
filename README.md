@@ -3,7 +3,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
 | Package | Repo Version | New Version | Issues |
 |---------|--------------|-------------|--------|
-|a2ps|4.14|4.15.6|
 |aalib|1.4rc5|1.2|Possible downgrade from the current version (1.4rc5   1.2)|
 |aalib+32|1.4rc5|1.2|Possible downgrade from the current version (1.4rc5   1.2)|
 |aardvark-dns|1.9.0|1.10.0|
@@ -110,7 +109,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |audiocd-kio|23.08.5|24.05.0|
 |audiofile|0.3.6git20160829|0.3.6|
 |audiotube|23.08.5|24.05.0|
-|audit|3.1|4.0.1|
 |audiveris|5.1.0|5.3.1|
 |autobahn|19.2.1|23.6.2|
 |autobuild4|4.2.2|4.2.1|Possible downgrade from the current version (4.2.2   4.2.1)|
@@ -156,7 +154,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |bind|9.18.24|9.16.33|Possible downgrade from the current version (9.18.24   9.16.33)|
 |binutils+w64|2.34|2.42|
 |black-hole-solver|1.10.1|1.12.0|
-|bleachbit|4.0.0|4.6.0|
 |blender|4.0.2|4.1.1|
 |blinken|23.08.5|24.05.0|
 |blinker|1.4|1.8.2|
@@ -198,7 +195,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cairo|1.17.6|1.18.0|
 |cairo+32|1.14.12|1.18.0|
 |cairocffi|1.0.2|1.7.0|
-|cairomm|1.12.2|1.18.0|
 |cairosvg|2.5.2|2.7.1|
 |calendarsupport|23.08.5|24.05.0|
 |calibre|5.30.0|7.11.0|
@@ -473,7 +469,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |feedparser|6.0.8|6.0.11|
 |feeluown|4.1.1|4.1.4|
 |feeluown-netease|1.0.1|1.0.3|
-|feeluown-qqmusic|1.0.2|1.0.4|
 |ffcall|2.2|2.4|
 |ffmpeg|4.4.4|7.0.1|
 |ffmpeg+32|4.2.5|7.0.1|
@@ -2302,6 +2297,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qalculate-tde-trinity|14.1.0|14.1.2|
 |qca|2.3.4|2.3.8|
 |qcef|1.1.6|1.1.8|
+|qcustomplot|2.1.1|2.1.1.1|
 |qd|2.3.22|2.3.24|
 |qgnomeplatform|0.8.4|0.9.2|
 |qhull|7.2.0|8.0.2|
@@ -2573,7 +2569,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sudo|1.9.15p5|1_9_15p5|
 |suitesparse|7.6.1|7.7.0|
 |sunpinyin|3.0.0~rc1|2.0.3-rel-1|Possible downgrade from the current version (3.0.0~rc1   2.0.3-rel-1)|
-|sunshine|0.23.0|2024.525.32353|
+|sunshine|0.23.0|2024.526.1114|
 |sunxi-tools|1.4.2<br>+git20220729|1.4.2|Compound version number '1.4.2+git20220729'<br>Version number indicates a snapshot (+git) is used|
 |sushi|42.0|46.0|
 |svgpart|23.08.5|24.05.0|
@@ -2701,7 +2697,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tor|0.4.7.14|0.4.8.11|
 |tork-trinity|14.1.0|14.1.2|
 |tornado|5.1|6.4|
-|tortoisehg|5.3.2|6.6.3|
 |totem|42.0|43.0|
 |toxcore|0.2.18|0.2.19|
 |tpm-tools|1.3.9.1|1.3.9.2|
