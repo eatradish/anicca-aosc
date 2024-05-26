@@ -237,7 +237,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cheese|41.1|44.1|
 |cheetah3|3.2.5|3.2.6.post2|
 |cherrypy|18.1.0|18.9.0|
-|chinadns-ng|0.0<br>+git20231028|2024.05.12|Compound version number '0.0+git20231028'<br>Version number indicates a snapshot (+git) is used|
 |chmlib|0.40a|0.40|
 |chntpw|1.1|140201|
 |chromaprint|1.5.0|1.5.1|
@@ -501,7 +500,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |flat-remix-icon-theme|20191122|20240201|
 |flatbuffers|2.0.6|24.3.25|
 |flatpak|1.14.6|1.14.8|
-|flatpak-builder|1.0.14|1.4.3|
 |flent|1.3.2|2.1.1|
 |flightgear|2020.3.13|2020.3.19|
 |flint|2.5.2|3.1.2|
@@ -833,7 +831,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |imwheel|1.0.0pre12|0.9.9|Possible downgrade from the current version (1.0.0pre12   0.9.9)|
 |incidenceeditor|23.08.5|24.05.0|
 |incremental|17.5.0|22.10.0|
-|indent|2.2.12|2.2.13|
 |inetutils|2.4|2.5|
 |inih|53|58|
 |iniparse|0.4|0.5|
@@ -857,7 +854,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ipy|0.83|1.01|
 |ipython|7.28.0|8.24.0|
 |irrlicht|1.8.4|1.8.5|
-|irssi|1.2.3|1.4.5|
 |iso-codes|4.4|4.16.0|
 |isomd5sum|1.2.3|1.2.4|
 |isort|4.3.21|5.13.2|
@@ -1424,7 +1420,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libpano13|2.9.19|2.9.22|
 |libpcap+32|1.10.1|1.10.4|
 |libpeas|1.32.0|2.0.2|
-|libpfm|4.12.0|4.13.0|
 |libphonenumber|8.12.17|8.13.37|
 |libpinyin|2.6.0|2.8.1|
 |libpipeline|1.5.3|1.5.7|
@@ -1682,7 +1677,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mime-types|9|99|
 |minetest|5.7.0<br>+irrlicht1.9.0mt10|5.8.0|Compound version number '5.7.0+irrlicht1.9.0mt10'|
 |mingw+w64|8.0.2|11.0.1|
-|mini-portile|2.8.0|2.8.6|
 |minicom|2.8|2.9|
 |miniserve|0.26.0|0.27.1|
 |miniupnpc|2.1|2.2.7|
@@ -1788,7 +1782,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nodejs|20.13.0|21.7.1|
 |noip|2.1.9|3.0.0|
 |noise-suppression-for-voice|0.91|1.10|
-|nokogiri|1.13.9|1.16.5|
 |nomino|1.3.1|1.3.4|
 |normaliz|3.6.3|3.10.2|
 |notmuch|0.34|0.38.3|
@@ -2295,7 +2288,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |python-poppler-qt5|21.1.0<br>+git20210304|21.3.0|Compound version number '21.1.0+git20210304'<br>Version number indicates a snapshot (+git) is used|
 |python-tabulate|0.8.3|0.9.0|
 |python-xapp|2.0.1|2.4.1|
-|python-xlib|0.26|0.33|
 |python-xmp-toolkit|2.0.1|2.0.2|
 |pythondialog|3.3.0|3.5.3|
 |pytools|2019.1|2024.1.3|
@@ -2385,7 +2377,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rocr-runtime|6.0.2|6.1.1|
 |rocs|23.08.5|24.05.0|
 |roct-thunk-interface|6.0.0|6.1.1|
-|ronn-ng|0.9.1|0.10.1|
 |rosegarden|20.12|23.12|
 |rosegarden-trinity|14.1.0|14.1.2|
 |rp-pppoe|3.15|4.0|
@@ -2821,7 +2812,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |volk-meta-loader|1.3.280.0|1.3.283.0|
 |vorbis-tools|1.4.0|1.4.2|
 |vpnc|0.5.3r550|0.5.3|
-|vrms|1.27|1.34|
 |vsftpd|3.0.3|3.0.5|
 |vte|0.68.0|0.76.2|
 |vulkan-extensionlayer|1.3.280.0|1.3.285|
@@ -2843,7 +2833,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |wcwidth|0.1.8|0.2.13|
 |wdm|1.28|1.29|
 |webencodings|0.5|0.5.1|
-|webkit2gtk|2.42.5|2.44.2|
 |webrtc-audio-processing|0.3|1.3|
 |websocket-client|1.7.0|1.8.0|
 |websockets|12.0|1.4.4|Possible downgrade from the current version (12.0   1.4.4)|
