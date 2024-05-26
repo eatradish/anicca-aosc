@@ -313,7 +313,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |css-parser|1.0.6|1.0.10|
 |cssselect2|0.6.0|0.7.0|
 |cssutils|1.0.2|2.11.0|
-|ctags|20191203|6.1.20240519.0|Possible downgrade from the current version (20191203   6.1.20240519.0)|
+|ctags|20191203|6.1.20240526.0|Possible downgrade from the current version (20191203   6.1.20240526.0)|
 |cuda|12.5.0<br>+555.42.02|12.5.0|Compound version number '12.5.0+555.42.02'<br>Possible downgrade from the current version (12.5.0+555.42.02   12.5.0)|
 |cunit|2.1<br>+3|2.1-3|Compound version number '2.1+3'|
 |cups|2.4.7|2.4.8|
@@ -362,7 +362,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dieharder|3.31.1|3.31.1_20110601-1|
 |diff-match-patch|20200713|20230430|
 |diff-so-fancy|1.4.1|1.4.4|
-|diffuse|0.6.0|0.9.0|
 |diffutils|3.8|3.10|
 |digikam|7.9.0|8.3.0|
 |digikam-trinity|14.1.0|14.1.2|
@@ -1779,6 +1778,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nomino|1.3.1|1.3.4|
 |normaliz|3.6.3|3.10.2|
 |notmuch|0.34|0.38.3|
+|noto-fonts|24.1.1<br>+emoji2.042<br>+cjksans2.004<br>+cjkserif2.002|24.5.1|Compound version number '24.1.1+emoji2.042+cjksans2.004+cjkserif2.002'|
 |npth|1.6|1.7|
 |nsd|4.7.0|4_9_1_REL|
 |nsgenbind|0.8|0.9|
@@ -2009,7 +2009,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-json-parse|0.57|0.43|Possible downgrade from the current version (0.57   0.43)|
 |perl-json-xs|4.0<br>+00|4.03|Compound version number '4.0+00'|
 |perl-list-moreutils|0.428|0.430|
-|perl-lwp-mediatypes|6.02|6.04|
 |perl-lwp-protocol-https|6.06|6.14|
 |perl-mail-dkim|0.40|1.20240124|
 |perl-mail-imapclient|3.42|3.43|
@@ -2773,7 +2772,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |v4l-utils+32|1.18.0|1.26.1|
 |v4l2loopback|0.12.5|0.13.2|
 |vala|0.56.16|0.56.17|
-|vala-panel-appmenu|0.7.4|24.02|
+|vala-panel-appmenu|0.7.4|24.05|
 |valgrind|3.22.0|3.23.0|
 |vamp-plugin-sdk|2.9.0|2.10.0|
 |vapoursynth|57|68|
