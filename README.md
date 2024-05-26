@@ -2293,6 +2293,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pyyaml|5.3.1|6.0.1|
 |pyzmq|22.3.0|26.0.3|
 |qalculate-tde-trinity|14.1.0|14.1.2|
+|qbittorrent|4.6.4|4.6.5|
 |qca|2.3.4|2.3.8|
 |qcef|1.1.6|1.1.8|
 |qcustomplot|2.1.1|2.1.1.1|
