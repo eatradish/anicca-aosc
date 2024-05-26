@@ -114,6 +114,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |audiveris|5.1.0|5.3.1|
 |autobahn|19.2.1|23.6.2|
 |autojump-rs|0.5.1<br>+22.5.3|0.5.1|Compound version number '0.5.1+22.5.3'<br>Possible downgrade from the current version (0.5.1+22.5.3   0.5.1)|
+|automake|1.16i|1.16.5|
 |automat|20.2.0|22.10.0|
 |autopep8|1.5.6|2.1.1|
 |autossh|1.4f|1.4g|
@@ -808,7 +809,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ibus-anthy|1.5.13|1.5.16|
 |ibus-chewing|1.6.1|2.0.0|
 |ibus-hangul|1.5.4|1.5.5|
-|ibus-libpinyin|1.12.0|1.15.7|
 |ibus-m17n|1.4.7|1.4.29|
 |ibus-qt|1.3.3|1.3.4|
 |ibus-sunpinyin|3.0.0~rc1|2.0.3-rel-1|Possible downgrade from the current version (3.0.0~rc1   2.0.3-rel-1)|
@@ -2637,6 +2637,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tde-systemsettings|14.1.0|14.1.2|
 |tdeaccessibility|14.1.0|14.1.2|
 |tdeaddons|14.1.0|14.1.2|
+|tdeadmin|14.1.0|14.1.2|
 |tdeartwork|14.1.0|14.1.2|
 |tdebase|14.1.0|14.1.2|
 |tdebindings|14.1.0|14.1.2|
