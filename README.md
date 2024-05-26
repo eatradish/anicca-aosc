@@ -540,6 +540,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |frei0r-plugins|2.2.0|2.3.2|
 |frescobaldi|3.2|3.3.0|
 |fribidi+32|1.0.10|1.0.14|
+|functools32|3.2.3<br>+2|3.2.3-2|Compound version number '3.2.3+2'|
 |fuse-exfat|1.3.0|1.4.0|
 |fuse-python|0.3.1|1.0.7|
 |future|0.17.0|1.0.0|
@@ -1063,7 +1064,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kitemviews|5.115.0|6.0.90|
 |kiten|23.08.5|24.05.0|
 |kitinerary|23.08.5|24.05.0|
-|kitty|0.26.4|0.34.1|
+|kitty|0.26.4|0.35.0|
 |kiwisolver|1.0.1|1.4.5|
 |kjobwidgets|5.115.0|6.0.90|
 |kjournald|23.08.5|24.05.0|
@@ -1237,7 +1238,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ldb|2.6.1|2.9.0|
 |leatherman|1.9.1|1.12.13|
 |lensfun|0.3.4|0.3.95|
-|level-zero|1.17.0|1.17.2|
+|level-zero|1.17.0|1.17.6|
 |levenshtein|0.12.0|0.25.1|
 |lib3mf|2.2.0|2.3.1|
 |libaacs|0.11.0|0.11.1|
@@ -1277,7 +1278,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libcdr|0.1.6|0.1.7|
 |libcgroup|2.0|3.1.0|
 |libchamplain|0.12.20|0.12.21|
-|libchewing|0.5.1|0.8.2|
+|libchewing|0.5.1|0.8.3|
 |libclc|17.0.3|18.1.6|
 |libcloudproviders|0.3.1|0.3.6|
 |libcmis|0.5.2|0.6.2|
