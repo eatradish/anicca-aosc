@@ -113,6 +113,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |audit|3.1|4.0.1|
 |audiveris|5.1.0|5.3.1|
 |autobahn|19.2.1|23.6.2|
+|autobuild4|4.2.2|4.2.1|Possible downgrade from the current version (4.2.2   4.2.1)|
 |autojump-rs|0.5.1<br>+22.5.3|0.5.1|Compound version number '0.5.1+22.5.3'<br>Possible downgrade from the current version (0.5.1+22.5.3   0.5.1)|
 |automake|1.16i|1.16.5|
 |automat|20.2.0|22.10.0|
@@ -166,6 +167,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |boinc|7.24.3|8.0/8.0.2|
 |bolt|0.9.7|0.9.8|
 |bomber|23.08.5|24.05.0|
+|boost|1.83.0|1.85.0|
 |boost+32|1.63.0|1.85.0|
 |borgbackup|1.1.17|1.2.8|
 |botan|1.10.17|3.4.0|
@@ -224,11 +226,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cdrdao|1.2.4|1.2.5|
 |celluloid|0.18|0.26|
 |cerberus|1.3.2|1.3.5|
-|certbot|2.5.0|2.10.0|
-|certbot-apache|2.5.0|2.10.0|
-|certbot-dns-cloudflare|2.5.0|2.10.0|
-|certbot-nginx|2.5.0|2.10.0|
-|certifi|2020.12.5|2024.2.2|
 |cervisia|23.08.5|24.05.0|
 |cffi|1.15.0|1.16.0|
 |cfitsio|3.450|4.4.0|
@@ -295,6 +292,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |construct|2.9.45|2.10.70|
 |containerd|1.7.13|1.7.17|
 |containers-common|0.57.0<br>+image5.29.0<br>+shortnames2023.02.20<br>+skopeo1.14.0<br>+storage1.51.0|1.0.1|Compound version number '0.57.0+image5.29.0+shortnames2023.02.20+skopeo1.14.0+storage1.51.0'|
+|convertall|0.7.5|1.0.1|
 |coreboot-utils|4.15|24.05|
 |corefreq|20170301|1.97.2-x86_64|Possible downgrade from the current version (20170301   1.97.2-x86_64)|
 |coreutils|9.4|9.5|
@@ -626,6 +624,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gmime-3|3.2.7|3.2.14|
 |gnome-applets|3.44.0|3.52.0|
 |gnome-autoar|0.4.3|0.4.4|
+|gnome-backgrounds|42.0|46.0|
 |gnome-bluetooth|42.2|46.0|
 |gnome-boxes|42.3|46.1|
 |gnome-builder|42.1|46.2|
@@ -1008,6 +1007,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |keximdb-trinity|14.1.0|14.1.2|
 |keyring|21.7.0|25.2.1|
 |keysmith|23.08.5|24.05.0|
+|kfilemetadata|5.115.0|6.0.90|
 |kfind|23.08.5|24.05.0|
 |kfloppy|23.04.3|24.05.0|
 |kfourinline|23.08.5|24.05.0|
@@ -1190,6 +1190,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ktextwidgets|5.115.0|6.0.90|
 |ktimer|23.08.5|24.05.0|
 |ktnef|23.08.5|24.05.0|
+|ktoblzcheck|1.53|1.57|
 |ktorrent|23.08.5|24.05.0|
 |ktorrent-trinity|14.1.0|14.1.2|
 |ktouch|23.08.5|24.05.0|
@@ -1276,6 +1277,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libcmis|0.5.2|0.6.2|
 |libconfig|1.7.2|1.7.3|
 |libcork|1.0.0~rc3|0.15.0|Possible downgrade from the current version (1.0.0~rc3   0.15.0)|
+|libcpuid|0.5.1|0.6.5|
 |libcuckoo|0.3|0.3.1|
 |libdc1394|2.2.6|2.2.7|
 |libde265|1.0.8|1.0.15|
@@ -1364,6 +1366,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libkexiv2|23.08.5|24.05.0|
 |libkexiv2-trinity|14.1.0|14.1.2|
 |libkeyfinder|2.2.5|2.2.8|
+|libkgapi|23.08.5|24.05.0|
 |libkipi|23.08.5|24.05.0|
 |libkipi-trinity|14.1.0|14.1.2|
 |libkkc|0.3.5<br>+git20210213|0.3.5|Compound version number '0.3.5+git20210213'<br>Version number indicates a snapshot (+git) is used|
@@ -1692,14 +1695,12 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mldonkey|3.1.7<br>+2<br>+git20210505|3-1-7-2|Compound version number '3.1.7+2+git20210505'<br>Version number indicates a snapshot (+git) is used|
 |mlt|7.22.0|7.24.0|
 |mlterm|3.8.9|3.9.3|
-|mobile-broadband-provider-info|20190618|20240407|
 |mock|2.0.0|5.1.0|
 |modem-manager-gui|0.0.19.1|0.0.20|
 |modemmanager|1.18.12|1.22.0|
 |modemmanager-qt|5.115.0|6.0.90|
 |mokutil|0.6.0|0.7.2|
 |mold|2.4.0|2.31.0|
-|mono|6.12.0.182|6.12.0.206|
 |monotonic|1.5|1.6|
 |moodbar|1.2.1|1.3.0|
 |more-itertools|4.3.0|10.2.0|
@@ -1707,6 +1708,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mouseemu|0.16|0.16.orig|Possible downgrade from the current version (0.16   0.16.orig)|
 |movit|1.6.3|1.7.1|
 |mp3gain|1.6.2|1_6_2|
+|mp4v2|4.1.3|2.1.3|Possible downgrade from the current version (4.1.3   2.1.3)|
 |mp4v2+32|2.0.0|2.1.3|
 |mpg123|1.25.13|1.32.6|
 |mpg123+32|1.25.13|1.32.6|
@@ -1848,6 +1850,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |openjdk-8|8u382<br>+ga|8u412-b08|Compound version number '8u382+ga'|
 |openjfx-11|11.0.20<br>+1|11.0.23+9|Compound version number '11.0.20+1'|
 |openjfx-8|8u202<br>+ga|8u202-ga|Compound version number '8u202+ga'|
+|openjpeg-legacy|1.5.2|2.5.2|
 |openjpeg-legacy+32|1.5.2|2.5.2|
 |openldap|2.6.7|2_6_8|
 |openldap+32|2.4.59|2_6_8|
@@ -2148,6 +2151,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |poetry|1.6.1|1.8.3|
 |poetry-core|1.7.0|1.9.0|
 |polari|42.1|46.0|
+|polib|1.1.0|1.2.0|
 |polkit-agent-tde-trinity|14.1.0|14.1.2|
 |polkit-kde-agent-1|5.27.11|6.0.5|
 |polkit-qt-1|0.114.0|0.200.0|
@@ -2457,6 +2461,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sfml|2.5.1|2.6.1|
 |sg3-utils|1.47r915|1.48|
 |shaderc|2023.7|2024.1|
+|shadowsocks-rust|1.18.4|1.19.0|
 |shapelib|1.5.0|1.6.0|
 |shared-color-targets|0.1.7|0_1_7|
 |shellingham|1.3.1|1.5.4|
@@ -2517,7 +2522,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sozu|0.15.2|1.0.0|
 |spamassassin|3.4.6|4.0.1|
 |spandsp|0.0.6|3.0.0|
-|spdx-licenses|3.11|3.24.0|
 |spectacle|22.12.3|24.05.0|
 |speech-dispatcher|0.11.2|0.11.5|
 |speedometer|2.8|2.9|
@@ -2596,7 +2600,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sysprof|3.44.0|46.0|
 |system-config-printer|1.5.17|1.5.18|
 |systemd|255.3|255.6|
-|systemd-boot-friend|0.26.1|0.26.2|
+|systemd-boot-friend|0.26.3|0.26.2|Possible downgrade from the current version (0.26.3   0.26.2)|
 |systemsettings|5.27.11|6.0.5|
 |systemtap|4.4|5.1|
 |sysv-ipc|1.0.1|1.1.0|
@@ -2681,7 +2685,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |texstudio|4.0.2|4.8.0|
 |texworks|0.6.6|0.6.9|
 |thedarkmod|2.09a|2.12|
-|thermald|2.5.2|2.5.7|
 |thin-provisioning-tools|1.0.10|1.0.12|
 |threadweaver|5.115.0|6.0.90|
 |thunderbird|115.5.2|125.0|
