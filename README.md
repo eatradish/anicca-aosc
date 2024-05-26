@@ -111,7 +111,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |audiotube|23.08.5|24.05.0|
 |audiveris|5.1.0|5.3.1|
 |autobahn|19.2.1|23.6.2|
-|autobuild4|4.2.2|4.2.1|Possible downgrade from the current version (4.2.2   4.2.1)|
 |autojump-rs|0.5.1<br>+22.5.3|0.5.1|Compound version number '0.5.1+22.5.3'<br>Possible downgrade from the current version (0.5.1+22.5.3   0.5.1)|
 |automake|1.16i|1.16.5|
 |automat|20.2.0|22.10.0|
@@ -815,8 +814,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |igraph|0.7.1|0.10.12|
 |igv|2.15.1|2.16.2|
 |iio-sensor-proxy|3.4|3.5|
-|imagemagick|6.9.13<br>+7|6.9.13-10|Compound version number '6.9.13+7'|
-|imagemagick+7|7.1.1<br>+32|7.1.1-32|Compound version number '7.1.1+32'|
+|imagemagick|6.9.13<br>+7|6.9.13-11|Compound version number '6.9.13+7'|
+|imagemagick+7|7.1.1<br>+32|7.1.1-33|Compound version number '7.1.1+32'|
 |imagesize|1.1.0|1.4.1|
 |imapsync|1.977|2.229|
 |imath|3.1.5|3.1.11|
@@ -1205,6 +1204,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kwidgetsaddons|5.115.0|6.0.90|
 |kwin|5.27.11|6.0.5|
 |kwindowsystem|5.115.0|6.0.90|
+|kwordquiz|23.08.5|24.05.0|
 |kwrited|5.27.11|6.0.5|
 |kxmleditor-trinity|14.1.0|14.1.2|
 |kxmlgui|5.115.0|6.0.90|
@@ -1717,6 +1717,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |muparser|2.2.6.1|2.3.4|
 |mupdf|1.18.0|1.24.2|
 |mutter|42.4|46.2|
+|mxml|3.2|4.0.3|
 |mycli|1.23.2|1.27.2|
 |mygpoclient|1.8|1.9|
 |n2n|2.8|3.1.1|
@@ -2599,6 +2600,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tastymenu-trinity|14.1.0|14.1.2|
 |tbb|2021.11.0|2021.12.0|
 |tbb+32|4.4u4|2021.12.0|
+|tcl|8.6.10|8.6.14|
 |tcl+32|8.6.10|8.6.14|
 |tclap|1.2.2|1.2.5|
 |tcping|1.3.5|2.1.0|
