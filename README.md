@@ -195,6 +195,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cairo|1.17.6|1.18.0|
 |cairo+32|1.14.12|1.18.0|
 |cairocffi|1.0.2|1.7.0|
+|cairomm|1.12.2|1.18.0|
 |cairosvg|2.5.2|2.7.1|
 |calendarsupport|23.08.5|24.05.0|
 |calibre|5.30.0|7.11.0|
@@ -469,6 +470,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |feedparser|6.0.8|6.0.11|
 |feeluown|4.1.1|4.1.4|
 |feeluown-netease|1.0.1|1.0.3|
+|feeluown-qqmusic|1.0.2|1.0.4|
 |ffcall|2.2|2.4|
 |ffmpeg|4.4.4|7.0.1|
 |ffmpeg+32|4.2.5|7.0.1|
@@ -482,7 +484,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |filezilla|3.66.4|3.60.2|Possible downgrade from the current version (3.66.4   3.60.2)|
 |findlib|1.9.5|1.9.6|
 |fio|3.35|3.37|
-|firefox|125.0.3|126.0|
 |firehol|3.1.6|3.1.7|
 |firewalld|2.0.0|2.1.2|
 |flac|1.3.3|1.4.3|
@@ -599,7 +600,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gitpython|3.1.35|3.1.43|
 |gjs|1.74.0|1.80.2|
 |gksu|2.0.2|2.0.12|
-|glances|3.4.0.2|4.0.7|
+|glances|4.0.5|4.0.7|
 |glib|2.80.0|2.80.2|
 |glib+32|2.62.6|2.80.2|
 |glib-networking|2.72.2|2.80.0|
@@ -783,7 +784,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hugin|2022.0.0|2023.0.0|
 |humanize|0.5.1|4.9.0|
 |hunspell|1.7.0|1.7.2|
-|hwloc|1.11.10|2.10.0|
 |hyper-h11|0.12.0|0.14.0|
 |hyper-h2|4.0.0|4.1.0|
 |hyperframe|6.0.0|6.0.1|
@@ -1136,7 +1136,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kqtquickcharts|23.08.5|24.05.0|
 |kquickcharts|5.115.0|6.0.90|
 |kquickimageeditor|0.2.0|0.3.0|
-|kramdown|2.3.1|2.4.0|
 |krb5|1.17.1|1.21.2-final|
 |krb5+32|1.17.1|1.21.2-final|
 |krdc|23.08.5|24.05.0|
@@ -1780,7 +1779,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nomino|1.3.1|1.3.4|
 |normaliz|3.6.3|3.10.2|
 |notmuch|0.34|0.38.3|
-|noto-fonts|24.1.1<br>+emoji2.042<br>+cjksans2.004<br>+cjkserif2.002|24.5.1|Compound version number '24.1.1+emoji2.042+cjksans2.004+cjkserif2.002'|
 |npth|1.6|1.7|
 |nsd|4.7.0|4_9_1_REL|
 |nsgenbind|0.8|0.9|
@@ -2311,7 +2309,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qscintilla|2.13.1|2.14.1|
 |qsynth|0.5.6|0.9.91|
 |qt-5|5.15.13<br>+webengine5.15.16<br>+webkit5.212.0<br>+kde20240408|5.15.14-lts-lgpl|Compound version number '5.15.13+webengine5.15.16+webkit5.212.0+kde20240408'|
-|qt-6|6.7.0|6.7.1|
 |qt4-tqt-theme-engine-trinity|14.1.0|14.1.2|
 |qtkeychain|0.13.2|0.14.3|
 |qtpy|2.1.0|2.4.1|
@@ -2587,7 +2584,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sysprof|3.44.0|46.0|
 |system-config-printer|1.5.17|1.5.18|
 |systemd|255.3|255.6|
-|systemd-boot-friend|0.26.3|0.26.2|Possible downgrade from the current version (0.26.3   0.26.2)|
 |systemsettings|5.27.11|6.0.5|
 |systemtap|4.4|5.1|
 |sysv-ipc|1.0.1|1.1.0|
