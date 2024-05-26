@@ -141,7 +141,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |bandwhich|0.20.0|0.22.2|
 |baobab|42.0|46.0|
 |bash|5.2.26|5.2.21|Possible downgrade from the current version (5.2.26   5.2.21)|
-|bash-completion|2.13.0|2.14.0|
 |basket-trinity|14.1.0|14.1.2|
 |bcachefs-tools|1.6.4|1.7.0|
 |bcftools|1.10.2|1.20|
@@ -361,7 +360,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dephell-specifier|0.2.2|0.3.0|
 |deploykit-backend|0.1.1|0.1.0|Possible downgrade from the current version (0.1.1   0.1.0)|
 |deploykit-gui|0.2.1|test-ci|Versions not comparable: `0.2.1` and `test-ci`|
-|desktop-file-utils|0.26|0.27|
 |devhelp|41.2|43.0|
 |dex|0.8.0|0.9.0|
 |dfu-util|0.10|0.11|
@@ -526,6 +524,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fping|5.1|5.2|
 |fprintd|1.94.2|1.94.3|
 |fractal|7.0|7|
+|frameworkintegration|5.115.0|6.0.90|
 |freealut|1.1.0|1_1_0|
 |freealut+32|1.1.0|1_1_0|
 |freecell-solver|6.2.0|6.8.0|
@@ -568,6 +567,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gcdemu|3.2.4|3.2.6|
 |gcr|3.41.1|4.3.0|
 |gdal|3.8.4|3.9.0|
+|gdb+cross-amd64|8.2|14.2|
 |gdb+cross-arm64|12.1|14.2|
 |gdb+cross-mips64r6el|12.1|14.2|
 |gdbm+32|1.11|1.23|
@@ -1887,7 +1887,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |orc+32|0.4.32|0.4.38|
 |orca|42.3|46.1|
 |osdlyrics|20190407|0.5.15|Possible downgrade from the current version (20190407   0.5.15)|
-|osinfo-db|20240510|20240523|
 |osinfo-db-tools|1.10.0|1.11.0|
 |osu-lazer|2024.412.1|2024.523.0|
 |oxygen|5.27.11|6.0.5|
@@ -2306,7 +2305,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |python-xmp-toolkit|2.0.1|2.0.2|
 |pythondialog|3.3.0|3.5.3|
 |pytools|2019.1|2024.1.3|
-|pytz|2021.1|2024.1|
 |pyudev|0.24.1|0.24.3|
 |pyusb|1.0.2|1.2.1|
 |pyutil|3.3.0|3.3.6|
@@ -2471,7 +2469,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |shaderc|2023.7|2024.1|
 |shapelib|1.5.0|1.6.0|
 |shared-color-targets|0.1.7|0_1_7|
-|shared-mime-info|2.2|2.4|
 |shellingham|1.3.1|1.5.4|
 |shotcut|21.08.11|24.04.28|
 |shotwell|0.31.4|0.32.6|
@@ -2551,6 +2548,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |spim|9.1.23|9.1.24|
 |spirv-headers|1.3.280.0|1.5.4.raytracing.fixed|
 |spirv-llvm-translator|17.0.0|18.1.0|
+|spirv-tools|1.3.275.0|2024.1|
 |spread-sheet-widget|0.3|0.10|
 |sqlalchemy|1.2.18|2.0.30|
 |sqlcipher|4.5.6|4.6.0|
@@ -2756,7 +2754,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |txtorcon|19.1.0|23.11.0|
 |typed-ast|1.4.3|1.5.5|
 |typing-extensions|4.7.1|4.12.0a2|
-|tzdata|2023d|2024a|
 |uboot-asahi|2023.07.02<br>+3|2024.04-1|Compound version number '2023.07.02+3'|
 |uboot-tools|2022.10|2024.04|
 |ubuntu-keyring|2021.03.26|2023.11.28.1|
@@ -2872,7 +2869,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |wine|9.9<br>+gecko2.47.4<br>+mono9.1.0|9.9|Compound version number '9.9+gecko2.47.4+mono9.1.0'|
 |wireguard|1|0.0.20191219|Possible downgrade from the current version (1   0.0.20191219)|
 |wireguard-tools|1.0.20200827|1.0.20210914|
-|wireless-regdb|2022.08.12|2024.05.08|
 |wireless-tools|30.pre9|29|Possible downgrade from the current version (30.pre9   29)|
 |wireshark|4.2.3|4.2.5|
 |wmutils|20170223|1.7|Possible downgrade from the current version (20170223   1.7)|
