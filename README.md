@@ -1613,6 +1613,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |m17n-lib|1.8.0|1.8.4|
 |m1n1|1.4.6<br>+logo20231113.1|1.4.14|Compound version number '1.4.6+logo20231113.1'|
 |m2crypto|0.38.0|0.41.0|
+|m2r|0.2.1|0.3.1|
 |m3u8|0.7.1|5.0.0|
 |mac-fdisk|0.1|0.1.orig|Possible downgrade from the current version (0.1   0.1.orig)|
 |magic-wormhole|0.11.2|0.14.0|
@@ -1900,6 +1901,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |parted|3.5|3.6|
 |partimage|0.6.9|0.7.2|
 |partitionmanager|23.08.5|24.05.0|
+|pastel|0.2.0|0.2.1|
 |pathlib2|2.3.5|2.3.7.post1|
 |pathspec|0.11.0|0.12.1|
 |patool|1.12|upstream/2.2.0|Possible downgrade from the current version (1.12   upstream/2.2.0)|
@@ -2789,7 +2791,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vice|3.5|3.8|
 |vicious|2.3.3|2.7.0|
 |vid.stab|0.98b|1.1.1|
-|vim|9.1.0393|9.1.0444|
+|vim|9.1.0393|9.1.0446|
 |virglrenderer|0.10.4|1.0.1|
 |virtualenv|20.25.0|20.26.2|
 |virtualgl+32|2.5.2|3.1.1|
@@ -2909,6 +2911,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |yad|0.40.0|13.0|
 |yakuake|23.08.5|24.05.0|
 |yakuake-trinity|14.1.0|14.1.2|
+|yaml-cpp|0.6.3|0.8.0|
 |yard|0.9.26|0.9.36|
 |yarl|1.6.3|1.9.4|
 |yaspin|1.2.0|3.0.2|
