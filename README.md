@@ -809,6 +809,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ibus-anthy|1.5.13|1.5.16|
 |ibus-chewing|1.6.1|2.0.0|
 |ibus-hangul|1.5.4|1.5.5|
+|ibus-libpinyin|1.12.0|1.15.7|
 |ibus-m17n|1.4.7|1.4.29|
 |ibus-qt|1.3.3|1.3.4|
 |ibus-sunpinyin|3.0.0~rc1|2.0.3-rel-1|Possible downgrade from the current version (3.0.0~rc1   2.0.3-rel-1)|
