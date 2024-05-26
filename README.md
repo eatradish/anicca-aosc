@@ -526,7 +526,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fping|5.1|5.2|
 |fprintd|1.94.2|1.94.3|
 |fractal|7.0|7|
-|frameworkintegration|5.115.0|6.0.90|
 |freealut|1.1.0|1_1_0|
 |freealut+32|1.1.0|1_1_0|
 |freecell-solver|6.2.0|6.8.0|
@@ -569,7 +568,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gcdemu|3.2.4|3.2.6|
 |gcr|3.41.1|4.3.0|
 |gdal|3.8.4|3.9.0|
-|gdb+cross-amd64|8.2|14.2|
 |gdb+cross-arm64|12.1|14.2|
 |gdb+cross-mips64r6el|12.1|14.2|
 |gdbm+32|1.11|1.23|
@@ -2553,7 +2551,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |spim|9.1.23|9.1.24|
 |spirv-headers|1.3.280.0|1.5.4.raytracing.fixed|
 |spirv-llvm-translator|17.0.0|18.1.0|
-|spirv-tools|1.3.275.0|2024.1|
 |spread-sheet-widget|0.3|0.10|
 |sqlalchemy|1.2.18|2.0.30|
 |sqlcipher|4.5.6|4.6.0|
