@@ -362,6 +362,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dieharder|3.31.1|3.31.1_20110601-1|
 |diff-match-patch|20200713|20230430|
 |diff-so-fancy|1.4.1|1.4.4|
+|diffuse|0.6.0|0.9.0|
 |diffutils|3.8|3.10|
 |digikam|7.9.0|8.3.0|
 |digikam-trinity|14.1.0|14.1.2|
@@ -1612,7 +1613,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |m17n-lib|1.8.0|1.8.4|
 |m1n1|1.4.6<br>+logo20231113.1|1.4.14|Compound version number '1.4.6+logo20231113.1'|
 |m2crypto|0.38.0|0.41.0|
-|m2r|0.2.1|0.3.1|
 |m3u8|0.7.1|5.0.0|
 |mac-fdisk|0.1|0.1.orig|Possible downgrade from the current version (0.1   0.1.orig)|
 |magic-wormhole|0.11.2|0.14.0|
@@ -1900,7 +1900,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |parted|3.5|3.6|
 |partimage|0.6.9|0.7.2|
 |partitionmanager|23.08.5|24.05.0|
-|pastel|0.2.0|0.2.1|
 |pathlib2|2.3.5|2.3.7.post1|
 |pathspec|0.11.0|0.12.1|
 |patool|1.12|upstream/2.2.0|Possible downgrade from the current version (1.12   upstream/2.2.0)|
@@ -2009,6 +2008,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-json-parse|0.57|0.43|Possible downgrade from the current version (0.57   0.43)|
 |perl-json-xs|4.0<br>+00|4.03|Compound version number '4.0+00'|
 |perl-list-moreutils|0.428|0.430|
+|perl-lwp-mediatypes|6.02|6.04|
 |perl-lwp-protocol-https|6.06|6.14|
 |perl-mail-dkim|0.40|1.20240124|
 |perl-mail-imapclient|3.42|3.43|
@@ -2909,7 +2909,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |yad|0.40.0|13.0|
 |yakuake|23.08.5|24.05.0|
 |yakuake-trinity|14.1.0|14.1.2|
-|yaml-cpp|0.6.3|0.8.0|
 |yard|0.9.26|0.9.36|
 |yarl|1.6.3|1.9.4|
 |yaspin|1.2.0|3.0.2|
