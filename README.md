@@ -740,7 +740,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gtk-qt-engine|14.1.0|14.1.2|
 |gtk3-tqt-engine|14.1.0|14.1.2|
 |gtkmm-3|3.24.6|3.24.9|
-|gtkmm-4|4.0.2|4.14.4|
 |gtksourceview-4|4.8.3|4.8.4|
 |gtkspellcheck|4.0.5|5.0.3|
 |gtranslator|42.0|46.1|
@@ -1471,7 +1470,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libslirp|4.6.1|4.8.0|
 |libsndfile|1.2.0|1.2.2|
 |libsndfile+32|1.2.0|1.2.2|
-|libsodium|1.0.18|1.0.19|
+|libsodium|1.0.18|1.0.20|
 |libsoundio|1.1.0|2.0.1-7|
 |libsoup|2.74.2|3.5.1|
 |libsoup-3|3.2.2|3.5.1|
@@ -1504,7 +1503,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libtsm|4.0.1|4.0.2|
 |libudfread|1.1.1|1.1.2|
 |libuhd|4.5.0.0|4.6.0.0|
-|libuninameslist|20190701|20230916|
+|libuninameslist|20190701|20240524|
 |libunistring|0.9.10|1.2|
 |libunwind|1.6.2|1.8.1|
 |libupnp|1.14.16|1.14.19|
@@ -1616,7 +1615,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lvm2|2.03.14|2.03.24|
 |lxc|5.0.2|6.0.0|
 |lxcfs|3.0.3|6.0.0|
-|lxgwcleargothic-font|0.300.4|0.311|
+|lxgwcleargothic-font|0.300.4|0.311.1|
 |lxgwnewcleargothic-font|1.121|1.123|
 |lxml|4.7.1|4.9.1|
 |lxpanel|0.9.3|0.10.1|
@@ -1748,7 +1747,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nas|1.9.4|1.9.5|
 |nasm|2.16.01|2.16.03|
 |nasm+32|2.12.01|2.16.03|
-|nautilus|42.2|46.1|
+|nautilus|42.2|46.2|
 |nautilus-python|1.2.3|4.0.1|
 |nbd|3.24|3.26.1|
 |nbxmpp|3.1.0|4.5.4|
@@ -1928,7 +1927,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pathlib2|2.3.5|2.3.7.post1|
 |pathspec|0.11.0|0.12.1|
 |patool|1.12|upstream/2.2.0|Possible downgrade from the current version (1.12   upstream/2.2.0)|
-|pavucontrol|3.0|6.0|
 |pbr|5.6.0|6.0.0|
 |pciutils|3.9.0|3.12.0|
 |pcl|1.13.1|1.12|Possible downgrade from the current version (1.13.1   1.12)|
@@ -2345,7 +2343,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |quickjs|2024.01.13|2024-01-13|
 |qwt5|6.1.5|6.3.0|
 |qzdl|3.2.2.3<br>+git20210516|3.2.2.3|Compound version number '3.2.2.3+git20210516'<br>Version number indicates a snapshot (+git) is used|
-|racket|8.12|8.13|
 |radare2|5.9.0|5.9.2|
 |ragel|6.10|7.0.4|
 |random2|1.0.1|1.0.2|
