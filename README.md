@@ -1993,7 +1993,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-http-cookies|6.01|6.11|
 |perl-http-daemon|6.01|6.16|
 |perl-http-date|6.02|6.06|
-|perl-http-message|6.11|6.45|
+|perl-http-message|6.11|6.46|
 |perl-image-exiftool|12.50|12.85|
 |perl-io-socket-inet6|2.72|2.73|
 |perl-io-socket-ssl|2.062|2.085|
@@ -2404,6 +2404,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |samtools|1.16.1|1.20|
 |sane-backends|1.0.32|1.3.1|
 |sanlock|3.8.5|3.9.2|
+|sarasa-gothic-fonts|1.0.12|1.0.13|
 |sass-listen|4.0.0|3.9.0|Possible downgrade from the current version (4.0.0   3.9.0)|
 |sassc|3.6.1|3.6.2|
 |sbc+32|1.3|2.0|
@@ -2459,7 +2460,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |simple-scan|42.1|46.0|
 |simplejson|3.16.0|3.19.2|
 |simplescreenrecorder|0.4.3|0.4.4|
-|sing-box|1.8.13|1.8.14|
+|sing-box|1.8.13|1.9.0|
 |singular|4.1.1|2023.02.09|
 |sip|6.3.1|6.8.3|
 |skanlite|23.08.5|24.05.0|
@@ -2915,6 +2916,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |yelp-xsl|42.0|42.1|
 |yosys|0.39|0.41|
 |you-get|0.4.1650|0.4.1700|
+|ytmusicapi|1.7.2|1.7.3|
 |yubico-pam|2.26|2.27|
 |yubico-piv-tool|2.3.1|2.5.2|
 |yubikey-manager|4.0.1|5.4.0|
