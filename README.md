@@ -767,7 +767,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |highway|1.0.2|1.1.0|
 |hitori|3.38.4|44.0|
 |hostapd|2.9|2.10|
-|hotdoc|0.13.7|0.16|
 |hotspot|1.3.0|1.5.0|
 |hplip|3.22.4|3.23.12|
 |html2text|2020.1.16|2024.2.26|
@@ -2166,7 +2165,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |progress|0.16|0.17|
 |proj|9.2.1|9.4.0|
 |projectm|4.0.0|4.1.1|
-|prompt-toolkit|2.0.8|3.0.43|
+|prompt-toolkit|2.0.8|3.0.44|
 |proot|5.1.20171016|5.4.0|
 |protobuf|3.15.6|27.0|
 |protobuf-c|1.3.3|1.5.0|
