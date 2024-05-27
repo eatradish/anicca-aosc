@@ -498,7 +498,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |flatpak|1.14.6|1.14.8|
 |flent|1.3.2|2.1.1|
 |flightgear|2020.3.13|2020.3.19|
-|flint|2.5.2|3.1.2|
 |fltk|1.3.5|1.3.9|
 |fluidsynth|2.0.5|2.3.5|
 |fluidsynth+32|1.1.6|2.3.5|
@@ -839,6 +838,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |iozone|3.492|3.506|
 |ipcalc|0.41|1.0.3|
 |iperf3|3.16|3.17.1|
+|ipmitool|1.8.18|1_8_19|
 |iproute2|6.8.0|6.9.0|
 |ipset|7.1|7.21|
 |ipt2socks|1.1.3|1.1.4|
@@ -1729,7 +1729,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nautilus-python|1.2.3|4.0.1|
 |nbd|3.24|3.26.1|
 |nbxmpp|3.1.0|4.5.4|
-|ncbi-blast+|2.13.0|2.15.0+|
 |ncbi-vdb|3.0.2|3.1.1|
 |ncdu|1.16|2.4|
 |ncompress|4.2.4.6|5.0|
