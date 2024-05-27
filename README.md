@@ -260,7 +260,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cloc|1.84|2.00|
 |cloud-init|24.1.4<br>+git20240513|24.1.6|Compound version number '24.1.4+git20240513'<br>Version number indicates a snapshot (+git) is used|
 |clucene|2.3.3.4<br>+git20130812|2.3.3.4|Compound version number '2.3.3.4+git20130812'<br>Version number indicates a snapshot (+git) is used|
-|clzip|1.10|1.14|
 |cmark|0.30.3|0.31.0|
 |cmus|2.9.1|2.10.0|
 |cock|0.6.0|0.11.0|
@@ -510,7 +509,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fonttools|4.47.2|4.52.1|
 |foolscap|0.13.2|23.11.0|
 |fortune-mod|3.6.1|3.20.0|
-|fortunes-zh|2.97|2.98|
 |fping|5.1|5.2|
 |fprintd|1.94.2|1.94.3|
 |fractal|7.0|7|
@@ -989,7 +987,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |keditbookmarks|23.08.5|24.05.0|
 |keep-trinity|14.1.0|14.1.2|
 |keepass|2.46|2.56|
-|keepass-plugin-agent|0.10.1|0.13.7|
+|keepass-plugin-agent|0.10.1|0.13.8|
 |keepass-plugin-favicon|1.9.0|9.7.4|
 |keepass-plugin-twofish|1.3|1.4|
 |keepassxc|2.6.6|2.7.8|
@@ -1108,7 +1106,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kongress|23.08.5|24.05.0|
 |konqueror|23.08.5|24.05.0|
 |konquest|23.08.5|24.05.0|
-|konsole|23.08.5|24.05.0|
 |kontact|23.08.5|24.05.0|
 |kontactinterface|23.08.5|24.05.0|
 |kontrast|23.08.5|24.05.0|
@@ -1694,7 +1691,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |more-itertools|4.3.0|10.2.0|
 |most|5.0.0a|5.2.0|
 |mouseemu|0.16|0.16.orig|Possible downgrade from the current version (0.16   0.16.orig)|
-|movit|1.6.3|1.7.1|
 |mp3gain|1.6.2|1_6_2|
 |mp4v2|4.1.3|2.1.3|Possible downgrade from the current version (4.1.3   2.1.3)|
 |mp4v2+32|2.0.0|2.1.3|
@@ -2157,7 +2153,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |potracegui-trinity|14.1.0|14.1.2|
 |powerdevil|5.27.11|6.0.5|
 |powerpc-utils|1.3.10|1.3.12|
-|powershell|7.4.0|7.4.2|
 |poxml|23.08.5|24.05.0|
 |ppp|2.4.9|2.5.0|
 |ppsspp|1.11.3|1.17.1|
@@ -2597,7 +2592,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |talloc|2.3.4|2.4.2|
 |targetcli-fb|2.1.54|2.1.58|
 |tarsnap|1.0.39|1.0.40|
-|taskwarrior|2.6.2|3.0.2|
 |tastymenu-trinity|14.1.0|14.1.2|
 |tbb|2021.11.0|2021.12.0|
 |tbb+32|4.4u4|2021.12.0|
