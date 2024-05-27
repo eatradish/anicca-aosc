@@ -324,7 +324,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cymem|2.0.5|2.0.8|
 |cython-0.29|0.29.36|3.0.10|
 |czmq|4.2.0|4.2.1|
-|damo|1.0.9|2.3.5|
+|damo|1.0.9|2.3.6|
 |dante|1.4.2|1.4.3|
 |dar|2.7.13|2.7.14|
 |darkhttpd|1.13|1.16|
