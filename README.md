@@ -53,7 +53,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |alsa-utils|1.2.8|1.2.11|
 |amarok-trinity|14.1.0|14.1.2|
 |amtk|5.5.1|5.6.1|
-|analitza|23.08.5|24.05.0|
 |angelfish|23.08.5|24.05.0|
 |annotated-types|0.6.0|0.7.0|
 |ansible|2.12.1|2.17.0|
@@ -1198,7 +1197,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kwalletmanager|23.08.5|24.05.0|
 |kwave|23.08.5|24.05.0|
 |kwayland|5.115.0|6.0.90|
-|kwayland-integration|5.27.11|6.0.5|
 |kweather|23.08.5|24.05.0|
 |kweathercore|0.7|0.8.0|
 |kwidgetsaddons|5.115.0|6.0.90|
@@ -2591,7 +2589,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tagparser|11.5.1|12.1.0|
 |tailscale|1.64.2|1.66.4|
 |taisei|1.3.2|1.4.1|
-|tali|40.8|40.9|
 |talloc|2.3.4|2.4.2|
 |targetcli-fb|2.1.54|2.1.58|
 |tarsnap|1.0.39|1.0.40|
