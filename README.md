@@ -592,7 +592,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gimp|2.10.36|2_10_38|
 |girara|0.4.0|0.4.3|
 |git-archive-all|1.20.0|1.23.1|
-|git-branchless|0.7.1|0.8.0|
+|git-branchless|0.7.1|0.9.0|
 |git-lfs|3.5.0|3.5.1|
 |gitdb|4.0.10|4.0.11|
 |gitg|41|44|
@@ -662,7 +662,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-video-effects|0.4.3|0.6.0|
 |gnome-weather|42.0|46.0|
 |gnote|42.1|46.0|
-|gnu-efi|3.0.14|3.0.18|
 |gnustep-base|1.28.0|1_29_0|
 |gnustep-make|2.9.0|2_9_1|
 |gnutls|3.8.4|3.8.5|
@@ -1311,7 +1310,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libgdiplus|6.0.5|6.1|
 |libgee|0.20.5|0.20.6|
 |libgeotiff|1.5.1|1.7.3|
-|libgig|4.4.0|4.4.1|
 |libgit2|1.7.2|1.8.1|
 |libgksu|2.0.13~pre1|2.0.12|Possible downgrade from the current version (2.0.13~pre1   2.0.12)|
 |libglvnd+32|1.6.0|1.7.0|
