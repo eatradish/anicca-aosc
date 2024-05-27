@@ -92,6 +92,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |asn1crypto|1.2.0|1.5.1|
 |aspell|0.60.8|0.60.8.1|
 |assimp|5.4.0|5.4.1|
+|ast-grep|0.22.3|0.22.4|
 |astroid|2.12.2|3.2.2|
 |astrometry.net|0.94|0.95|
 |astyle|3.4.14|3.4.16|
@@ -662,6 +663,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-video-effects|0.4.3|0.6.0|
 |gnome-weather|42.0|46.0|
 |gnote|42.1|46.0|
+|gnu-efi|3.0.14|3.0.18|
 |gnustep-base|1.28.0|1_29_0|
 |gnustep-make|2.9.0|2_9_1|
 |gnutls|3.8.4|3.8.5|
@@ -835,7 +837,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |intel-media-driver|24.1.5|24.2.3|
 |inxi|3.3.31<br>+2|3.3.31-2|Compound version number '3.3.31+2'|
 |iodine|0.7.0|0.8.0|
-|iosevka-fonts|28.0.5|30.1.0|
+|iosevka-fonts|28.0.5|30.1.1|
 |iozone|3.492|3.506|
 |ipcalc|0.41|1.0.3|
 |iperf3|3.16|3.17.1|
@@ -1310,6 +1312,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libgdiplus|6.0.5|6.1|
 |libgee|0.20.5|0.20.6|
 |libgeotiff|1.5.1|1.7.3|
+|libgig|4.4.0|4.4.1|
 |libgit2|1.7.2|1.8.1|
 |libgksu|2.0.13~pre1|2.0.12|Possible downgrade from the current version (2.0.13~pre1   2.0.12)|
 |libglvnd+32|1.6.0|1.7.0|
