@@ -248,6 +248,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cinnamon-translations|5.8.1|6.0.2|
 |cjs|5.8.0|6.0.0|
 |clamav|1.3.0|1.3.1|
+|clash-verge-rev|1.6.2|1.6.4|
 |cldr-emoji-annotation|37.0<br>+13.0<br>+0<br>+2|37.0_13.0_0_2|Compound version number '37.0+13.0+0+2'|
 |cleo|2.0.1|2.1.0|
 |cli-helpers|1.1.0|2.3.1|
@@ -2592,7 +2593,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |taglib+32|1.11|2.0.1|
 |tagparser|11.5.1|12.1.0|
 |tailscale|1.64.2|1.66.4|
-|taisei|1.3.2|1.4.1|
 |tali|40.8|40.9|
 |talloc|2.3.4|2.4.2|
 |targetcli-fb|2.1.54|2.1.58|
