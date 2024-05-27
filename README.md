@@ -377,7 +377,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dlib|19.20.0|19.24.4|
 |dmenu|5.2|5.3|
 |dnsdiag|1.6.4|2.1.0|
-|dnsmasq|2.89|2.90|
 |dnspython|2.3.0|2.6.1|
 |docbook-dtd|4.5|5.1|
 |docbook-sgml|0|4.5|
@@ -2586,7 +2585,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |syslinux|6.04~pre1|6.03|Possible downgrade from the current version (6.04~pre1   6.03)|
 |sysprof|3.44.0|46.0|
 |system-config-printer|1.5.17|1.5.18|
-|systemd|255.3|255.6|
 |systemsettings|5.27.11|6.0.5|
 |systemtap|4.4|5.1|
 |sysv-ipc|1.0.1|1.1.0|
