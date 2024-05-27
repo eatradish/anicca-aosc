@@ -116,6 +116,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |automat|20.2.0|22.10.0|
 |autopep8|1.5.6|2.1.1|
 |autossh|1.4f|1.4g|
+|avahi-tqt|14.1.0|14.1.2|
 |avogadrolibs|1.95.1|1.99.0|
 |avr-binutils|2.37|2.42|
 |avr-gcc|10.3.1<br>+git20210510|14.1.0|Compound version number '10.3.1+git20210510'<br>Version number indicates a snapshot (+git) is used|
@@ -426,7 +427,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |elisa|23.08.5|24.05.0|
 |elvis|2.2<br>+1pre3|2.2_1-pre2|Compound version number '2.2+1pre3'<br>Possible downgrade from the current version (2.2+1pre3   2.2_1-pre2)|
 |emerald|0.8.12.4|0.8.18|
-|enchant-2|2.3.1|2.7.3|
+|enchant-2|2.3.1|2.8.0|
 |endeavour|42.0|43.0|
 |enet|1.3.14|1.3.18|
 |entrypoints|0.3|0.4|
@@ -742,6 +743,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gwc|0.21<br>+19|0.22-06|Compound version number '0.21+19'|
 |gwenhywfar|5.4.0|5.10.2|
 |gwenview|23.08.5|24.05.0|
+|gwenview-trinity|14.1.0|14.1.2|
 |gzdoom|4.6.1|4.12.2|
 |handbrake|1.7.3|1.8.0|
 |hardinfo|0.5.1<br>+git20220724|0.5.1|Compound version number '0.5.1+git20220724'<br>Version number indicates a snapshot (+git) is used|
@@ -1569,6 +1571,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |llvm-runtime+wasi|17.0.6|18.1.6|
 |lm-sensors|3.6.0|3-6-0|
 |lmdb|0.9.28|0.9.33|
+|lmms|1.2.2<br>+git20240508|1.2.2|Compound version number '1.2.2+git20240508'<br>Version number indicates a snapshot (+git) is used|
 |log4cpp|1.1.3|1.1.4|
 |loguru|0.5.3|0.7.2|
 |lokalize|23.08.5|24.05.0|
