@@ -273,6 +273,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |collectl|4.3.1|4.3.8|
 |colorama|0.4.3|0.4.6|
 |colord-gtk|0.3.0|0.3.1|
+|colord-kde|23.08.5|24.05.0|
 |colordiff|1.0.20|1.0.21|
 |coloredlogs|10.0|15.0.1|
 |composer|2.0.13|2.7.6|
@@ -693,6 +694,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |greybird|3.22.12|3.23.3|
 |grilo|0.3.15|0.3.16|
 |grilo-plugins|0.3.15|0.3.16|
+|gringo|5.4.1|5.7.1|
 |groff|1.22.4|1.23.0|
 |grpc|1.46.2|1.64.0|
 |grsync|1.2.8|1.3.1|
