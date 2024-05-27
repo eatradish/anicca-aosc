@@ -2012,6 +2012,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-mail-imapclient|3.42|3.43|
 |perl-mail-spf|2.9.0|3.20240206|
 |perl-mailtools|2.20|2.21|
+|perl-mime-charset|1.012.2|1.013.1|
 |perl-mime-lite|3.030|3.033|
 |perl-mime-tools|5.509|5.515|
 |perl-mime-types|2.17|2.26|
@@ -2299,7 +2300,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qmlkonsole|23.08.5|24.05.0|
 |qmltermwidget|0.2.0<br>+git20220109|0.6.0|Compound version number '0.2.0+git20220109'<br>Version number indicates a snapshot (+git) is used|
 |qmmp|1.6.5|2.1.8|
-|qownnotes|22.6.1|24.5.8|
+|qownnotes|22.6.1|24.5.9|
 |qqc2-desktop-style|5.115.0|6.0.90|
 |qrencode|4.0.2|4.1.1|
 |qscintilla|2.13.1|2.14.1|
@@ -2608,6 +2609,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tde-systemsettings|14.1.0|14.1.2|
 |tdeaccessibility|14.1.0|14.1.2|
 |tdeaddons|14.1.0|14.1.2|
+|tdeadmin|14.1.0|14.1.2|
 |tdeartwork|14.1.0|14.1.2|
 |tdebase|14.1.0|14.1.2|
 |tdebindings|14.1.0|14.1.2|
@@ -2768,6 +2770,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vala-panel-appmenu|0.7.4|24.05|
 |valgrind|3.22.0|3.23.0|
 |vamp-plugin-sdk|2.9.0|2.10.0|
+|vapoursynth|57|68|
 |variety|0.7.1|0.8.12|
 |varnish|6.3.2|7.5.0|
 |vasm|1.9f|1.9.f|
