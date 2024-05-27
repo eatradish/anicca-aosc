@@ -273,7 +273,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |collectl|4.3.1|4.3.8|
 |colorama|0.4.3|0.4.6|
 |colord-gtk|0.3.0|0.3.1|
-|colord-kde|23.08.5|24.05.0|
 |colordiff|1.0.20|1.0.21|
 |coloredlogs|10.0|15.0.1|
 |composer|2.0.13|2.7.6|
@@ -498,6 +497,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |flatpak|1.14.6|1.14.8|
 |flent|1.3.2|2.1.1|
 |flightgear|2020.3.13|2020.3.19|
+|flint|2.5.2|3.1.2|
 |fltk|1.3.5|1.3.9|
 |fluidsynth|2.0.5|2.3.5|
 |fluidsynth+32|1.1.6|2.3.5|
@@ -693,7 +693,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |greybird|3.22.12|3.23.3|
 |grilo|0.3.15|0.3.16|
 |grilo-plugins|0.3.15|0.3.16|
-|gringo|5.4.1|5.7.1|
 |groff|1.22.4|1.23.0|
 |grpc|1.46.2|1.64.0|
 |grsync|1.2.8|1.3.1|
@@ -1622,8 +1621,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |malcontent|0.10.5|0.12.0|
 |man-db|2.11.1|2.12.1|
 |man-pages|6.05.01<br>+posix2017a|6.8|Compound version number '6.05.01+posix2017a'|
-|mangohud|0.7.0|0.7.1|
-|mangohud+32|0.7.0|0.7.1|
+|mangohud|0.7.0|0.7.2|
+|mangohud+32|0.7.0|0.7.2|
 |marble|23.08.5|24.05.0|
 |mariadb|10.9.4|11.4.1|
 |markdown|3.3.4|3.6|
@@ -1729,6 +1728,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nautilus-python|1.2.3|4.0.1|
 |nbd|3.24|3.26.1|
 |nbxmpp|3.1.0|4.5.4|
+|ncbi-blast+|2.13.0|2.15.0+|
 |ncbi-vdb|3.0.2|3.1.1|
 |ncdu|1.16|2.4|
 |ncompress|4.2.4.6|5.0|
@@ -1979,7 +1979,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-file-which|1.23|1.27|
 |perl-finance-quote|1.49|1.5301|
 |perl-font-ttf|1.05|1.06|
-|perl-gd|2.71|2.81|
+|perl-gd|2.71|2.82|
 |perl-glib|1.329|1.3294|
 |perl-glib-object-introspection|0.047|0.051|
 |perl-gnome2|1.047|1.048|
