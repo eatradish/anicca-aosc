@@ -1812,7 +1812,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |oma|1.3.11|1.12.13|
 |onefetch|2.20.0|2.21.0|
 |onig|6.9.5<br>+rev1|6.9.9|Compound version number '6.9.5+rev1'|
-|oolite|1.90|1.91.0.7615-240525-0b5b52b|
+|oolite|1.90|1.91.0.7616-240527-f882b71|
 |opam|2.1.3|2.1.6|
 |open-isns|0.101|0.102|
 |open-vm-tools|12.3.5|12.4.0|
