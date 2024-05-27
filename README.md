@@ -53,6 +53,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |alsa-utils|1.2.8|1.2.11|
 |amarok-trinity|14.1.0|14.1.2|
 |amtk|5.5.1|5.6.1|
+|analitza|23.08.5|24.05.0|
 |angelfish|23.08.5|24.05.0|
 |annotated-types|0.6.0|0.7.0|
 |ansible|2.12.1|2.17.0|
@@ -91,7 +92,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |asn1crypto|1.2.0|1.5.1|
 |aspell|0.60.8|0.60.8.1|
 |assimp|5.4.0|5.4.1|
-|ast-grep|0.22.3|0.22.4|
 |astroid|2.12.2|3.2.2|
 |astrometry.net|0.94|0.95|
 |astyle|3.4.14|3.4.16|
@@ -881,7 +881,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |juk|23.08.5|24.05.0|
 |jupyter-client|5.2.4|8.6.2|
 |jupyter-core|4.4.0|5.7.2|
-|just|1.26.0|1.27.0|
 |k3b|23.08.5|24.05.0|
 |k3b-trinity|14.1.0|14.1.2|
 |k9copy-trinity|14.1.0|14.1.2|
@@ -992,7 +991,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |keepass-plugin-twofish|1.3|1.4|
 |keepassxc|2.6.6|2.7.8|
 |kemoticons|5.115.0|6.0.90|
-|kernel-tools|6.9.1|5.19.17|Possible downgrade from the current version (6.9.1   5.19.17)|
+|kernel-tools|6.9.2|5.19.17|Possible downgrade from the current version (6.9.2   5.19.17)|
 |keximdb-trinity|14.1.0|14.1.2|
 |keyring|21.7.0|25.2.1|
 |keysmith|23.08.5|24.05.0|
@@ -1197,6 +1196,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kwalletmanager|23.08.5|24.05.0|
 |kwave|23.08.5|24.05.0|
 |kwayland|5.115.0|6.0.90|
+|kwayland-integration|5.27.11|6.0.5|
 |kweather|23.08.5|24.05.0|
 |kweathercore|0.7|0.8.0|
 |kwidgetsaddons|5.115.0|6.0.90|
@@ -1217,7 +1217,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lcms2+32|2.9|2.16|
 |ldb|2.6.1|2.9.0|
 |leatherman|1.9.1|1.12.13|
-|lensfun|0.3.4|0.3.95|
 |level-zero|1.17.0|1.17.6|
 |levenshtein|0.12.0|0.25.1|
 |lib3mf|2.2.0|2.3.1|
@@ -1547,14 +1546,14 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |link-grammar|5.10.1|5.99.42|
 |linux+api|6.7.12|5.19.17|Possible downgrade from the current version (6.7.12   5.19.17)|
 |linux+api+32|6.7.12|5.19.17|Possible downgrade from the current version (6.7.12   5.19.17)|
-|linux+kernel|6.9.1|5.19.17|Possible downgrade from the current version (6.9.1   5.19.17)|
+|linux+kernel|6.9.2|5.19.17|Possible downgrade from the current version (6.9.2   5.19.17)|
 |linux+kernel+asahi|6.5.11|5.19.17|Possible downgrade from the current version (6.5.11   5.19.17)|
 |linux+kernel+lts|6.6.31|5.10.218|Possible downgrade from the current version (6.6.31   5.10.218)|
 |linux+kernel+rc|5.8.0|5.19.17|
 |linux+kernel+retro|5.10.132|5.10.218|
 |linux+kernel+retro+minimal|5.15.17|5.10.218|Possible downgrade from the current version (5.15.17   5.10.218)|
 |linux-firmware|20240506<br>+debian20230210<br>+5~bpo11<br>+1|20240513|Compound version number '20240506+debian20230210+5~bpo11+1'|
-|linux-kernel|6.9.1|5.19.17|Possible downgrade from the current version (6.9.1   5.19.17)|
+|linux-kernel|6.9.2|5.19.17|Possible downgrade from the current version (6.9.2   5.19.17)|
 |linux-kernel-lts|6.6.31|5.19.17|Possible downgrade from the current version (6.6.31   5.19.17)|
 |linux-kernel-retro|5.10.132|5.10.218|
 |linux-kernel-retro-minimal|5.15.17|5.10.218|Possible downgrade from the current version (5.15.17   5.10.218)|
@@ -1807,7 +1806,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |okteta|0.26.9|0.26.15|
 |okular|23.08.5|24.05.0|
 |olefile|0.46|0.47|
-|oma|1.3.11|1.12.13|
+|oma|1.3.12|1.12.13|
 |onefetch|2.20.0|2.21.0|
 |onig|6.9.5<br>+rev1|6.9.9|Compound version number '6.9.5+rev1'|
 |oolite|1.90|1.91.0.7616-240527-f882b71|
@@ -1910,8 +1909,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pcre+32|8.44|8.45|
 |pcre-static|8.44|8.45|
 |pcsc-perl|1.4.14|1.4.16|
-|pcsclite|1.9.9|2.2.2|
-|pcsx2|1.6.0<br>+git20210825|1.7.5842|Compound version number '1.6.0+git20210825'<br>Version number indicates a snapshot (+git) is used|
+|pcsclite|1.9.9|2.2.3|
+|pcsx2|1.6.0<br>+git20210825|1.7.5844|Compound version number '1.6.0+git20210825'<br>Version number indicates a snapshot (+git) is used|
 |pdfgrep|2.1.2|2.2.0|
 |pdfminer|20191020|20231228|
 |pdlzip|1.9|1.13|
@@ -2589,6 +2588,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tagparser|11.5.1|12.1.0|
 |tailscale|1.64.2|1.66.4|
 |taisei|1.3.2|1.4.1|
+|tali|40.8|40.9|
 |talloc|2.3.4|2.4.2|
 |targetcli-fb|2.1.54|2.1.58|
 |tarsnap|1.0.39|1.0.40|
@@ -2915,7 +2915,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |yelp-xsl|42.0|42.1|
 |yosys|0.39|0.41|
 |you-get|0.4.1650|0.4.1700|
-|yt-dlp|2024.04.09|2024.05.26|
 |yubico-pam|2.26|2.27|
 |yubico-piv-tool|2.3.1|2.5.2|
 |yubikey-manager|4.0.1|5.4.0|
