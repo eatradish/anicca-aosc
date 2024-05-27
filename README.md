@@ -1161,7 +1161,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ksmtp|23.08.5|24.05.0|
 |ksnakeduel|23.08.5|24.05.0|
 |kspaceduel|23.08.5|24.05.0|
-|ksplash-engine-moodin-trinity|14.1.0|14.1.2|
 |ksquares|23.08.5|24.05.0|
 |ksquirrel-trinity|14.1.0|14.1.2|
 |ksshaskpass|5.27.11|6.0.5|
@@ -1369,6 +1368,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libksysguard|5.27.11|6.0.5|
 |libktorrent|23.08.5|24.05.0|
 |liblangtag|0.6.3|0.6.7|
+|libliftoff|0.4.1|0.5.0|
 |liblo|0.29|0.32|
 |liblouis|3.12.0|3.29.0|
 |libltc|1.3.1|1.3.2|
@@ -2565,7 +2565,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sudo|1.9.15p5|1_9_15p5|
 |suitesparse|7.6.1|7.7.0|
 |sunpinyin|3.0.0~rc1|2.0.3-rel-1|Possible downgrade from the current version (3.0.0~rc1   2.0.3-rel-1)|
-|sunshine|0.23.0|2024.526.1114|
+|sunshine|0.23.0|2024.527.204311|
 |sunxi-tools|1.4.2<br>+git20220729|1.4.2|Compound version number '1.4.2+git20220729'<br>Version number indicates a snapshot (+git) is used|
 |sushi|42.0|46.0|
 |svgpart|23.08.5|24.05.0|
@@ -2582,6 +2582,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |syslinux|6.04~pre1|6.03|Possible downgrade from the current version (6.04~pre1   6.03)|
 |sysprof|3.44.0|46.0|
 |system-config-printer|1.5.17|1.5.18|
+|systemd|255.6|255.7|
+|systemd-boot-friend|0.26.3|0.26.4|
 |systemsettings|5.27.11|6.0.5|
 |systemtap|4.4|5.1|
 |sysv-ipc|1.0.1|1.1.0|
@@ -2732,7 +2734,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ucx|1.15.0|1.16.0|
 |udiskie|2.2.0|2.5.3|
 |udisks-2|2.8.4|2.10.1|
-|udns|0.4|0.5|
 |ufw|0.36|0.36.2|
 |uget|2.2.3<br>+1|2.2.2|Compound version number '2.2.3+1'<br>Possible downgrade from the current version (2.2.3+1   2.2.2)|
 |uhttpmock|0.5.3|0.10.0|
