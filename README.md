@@ -22,7 +22,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |adobe-source-han-serif|2.002|2.002R|Possible downgrade from the current version (2.002   2.002R)|
 |adobe-source-sans|3.052|3.052R|Possible downgrade from the current version (3.052   3.052R)|
 |adobe-source-serif|4.005|4.005R|Possible downgrade from the current version (4.005   4.005R)|
-|adwaita-icon-theme|42.0|46.0|
+|adwaita-icon-theme|42.0|46.2|
 |adwaita-qt|1.4.1|1.4.2|
 |aegisub|3.2.2<br>+git20231203|3.2.2|Compound version number '3.2.2+git20231203'<br>Version number indicates a snapshot (+git) is used|
 |agrep|4.17|4.17.orig|Possible downgrade from the current version (4.17   4.17.orig)|
@@ -260,6 +260,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cloc|1.84|2.00|
 |cloud-init|24.1.4<br>+git20240513|24.1.6|Compound version number '24.1.4+git20240513'<br>Version number indicates a snapshot (+git) is used|
 |clucene|2.3.3.4<br>+git20130812|2.3.3.4|Compound version number '2.3.3.4+git20130812'<br>Version number indicates a snapshot (+git) is used|
+|clzip|1.10|1.14|
 |cmark|0.30.3|0.31.0|
 |cmus|2.9.1|2.10.0|
 |cock|0.6.0|0.11.0|
@@ -628,7 +629,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-color-manager|3.36.0|3_36_0|
 |gnome-connections|42.1.2|46.0|
 |gnome-contacts|42.0|46.0|
-|gnome-control-center|42.3|46.1|
+|gnome-control-center|42.3|46.2|
 |gnome-desktop|42.4|44.0|
 |gnome-disk-utility|42.0|46.0|
 |gnome-flashback|3.45.1|3.52.1|
@@ -838,7 +839,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |iozone|3.492|3.506|
 |ipcalc|0.41|1.0.3|
 |iperf3|3.16|3.17.1|
-|ipmitool|1.8.18|1_8_19|
 |iproute2|6.8.0|6.9.0|
 |ipset|7.1|7.21|
 |ipt2socks|1.1.3|1.1.4|
@@ -1106,6 +1106,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kongress|23.08.5|24.05.0|
 |konqueror|23.08.5|24.05.0|
 |konquest|23.08.5|24.05.0|
+|konsole|23.08.5|24.05.0|
 |kontact|23.08.5|24.05.0|
 |kontactinterface|23.08.5|24.05.0|
 |kontrast|23.08.5|24.05.0|
@@ -1691,6 +1692,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |more-itertools|4.3.0|10.2.0|
 |most|5.0.0a|5.2.0|
 |mouseemu|0.16|0.16.orig|Possible downgrade from the current version (0.16   0.16.orig)|
+|movit|1.6.3|1.7.1|
 |mp3gain|1.6.2|1_6_2|
 |mp4v2|4.1.3|2.1.3|Possible downgrade from the current version (4.1.3   2.1.3)|
 |mp4v2+32|2.0.0|2.1.3|
@@ -2599,7 +2601,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tcl+32|8.6.10|8.6.14|
 |tclap|1.2.2|1.2.5|
 |tcping|1.3.5|2.1.0|
-|tdb|1.4.7|1.4.10|
 |tde-common-cmake|14.1.0|14.1.2|
 |tde-i18n|14.1.0|14.1.2|
 |tde-style-baghira|14.1.0|14.1.2|
