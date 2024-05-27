@@ -483,6 +483,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |filezilla|3.66.4|3.60.2|Possible downgrade from the current version (3.66.4   3.60.2)|
 |findlib|1.9.5|1.9.6|
 |fio|3.35|3.37|
+|firefox|126.0|126.0.1|
 |firehol|3.1.6|3.1.7|
 |firewalld|2.0.0|2.1.2|
 |flac|1.3.3|1.4.3|
@@ -767,6 +768,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |highway|1.0.2|1.1.0|
 |hitori|3.38.4|44.0|
 |hostapd|2.9|2.10|
+|hotdoc|0.13.7|0.16|
 |hotspot|1.3.0|1.5.0|
 |hplip|3.22.4|3.23.12|
 |html2text|2020.1.16|2024.2.26|
@@ -2556,7 +2558,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |strace|6.5|6.9|
 |streamlink|6.5.1|6.7.4|
 |strongswan|5.9.4|5.9.14|
-|structlog|19.1.0|24.1.0|
+|structlog|19.1.0|24.2.0|
 |stubby|0.3.0|0.4.3|
 |stunnel|5.56|5.72|
 |subtitleripper|0.3.4|0.3|Possible downgrade from the current version (0.3.4   0.3)|
