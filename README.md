@@ -568,6 +568,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gdome2|0.8.1<br>+debian|0.8.1|Compound version number '0.8.1+debian'|
 |geany|2.0|2.0.0|
 |geany-plugins|2.0|2.0.0|
+|geary|40.0|46.0|
 |gedit|42.2|47.0|
 |gedit-plugins|42.1|47.1|
 |gegl-0.4|0.4.48|0_4_48|
@@ -2933,6 +2934,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |zathura|0.5.2|0.5.6|
 |zathura-pdf-poppler|0.3.1|0.3.2|
 |zbar|0.23.90|0.23.93|
+|zeal|0.7.0|0.7.1|
 |zeitgeist|1.0.3|1.0.4|
 |zenity|3.42.1|4.0.1|
 |zeroconf|0.28.6|0.132.2|
@@ -2954,4 +2956,4 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |zxing-cpp|1.4.0|2.2.1|
 |zxtune|5053|5061|
 |zyn-fusion|3.0.5|3.0.6|
-|zziplib|0.13.74|0.13.75|
+|zziplib|0.13.74|0.13.76|
