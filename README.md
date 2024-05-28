@@ -589,7 +589,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |giflib+32|5.1.8|5.2.2|
 |gifski|1.14.4|1.32.0|
 |gimp|2.10.36|2_10_38|
-|girara|0.4.0|0.4.3|
+|girara|0.4.4|0.4.3|Possible downgrade from the current version (0.4.4   0.4.3)|
 |git-archive-all|1.20.0|1.23.1|
 |git-branchless|0.7.1|0.9.0|
 |git-lfs|3.5.0|3.5.1|
@@ -2920,7 +2920,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |yelp-xsl|42.0|42.1|
 |yosys|0.39|0.41|
 |you-get|0.4.1650|0.4.1700|
-|yt-dlp|2024.05.26|2024.05.27|
 |ytmusicapi|1.7.2|1.7.3|
 |yubico-pam|2.26|2.27|
 |yubico-piv-tool|2.3.1|2.5.2|
@@ -2930,8 +2929,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |yuzu|1582|1732|
 |zanshin|23.08.5|24.05.0|
 |zarith|1.9.1|1.13|
-|zathura|0.5.2|0.5.6|
-|zathura-pdf-poppler|0.3.1|0.3.2|
 |zbar|0.23.90|0.23.93|
 |zeal|0.7.0|0.7.1|
 |zeitgeist|1.0.3|1.0.4|
