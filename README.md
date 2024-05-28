@@ -369,6 +369,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ding-libs|0.6.1|0.6.2|
 |discover|5.27.11|6.0.5|
 |distlib|0.3.1|0.3.8|
+|distorm|3.5.1|3.5.2b|
 |distro|1.6.0|1.9.0|
 |distrobox|1.4.2.1|1.7.2.1|
 |django|5.0.3|5.0.6|
@@ -406,6 +407,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |drumstick|2.0.0|2.9.0|
 |dssim|3.2.0|3.3.1|
 |dssim-c|1.3.2<br>+git20200922|3.3.1|Compound version number '1.3.2+git20200922'<br>Version number indicates a snapshot (+git) is used|
+|dsview|1.3.1|1.12|
 |dtc|1.6.0|1.7.0|
 |duktape|2.5.0|2.7.0|
 |dulwich|0.21.6|0.22.1|
@@ -506,7 +508,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |font-manager|0.8.8|0.8.9|
 |fontconfig|2.14.0|2.15.0|
 |fontconfig+32|2.14.0|2.15.0|
-|fonttools|4.47.2|4.52.1|
+|fonttools|4.47.2|4.52.4|
 |foolscap|0.13.2|23.11.0|
 |fortune-mod|3.6.1|3.20.0|
 |fping|5.1|5.2|
@@ -813,6 +815,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |igraph|0.7.1|0.10.12|
 |igv|2.15.1|2.16.2|
 |iio-sensor-proxy|3.4|3.5|
+|imagemagick|6.9.13<br>+7|6.9.13-11|Compound version number '6.9.13+7'|
 |imagemagick+7|7.1.1<br>+32|7.1.1-33|Compound version number '7.1.1+32'|
 |imagesize|1.1.0|1.4.1|
 |imapsync|1.977|2.229|
