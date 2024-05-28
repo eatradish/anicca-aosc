@@ -568,7 +568,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gdome2|0.8.1<br>+debian|0.8.1|Compound version number '0.8.1+debian'|
 |geany|2.0|2.0.0|
 |geany-plugins|2.0|2.0.0|
-|geary|40.0|46.0|
 |gedit|42.2|47.0|
 |gedit-plugins|42.1|47.1|
 |gegl-0.4|0.4.48|0_4_48|
@@ -1828,6 +1827,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |opencv|4.7.0|4.9.0|
 |openexr|3.1.8|3.2.126|
 |openfortivpn|1.18.0|1.22.0|
+|openh264|2.4.0<br>+gmp114<br>+2|2.4.1|Compound version number '2.4.0+gmp114+2'|
 |openimagedenoise|1.4.3|2.2.2|
 |openimageio|2.4.17.0|2.5.11.0|
 |openixcard|1.0.1|1.1.8|
@@ -2829,7 +2829,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |weechat|4.2.2|4.3.0|
 |weka|3.9.2|8.0.0|
 |werkzeug|1.0.1|3.0.3|
-|wesnoth|1.16.10|1.18.0|
+|wesnoth|1.16.10|1.19.0|
 |weston|13.0.0|13.0.1|
 |wezterm|20240203<br>+110809<br>+5046fc22|20240203-110809-5046fc22|Compound version number '20240203+110809+5046fc22'|
 |wheel|0.42.0|0.43.0|
@@ -2920,6 +2920,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |yelp-xsl|42.0|42.1|
 |yosys|0.39|0.41|
 |you-get|0.4.1650|0.4.1700|
+|yt-dlp|2024.05.26|2024.05.27|
 |ytmusicapi|1.7.2|1.7.3|
 |yubico-pam|2.26|2.27|
 |yubico-piv-tool|2.3.1|2.5.2|
