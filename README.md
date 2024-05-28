@@ -571,7 +571,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gedit|42.2|47.0|
 |gedit-plugins|42.1|47.1|
 |gegl-0.4|0.4.48|0_4_48|
-|geoclue2|2.6.0|2.7.1|
 |geoipupdate|6.1.0|7.0.1|
 |geos|3.7.3|3.12.1|
 |getdns|1.6.0|1.7.3|
@@ -661,6 +660,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-video-effects|0.4.3|0.6.0|
 |gnome-weather|42.0|46.0|
 |gnote|42.1|46.0|
+|gnu-efi|3.0.14|3.0.18|
 |gnustep-base|1.28.0|1_29_0|
 |gnustep-make|2.9.0|2_9_1|
 |gnutls|3.8.4|3.8.5|
@@ -1522,7 +1522,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libxaw3d|1.6.3|1.6.6|
 |libxcb|1.16.1|1.17.0|
 |libxcb+32|1.13|1.17.0|
-|libxdg-basedir|1.2.0|1.2.3|
 |libxdmcp|1.1.4|1.1.5|
 |libxdmcp+32|1.1.3|1.1.5|
 |libxkbcommon+32|0.9.1|1.7.0|
@@ -2203,7 +2202,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pycryptodome|3.7.3|3.20.0|
 |pycryptodomex|3.9.9|3.20.0|
 |pycryptopp|0.7.1|0.5.29|Possible downgrade from the current version (0.7.1   0.5.29)|
-|pycuda|2022.2.2|2024.1|
 |pycups|1.9.74|2.0.4|
 |pycurl|7.43.0.6|7.45.3|
 |pydantic|2.6.0|2.7.1|
@@ -2260,7 +2258,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |python-cloudflare|2.8.15|3.0.0b9|
 |python-cssselect|1.0.3|1.2.0|
 |python-daemonize|2.5.0|3.8.0|
-|python-dbusmock|0.22.0|0.31.1|
 |python-djvulibre|0.8.6|0.8.8|
 |python-evdev|1.4.0|1.7.1|
 |python-graphviz|0.16|0.20.3|
@@ -2788,7 +2785,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vice|3.5|3.8|
 |vicious|2.3.3|2.7.0|
 |vid.stab|0.98b|1.1.1|
-|vim|9.1.0393|9.1.0447|
+|vim|9.1.0446|9.1.0447|
 |virglrenderer|0.10.4|1.0.1|
 |virtualenv|20.25.0|20.26.2|
 |virtualgl+32|2.5.2|3.1.1|
