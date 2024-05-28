@@ -815,7 +815,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |igraph|0.7.1|0.10.12|
 |igv|2.15.1|2.16.2|
 |iio-sensor-proxy|3.4|3.5|
-|imagemagick|6.9.13<br>+7|6.9.13-11|Compound version number '6.9.13+7'|
 |imagemagick+7|7.1.1<br>+32|7.1.1-33|Compound version number '7.1.1+32'|
 |imagesize|1.1.0|1.4.1|
 |imapsync|1.977|2.229|
