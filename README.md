@@ -372,7 +372,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |distorm|3.5.1|3.5.2b|
 |distro|1.6.0|1.9.0|
 |distrobox|1.4.2.1|1.7.2.1|
-|django|5.0.3|5.0.6|
 |dlib|19.20.0|19.24.4|
 |dmenu|5.2|5.3|
 |dnsdiag|1.6.4|2.1.0|
@@ -2169,7 +2168,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |progress|0.16|0.17|
 |proj|9.2.1|9.4.0|
 |projectm|4.0.0|4.1.1|
-|prompt-toolkit|2.0.8|3.0.44|
+|prompt-toolkit|2.0.8|3.0.45|
 |proot|5.1.20171016|5.4.0|
 |protobuf|3.15.6|27.0|
 |protobuf-c|1.3.3|1.5.0|
