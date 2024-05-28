@@ -372,6 +372,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |distorm|3.5.1|3.5.2b|
 |distro|1.6.0|1.9.0|
 |distrobox|1.4.2.1|1.7.2.1|
+|django|5.0.3|5.0.6|
 |dlib|19.20.0|19.24.4|
 |dmenu|5.2|5.3|
 |dnsdiag|1.6.4|2.1.0|
@@ -753,7 +754,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hashcat|6.2.6|24.4.28|
 |hatch-fancy-pypi-readme|22.8.0|24.1.0|
 |hatch-vcs|0.3.0|0.4.0|
-|hatchling|1.21.1|1.11.1|Possible downgrade from the current version (1.21.1   1.11.1)|
+|hatchling|1.21.1|1.12.0|Possible downgrade from the current version (1.21.1   1.12.0)|
 |haveged|1.9.13|1.9.18|
 |hddtemp|0.3.52|0.4.3|
 |hdf5|1.10.5|1.14.4.3|
@@ -1213,6 +1214,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ladish|20200418|1.2|Possible downgrade from the current version (20200418   1.2)|
 |lash|0.6.0~rc2|0.5.4|Possible downgrade from the current version (0.6.0~rc2   0.5.4)|
 |layer-shell-qt|5.27.11|6.0.5|
+|lazarus|3.2|3.4|
 |lazy-object-proxy|1.7.1|1.10.0|
 |lcms2|2.14|2.16|
 |lcms2+32|2.9|2.16|
