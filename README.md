@@ -1041,7 +1041,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kirigami-addons|0.11.0|1.2.1|
 |kirigami-gallery|23.08.5|24.05.0|
 |kirigami2|5.115.0|6.0.90|
-|kiriki|23.08.5|24.05.0|
 |kitemmodels|5.115.0|6.0.90|
 |kitemviews|5.115.0|6.0.90|
 |kiten|23.08.5|24.05.0|
@@ -1447,7 +1446,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libsidplayfp|1.8.8|2.7.1|
 |libsigc++|2.10.8|3.6.0|
 |libsigc++-3.0|3.4.0|3.6.0|
-|libsigsegv|2.12|2.14|
 |libslirp|4.6.1|4.8.0|
 |libsndfile|1.2.0|1.2.2|
 |libsndfile+32|1.2.0|1.2.2|
