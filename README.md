@@ -369,7 +369,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ding-libs|0.6.1|0.6.2|
 |discover|5.27.11|6.0.5|
 |distlib|0.3.1|0.3.8|
-|distorm|3.5.1|3.5.2b|
 |distro|1.6.0|1.9.0|
 |distrobox|1.4.2.1|1.7.2.1|
 |django|5.0.3|5.0.6|
@@ -407,7 +406,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |drumstick|2.0.0|2.9.0|
 |dssim|3.2.0|3.3.1|
 |dssim-c|1.3.2<br>+git20200922|3.3.1|Compound version number '1.3.2+git20200922'<br>Version number indicates a snapshot (+git) is used|
-|dsview|1.3.1|1.12|
 |dtc|1.6.0|1.7.0|
 |duktape|2.5.0|2.7.0|
 |dulwich|0.21.6|0.22.1|
@@ -447,6 +445,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |evtest|1.34|1.35|
 |exceptiongroup|1.2.0|1.2.1|
 |exempi|2.5.1|2.6.5|
+|exfatprogs|1.2.2|1.2.3|
 |exiv2|0.27.5|0.28.2|
 |extra-cmake-modules|5.115.0|6.0.90|
 |eyed3|0.9.5|0.9.7|
@@ -814,7 +813,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |igraph|0.7.1|0.10.12|
 |igv|2.15.1|2.16.2|
 |iio-sensor-proxy|3.4|3.5|
-|imagemagick|6.9.13<br>+7|6.9.13-11|Compound version number '6.9.13+7'|
 |imagemagick+7|7.1.1<br>+32|7.1.1-33|Compound version number '7.1.1+32'|
 |imagesize|1.1.0|1.4.1|
 |imapsync|1.977|2.229|
@@ -1041,6 +1039,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kirigami-addons|0.11.0|1.2.1|
 |kirigami-gallery|23.08.5|24.05.0|
 |kirigami2|5.115.0|6.0.90|
+|kiriki|23.08.5|24.05.0|
 |kitemmodels|5.115.0|6.0.90|
 |kitemviews|5.115.0|6.0.90|
 |kiten|23.08.5|24.05.0|
@@ -1446,6 +1445,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libsidplayfp|1.8.8|2.7.1|
 |libsigc++|2.10.8|3.6.0|
 |libsigc++-3.0|3.4.0|3.6.0|
+|libsigsegv|2.12|2.14|
 |libslirp|4.6.1|4.8.0|
 |libsndfile|1.2.0|1.2.2|
 |libsndfile+32|1.2.0|1.2.2|
