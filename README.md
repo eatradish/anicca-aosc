@@ -65,7 +65,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |apache-maven|3.9.6|3.9.7|
 |apicula|0.9.1|0.12|
 |apparmor|3.0.8|3.1.7|
-|appstream|0.16.0|1.0.3|
 |appstream-glib|0.7.18|0_8_2|
 |apr|1.6.5|1.7.4|
 |apsw|3.30.1|3.46.0.0|
@@ -1161,6 +1160,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ksmtp|23.08.5|24.05.0|
 |ksnakeduel|23.08.5|24.05.0|
 |kspaceduel|23.08.5|24.05.0|
+|ksplash-engine-moodin-trinity|14.1.0|14.1.2|
 |ksquares|23.08.5|24.05.0|
 |ksquirrel-trinity|14.1.0|14.1.2|
 |ksshaskpass|5.27.11|6.0.5|
@@ -2477,7 +2477,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |smb4k-trinity|14.1.0|14.1.2|
 |smmap|5.0.0|6.0.0|
 |smpeg|0.4.5|2_0_0|
-|smpeg+32|0.4.5|2_0_0|
 |smplayer|19.10.2|24.5.0|
 |snapd|2.61.2|2.63|
 |snapd-glib|1.63|1.65|
@@ -2734,6 +2733,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ucx|1.15.0|1.16.0|
 |udiskie|2.2.0|2.5.3|
 |udisks-2|2.8.4|2.10.1|
+|udns|0.4|0.5|
 |ufw|0.36|0.36.2|
 |uget|2.2.3<br>+1|2.2.2|Compound version number '2.2.3+1'<br>Possible downgrade from the current version (2.2.3+1   2.2.2)|
 |uhttpmock|0.5.3|0.10.0|
