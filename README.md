@@ -3,6 +3,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
 | Package | Repo Version | New Version | Issues |
 |---------|--------------|-------------|--------|
+|7-zip|24.05|24.06|
 |aalib|1.4rc5|1.2|Possible downgrade from the current version (1.4rc5   1.2)|
 |aalib+32|1.4rc5|1.2|Possible downgrade from the current version (1.4rc5   1.2)|
 |aardvark-dns|1.9.0|1.10.0|
@@ -65,6 +66,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |apache-maven|3.9.6|3.9.7|
 |apicula|0.9.1|0.12|
 |apparmor|3.0.8|3.1.7|
+|appstream|0.16.0|1.0.3|
 |appstream-glib|0.7.18|0_8_2|
 |apr|1.6.5|1.7.4|
 |apsw|3.30.1|3.46.0.0|
@@ -1826,7 +1828,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |opencv|4.7.0|4.9.0|
 |openexr|3.1.8|3.2.126|
 |openfortivpn|1.18.0|1.22.0|
-|openh264|2.4.0<br>+gmp114<br>+2|2.4.1|Compound version number '2.4.0+gmp114+2'|
 |openimagedenoise|1.4.3|2.2.2|
 |openimageio|2.4.17.0|2.5.11.0|
 |openixcard|1.0.1|1.1.8|
@@ -2477,6 +2478,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |smb4k-trinity|14.1.0|14.1.2|
 |smmap|5.0.0|6.0.0|
 |smpeg|0.4.5|2_0_0|
+|smpeg+32|0.4.5|2_0_0|
 |smplayer|19.10.2|24.5.0|
 |snapd|2.61.2|2.63|
 |snapd-glib|1.63|1.65|
@@ -2787,7 +2789,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vice|3.5|3.8|
 |vicious|2.3.3|2.7.0|
 |vid.stab|0.98b|1.1.1|
-|vim|9.1.0393|9.1.0446|
+|vim|9.1.0393|9.1.0447|
 |virglrenderer|0.10.4|1.0.1|
 |virtualenv|20.25.0|20.26.2|
 |virtualgl+32|2.5.2|3.1.1|
@@ -2813,7 +2815,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vulkan-validationlayers|1.3.280.0|1.3.285|
 |warpinator|1.6.3|1.8.3|
 |warzone2100|4.1.3|4.4.2|
-|watchman|4.9.0|2024.05.20.00|
+|watchman|4.9.0|2024.05.27.00|
 |wavpack|5.2.0|5.7.0|
 |wavpack+32|5.2.0|5.7.0|
 |wayland-utils|1.1.0|1.2.0|
