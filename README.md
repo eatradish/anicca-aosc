@@ -169,7 +169,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |borgbackup|1.1.17|1.2.8|
 |botan|1.10.17|3.4.0|
 |botan-2|2.12.1|3.4.0|
-|boto3|1.20.26|1.34.113|
+|boto3|1.20.26|1.34.114|
 |bottle|0.12.18|0.12.25|
 |bottles|2022.2.28<br>+trento<br>+4|51.11|Compound version number '2022.2.28+trento+4'<br>Possible downgrade from the current version (2022.2.28+trento+4   51.11)|
 |bovo|23.08.5|24.05.0|
@@ -2209,8 +2209,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pycuda|2022.2.2|2024.1|
 |pycups|1.9.74|2.0.4|
 |pycurl|7.43.0.6|7.45.3|
-|pydantic|2.6.0|2.7.1|
-|pydantic-core|2.16.1|2.18.2|
+|pydantic|2.6.0|2.7.2|
+|pydantic-core|2.16.1|2.18.3|
 |pydot|1.4.1|2.0.0|
 |pyelftools|0.30|0.31|
 |pyenchant|2.0.0|3.2.2|
