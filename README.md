@@ -171,7 +171,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |botan-2|2.12.1|3.4.0|
 |boto3|1.20.26|1.34.113|
 |bottle|0.12.18|0.12.25|
-|bottles|2022.2.28<br>+trento<br>+4|51.11|Compound version number '2022.2.28+trento+4'<br>Possible downgrade from the current version (2022.2.28+trento+4   51.11)|
 |bovo|23.08.5|24.05.0|
 |breeze|5.27.11|6.0.5|
 |breeze-grub|5.27.11|6.0.5|
@@ -337,7 +336,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dbus-1-tqt|14.1.0|14.1.2|
 |dbus-glib|0.110|0.112|
 |dbus-glib+32|0.108|0.112|
-|dbus-python|1.2.18|1.3.2|
 |dbus-tqt|14.1.0|14.1.2|
 |dcaenc|3|2|Possible downgrade from the current version (3   2)|
 |ddcutil|2.1.3|2.1.4|
