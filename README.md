@@ -1889,6 +1889,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pangomm|2.46.3|2.52.0|
 |pangomm-2.48|2.50.1|2.52.0|
 |paper-icon-theme|20180816|.1.5.0|Possible downgrade from the current version (20180816   .1.5.0)|
+|paprefs|1.1|1.2|
 |paq8o|9|10t|
 |parallel|20191122|20240522|
 |paramiko|2.10.3|3.4.0|
@@ -2478,6 +2479,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |smartmontools|7.3|7.4|
 |smb4k-trinity|14.1.0|14.1.2|
 |smmap|5.0.0|6.0.0|
+|smpeg|0.4.5|2_0_0|
 |smpeg+32|0.4.5|2_0_0|
 |smplayer|19.10.2|24.5.0|
 |snapd|2.61.2|2.63|
@@ -2532,6 +2534,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sqlcipher|4.5.6|4.6.0|
 |sqlite|3.45.1|3.46.0|
 |sqlite+32|3.32.3|3.46.0|
+|sqlite-fdw|2.1.0|2.4.0|
 |sqlitebrowser|3.12.1|83649a3-3357|
 |sqlmap|1.8.2|1.8.5|
 |sqlparse|0.4.1|0.5.0|
