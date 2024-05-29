@@ -403,7 +403,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dracut|059|101|
 |dragon|23.08.5|24.05.0|
 |drkonqi|5.27.11|6.0.5|
-|dropbox|148.4.4519|199.4.6287|
+|dropbox|148.4.4519|200.4.7134|
 |drumstick|2.0.0|2.9.0|
 |dssim|3.2.0|3.3.1|
 |dssim-c|1.3.2<br>+git20200922|3.3.1|Compound version number '1.3.2+git20200922'<br>Version number indicates a snapshot (+git) is used|
@@ -472,7 +472,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |feeluown-netease|1.0.1|1.0.3|
 |feeluown-qqmusic|1.0.2|1.0.4|
 |ffcall|2.2|2.4|
-|ffmpeg|4.4.4|7.0.1|
 |ffmpeg+32|4.2.5|7.0.1|
 |ffmpegthumbs|23.08.5|24.05.0|
 |ffnvcodec|11.1.5.1|12.2.72.0|
@@ -1321,6 +1320,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libgpg-error|1.48|1.49|
 |libgpg-error+32|1.41|1.49|
 |libgpg-error-static|1.48|1.49|
+|libgphoto2|2.5.30|2.5.31|
 |libgpiod|1.4.2|2.1.2|
 |libgravatar|23.08.5|24.05.0|
 |libgsf|1.14.47|1_14_52|
@@ -2295,7 +2295,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qalculate-tde-trinity|14.1.0|14.1.2|
 |qbittorrent|4.6.4|4.6.5|
 |qca|2.3.4|2.3.8|
-|qcef|1.1.6|1.1.8|
 |qcustomplot|2.1.1|2.1.1.1|
 |qd|2.3.22|2.3.24|
 |qgnomeplatform|0.8.4|0.9.2|
