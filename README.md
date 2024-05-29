@@ -270,9 +270,9 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cmark|0.30.3|0.31.0|
 |cmus|2.9.1|2.10.0|
 |cock|0.6.0|0.11.0|
-|cockpit|286.1|316|
+|cockpit|286.1|317|
 |cockpit-machines|284.1|312|
-|cockpit-podman|63|87|
+|cockpit-podman|63|88|
 |code-server|4.9.1|4.89.1|
 |codeine-trinity|14.1.0|14.1.2|
 |coin|4.0.0<br>+git20220828|4.0.0|Compound version number '4.0.0+git20220828'<br>Version number indicates a snapshot (+git) is used|
@@ -2842,6 +2842,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |warpinator|1.6.3|1.8.3|
 |warzone2100|4.1.3|4.4.2|
 |watchman|4.9.0|2024.05.27.00|
+|wavpack|5.2.0|5.7.0|
 |wavpack+32|5.2.0|5.7.0|
 |wayland-utils|1.1.0|1.2.0|
 |wcslib|6.4|8.3|
