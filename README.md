@@ -1794,7 +1794,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |numix-icon-theme|20190917|24.04.22|Possible downgrade from the current version (20190917   24.04.22)|
 |numix-icon-theme-circle|20160927|24.04.22|Possible downgrade from the current version (20160927   24.04.22)|
 |nut|2.7.4|2.8.2|
-|nvchecker|1.5|2.14.1|
+|nvchecker|1.5|2.15|
 |nvidia|550.54.14|555.42.02|
 |nvidia+32|0|555.42.02|
 |ocaml|4.14.2|5.2.0|
@@ -1808,6 +1808,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ocrad|0.27|0.29|
 |ocrmypdf|11.7.0|16.3.1|
 |ocserv|1.1.2|1.3.0|
+|ofono|1.30|2.7|
 |okteta|0.26.9|0.26.15|
 |okular|23.08.5|24.05.0|
 |olefile|0.46|0.47|
@@ -1872,7 +1873,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |osinfo-db-tools|1.10.0|1.11.0|
 |osu-lazer|2024.412.1|2024.523.0|
 |oxygen|5.27.11|6.0.5|
-|oxygen-icons|5.115.0|6.0.90|
 |oxygen-sounds|5.25.3|6.0.5|
 |p-vector|0.3.6|0.3.8|
 |p11-kit+32|0.23.18.1|0.25.3|
@@ -2649,7 +2649,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tdmtheme|14.1.0|14.1.2|
 |tectonic|0.12.0|0.15.0|
 |teeworlds|0.7.5<br>+git20220313|0.7.5|Compound version number '0.7.5+git20220313'<br>Version number indicates a snapshot (+git) is used|
-|telegram-desktop|5.0.1|5.0.2|
+|telegram-desktop|5.0.1|5.0.5|
 |telepathy-accounts-signon|1.0|2.1|
 |telepathy-glib|0.24.1|0.24.2|
 |telepathy-idle|0.2.0|0.2.2|
@@ -2709,6 +2709,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |transcode|1.1.7|1_1_7|
 |translate-shell|0.9.7|0.9.7.1|
 |translate-toolkit|2.3.1|3.13.0|
+|transmission|4.0.5|4.0.6|
 |transmission-remote-gtk|1.5.1|1.6.0|
 |trash-cli|0.17.1.14|0.24.5.26|
 |tre|20161208|0.8.0|Possible downgrade from the current version (20161208   0.8.0)|
@@ -2844,7 +2845,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |windowmaker|0.95.9<br>+git20220812|0.96.0|Compound version number '0.95.9+git20220812'<br>Version number indicates a snapshot (+git) is used|
 |wine|9.9<br>+gecko2.47.4<br>+mono9.1.0|9.9|Compound version number '9.9+gecko2.47.4+mono9.1.0'|
 |wireguard|1|0.0.20191219|Possible downgrade from the current version (1   0.0.20191219)|
-|wireguard-tools|1.0.20200827|1.0.20210914|
 |wireless-tools|30.pre9|29|Possible downgrade from the current version (30.pre9   29)|
 |wmutils|20170223|1.7|Possible downgrade from the current version (20170223   1.7)|
 |wpebackend-fdo|1.12.1|1.14.2|
