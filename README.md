@@ -76,6 +76,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |aranym|1.1.0|1_1_0|
 |arc-kde|20180614|20220908|
 |arc-theme|20210412|20221218|
+|arch-install-scripts|28<br>+mirrorlist20231113<br>+pacman6.0.1|28|Compound version number '28+mirrorlist20231113+pacman6.0.1'|
 |arduino-avr-core|1.8.3|1.8.6|
 |argyllcms|3.1.0|3.2.0|
 |arianna|23.08.5|24.05.0|
@@ -211,7 +212,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cargo-c|0.9.24|0.9.32+cargo-0.79.0|
 |cargo-release|0.24.11|0.25.7|
 |cargo-smart-release|0.17.0|0.30.0|
-|catatonit|0.1.7|0.2.0|
 |catch2|2.13.8|3.6.0|
 |cbm|0.2|0.3.2|
 |ccid|1.5.1|1.5.5|
@@ -622,6 +622,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-boxes|42.3|46.1|
 |gnome-builder|42.1|46.2|
 |gnome-calculator|42.2|46.1|
+|gnome-calendar|42.2|46.1|
 |gnome-characters|42.0|46.0|
 |gnome-chess|42.1|46.0|
 |gnome-clocks|42.0|46.0|
@@ -730,6 +731,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gtksourceview-4|4.8.3|4.8.4|
 |gtkspellcheck|4.0.5|5.0.3|
 |gtranslator|42.0|46.1|
+|gucharmap|15.1.3|15.1.5|
 |guile|3.0.4|3.0.9|
 |gulp|4.0.0|5.0.0|
 |gupnp|1.2.4|1.6.6|
@@ -1543,7 +1545,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lighttpd|1.4.55|1.4.76|
 |lilv|0.24.12|0.24.24|
 |lilypond|2.23.0|2.25.4|
-|limba|0.5.6|0_5_6|
 |lincity-ng|2.9.0|2.0|Possible downgrade from the current version (2.9.0   2.0)|
 |link-grammar|5.10.1|5.99.42|
 |linux+api|6.7.12|5.19.17|Possible downgrade from the current version (6.7.12   5.19.17)|
@@ -1565,6 +1566,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lldpd|1.0.17|1.0.18|
 |llfuse|1.4.1|1.5.0|
 |llvm|17.0.6|18.1.6|
+|llvm+32|14.0.6|18.1.6|
 |llvm-runtime+wasi|17.0.6|18.1.6|
 |lm-sensors|3.6.0|3-6-0|
 |lmdb|0.9.28|0.9.33|
@@ -2575,6 +2577,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sweeper|23.08.5|24.05.0|
 |swell-foop|41.1|46.0|
 |swig|4.1.1|4.2.1|
+|sympy|1.12|1.12.1|
 |synaptic|0.90.2|0.91.3|
 |syncthing|1.27.3|1.27.7|
 |syncthing-gtk|0.9.4.4|0.9.4.5|
@@ -2687,7 +2690,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tokodon|23.08.5|24.05.0|
 |toml|0.10.1|0.10.2|
 |tomlkit|0.7.0|0.12.5|
-|toolbelt|0.9.1|1.0.0|
 |topgrade|11.0.2|14.0.1|
 |toposort|1.8|1.10|
 |tor|0.4.7.14|0.4.8.11|
@@ -2906,8 +2908,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xviewer|3.0.2|3.4.4|
 |xwayland|23.2.6|24.1.0|
 |xxhash|0.8.1|0.8.2|
-|xz|5.4.1|5.6.1|
-|xz+32|5.4.1|5.6.1|
+|xz|5.4.1|5.6.2|
+|xz+32|5.4.1|5.6.2|
 |yad|0.40.0|13.0|
 |yakuake|23.08.5|24.05.0|
 |yakuake-trinity|14.1.0|14.1.2|
@@ -2926,7 +2928,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |yubico-piv-tool|2.3.1|2.5.2|
 |yubikey-manager|4.0.1|5.4.0|
 |yubikey-manager-qt|1.2.1|1.2.6|
-|yubioath-desktop|5.1.0|7.0.0|
+|yubioath-desktop|5.1.0|7.0.1|
 |yuzu|1582|1732|
 |zanshin|23.08.5|24.05.0|
 |zarith|1.9.1|1.13|
