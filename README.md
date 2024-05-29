@@ -788,7 +788,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hyper-h2|4.0.0|4.1.0|
 |hyperframe|6.0.0|6.0.1|
 |hyperlink|19.0.0|21.0.0|
-|hypothesis-python|6.97.4|6.102.6|
+|hypothesis-python|6.97.4|6.103.0|
 |hysteria|2.4.0|2.4.4|
 |i2c-tools|4.1|4.3|
 |i2pd|2.41.0|2.52.0|
