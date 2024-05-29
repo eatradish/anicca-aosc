@@ -472,6 +472,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |feeluown-netease|1.0.1|1.0.3|
 |feeluown-qqmusic|1.0.2|1.0.4|
 |ffcall|2.2|2.4|
+|ffmpeg|4.4.4|7.0.1|
 |ffmpeg+32|4.2.5|7.0.1|
 |ffmpegthumbs|23.08.5|24.05.0|
 |ffnvcodec|11.1.5.1|12.2.72.0|
@@ -492,7 +493,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |flask-login|0.4.1|0.6.3|
 |flask-mail|0.9.1|0.10.0|
 |flask-wtf|0.14|1.2.1|
-|flat-remix-gtk-theme|20200718|20220627|
 |flat-remix-icon-theme|20191122|20240201|
 |flatbuffers|2.0.6|24.3.25|
 |flatpak|1.14.6|1.14.8|
@@ -1158,7 +1158,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kshowmail-trinity|14.1.0|14.1.2|
 |kshutdown-trinity|14.1.0|14.1.2|
 |ksirk|23.08.5|24.05.0|
-|ksmtp|23.08.5|24.05.0|
 |ksnakeduel|23.08.5|24.05.0|
 |kspaceduel|23.08.5|24.05.0|
 |ksplash-engine-moodin-trinity|14.1.0|14.1.2|
@@ -1242,7 +1241,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libblockdev|2.23|3.1.1|
 |libbloom|1.6|2.0|
 |libbluray+32|1.2.1|1.3.4|
-|libbpf|1.2.0|1.4.2|
 |libburn|1.5.2|1.5.6|
 |libbytesize|2.1|2.10|
 |libc+wasi|20|22|
@@ -1375,7 +1373,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |liblouis|3.12.0|3.29.0|
 |libltc|1.3.1|1.3.2|
 |libluv|1.47.0<br>+0|1.48.0-2|Compound version number '1.47.0+0'|
-|libmanette|0.2.6|0.2.7|
 |libmatroska|1.6.2|1.7.1|
 |libmaxminddb|1.4.3|1.9.1|
 |libmd|1.0.4|1.1.0|
@@ -1385,7 +1382,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libmikmod+32|3.3.7|3.3.11.1|
 |libmodplug|0.8.8.5|0.8.9.0|
 |libmodplug+32|0.8.8.5|0.8.9.0|
-|libmspack|0.10.1alpha|0.11.0|
 |libmsym|0.2.3|0.2.4.2|
 |libmtp|1.1.17|1.1.21|
 |libndp|1.7|1.8|
@@ -2071,7 +2067,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-xml-parser|2.44|2.47|
 |perl-xml-parser+32|999|2.47|Possible downgrade from the current version (999   2.47)|
 |perl-xml-sax|1.00|1.02|
-|perl-xml-sax-expat|0.51|1.33|
 |perl-xml-xpath|1.44|1.48|
 |perl-yaml-libyaml|0.85|0.89|
 |perl-yaml-tiny|1.73|1.74|
@@ -2087,7 +2082,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |piklab-trinity|14.1.0|14.1.2|
 |pillow|8.4.0|10.3.0|
 |pim-data-exporter|23.08.5|24.05.0|
-|pim-sieve-editor|23.08.5|24.05.0|
 |pimcommon|23.08.5|24.05.0|
 |pinentry|1.1.0|1.3.0|
 |pip|22.3.1|24.1b1|
