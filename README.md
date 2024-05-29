@@ -196,6 +196,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cabextract|1.9|1.11|
 |cachecontrol|0.12.6|0.14.0|
 |cachetools|3.1.0|5.3.3|
+|caddy|2.7.6|2.8.0|
 |cairo|1.17.6|1.18.0|
 |cairo+32|1.14.12|1.18.0|
 |cairocffi|1.0.2|1.7.0|
@@ -214,11 +215,12 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |capstone|5.0.1|5.0|Possible downgrade from the current version (5.0.1   5.0)|
 |cargo-audit|0.18.1|0.20.0|
 |cargo-c|0.9.24|0.9.32+cargo-0.79.0|
-|cargo-release|0.24.11|0.25.7|
+|cargo-release|0.24.11|0.25.8|
 |cargo-smart-release|0.17.0|0.30.0|
 |catatonit|0.1.7|0.2.0|
 |catch2|2.13.8|3.6.0|
 |cbm|0.2|0.3.2|
+|ccache|4.9.1|4.10|
 |ccid|1.5.1|1.5.5|
 |cddlib|0.94j|0.94m|
 |cdecl|20161129|2.5|Possible downgrade from the current version (20161129   2.5)|
@@ -2840,7 +2842,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |warpinator|1.6.3|1.8.3|
 |warzone2100|4.1.3|4.4.2|
 |watchman|4.9.0|2024.05.27.00|
-|wavpack|5.2.0|5.7.0|
 |wavpack+32|5.2.0|5.7.0|
 |wayland-utils|1.1.0|1.2.0|
 |wcslib|6.4|8.3|
