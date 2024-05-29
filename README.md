@@ -1265,7 +1265,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libcloudproviders|0.3.1|0.3.6|
 |libcmis|0.5.2|0.6.2|
 |libconfig|1.7.2|1.7.3|
-|libcork|1.0.0~rc3|0.15.0|Possible downgrade from the current version (1.0.0~rc3   0.15.0)|
 |libcpuid|0.5.1|0.6.5|
 |libcuckoo|0.3|0.3.1|
 |libdc1394|2.2.6|2.2.7|
@@ -1759,7 +1758,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nettle+32|3.7.2|3.9.1|
 |networkmanager|1.40.6|1.46.0|
 |networkmanager-iodine|1.2.0<br>+git20220728|1.2.0|Compound version number '1.2.0+git20220728'<br>Version number indicates a snapshot (+git) is used|
-|networkmanager-l2tp|1.8.6|1.20.16|
 |networkmanager-openconnect|1.2.6<br>+git20210918|1.2.10|Compound version number '1.2.6+git20210918'<br>Version number indicates a snapshot (+git) is used|
 |networkmanager-openvpn|1.8.12|1.11.0|
 |networkmanager-pptp|1.2.10|1.2.12|
@@ -1817,7 +1815,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |oolite|1.90|1.91.0.7616-240527-f882b71|
 |opam|2.1.3|2.1.6|
 |open-isns|0.101|0.102|
-|open-vm-tools|12.3.5|12.4.0|
 |openblas|0.3.21<br>+git20221105|0.3.27|Compound version number '0.3.21+git20221105'<br>Version number indicates a snapshot (+git) is used|
 |opencascade|7.6.3|7.8.0|
 |opencl-clang|17.0.0|18.1.0|
@@ -2377,7 +2374,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rp-pppoe|3.15|4.0|
 |rpcsvc-proto|1.4.2|1.4.4|
 |rpm|4.18.0|4.19.1.1-release|
-|rrdtool|1.7.2|1.8.0|
 |rsa|4.0|4.9|
 |rsync|3.2.7|3.3.0|
 |rt-tests|2.6|2.7|
@@ -2569,7 +2565,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sudo|1.9.15p5|1_9_15p5|
 |suitesparse|7.6.1|7.7.0|
 |sunpinyin|3.0.0~rc1|2.0.3-rel-1|Possible downgrade from the current version (3.0.0~rc1   2.0.3-rel-1)|
-|sunshine|0.23.0|2024.527.204311|
+|sunshine|0.23.0|2024.529.1057|
 |sunxi-tools|1.4.2<br>+git20220729|1.4.2|Compound version number '1.4.2+git20220729'<br>Version number indicates a snapshot (+git) is used|
 |sushi|42.0|46.0|
 |svgpart|23.08.5|24.05.0|
