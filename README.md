@@ -1772,7 +1772,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |newt|0.52.23|0.52.24|
 |nfs-utils|2.6.2|2.6.4|
 |nghttp2|1.58.0|1.62.1|
-|nginx|1.25.3|1.26.0|
+|nginx|1.25.3|1.27.0|
 |ngspice|35|42|
 |nmap|7.93|7.95|
 |nodejs|20.13.0|21.7.1|
@@ -2351,6 +2351,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |repo|2.43|2.45|
 |reportlab|3.5.50|4.2.0|
 |reptyr|0.9.0|0.10.0|
+|requests|2.32.2|2.32.3|
 |requests-cache|0.5.2|1.2.0|
 |rest|0.8.1|0.9.1|
 |retext|7.2.2|8.0.2|
