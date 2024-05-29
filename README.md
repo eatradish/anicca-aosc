@@ -1321,7 +1321,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libgpg-error|1.48|1.49|
 |libgpg-error+32|1.41|1.49|
 |libgpg-error-static|1.48|1.49|
-|libgphoto2|2.5.30|2.5.31|
 |libgpiod|1.4.2|2.1.2|
 |libgravatar|23.08.5|24.05.0|
 |libgsf|1.14.47|1_14_52|
