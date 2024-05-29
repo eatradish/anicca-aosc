@@ -92,6 +92,10 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |asio|1.18.1|1.30.2|
 |asn1crypto|1.2.0|1.5.1|
 |aspell|0.60.8|0.60.8.1|
+|aspnetcore-runtime-6.0|6.0.30|6.0.31|
+|aspnetcore-runtime-8.0|8.0.5|8.0.6|
+|aspnetcore-targeting-pack-6.0|6.0.30|6.0.31|
+|aspnetcore-targeting-pack-8.0|8.0.5|8.0.6|
 |assimp|5.4.0|5.4.1|
 |astroid|2.12.2|3.2.2|
 |astrometry.net|0.94|0.95|
@@ -169,7 +173,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |borgbackup|1.1.17|1.2.8|
 |botan|1.10.17|3.4.0|
 |botan-2|2.12.1|3.4.0|
-|boto3|1.20.26|1.34.114|
+|boto3|1.20.26|1.34.115|
 |bottle|0.12.18|0.12.25|
 |bottles|2022.2.28<br>+trento<br>+4|51.11|Compound version number '2022.2.28+trento+4'<br>Possible downgrade from the current version (2022.2.28+trento+4   51.11)|
 |bovo|23.08.5|24.05.0|
@@ -389,12 +393,24 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dolphin-trinity|14.1.0|14.1.2|
 |dosbox|0.74<br>+3|0.74-3|Compound version number '0.74+3'|
 |dotconf|1.3|1.4.1|
+|dotnet-apphost-pack-6.0|6.0.30|6.0.31|
+|dotnet-apphost-pack-8.0|8.0.5|8.0.6|
+|dotnet-host|8.0.5|8.0.6|
 |dotnet-host-fxr|5.0.11|5.0.17|
+|dotnet-hostfxr-6.0|6.0.30|6.0.31|
+|dotnet-hostfxr-8.0|8.0.5|8.0.6|
 |dotnet-runtime-2.1|2.1.21|2.1.30|
 |dotnet-runtime-3.1|3.1.11|3.1.32|
 |dotnet-runtime-5.0|5.0.11|5.0.17|
-|dotnet-runtime-deps-6.0|6.0.0|6.0.30|
-|dotnet-templates-8.0|8.0.300|6.0.422|Possible downgrade from the current version (8.0.300   6.0.422)|
+|dotnet-runtime-6.0|6.0.30|6.0.31|
+|dotnet-runtime-8.0|8.0.5|8.0.6|
+|dotnet-runtime-deps-6.0|6.0.0|6.0.31|
+|dotnet-sdk-6.0|6.0.422|6.0.423|
+|dotnet-sdk-8.0|8.0.300|8.0.301|
+|dotnet-targeting-pack-6.0|6.0.30|6.0.31|
+|dotnet-targeting-pack-8.0|8.0.5|8.0.6|
+|dotnet-templates-6.0|6.0.422|6.0.423|
+|dotnet-templates-8.0|8.0.300|6.0.423|Possible downgrade from the current version (8.0.300   6.0.423)|
 |double-conversion|3.2.1|3.3.0|
 |dovecot|2.3.10.1|2.3.21|
 |doxygen|1.10.0|1_11_0|
@@ -2651,6 +2667,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tdevelop|14.1.0|14.1.2|
 |tdewebdev|14.1.0|14.1.2|
 |tdmtheme|14.1.0|14.1.2|
+|tectonic|0.12.0|0.15.0|
 |teeworlds|0.7.5<br>+git20220313|0.7.5|Compound version number '0.7.5+git20220313'<br>Version number indicates a snapshot (+git) is used|
 |telegram-desktop|5.0.1|5.0.5|
 |telepathy-accounts-signon|1.0|2.1|
