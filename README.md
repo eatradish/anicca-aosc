@@ -289,6 +289,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |construct|2.9.45|2.10.70|
 |containerd|1.7.13|1.7.17|
 |containers-common|0.57.0<br>+image5.29.0<br>+shortnames2023.02.20<br>+skopeo1.14.0<br>+storage1.51.0|1.0.1|Compound version number '0.57.0+image5.29.0+shortnames2023.02.20+skopeo1.14.0+storage1.51.0'|
+|convertall|0.7.5|1.0.1|
 |coreboot-utils|4.15|24.05|
 |corefreq|20170301|1.97.2-x86_64|Possible downgrade from the current version (20170301   1.97.2-x86_64)|
 |coreutils|9.4|9.5|
@@ -1137,6 +1138,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |krb5|1.17.1|1.21.2-final|
 |krb5+32|1.17.1|1.21.2-final|
 |krdc|23.08.5|24.05.0|
+|krecipes-trinity|14.1.0|14.1.2|
 |krecorder|23.08.5|24.05.0|
 |krename-trinity|14.1.0|14.1.2|
 |kreversi|23.08.5|24.05.0|
@@ -2665,6 +2667,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tevent|0.13.0|0.16.1|
 |texlive|20220321|2024|Possible downgrade from the current version (20220321   2024)|
 |texmaker|5.1.2|5.1.4|
+|texstudio|4.0.2|4.8.0|
 |texworks|0.6.6|0.6.9|
 |thedarkmod|2.09a|2.12|
 |thin-provisioning-tools|1.0.10|1.0.12|
@@ -2817,6 +2820,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |warzone2100|4.1.3|4.4.2|
 |watchman|4.9.0|2024.05.27.00|
 |wavpack|5.2.0|5.7.0|
+|wavpack+32|5.2.0|5.7.0|
 |wayland-utils|1.1.0|1.2.0|
 |wcslib|6.4|8.3|
 |wcwidth|0.1.8|0.2.13|
