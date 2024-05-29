@@ -212,6 +212,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cargo-c|0.9.24|0.9.32+cargo-0.79.0|
 |cargo-release|0.24.11|0.25.7|
 |cargo-smart-release|0.17.0|0.30.0|
+|catatonit|0.1.7|0.2.0|
 |catch2|2.13.8|3.6.0|
 |cbm|0.2|0.3.2|
 |ccid|1.5.1|1.5.5|
@@ -662,6 +663,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-weather|42.0|46.0|
 |gnote|42.1|46.0|
 |gnu-efi|3.0.14|3.0.18|
+|gnuplot|6.0.0|6.0.1|
 |gnustep-base|1.28.0|1_29_0|
 |gnustep-make|2.9.0|2_9_1|
 |gnutls|3.8.4|3.8.5|
@@ -1545,6 +1547,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lighttpd|1.4.55|1.4.76|
 |lilv|0.24.12|0.24.24|
 |lilypond|2.23.0|2.25.4|
+|limba|0.5.6|0_5_6|
 |lincity-ng|2.9.0|2.0|Possible downgrade from the current version (2.9.0   2.0)|
 |link-grammar|5.10.1|5.99.42|
 |linux+api|6.7.12|5.19.17|Possible downgrade from the current version (6.7.12   5.19.17)|
@@ -1844,7 +1847,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |openmpi|4.1.6|5.0.3|
 |openmpt|0.6.4|0.7.7|
 |openpgl|0.5.0|0.6.0|
-|openpyxl|2.6.0|3.1.2|
+|openpyxl|2.6.0|3.1.3|
 |openra|20210321|20231010|
 |openrazer|3.3.0|3.8.0|
 |openrgb|0.6|0.9|
@@ -2648,7 +2651,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tdevelop|14.1.0|14.1.2|
 |tdewebdev|14.1.0|14.1.2|
 |tdmtheme|14.1.0|14.1.2|
-|tectonic|0.12.0|0.15.0|
 |teeworlds|0.7.5<br>+git20220313|0.7.5|Compound version number '0.7.5+git20220313'<br>Version number indicates a snapshot (+git) is used|
 |telegram-desktop|5.0.1|5.0.5|
 |telepathy-accounts-signon|1.0|2.1|
@@ -2690,6 +2692,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tokodon|23.08.5|24.05.0|
 |toml|0.10.1|0.10.2|
 |tomlkit|0.7.0|0.12.5|
+|toolbelt|0.9.1|1.0.0|
 |topgrade|11.0.2|14.0.1|
 |toposort|1.8|1.10|
 |tor|0.4.7.14|0.4.8.11|
@@ -2797,8 +2800,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |virglrenderer|0.10.4|1.0.1|
 |virtualenv|20.25.0|20.26.2|
 |virtualgl+32|2.5.2|3.1.1|
-|vkd3d|1.9|1.11|
-|vkd3d+32|1.9|1.11|
+|vkd3d|1.9|1.12|
+|vkd3d+32|1.9|1.12|
 |vkmark|2017.08<br>+git20230412|2017.08|Compound version number '2017.08+git20230412'<br>Version number indicates a snapshot (+git) is used|
 |vmpk|0.8.0|0.9.0|
 |vnstat|2.4|2.12|
