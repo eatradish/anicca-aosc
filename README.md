@@ -76,7 +76,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |aranym|1.1.0|1_1_0|
 |arc-kde|20180614|20220908|
 |arc-theme|20210412|20221218|
-|arch-install-scripts|28<br>+mirrorlist20231113<br>+pacman6.0.1|28|Compound version number '28+mirrorlist20231113+pacman6.0.1'|
 |arduino-avr-core|1.8.3|1.8.6|
 |argyllcms|3.1.0|3.2.0|
 |arianna|23.08.5|24.05.0|
@@ -563,7 +562,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gdbm+32|1.11|1.23|
 |gdk-pixbuf|2.42.8|2.42.12|
 |gdk-pixbuf+32|2.38.2|2.42.12|
-|gdm|42.0|46.0|
+|gdm|42.0|46.2|
 |gdmd|0.1.0<br>+git20230214|script-0.1.0|Compound version number '0.1.0+git20230214'<br>Version number indicates a snapshot (+git) is used<br>Possible downgrade from the current version (0.1.0+git20230214   script-0.1.0)|
 |gdome2|0.8.1<br>+debian|0.8.1|Compound version number '0.8.1+debian'|
 |geany|2.0|2.0.0|
@@ -623,7 +622,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-boxes|42.3|46.1|
 |gnome-builder|42.1|46.2|
 |gnome-calculator|42.2|46.1|
-|gnome-calendar|42.2|46.1|
 |gnome-characters|42.0|46.0|
 |gnome-chess|42.1|46.0|
 |gnome-clocks|42.0|46.0|
@@ -732,7 +730,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gtksourceview-4|4.8.3|4.8.4|
 |gtkspellcheck|4.0.5|5.0.3|
 |gtranslator|42.0|46.1|
-|gucharmap|15.1.3|15.1.5|
 |guile|3.0.4|3.0.9|
 |gulp|4.0.0|5.0.0|
 |gupnp|1.2.4|1.6.6|
@@ -1568,7 +1565,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lldpd|1.0.17|1.0.18|
 |llfuse|1.4.1|1.5.0|
 |llvm|17.0.6|18.1.6|
-|llvm+32|14.0.6|18.1.6|
 |llvm-runtime+wasi|17.0.6|18.1.6|
 |lm-sensors|3.6.0|3-6-0|
 |lmdb|0.9.28|0.9.33|
