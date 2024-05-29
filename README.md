@@ -1873,6 +1873,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |osinfo-db-tools|1.10.0|1.11.0|
 |osu-lazer|2024.412.1|2024.523.0|
 |oxygen|5.27.11|6.0.5|
+|oxygen-icons|5.115.0|6.0.90|
 |oxygen-sounds|5.25.3|6.0.5|
 |p-vector|0.3.6|0.3.8|
 |p11-kit+32|0.23.18.1|0.25.3|
