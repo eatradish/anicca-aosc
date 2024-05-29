@@ -412,7 +412,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |duktape|2.5.0|2.7.0|
 |dulwich|0.21.6|0.22.1|
 |dune|3.4.1|3.15.3|
-|duplicity|2.2.2|2.2.4|
+|duplicity|2.2.2|3.0.0|
 |e2fsprogs|1.47.0|1.47.1|
 |easy-rsa|3.0.8|3.2.0|
 |ecl|23.9.9|24.5.10|
@@ -432,7 +432,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |entrypoints|0.3|0.4|
 |eog|42.3|45.3|
 |eog-plugins|42.1|44.0|
-|epiphany|42.4|46.0|
+|epiphany|42.4|46.1|
 |epub2txt|0.1.4<br>+git20200105|0.1.6|Compound version number '0.1.4+git20200105'<br>Version number indicates a snapshot (+git) is used|
 |et-xmlfile|1.0.1|1.1.0|
 |etckeeper|1.18.20|1.18.21|
@@ -771,7 +771,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hitori|3.38.4|44.0|
 |hostapd|2.9|2.10|
 |hotdoc|0.13.7|0.16|
-|hotspot|1.3.0|1.5.0|
+|hotspot|1.3.0|1.5.1|
 |hplip|3.22.4|3.23.12|
 |html2text|2020.1.16|2024.2.26|
 |html5-parser|0.4.9|0.4.12|
@@ -2794,7 +2794,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vice|3.5|3.8|
 |vicious|2.3.3|2.7.0|
 |vid.stab|0.98b|1.1.1|
-|vim|9.1.0446|9.1.0447|
+|vim|9.1.0446|9.1.0448|
 |virglrenderer|0.10.4|1.0.1|
 |virtualenv|20.25.0|20.26.2|
 |virtualgl+32|2.5.2|3.1.1|
