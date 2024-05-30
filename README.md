@@ -287,7 +287,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |configargparse|1.3|1.7|
 |configobj|5.0.6|5.0.8|
 |configparser|3.7.3|3.12.3|
-|configshell-fb|1.1.28|1.1.30|
 |confuse|3.2.2|3.3|
 |conky|1.10.8|1.21.1|
 |conmon|2.1.10|2.1.12|
@@ -493,6 +492,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ffmpeg|4.4.4|7.0.1|
 |ffmpeg+32|4.2.5|7.0.1|
 |ffmpegthumbs|23.08.5|24.05.0|
+|ffms2|2.40|5.0|
 |ffnvcodec|11.1.5.1|12.2.72.0|
 |fftw+32|3.3.4|3.3.10|
 |fido2|0.9.1|1.1.3|
@@ -615,6 +615,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gitdb|4.0.10|4.0.11|
 |gitg|41|44|
 |gitoxide|0.35.0|0.36.0|
+|gitpython|3.1.35|3.1.43|
 |gjs|1.74.0|1.80.2|
 |gksu|2.0.2|2.0.12|
 |glances|4.0.5|4.0.7|
@@ -741,7 +742,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gti|1.6.1|1.9.1|
 |gtk-2+32|2.24.32|2.24.33|
 |gtk-4|4.14.1|4.14.4|
-|gtk-doc|1.33.2|1.34.0|
 |gtk-engines-2|2.21.0|2.20.2|Possible downgrade from the current version (2.21.0   2.20.2)|
 |gtk-layer-shell|0.8.1|0.8.2|
 |gtk-qt-engine|14.1.0|14.1.2|
@@ -784,7 +784,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |herbstluftwm|0.7.2|0.9.5|
 |hexchat|2.16.1|2.16.2|
 |hfsprogs|332.25|667.100.2|
-|highlight|4.2|4.10|
 |highway|1.0.2|1.1.0|
 |hitori|3.38.4|44.0|
 |hostapd|2.9|2.10|
@@ -1152,6 +1151,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kpty|5.115.0|6.0.90|
 |kpublictransport|23.08.5|24.05.0|
 |kqtquickcharts|23.08.5|24.05.0|
+|kquickcharts|5.115.0|6.0.90|
 |kquickimageeditor|0.2.0|0.3.0|
 |krb5|1.17.1|1.21.2-final|
 |krb5+32|1.17.1|1.21.2-final|
@@ -1258,7 +1258,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libatomic-ops|7.8.0|7.8.2|
 |libavif|0.11.1|1.0.4|
 |libblkio|1.3.0|1.5.0|
-|libblockdev|2.23|3.1.1|
 |libbloom|1.6|2.0|
 |libbluray+32|1.2.1|1.3.4|
 |libbpf|1.2.0|1.4.2|
@@ -1380,6 +1379,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libkkc-data|0.2.7|0.3.5|
 |libkleo|23.08.5|24.05.0|
 |libkmahjongg|23.08.5|24.05.0|
+|libkolabxml|1.2.0|1.2.1|
 |libkomparediff2|23.08.5|24.05.0|
 |libksane|23.08.5|24.05.0|
 |libkscreen|5.27.11|6.0.5|
@@ -1539,10 +1539,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libx86|1.1|3.5|
 |libx86emu|3.1|3.5|
 |libxau+32|1.0.9|1.0.11|
-|libxaw3d|1.6.3|1.6.6|
 |libxcb|1.16.1|1.17.0|
 |libxcb+32|1.13|1.17.0|
-|libxdg-basedir|1.2.0|1.2.3|
 |libxdmcp|1.1.4|1.1.5|
 |libxdmcp+32|1.1.3|1.1.5|
 |libxkbcommon+32|0.9.1|1.7.0|
@@ -2083,7 +2081,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-type-serialiser|1.0|1.01|
 |perl-uri|1.74|5.28|
 |perl-www-mechanize|1.91|2.18|
-|perl-x11-protocol-other|30|31|
 |perl-xml-libxslt|1.96|2.002001|
 |perl-xml-namespacesupport|1.12<br>+9|1.12|Compound version number '1.12+9'<br>Possible downgrade from the current version (1.12+9   1.12)|
 |perl-xml-parser|2.44|2.47|
@@ -2251,6 +2248,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pynacl|1.3.0|1.5.0|
 |pynput|1.7.6|1.7.7|
 |pyopengl|3.1.5|3.1.7|
+|pyopenssl|23.1.1|24.1.0|
 |pyotherside|1.5.9|1.6.1|
 |pyparsing|2.4.7|3.1.2|
 |pyparted|3.11.6|3.12.0|
