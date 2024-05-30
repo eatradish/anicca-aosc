@@ -1996,6 +1996,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-gnome2-wnck|0.16|0.18|
 |perl-gtk2|1.2499|1.24993|
 |perl-gtk2-unique|0.05|0.07|
+|perl-html-form|6.03|6.11|
 |perl-html-parser|3.72|3.82|
 |perl-html-tagset|3.20|3.24|
 |perl-http-cookies|6.01|6.11|
