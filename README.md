@@ -161,7 +161,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |blender|4.0.2|4.1.1|
 |blinken|23.08.5|24.05.0|
 |blinker|1.4|1.8.2|
-|bluedevil|5.27.11|6.0.5|
 |bluez|5.75|5.76|
 |bluez-alsa|4.1.1|4.2.0|
 |bluez-qt|5.115.0|6.0.90|
@@ -542,7 +541,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |freetds|1.00.112|1.4.19|
 |freetype|2.12.1|2.13.2|
 |freetype+32|2.12.1|2.13.2|
-|freexl|1.0.5|2.0.0|
 |frei0r-plugins|2.2.0|2.3.2|
 |frescobaldi|3.2|3.3.0|
 |fribidi+32|1.0.10|1.0.14|
@@ -883,9 +881,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |jasper|2.0.21|4.2.4|
 |jbig2dec|0.18|0.20|
 |jdcal|1.4|1.4.1|
-|jedi|0.18.1|0.19.1|
 |jeepney|0.6.0|0.8.0|
-|jellyfish|0.6.0|1.0.3|
+|jellyfish|0.6.0|1.0.4|
 |jetring|0.29|0.31|
 |jinja2|3.1.2|3.1.4|
 |jmespath|0.10.0|1.0.1|
@@ -908,7 +905,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kaccounts-integration|23.08.5|24.05.0|
 |kaccounts-providers|23.08.5|24.05.0|
 |kactivities|5.115.0|6.0.90|
-|kactivities-stats|5.115.0|6.0.90|
 |kactivitymanagerd|5.27.11|6.0.5|
 |kaddressbook|23.08.5|24.05.0|
 |kaffeine-trinity|14.1.0|14.1.2|
@@ -1522,7 +1518,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libvirt-python|10.1.0|10.3.0|
 |libvisual|0.4.0|0.4.2|
 |libvisual+32|0.4.0|0.4.2|
-|libvncserver|0.9.13|0.9.14|
 |libvoikko|4.3.1|4.3.2|
 |libvpl|2.11.0|2023.4.0|
 |libvpx|1.10.0|1.14.0|
@@ -1912,7 +1907,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |parallel|20191122|20240522|
 |paramiko|2.10.3|3.4.0|
 |pari|2.13.1|2.15.5|
-|parley|23.08.5|24.05.0|
 |parsedatetime|2.4|2.6|
 |parso|0.3.3|0.8.4|
 |partclone|0.3.20|0.3.27|
