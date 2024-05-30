@@ -2419,7 +2419,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sass-listen|4.0.0|3.9.0|Possible downgrade from the current version (4.0.0   3.9.0)|
 |sassc|3.6.1|3.6.2|
 |sbc+32|1.3|2.0|
-|sbcl|2.4.3|2.4.4|
+|sbcl|2.4.3|2.4.5|
 |sbsigntool|0.9.4|0.9.5|
 |scandir|1.9.0|1.10.0|
 |sccache|0.3.3|0.8.1|
