@@ -6,7 +6,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |7-zip|24.05|24.06|
 |aalib|1.4rc5|1.2|Possible downgrade from the current version (1.4rc5   1.2)|
 |aalib+32|1.4rc5|1.2|Possible downgrade from the current version (1.4rc5   1.2)|
-|aardvark-dns|1.9.0|1.10.0|
+|aardvark-dns|1.9.0|1.11.0|
 |aarty|0.4.9|0.6.1|
 |abakus-trinity|14.1.0|14.1.2|
 |abseil-cpp|20220623.1|20240116.2|
@@ -744,7 +744,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gtk-layer-shell|0.8.1|0.8.2|
 |gtk-qt-engine|14.1.0|14.1.2|
 |gtk3-tqt-engine|14.1.0|14.1.2|
-|gtkmm-3|3.24.6|3.24.9|
 |gtksourceview-4|4.8.3|4.8.4|
 |gtkspellcheck|4.0.5|5.0.3|
 |gtranslator|42.0|46.1|
@@ -799,6 +798,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hugin|2022.0.0|2023.0.0|
 |humanize|0.5.1|4.9.0|
 |hunspell|1.7.0|1.7.2|
+|hyper-h11|0.12.0|0.14.0|
 |hyper-h2|4.0.0|4.1.0|
 |hyperframe|6.0.0|6.0.1|
 |hyperlink|19.0.0|21.0.0|
@@ -1723,6 +1723,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |munkres|1.0.12|release-1.1.4|
 |muparser|2.2.6.1|2.3.4|
 |mupdf|1.18.0|1.24.2|
+|musescore|4.3.0|4.3.1|
 |mutter|42.4|46.2|
 |mxml|3.2|4.0.3|
 |mycli|1.23.2|1.27.2|
@@ -1751,7 +1752,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nestopia|1.51.0|1.52.1|
 |net-snmp|5.7.3|5.9.4|
 |netaddr|0.7.19|1.3.0|
-|netavark|1.9.0|1.10.3|
+|netavark|1.9.0|1.11.0|
 |netcat|1.219|1.226|
 |netcdf|4.7.4|4.9.2|
 |netctl|1.23|1.25|
