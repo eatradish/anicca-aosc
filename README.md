@@ -2594,7 +2594,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sysprof|3.44.0|46.0|
 |system-config-printer|1.5.17|1.5.18|
 |systemd|255.6|255.7|
-|systemd-boot-friend|0.26.3|0.27.0|
+|systemd-boot-friend|0.27.1|0.27.0|Possible downgrade from the current version (0.27.1   0.27.0)|
 |systemsettings|5.27.11|6.0.5|
 |systemtap|4.4|5.1|
 |sysv-ipc|1.0.1|1.1.0|
