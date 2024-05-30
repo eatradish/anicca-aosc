@@ -201,7 +201,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cairo+32|1.14.12|1.18.0|
 |cairocffi|1.0.2|1.7.0|
 |cairomm|1.12.2|1.18.0|
-|cairosvg|2.5.2|2.7.1|
 |calendarsupport|23.08.5|24.05.0|
 |calibre|5.30.0|7.11.0|
 |caligula|0.4.5|0.4.7|
@@ -271,7 +270,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cmus|2.9.1|2.10.0|
 |cock|0.6.0|0.11.0|
 |cockpit|286.1|317|
-|cockpit-machines|284.1|312|
+|cockpit-machines|284.1|313|
 |cockpit-podman|63|88|
 |code-server|4.9.1|4.89.1|
 |codeine-trinity|14.1.0|14.1.2|
@@ -353,7 +352,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |deja-dup|42.9|45.2|
 |dejavu-fonts|2.37|2_37|
 |deluge|2.1.1|2.0.5|Possible downgrade from the current version (2.1.1   2.0.5)|
-|deno|1.31.3|1.43.6|
+|deno|1.31.3|1.44.0|
 |dephell-specifier|0.2.2|0.3.0|
 |deploykit-backend|0.1.1|0.1.0|Possible downgrade from the current version (0.1.1   0.1.0)|
 |deploykit-gui|0.2.1|test-ci|Versions not comparable: `0.2.1` and `test-ci`|
@@ -477,6 +476,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |falkon|23.08.5|24.05.0|
 |fann|20190109|2.2.0|Possible downgrade from the current version (20190109   2.2.0)|
 |fasteners|0.18|0.19|
+|fastfetch|2.13.2|2.14.0|
 |fastimport|0.9.8|0.9.14|
 |fatattr|1.0.1|1.0.1.orig|Possible downgrade from the current version (1.0.1   1.0.1.orig)|
 |faulthandler|3.1|3.2|
@@ -674,7 +674,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-terminal|3.44.1|3.97.0|
 |gnome-themes-standard|3.27.90|3.28|
 |gnome-tour|42.0|46.0|
-|gnome-usage|3.38.1|46.0|
 |gnome-user-docs|42.0|46.1|
 |gnome-user-share|3.34.0|43.0|
 |gnome-video-effects|0.4.3|0.6.0|
@@ -700,7 +699,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gpodder|3.10.17|3.11.4|
 |gpsd|3.18.1|3.25|
 |gpsim|0.31.0|0.32.1|
-|gptfdisk|1.0.9|1.0.10|
 |gradle|8.3|8.7.0|
 |granatier|23.08.5|24.05.0|
 |grantlee-editor|23.08.5|24.05.0|
