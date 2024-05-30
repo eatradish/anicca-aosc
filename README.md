@@ -597,6 +597,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ghc|9.4.8|9.10.1-release|
 |ghex|42.3|46.0|
 |ghidra|11.0|11.0.3_build|
+|ghostscript|9.54.0|10.03.1|
 |ghostscript+32|9.27|10.03.1|
 |ghostwriter|23.08.5|24.05.0|
 |gi-docgen|2023.3|2024.1|
@@ -1603,7 +1604,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lvm2|2.03.14|2.03.24|
 |lxc|5.0.2|6.0.0|
 |lxcfs|3.0.3|6.0.0|
-|lxgwcleargothic-font|0.300.4|0.311.1|
+|lxgwcleargothic-font|0.300.4|0.311.2|
 |lxgwnewcleargothic-font|1.121|1.123|
 |lxml|4.7.1|4.9.1|
 |lxpanel|0.9.3|0.10.1|
@@ -1632,7 +1633,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mangohud|0.7.0|0.7.2|
 |mangohud+32|0.7.0|0.7.2|
 |marble|23.08.5|24.05.0|
-|mariadb|10.9.4|11.4.1|
+|mariadb|10.9.4|11.5.1|
 |markdown|3.3.4|3.6|
 |markdownpart|23.08.5|24.05.0|
 |markupsafe|2.1.1|2.1.5|
