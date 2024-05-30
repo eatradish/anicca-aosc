@@ -75,7 +75,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |arandr|0.1.10|0.1.11|
 |aranym|1.1.0|1_1_0|
 |arc-kde|20180614|20220908|
-|arc-theme|20210412|20221218|
 |arch-install-scripts|28<br>+mirrorlist20231113<br>+pacman6.0.1|28|Compound version number '28+mirrorlist20231113+pacman6.0.1'|
 |arduino-avr-core|1.8.3|1.8.6|
 |argyllcms|3.1.0|3.2.0|
@@ -201,6 +200,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cairo+32|1.14.12|1.18.0|
 |cairocffi|1.0.2|1.7.0|
 |cairomm|1.12.2|1.18.0|
+|cairosvg|2.5.2|2.7.1|
 |calendarsupport|23.08.5|24.05.0|
 |calibre|5.30.0|7.11.0|
 |caligula|0.4.5|0.4.7|
@@ -324,7 +324,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cups|2.4.7|2.4.8|
 |cups+32|2.3.3|2.4.8|
 |curl+32|8.6.0|8.8.0|
-|curtsies|0.3.4|0.4.2|
 |cycler|0.10.0|0.12.1|
 |cymem|2.0.5|2.0.8|
 |cython-0.29|0.29.36|3.0.10|
@@ -332,7 +331,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |damo|1.0.9|2.3.6|
 |dante|1.4.2|1.4.3|
 |dar|2.7.13|2.7.14|
-|darkhttpd|1.13|1.16|
 |darkradiant|3.8.0|3.9.0|
 |dateutil|2.8.2|2.9.0.post0|
 |dav1d|1.4.0|1.4.2|
@@ -374,7 +372,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |discover|5.27.11|6.0.5|
 |distlib|0.3.1|0.3.8|
 |distorm|3.5.1|3.5.2b|
-|distro|1.6.0|1.9.0|
 |distrobox|1.4.2.1|1.7.2.1|
 |django|5.0.3|5.0.6|
 |dlib|19.20.0|19.24.4|
@@ -542,7 +539,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |freetype|2.12.1|2.13.2|
 |freetype+32|2.12.1|2.13.2|
 |freexl|1.0.5|2.0.0|
-|frei0r-plugins|2.2.0|2.3.2|
 |frescobaldi|3.2|3.3.0|
 |fribidi+32|1.0.10|1.0.14|
 |functools32|3.2.3<br>+2|3.2.3-2|Compound version number '3.2.3+2'|
@@ -674,6 +670,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-terminal|3.44.1|3.97.0|
 |gnome-themes-standard|3.27.90|3.28|
 |gnome-tour|42.0|46.0|
+|gnome-usage|3.38.1|46.0|
 |gnome-user-docs|42.0|46.1|
 |gnome-user-share|3.34.0|43.0|
 |gnome-video-effects|0.4.3|0.6.0|
@@ -699,6 +696,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gpodder|3.10.17|3.11.4|
 |gpsd|3.18.1|3.25|
 |gpsim|0.31.0|0.32.1|
+|gptfdisk|1.0.9|1.0.10|
 |gradle|8.3|8.7.0|
 |granatier|23.08.5|24.05.0|
 |grantlee-editor|23.08.5|24.05.0|
@@ -770,7 +768,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |harvid|0.8.3|0.9.1|
 |hashcat|6.2.6|24.4.28|
 |hatch-fancy-pypi-readme|22.8.0|24.1.0|
-|hatch-vcs|0.3.0|0.4.0|
 |hatchling|1.21.1|1.12.0|Possible downgrade from the current version (1.21.1   1.12.0)|
 |haveged|1.9.13|1.9.18|
 |hddtemp|0.3.52|0.4.3|
@@ -895,7 +892,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |jsonlines|1.2.0|4.0.0|
 |jsonpointer|2.3|2.4|
 |jsonrpc-glib|3.42.0|3.44.0|
-|jsonschema|3.2.0|0.0.1|Possible downgrade from the current version (3.2.0   0.0.1)|
 |juk|23.08.5|24.05.0|
 |jupyter-client|5.2.4|8.6.2|
 |jupyter-core|4.4.0|5.7.2|
@@ -2054,7 +2050,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-string-util|1.31|1.34|
 |perl-sub-install|0.928|0.929|
 |perl-sub-quote|2.006006|2.006008|
-|perl-sys-virt|5.8.0|10.2.0|
 |perl-template-toolkit|2.27|3.101|
 |perl-term-progressbar|2.22|2.23|
 |perl-term-readkey|2.37|2.38|
@@ -2196,7 +2191,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |purple-matrix|0.0.0<br>+git20210626|0.1.0|Compound version number '0.0.0+git20210626'<br>Version number indicates a snapshot (+git) is used|
 |purpose|5.115.0|6.0.90|
 |pv|1.6.20|1.8.9|
-|py-filelock|3.0.12|3.14.0|
 |py-setproctitle|1.1.10|1.3.3|
 |pyaaf2|1.6.0|1.7.1|
 |pyacoustid|1.1.7|1.3.0|
@@ -2548,7 +2542,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |squid|5.7|6.9|
 |sra-tools|3.0.3|3.1.1|
 |srain|1.5.1|1.7.0|
-|sratom|0.6.4|0.6.16|
 |srecord|1.64|1.65.0|
 |srtp+32|1.5.4|2.6.0|
 |ss-tproxy|4.6.1|4.8|
@@ -2609,7 +2602,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tbb|2021.11.0|2021.12.0|
 |tbb+32|4.4u4|2021.12.0|
 |tcl|8.6.10|8.6.14|
-|tcl+32|8.6.10|8.6.14|
 |tclap|1.2.2|1.2.5|
 |tcping|1.3.5|2.1.0|
 |tde-common-cmake|14.1.0|14.1.2|
