@@ -324,6 +324,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cups|2.4.7|2.4.8|
 |cups+32|2.3.3|2.4.8|
 |curl+32|8.6.0|8.8.0|
+|curtsies|0.3.4|0.4.2|
 |cycler|0.10.0|0.12.1|
 |cymem|2.0.5|2.0.8|
 |cython-0.29|0.29.36|3.0.10|
@@ -372,6 +373,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |discover|5.27.11|6.0.5|
 |distlib|0.3.1|0.3.8|
 |distorm|3.5.1|3.5.2b|
+|distro|1.6.0|1.9.0|
 |distrobox|1.4.2.1|1.7.2.1|
 |django|5.0.3|5.0.6|
 |dlib|19.20.0|19.24.4|
@@ -892,6 +894,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |jsonlines|1.2.0|4.0.0|
 |jsonpointer|2.3|2.4|
 |jsonrpc-glib|3.42.0|3.44.0|
+|jsonschema|3.2.0|0.0.1|Possible downgrade from the current version (3.2.0   0.0.1)|
 |juk|23.08.5|24.05.0|
 |jupyter-client|5.2.4|8.6.2|
 |jupyter-core|4.4.0|5.7.2|
@@ -1777,7 +1780,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nginx|1.25.3|1.27.0|
 |ngspice|35|42|
 |nmap|7.93|7.95|
-|nodejs|20.13.0|21.7.1|
+|nodejs|20.14.0|21.7.1|
 |noip|2.1.9|3.0.0|
 |noise-suppression-for-voice|0.91|1.10|
 |nomino|1.3.1|1.3.4|
@@ -1993,7 +1996,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-gnome2-wnck|0.16|0.18|
 |perl-gtk2|1.2499|1.24993|
 |perl-gtk2-unique|0.05|0.07|
-|perl-html-form|6.03|6.11|
 |perl-html-parser|3.72|3.82|
 |perl-html-tagset|3.20|3.24|
 |perl-http-cookies|6.01|6.11|
@@ -2411,7 +2413,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sass-listen|4.0.0|3.9.0|Possible downgrade from the current version (4.0.0   3.9.0)|
 |sassc|3.6.1|3.6.2|
 |sbc+32|1.3|2.0|
-|sbcl|2.4.3|2.4.5|
 |sbsigntool|0.9.4|0.9.5|
 |scandir|1.9.0|1.10.0|
 |sccache|0.3.3|0.8.1|
@@ -2542,6 +2543,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |squid|5.7|6.9|
 |sra-tools|3.0.3|3.1.1|
 |srain|1.5.1|1.7.0|
+|sratom|0.6.4|0.6.16|
 |srecord|1.64|1.65.0|
 |srtp+32|1.5.4|2.6.0|
 |ss-tproxy|4.6.1|4.8|
@@ -2602,6 +2604,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tbb|2021.11.0|2021.12.0|
 |tbb+32|4.4u4|2021.12.0|
 |tcl|8.6.10|8.6.14|
+|tcl+32|8.6.10|8.6.14|
 |tclap|1.2.2|1.2.5|
 |tcping|1.3.5|2.1.0|
 |tde-common-cmake|14.1.0|14.1.2|
@@ -2905,7 +2908,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xviewer|3.0.2|3.4.4|
 |xwayland|23.2.6|24.1.0|
 |xxhash|0.8.1|0.8.2|
-|xz|5.4.1|5.6.2|
 |xz+32|5.4.1|5.6.2|
 |yad|0.40.0|13.0|
 |yakuake|23.08.5|24.05.0|
@@ -2945,7 +2947,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |zope-event|4.3.0|5.0|
 |zope-interface|5.4.0|6.4.post2|
 |zotero|6.0.26|6.0.37|
-|zram-generator|1.1.1|1.1.2|
 |zshdb|1.1.3|1.1.4|
 |zutils|1.7|1.13|
 |zxing-cpp|1.4.0|2.2.1|
