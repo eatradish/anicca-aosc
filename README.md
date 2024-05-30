@@ -1258,6 +1258,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libatomic-ops|7.8.0|7.8.2|
 |libavif|0.11.1|1.0.4|
 |libblkio|1.3.0|1.5.0|
+|libblockdev|2.23|3.1.1|
 |libbloom|1.6|2.0|
 |libbluray+32|1.2.1|1.3.4|
 |libbpf|1.2.0|1.4.2|
@@ -2081,6 +2082,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-type-serialiser|1.0|1.01|
 |perl-uri|1.74|5.28|
 |perl-www-mechanize|1.91|2.18|
+|perl-x11-protocol-other|30|31|
 |perl-xml-libxslt|1.96|2.002001|
 |perl-xml-namespacesupport|1.12<br>+9|1.12|Compound version number '1.12+9'<br>Possible downgrade from the current version (1.12+9   1.12)|
 |perl-xml-parser|2.44|2.47|
