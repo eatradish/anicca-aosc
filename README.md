@@ -683,8 +683,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnote|42.1|46.0|
 |gnu-efi|3.0.14|3.0.18|
 |gnuplot|6.0.0|6.0.1|
-|gnustep-base|1.28.0|1_29_0|
-|gnustep-make|2.9.0|2_9_1|
+|gnustep-base|1.28.0|1_30_0|
+|gnustep-make|2.9.0|2_9_2|
 |gnutls|3.8.4|3.8.5|
 |gnutls+32|3.6.15|3.8.5|
 |go|1.22.3<br>+tools0.21.0<br>+net0.25.0|1.22.3|Compound version number '1.22.3+tools0.21.0+net0.25.0'|
@@ -1126,6 +1126,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kongress|23.08.5|24.05.0|
 |konqueror|23.08.5|24.05.0|
 |konquest|23.08.5|24.05.0|
+|konsole|23.08.5|24.05.0|
 |kontact|23.08.5|24.05.0|
 |kontactinterface|23.08.5|24.05.0|
 |kontrast|23.08.5|24.05.0|
@@ -2605,7 +2606,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sysprof|3.44.0|46.0|
 |system-config-printer|1.5.17|1.5.18|
 |systemd|255.6|255.7|
-|systemd-boot-friend|0.26.3|0.26.4|
+|systemd-boot-friend|0.26.3|0.27.0|
 |systemsettings|5.27.11|6.0.5|
 |systemtap|4.4|5.1|
 |sysv-ipc|1.0.1|1.1.0|
