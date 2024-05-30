@@ -118,7 +118,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |autojump-rs|0.5.1<br>+22.5.3|0.5.1|Compound version number '0.5.1+22.5.3'<br>Possible downgrade from the current version (0.5.1+22.5.3   0.5.1)|
 |automake|1.16i|1.16.5|
 |automat|20.2.0|22.10.0|
-|autopep8|1.5.6|2.1.2|
+|autopep8|1.5.6|2.2.0|
 |autossh|1.4f|1.4g|
 |avahi-tqt|14.1.0|14.1.2|
 |avogadrolibs|1.95.1|1.99.0|
@@ -186,7 +186,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |brotlipy|0.7.0|1.0.9.2|
 |bubblewrap|0.6.2|0.9.0|
 |budgie-screensaver|5.0.2|5.1.0|
-|bulky|2.9|3.2|
 |bullet|2.88|3.25|
 |bup|0.30|0.33.3|
 |byobu|5.133|6.12|
@@ -222,7 +221,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ccache|4.9.1|4.10|
 |ccid|1.5.1|1.5.5|
 |cddlib|0.94j|0.94m|
-|cdecl|20161129|2.5|Possible downgrade from the current version (20161129   2.5)|
 |cdemu-client|3.2.4|3.2.5|
 |cdemu-daemon|3.2.4|3.2.6|
 |cdrdao|1.2.4|1.2.5|
@@ -922,7 +920,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |karchive|5.115.0|6.0.90|
 |kasablanca-trinity|14.1.0|14.1.2|
 |kasts|23.08.5|24.05.0|
-|katapult-trinity|14.1.0|14.1.2|
 |kate|23.08.5|24.05.0|
 |katomic|23.08.5|24.05.0|
 |kauth|5.115.0|6.0.90|
@@ -1345,7 +1342,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libidn|1.41|1.42|
 |libidn+32|1.33|1.42|
 |libidn2|2.3.0|2.3.7|
-|libindi|2.0.5|2.0.7|
 |libinput|1.24.0|1.25.0|
 |libintl-perl|1.29|1.33|
 |libipset|1.1.1<br>+git20150311|1.1.1|Compound version number '1.1.1+git20150311'<br>Version number indicates a snapshot (+git) is used|
@@ -1882,7 +1878,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |p-vector|0.3.6|0.3.8|
 |p11-kit+32|0.23.18.1|0.25.3|
 |packaging|23.0|24.0|
-|pacman|6.0.1|6.1.0|
 |pahole|1.25|1.26|
 |palapeli|23.08.5|24.05.0|
 |palp|2.1|2.21|
