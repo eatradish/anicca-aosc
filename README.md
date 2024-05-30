@@ -418,7 +418,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |doxygen|1.10.0|1_11_0|
 |doxyqml|0.5.0|0.5.3|
 |dpdk|22.11.1|24.03|
-|dracut|059|101|
+|dracut|059|102|
 |dragon|23.08.5|24.05.0|
 |drkonqi|5.27.11|6.0.5|
 |dropbox|148.4.4519|200.4.7134|
@@ -615,7 +615,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gitdb|4.0.10|4.0.11|
 |gitg|41|44|
 |gitoxide|0.35.0|0.36.0|
-|gitpython|3.1.35|3.1.43|
 |gjs|1.74.0|1.80.2|
 |gksu|2.0.2|2.0.12|
 |glances|4.0.5|4.0.7|
@@ -1153,7 +1152,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kpty|5.115.0|6.0.90|
 |kpublictransport|23.08.5|24.05.0|
 |kqtquickcharts|23.08.5|24.05.0|
-|kquickcharts|5.115.0|6.0.90|
 |kquickimageeditor|0.2.0|0.3.0|
 |krb5|1.17.1|1.21.2-final|
 |krb5+32|1.17.1|1.21.2-final|
@@ -1382,7 +1380,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libkkc-data|0.2.7|0.3.5|
 |libkleo|23.08.5|24.05.0|
 |libkmahjongg|23.08.5|24.05.0|
-|libkolabxml|1.2.0|1.2.1|
 |libkomparediff2|23.08.5|24.05.0|
 |libksane|23.08.5|24.05.0|
 |libkscreen|5.27.11|6.0.5|
@@ -2254,7 +2251,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pynacl|1.3.0|1.5.0|
 |pynput|1.7.6|1.7.7|
 |pyopengl|3.1.5|3.1.7|
-|pyopenssl|23.1.1|24.1.0|
 |pyotherside|1.5.9|1.6.1|
 |pyparsing|2.4.7|3.1.2|
 |pyparted|3.11.6|3.12.0|
