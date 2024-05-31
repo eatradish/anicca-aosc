@@ -158,6 +158,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |blinken|23.08.5|24.05.0|
 |blinker|1.4|1.8.2|
 |bluedevil|5.27.11|6.0.5|
+|blueman|2.4.1|2.4.2|
 |bluez|5.75|5.76|
 |bluez-alsa|4.1.1|4.2.0|
 |bluez-qt|5.115.0|6.0.90|
@@ -188,7 +189,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |bup|0.30|0.33.3|
 |byobu|5.133|6.12|
 |c-ares|1.28.1|1.29.0|
-|c-blosc|1.21.3|1.21.5|
 |cabextract|1.9|1.11|
 |cachecontrol|0.12.6|0.14.0|
 |cachetools|3.1.0|5.3.3|
@@ -496,10 +496,10 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |findlib|1.9.5|1.9.6|
 |fio|3.35|3.37|
 |firefox|126.0|126.0.1|
-|firehol|3.1.6|3.1.7|
 |firewalld|2.0.0|2.1.2|
 |flac|1.3.3|1.4.3|
 |flac+32|1.3.3|1.4.3|
+|flask|1.1.2|3.0.3|
 |flask-login|0.4.1|0.6.3|
 |flask-mail|0.9.1|0.10.0|
 |flask-wtf|0.14|1.2.1|
@@ -2405,7 +2405,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sassc|3.6.1|3.6.2|
 |sbc+32|1.3|2.0|
 |sbsigntool|0.9.4|0.9.5|
-|scandir|1.9.0|1.10.0|
 |sccache|0.3.3|0.8.1|
 |scdoc|1.11.2|1.11.3|
 |schema|0.7.5|0.7.7|
@@ -2441,7 +2440,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |shadowsocks-rust|1.18.4|1.19.0|
 |shapelib|1.5.0|1.6.0|
 |shared-color-targets|0.1.7|0_1_7|
-|shellingham|1.3.1|1.5.4|
 |shotcut|21.08.11|24.04.28|
 |shotwell|0.31.4|0.32.6|
 |showmethekey|1.12.0|1.13.1|
