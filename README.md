@@ -213,7 +213,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cargo-c|0.9.24|0.9.32+cargo-0.79.0|
 |cargo-release|0.24.11|0.25.8|
 |cargo-smart-release|0.17.0|0.30.0|
-|catatonit|0.1.7|0.2.0|
 |catch2|2.13.8|3.6.0|
 |cbm|0.2|0.3.2|
 |ccache|4.9.1|4.10|
@@ -571,7 +570,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gdb+cross-arm64|12.1|14.2|
 |gdb+cross-mips64r6el|12.1|14.2|
 |gdbm+32|1.11|1.23|
-|gdk-pixbuf|2.42.8|2.42.12|
 |gdk-pixbuf+32|2.38.2|2.42.12|
 |gdm|42.0|46.2|
 |gdmd|0.1.0<br>+git20230214|script-0.1.0|Compound version number '0.1.0+git20230214'<br>Version number indicates a snapshot (+git) is used<br>Possible downgrade from the current version (0.1.0+git20230214   script-0.1.0)|
@@ -1037,6 +1035,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kimageformats|5.115.0|6.0.90|
 |kimagemapeditor|23.08.5|24.05.0|
 |kimap|23.08.5|24.05.0|
+|kinfocenter|5.27.11|6.0.5|
 |kinit|5.115.0|6.0.90|
 |kio|5.115.0|6.0.90|
 |kio-admin|23.08.5|24.05.0|
@@ -1948,6 +1947,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-date-manip|6.82|6.95|
 |perl-datetime|1.52|1.65|
 |perl-datetime-format-strptime|1.77|1.79|
+|perl-datetime-locale|1.26|1.42|
 |perl-dbd-mysql|4.050|5.005|
 |perl-dbd-sqlite|1.63<br>+03|1.74|Compound version number '1.63+03'|
 |perl-dbi|1.642|1.643|
@@ -2632,6 +2632,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tdesudo|14.1.0|14.1.2|
 |tdesvn|14.1.0|14.1.2|
 |tdetoys|14.1.0|14.1.2|
+|tdeutils|14.1.0|14.1.2|
 |tdevelop|14.1.0|14.1.2|
 |tdewebdev|14.1.0|14.1.2|
 |tdmtheme|14.1.0|14.1.2|
@@ -2920,7 +2921,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |zarith|1.9.1|1.13|
 |zbar|0.23.90|0.23.93|
 |zeal|0.7.0|0.7.1|
-|zeitgeist|1.0.3|1.0.4|
 |zenity|3.42.1|4.0.1|
 |zeroconf|0.28.6|0.132.2|
 |zeromq|4.3.4|4.3.5|
