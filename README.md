@@ -1303,7 +1303,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libesmtp|1.0.6|1.1.0|
 |libetebase|0.5.4|0.5.6|
 |libetonyek|0.1.9|0.1.10|
-|libevdev|1.11.0|1.13.1|
+|libevdev|1.11.0|1.13.2|
 |libexif|0.6.22|0.6.24|
 |libexif+32|0.6.22|0.6.24|
 |libfdk-aac|2.0.1|2.0.3|
@@ -1652,7 +1652,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mcomix|1.2.1|3.1.0|
 |mdadm|4.2|4.3|
 |mdbook|0.4.14|0.4.40|
-|mdds|2.0.2|2.1.1|
 |mechanize|0.4.5|0.4.10|
 |mediainfo|22.06|24.04|
 |meld|3.21.3|3.22.2|
@@ -2585,7 +2584,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sysprof|3.44.0|46.0|
 |system-config-printer|1.5.17|1.5.18|
 |systemd|255.6|255.7|
-|systemd-boot-friend|0.27.1|0.27.0|Possible downgrade from the current version (0.27.1   0.27.0)|
 |systemsettings|5.27.11|6.0.5|
 |systemtap|4.4|5.1|
 |sysv-ipc|1.0.1|1.1.0|
@@ -2647,7 +2645,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tdmtheme|14.1.0|14.1.2|
 |tectonic|0.12.0|0.15.0|
 |teeworlds|0.7.5<br>+git20220313|0.7.5|Compound version number '0.7.5+git20220313'<br>Version number indicates a snapshot (+git) is used|
-|telegram-desktop|5.0.1|5.0.5|
+|telegram-desktop|5.0.1|5.0.6|
 |telepathy-accounts-signon|1.0|2.1|
 |telepathy-glib|0.24.1|0.24.2|
 |telepathy-idle|0.2.0|0.2.2|
