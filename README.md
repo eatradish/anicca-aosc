@@ -457,7 +457,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |evolution-data-server|3.44.4|3.52.2|
 |evolution-ews|3.42.0|3.52.2|
 |evtest|1.34|1.35|
-|exceptiongroup|1.2.0|1.2.1|
 |exempi|2.5.1|2.6.5|
 |exfatprogs|1.2.2|1.2.3|
 |exiv2|0.27.5|0.28.2|
@@ -1348,7 +1347,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libipset|1.1.1<br>+git20150311|1.1.1|Compound version number '1.1.1+git20150311'<br>Version number indicates a snapshot (+git) is used|
 |libiscsi|1.18.0|1.20.0|
 |libisoburn|1.5.2|1.5.6|
-|libisofs|1.5.2|1.5.6.pl01|
 |libjcat|0.1.8|0.2.1|
 |libjpeg-turbo+32|2.0.5|3.0.3|
 |libjxl|0.7.0|0.10.2|
@@ -1652,6 +1650,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mcomix|1.2.1|3.1.0|
 |mdadm|4.2|4.3|
 |mdbook|0.4.14|0.4.40|
+|mdds|2.0.2|2.1.1|
 |mechanize|0.4.5|0.4.10|
 |mediainfo|22.06|24.04|
 |meld|3.21.3|3.22.2|
@@ -2657,7 +2656,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tepl|6.0.2|6.9.0|
 |termcolor|1.1.0|2.4.0|
 |terminaltables|3.1.0|3.1.10|
-|terminator|2.1.1|2.1.3|
+|terminator|2.1.1|2.1.4|
 |tesseract|5.3.4|5.2.1|Possible downgrade from the current version (5.3.4   5.2.1)|
 |testdisk|7.0|7.2|
 |tevent|0.13.0|0.16.1|
@@ -2770,7 +2769,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |v2raya|2.2.5.1|2.2.5|Possible downgrade from the current version (2.2.5.1   2.2.5)|
 |v4l-utils|1.22.1|1.26.1|
 |v4l-utils+32|1.18.0|1.26.1|
-|v4l2loopback|0.12.5|0.13.2|
 |vala|0.56.16|0.56.17|
 |vala-panel-appmenu|0.7.4|24.05|
 |valgrind|3.22.0|3.23.0|
@@ -2893,7 +2891,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xmlrpc-c|1.54.06|1.59.03|
 |xmlsec|1.2.36|1.3.4|
 |xournalpp|1.1.3|1.2.3|
-|xpra|5.0.8|6.0|
+|xpra|5.0.8|6.0.1|
 |xray|1.8.4|1.8.13|
 |xray-plugin|1.8.11|1.8.12|
 |xreader|3.8.5|4.0.2|
