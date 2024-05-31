@@ -500,7 +500,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |firewalld|2.0.0|2.1.2|
 |flac|1.3.3|1.4.3|
 |flac+32|1.3.3|1.4.3|
-|flask|1.1.2|3.0.3|
 |flask-login|0.4.1|0.6.3|
 |flask-mail|0.9.1|0.10.0|
 |flask-wtf|0.14|1.2.1|
