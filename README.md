@@ -1587,7 +1587,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lua-messagepack|0.5.1|0.5.4|
 |luafilesystem|1.7.0.2|1_8_0|
 |luajit|2.1.0b3<br>+git20240222|2.0.5|Compound version number '2.1.0b3+git20240222'<br>Version number indicates a snapshot (+git) is used<br>Possible downgrade from the current version (2.1.0b3+git20240222   2.0.5)|
-|luarocks|3.5.0|3.11.0|
+|luarocks|3.5.0|3.11.1|
 |lucene++|3.0.8|3.0.9|
 |lunzip|1.10|1.14|
 |lutris|0.5.11|0.5.17|
