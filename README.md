@@ -9,7 +9,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |aardvark-dns|1.9.0|1.11.0|
 |aarty|0.4.9|0.6.1|
 |abakus-trinity|14.1.0|14.1.2|
-|abseil-cpp|20220623.1|20240116.2|
 |abyss|2.1.5|2.3.7|
 |acccheck|0.2.1|0-2-1|
 |accerciser|3.40.0|3.42.0|
@@ -149,7 +148,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |bcrypt|3.1.7|4.1.3|
 |beaker|1.11.0|1.13.0|
 |beancount|2.2.1|2.3.6|
-|bear|3.1.3|3.1.4|
 |beautifulsoup4|4.10.0|4.12.3|
 |benchmark|1.8.2|1.8.4|
 |bibletime-trinity|14.1.0|14.1.2|
@@ -714,7 +712,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |grilo-plugins|0.3.15|0.3.16|
 |gringo|5.4.1|5.7.1|
 |groff|1.22.4|1.23.0|
-|grpc|1.46.2|1.64.0|
 |grsync|1.2.8|1.3.1|
 |grub|2.12<br>+unifont15.1.04|2.12|Compound version number '2.12+unifont15.1.04'|
 |grub-customizer|5.2.4|5.2.5|
@@ -1833,7 +1830,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |opencore-amr+32|0.1.5|0.1.6|
 |opencryptoki|3.21.0|3.23.0|
 |opencsg|1.5.1|1.6.0|
-|opencv|4.7.0|4.9.0|
 |openexr|3.1.8|3.2.126|
 |openfortivpn|1.18.0|1.22.0|
 |openh264|2.4.0<br>+gmp114<br>+2|2.4.1|Compound version number '2.4.0+gmp114+2'|
@@ -2177,8 +2173,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |projectm|4.0.0|4.1.1|
 |prompt-toolkit|2.0.8|3.0.45|
 |proot|5.1.20171016|5.4.0|
-|protobuf|3.15.6|27.0|
-|protobuf-c|1.3.3|1.5.0|
+|protobuf|25.2|27.0|
 |proxychains-ng+32|20161205|4.17|Possible downgrade from the current version (20161205   4.17)|
 |psmisc|23.6|23.7|
 |pstate-frequency|3.11.0|3.15.1|
@@ -2338,7 +2333,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rdflib|6.2.0|7.0.0|
 |rdiscount|2.2.0.2|2.2.7.3|
 |rdma-core|51.0|52.0|
-|re2|20190901|2024-05-01|Possible downgrade from the current version (20190901   2024-05-01)|
+|re2|20240501|2024-05-01|Possible downgrade from the current version (20240501   2024-05-01)|
 |re2c|1.3|3.1|
 |readline|8.2.1|8.2|Possible downgrade from the current version (8.2.1   8.2)|
 |readline+32|8.2.1|8.2|Possible downgrade from the current version (8.2.1   8.2)|
@@ -2508,7 +2503,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |soundtouch|2.3.3|2.3.1|Possible downgrade from the current version (2.3.3   2.3.1)|
 |soundtouch+32|1.9.2|2.3.1|
 |soupsieve|1.8.0|2.5|
-|sozu|0.15.2|1.0.0|
+|sozu|0.15.2|1.0.1|
 |spamassassin|3.4.6|4.0.1|
 |spandsp|0.0.6|3.0.0|
 |spectacle|22.12.3|24.05.0|
@@ -2523,6 +2518,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sphinx-tabs|3.4.1|3.4.5|
 |sphinxbase|5prealpha|0.8|Possible downgrade from the current version (5prealpha   0.8)|
 |sphinxcontrib-applehelp|1.0.2|1.0.8|
+|sphinxcontrib-devhelp|1.0.2|1.0.6|
 |sphinxcontrib-htmlhelp|2.0.0|2.0.5|
 |sphinxcontrib-qthelp|1.0.3|1.0.7|
 |sphinxcontrib-serializinghtml|1.1.5|1.1.10|
