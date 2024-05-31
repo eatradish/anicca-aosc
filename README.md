@@ -213,6 +213,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cargo-c|0.9.24|0.9.32+cargo-0.79.0|
 |cargo-release|0.24.11|0.25.8|
 |cargo-smart-release|0.17.0|0.30.0|
+|catatonit|0.1.7|0.2.0|
 |catch2|2.13.8|3.6.0|
 |cbm|0.2|0.3.2|
 |ccache|4.9.1|4.10|
@@ -1399,7 +1400,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libnotify|0.7.9|0.8.3|
 |libnsl2|1.3.0|2.0.1|
 |libnspsl|0.1.6|0.1.7|
-|libnumbertext|1.0.7|1.0.11|
 |libodfgen|0.1.6|0.1.8|
 |libofono-qt|0.54<br>+git20190116|1.30|Compound version number '0.54+git20190116'<br>Version number indicates a snapshot (+git) is used|
 |libogg|1.3.4|1.3.5|
@@ -1754,7 +1754,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |netsurf-buildsystem|1.9|1.10|
 |nettle|3.7.2|3.9.1|
 |nettle+32|3.7.2|3.9.1|
-|networkmanager|1.40.6|1.46.0|
+|networkmanager|1.40.6|1.48.0|
 |networkmanager-iodine|1.2.0<br>+git20220728|1.2.0|Compound version number '1.2.0+git20220728'<br>Version number indicates a snapshot (+git) is used|
 |networkmanager-l2tp|1.8.6|1.20.16|
 |networkmanager-openconnect|1.2.6<br>+git20210918|1.2.10|Compound version number '1.2.6+git20210918'<br>Version number indicates a snapshot (+git) is used|
