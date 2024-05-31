@@ -1606,6 +1606,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lxcfs|3.0.3|6.0.0|
 |lxgwcleargothic-font|0.300.4|0.311.2|
 |lxgwnewcleargothic-font|1.121|1.123|
+|lxml|4.7.1|4.9.1|
 |lxpanel|0.9.3|0.10.1|
 |lxterminal|0.3.2|0.4.0|
 |lynx|2.9.0|2.9.1|
@@ -1898,6 +1899,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |paq8o|9|10t|
 |parallel|20191122|20240522|
 |paramiko|2.10.3|3.4.0|
+|pari|2.13.1|2.15.5|
 |parley|23.08.5|24.05.0|
 |parsedatetime|2.4|2.6|
 |parso|0.3.3|0.8.4|
@@ -2619,7 +2621,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tdedocker|14.1.0|14.1.2|
 |tdeedu|14.1.0|14.1.2|
 |tdegames|14.1.0|14.1.2|
-|tdegraphics|14.1.0|14.1.2|
 |tdeio-appinfo|14.1.0|14.1.2|
 |tdeio-apt|14.1.0|14.1.2|
 |tdeio-ftps|14.1.0|14.1.2|
