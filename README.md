@@ -2523,7 +2523,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sphinx-tabs|3.4.1|3.4.5|
 |sphinxbase|5prealpha|0.8|Possible downgrade from the current version (5prealpha   0.8)|
 |sphinxcontrib-applehelp|1.0.2|1.0.8|
-|sphinxcontrib-devhelp|1.0.2|1.0.6|
 |sphinxcontrib-htmlhelp|2.0.0|2.0.5|
 |sphinxcontrib-qthelp|1.0.3|1.0.7|
 |sphinxcontrib-serializinghtml|1.1.5|1.1.10|
