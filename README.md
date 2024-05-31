@@ -284,7 +284,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |configobj|5.0.6|5.0.8|
 |configparser|3.7.3|3.12.3|
 |confuse|3.2.2|3.3|
-|conky|1.10.8|1.21.1|
+|conky|1.10.8|1.21.2|
 |conmon|2.1.10|2.1.12|
 |constantly|15.1.0|23.10.4|
 |construct|2.9.45|2.10.70|
@@ -2275,7 +2275,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |python-xapp|2.0.1|2.4.1|
 |python-xmp-toolkit|2.0.1|2.0.2|
 |pythondialog|3.3.0|3.5.3|
-|pytools|2019.1|2024.1.3|
+|pytools|2019.1|2024.1.4|
 |pyudev|0.24.1|0.24.3|
 |pyusb|1.0.2|1.2.1|
 |pyutil|3.3.0|3.3.6|
