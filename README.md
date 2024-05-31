@@ -799,6 +799,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hugin|2022.0.0|2023.0.0|
 |humanize|0.5.1|4.9.0|
 |hunspell|1.7.0|1.7.2|
+|hyper-h11|0.12.0|0.14.0|
 |hyper-h2|4.0.0|4.1.0|
 |hyperframe|6.0.0|6.0.1|
 |hyperlink|19.0.0|21.0.0|
@@ -1584,7 +1585,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lowdown|1.1.0|1_1_0|
 |lpaq|8|9m|
 |lpsolve|5.5.2.5|5.6.20|
-|lrs|071a|072|
+|lrs|071a|073|
 |lrzsz|0.12.21|0.12.21.orig|Possible downgrade from the current version (0.12.21   0.12.21.orig)|
 |lsd|1.0.0|1.1.2|
 |lshw|02.19.2|02.20|
@@ -1748,7 +1749,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nemo-extensions|5.8.0|6.0.1|
 |neochat|23.08.5|24.05.0|
 |neomutt|20200619|20240425|
-|neon+32|0.31.2|0.33.0|
 |nestopia|1.51.0|1.52.1|
 |net-snmp|5.7.3|5.9.4|
 |netaddr|0.7.19|1.3.0|
