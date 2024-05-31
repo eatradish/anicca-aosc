@@ -799,7 +799,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hugin|2022.0.0|2023.0.0|
 |humanize|0.5.1|4.9.0|
 |hunspell|1.7.0|1.7.2|
-|hyper-h11|0.12.0|0.14.0|
 |hyper-h2|4.0.0|4.1.0|
 |hyperframe|6.0.0|6.0.1|
 |hyperlink|19.0.0|21.0.0|
@@ -1921,7 +1920,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pcre-static|8.44|8.45|
 |pcsc-perl|1.4.14|1.4.16|
 |pcsclite|1.9.9|2.2.3|
-|pcsx2|1.6.0<br>+git20210825|1.7.5845|Compound version number '1.6.0+git20210825'<br>Version number indicates a snapshot (+git) is used|
+|pcsx2|1.6.0<br>+git20210825|1.7.5854|Compound version number '1.6.0+git20210825'<br>Version number indicates a snapshot (+git) is used|
 |pdfgrep|2.1.2|2.2.0|
 |pdfminer|20191020|20231228|
 |pdlzip|1.9|1.13|
@@ -2132,12 +2131,12 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |plymouth-kcm|5.27.11|6.0.5|
 |pmac-utils|1.1.3|1.1.3.orig|Possible downgrade from the current version (1.1.3   1.1.3.orig)|
 |pngquant|2.12.6|3.0.3|
-|pnpm|8.15.5|9.1.3|
+|pnpm|8.15.5|9.1.4|
 |po-debconf|1.0.21|1.0.21+nmu1|Possible downgrade from the current version (1.0.21   1.0.21+nmu1)|
 |po4a|0.63|0.72|
 |pocketsphinx|5~prealpha|0.8|Possible downgrade from the current version (5~prealpha   0.8)|
 |podcastparser|0.6.5|0.6.10|
-|podman|4.9.3<br>+vsock0.7.2|5.0.3|Compound version number '4.9.3+vsock0.7.2'|
+|podman|4.9.3<br>+vsock0.7.2|5.1.0|Compound version number '4.9.3+vsock0.7.2'|
 |podofo|0.9.6|0.10.3|
 |poedit|3.4.1|3.4.4-oss|
 |poetry|1.6.1|1.8.3|
