@@ -170,7 +170,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |borgbackup|1.1.17|1.2.8|
 |botan|1.10.17|3.4.0|
 |botan-2|2.12.1|3.4.0|
-|boto3|1.20.26|1.34.116|
+|boto3|1.20.26|1.34.117|
 |bottle|0.12.18|0.12.25|
 |bottles|2022.2.28<br>+trento<br>+4|51.11|Compound version number '2022.2.28+trento+4'<br>Possible downgrade from the current version (2022.2.28+trento+4   51.11)|
 |bovo|23.08.5|24.05.0|
@@ -1081,7 +1081,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kmix|23.08.5|24.05.0|
 |kmod|31|32|
 |kmousetool|23.08.5|24.05.0|
-|kmouth|23.08.5|24.05.0|
 |kmplayer-trinity|14.1.0|14.1.2|
 |kmplot|23.08.5|24.05.0|
 |kmscon|8<br>+git20221110|8|Compound version number '8+git20221110'<br>Version number indicates a snapshot (+git) is used|
@@ -2040,7 +2039,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-proc-processtable|0.56|0.636|
 |perl-role-tiny|2.001004|2.002004|
 |perl-specio|0.46|0.48|
-|perl-string-util|1.31|1.34|
 |perl-sub-install|0.928|0.929|
 |perl-sub-quote|2.006006|2.006008|
 |perl-template-toolkit|2.27|3.101|
@@ -2091,7 +2089,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pixman|0.43.0|0.43.4|
 |pixman+32|0.40.0|0.43.4|
 |pkcs11-helper|1.29.0|1.30.0|
-|pkginfo|1.5.0.1|1.10.0|
+|pkginfo|1.5.0.1|1.11.0|
 |pktstat|20160317|1.8.5|Possible downgrade from the current version (20160317   1.8.5)|
 |plank|0.11.89<br>+git20210222|0.11.89|Compound version number '0.11.89+git20210222'<br>Version number indicates a snapshot (+git) is used|
 |plasma-angelfish|22.06|24.05.0|
@@ -2146,7 +2144,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |portaudio|19<br>+20140130|190600_20161030|Compound version number '19+20140130'|
 |portaudio+32|19<br>+20140130|190600_20161030|Compound version number '19+20140130'|
 |portmidi|2.0.4|236|
-|postfix|3.7.3|3.9.0|
 |postgresql|13.13|17|
 |potracegui-trinity|14.1.0|14.1.2|
 |powerdevil|5.27.11|6.0.5|
@@ -2267,7 +2264,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |python-lz4|2.1.6|4.3.3|
 |python-markdown-math|0.6|0.8|
 |python-msgpack|1.0.2|1.0.8|
-|python-node-semver|0.8.0|0.9.0|
 |python-openid|2.2.5|3.2|
 |python-pam|1.8.4|2.0.2|
 |python-poppler-qt5|21.1.0<br>+git20210304|21.3.0|Compound version number '21.1.0+git20210304'<br>Version number indicates a snapshot (+git) is used|
