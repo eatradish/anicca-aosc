@@ -195,7 +195,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cabextract|1.9|1.11|
 |cachecontrol|0.12.6|0.14.0|
 |cachetools|3.1.0|5.3.3|
-|caddy|2.7.6|2.8.0|
+|caddy|2.7.6|2.8.1|
 |cairo|1.17.6|1.18.0|
 |cairo+32|1.14.12|1.18.0|
 |cairocffi|1.0.2|1.7.0|
@@ -1749,6 +1749,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nemo-extensions|5.8.0|6.0.1|
 |neochat|23.08.5|24.05.0|
 |neomutt|20200619|20240425|
+|neon+32|0.31.2|0.33.0|
 |nestopia|1.51.0|1.52.1|
 |net-snmp|5.7.3|5.9.4|
 |netaddr|0.7.19|1.3.0|
@@ -2307,7 +2308,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qmlkonsole|23.08.5|24.05.0|
 |qmltermwidget|0.2.0<br>+git20220109|0.6.0|Compound version number '0.2.0+git20220109'<br>Version number indicates a snapshot (+git) is used|
 |qmmp|1.6.5|2.1.8|
-|qownnotes|22.6.1|24.5.9|
+|qownnotes|22.6.1|24.5.10|
 |qqc2-desktop-style|5.115.0|6.0.90|
 |qrencode|4.0.2|4.1.1|
 |qscintilla|2.13.1|2.14.1|
@@ -2336,6 +2337,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rcm|1.3.4|1.3.6|
 |rdflib|6.2.0|7.0.0|
 |rdiscount|2.2.0.2|2.2.7.3|
+|rdma-core|51.0|52.0|
 |re2|20190901|2024-05-01|Possible downgrade from the current version (20190901   2024-05-01)|
 |re2c|1.3|3.1|
 |readline|8.2.1|8.2|Possible downgrade from the current version (8.2.1   8.2)|
