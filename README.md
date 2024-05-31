@@ -474,8 +474,16 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fastimport|0.9.8|0.9.14|
 |fatattr|1.0.1|1.0.1.orig|Possible downgrade from the current version (1.0.1   1.0.1.orig)|
 |faulthandler|3.1|3.2|
+|fcitx5|5.1.9|5.1.10|
+|fcitx5-chewing|5.1.3|5.1.4|
+|fcitx5-chinese-addons|5.1.5|5.1.6|
+|fcitx5-configtool|5.1.5|5.1.6|
+|fcitx5-hangul|5.1.3|5.1.4|
+|fcitx5-kkc|5.1.3|5.1.4|
 |fcitx5-mozc|2.29.5160.102<br>+fcitx5<br>+git20230919|2.29.5374.102|Compound version number '2.29.5160.102+fcitx5+git20230919'<br>Version number indicates a snapshot (+git) is used|
 |fcitx5-pinyin-zhwiki|0.2.3<br>+dict20210823|0.2.5|Compound version number '0.2.3+dict20210823'|
+|fcitx5-rime|5.1.6|5.1.7|
+|fcitx5-skk|5.1.3|5.1.4|
 |feedbackd|0.2.1|0.3.0|
 |feedparser|6.0.8|6.0.11|
 |feeluown|4.1.1|4.1.4|
@@ -518,7 +526,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |font-manager|0.8.8|0.8.9|
 |fontconfig|2.14.0|2.15.0|
 |fontconfig+32|2.14.0|2.15.0|
-|fonttools|4.47.2|4.52.4|
+|fonttools|4.47.2|4.53.0|
 |foolscap|0.13.2|23.11.0|
 |fortune-mod|3.6.1|3.20.0|
 |fping|5.1|5.2|
@@ -537,6 +545,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |freexl|1.0.5|2.0.0|
 |frescobaldi|3.2|3.3.0|
 |fribidi+32|1.0.10|1.0.14|
+|frp|0.58.0|0.58.1|
 |functools32|3.2.3<br>+2|3.2.3-2|Compound version number '3.2.3+2'|
 |fuse-exfat|1.3.0|1.4.0|
 |fuse-python|0.3.1|1.0.7|
@@ -599,6 +608,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gifski|1.14.4|1.32.0|
 |gimp|2.10.36|2_10_38|
 |girara|0.4.4|0.4.3|Possible downgrade from the current version (0.4.4   0.4.3)|
+|git|2.45.1|2.45.2|
 |git-archive-all|1.20.0|1.23.1|
 |git-branchless|0.7.1|0.9.0|
 |git-lfs|3.5.0|3.5.1|
@@ -1596,7 +1606,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lxcfs|3.0.3|6.0.0|
 |lxgwcleargothic-font|0.300.4|0.311.2|
 |lxgwnewcleargothic-font|1.121|1.123|
-|lxml|4.7.1|4.9.1|
 |lxpanel|0.9.3|0.10.1|
 |lxterminal|0.3.2|0.4.0|
 |lynx|2.9.0|2.9.1|
@@ -1889,7 +1898,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |paq8o|9|10t|
 |parallel|20191122|20240522|
 |paramiko|2.10.3|3.4.0|
-|pari|2.13.1|2.15.5|
 |parley|23.08.5|24.05.0|
 |parsedatetime|2.4|2.6|
 |parso|0.3.3|0.8.4|
