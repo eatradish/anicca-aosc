@@ -499,6 +499,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |filelight-trinity|14.1.0|14.1.2|
 |filezilla|3.66.4|3.60.2|Possible downgrade from the current version (3.66.4   3.60.2)|
 |findlib|1.9.5|1.9.6|
+|findutils|4.9.0|4.10.0|
 |fio|3.35|3.37|
 |firefox|126.0|126.0.1|
 |firewalld|2.0.0|2.1.2|
