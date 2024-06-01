@@ -783,7 +783,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |herbstluftwm|0.7.2|0.9.5|
 |hexchat|2.16.1|2.16.2|
 |hfsprogs|332.25|667.100.2|
-|highway|1.0.2|1.1.0|
+|highway|1.0.2|1.2.0|
 |hitori|3.38.4|44.0|
 |hostapd|2.9|2.10|
 |hotdoc|0.13.7|0.16|
@@ -799,8 +799,10 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |httrack|3.49.2|3.49.5|
 |hub|2.14.2<br>+git20230617|2.14.2|Compound version number '2.14.2+git20230617'<br>Version number indicates a snapshot (+git) is used|
 |hugin|2022.0.0|2023.0.0|
+|hugo|0.126.1|0.126.2|
 |humanize|0.5.1|4.9.0|
 |hunspell|1.7.0|1.7.2|
+|hwdata|0.382|0.383|
 |hyper-h11|0.12.0|0.14.0|
 |hyper-h2|4.0.0|4.1.0|
 |hyperframe|6.0.0|6.0.1|
@@ -851,6 +853,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |intel-compute-runtime|24.17.29377.6|24.17.29377.8|
 |intel-graphics-compiler|1.0.16695.4|1.0.16900.3|
 |intel-media-driver|24.1.5|24.2.4|
+|intel-ucode|20240514|20240531|
 |inxi|3.3.31<br>+2|3.3.31-2|Compound version number '3.3.31+2'|
 |iodine|0.7.0|0.8.0|
 |iosevka-fonts|28.0.5|30.1.1|
@@ -864,7 +867,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |iptables|1.8.8|1.8.10|
 |iptraf-ng|1.1.4|1.2.1|
 |ipy|0.83|1.01|
-|ipython|7.28.0|8.24.0|
+|ipython|7.28.0|8.25.0|
 |irrlicht|1.8.4|1.8.5|
 |iso-codes|4.4|4.16.0|
 |isomd5sum|1.2.3|1.2.4|
@@ -1980,7 +1983,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-extutils-depends|0.405|0.8001|
 |perl-extutils-installpaths|0.012|0.013|
 |perl-fcgi|0.78|0.82|
-|perl-file-basedir|0.08|0.09|
 |perl-file-copy-recursive|0.44|0.45|
 |perl-file-listing|6.04|6.16|
 |perl-file-mimeinfo|0.28<br>+03|0.35|Compound version number '0.28+03'|
@@ -2108,6 +2110,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |plank|0.11.89<br>+git20210222|0.11.89|Compound version number '0.11.89+git20210222'<br>Version number indicates a snapshot (+git) is used|
 |plasma-angelfish|22.06|24.05.0|
 |plasma-browser-integration|5.27.11|6.0.5|
+|plasma-desktop|5.27.11|6.0.5|
 |plasma-disks|5.27.11|6.0.5|
 |plasma-firewall|5.27.11|6.0.5|
 |plasma-framework|5.115.0|6.0.90|
