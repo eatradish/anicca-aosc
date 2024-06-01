@@ -701,7 +701,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gpsd|3.18.1|3.25|
 |gpsim|0.31.0|0.32.1|
 |gptfdisk|1.0.9|1.0.10|
-|gradle|8.3|8.7.0|
+|gradle|8.3|8.8.0|
 |granatier|23.08.5|24.05.0|
 |grantlee-editor|23.08.5|24.05.0|
 |grantleetheme|23.08.5|24.05.0|
@@ -716,6 +716,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |grilo-plugins|0.3.15|0.3.16|
 |gringo|5.4.1|5.7.1|
 |groff|1.22.4|1.23.0|
+|grpc|1.64.0|1.64.1|
 |grsync|1.2.8|1.3.1|
 |grub|2.12<br>+unifont15.1.04|2.12|Compound version number '2.12+unifont15.1.04'|
 |grub-customizer|5.2.4|5.2.5|
@@ -1609,8 +1610,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lxml|4.7.1|4.9.1|
 |lxpanel|0.9.3|0.10.1|
 |lxterminal|0.3.2|0.4.0|
-|lynx|2.9.0|2.9.1|
-|lyx|2.3.7|2.3.8|
+|lynx|2.9.0|2.9.2|
+|lyx|2.3.7|2.4.0|
 |lzd|1.0|1.4|
 |lzip|1.23|1.24.1|
 |lziprecover|1.21|1.24|
@@ -1678,6 +1679,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mime-types|9|99|
 |minetest|5.7.0<br>+irrlicht1.9.0mt10|5.8.0|Compound version number '5.7.0+irrlicht1.9.0mt10'|
 |mingw+w64|8.0.2|12.0.0|
+|mini-portile|2.8.6|2.8.7|
 |minicom|2.8|2.9|
 |miniserve|0.26.0|0.27.1|
 |miniupnpc|2.1|2.2.7|
@@ -2106,7 +2108,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |plank|0.11.89<br>+git20210222|0.11.89|Compound version number '0.11.89+git20210222'<br>Version number indicates a snapshot (+git) is used|
 |plasma-angelfish|22.06|24.05.0|
 |plasma-browser-integration|5.27.11|6.0.5|
-|plasma-desktop|5.27.11|6.0.5|
 |plasma-disks|5.27.11|6.0.5|
 |plasma-firewall|5.27.11|6.0.5|
 |plasma-framework|5.115.0|6.0.90|
@@ -2621,6 +2622,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tdedocker|14.1.0|14.1.2|
 |tdeedu|14.1.0|14.1.2|
 |tdegames|14.1.0|14.1.2|
+|tdegraphics|14.1.0|14.1.2|
 |tdeio-appinfo|14.1.0|14.1.2|
 |tdeio-apt|14.1.0|14.1.2|
 |tdeio-ftps|14.1.0|14.1.2|
