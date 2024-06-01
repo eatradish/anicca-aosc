@@ -294,7 +294,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |corefreq|20170301|1.97.2-x86_64|Possible downgrade from the current version (20170301   1.97.2-x86_64)|
 |coreutils|9.4|9.5|
 |corrosion|0.2.1|0.4.10|
-|corsixth|0.65.1|0.67|
 |cowsay|3.04.01|3.7.0|
 |cpp-utilities|5.20.0|5.24.8|
 |cppcheck|2.8|2.14.0|
@@ -801,7 +800,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hugo|0.126.1|0.126.2|
 |humanize|0.5.1|4.9.0|
 |hunspell|1.7.0|1.7.2|
-|hwdata|0.382|0.383|
 |hyper-h11|0.12.0|0.14.0|
 |hyper-h2|4.0.0|4.1.0|
 |hyperframe|6.0.0|6.0.1|
@@ -852,7 +850,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |intel-compute-runtime|24.17.29377.6|24.17.29377.8|
 |intel-graphics-compiler|1.0.16695.4|1.0.16900.3|
 |intel-media-driver|24.1.5|24.2.4|
-|intel-ucode|20240514|20240531|
 |inxi|3.3.31<br>+2|3.3.31-2|Compound version number '3.3.31+2'|
 |iodine|0.7.0|0.8.0|
 |iosevka-fonts|28.0.5|30.1.1|
@@ -1066,7 +1063,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kitemviews|5.115.0|6.0.90|
 |kiten|23.08.5|24.05.0|
 |kitinerary|23.08.5|24.05.0|
-|kitty|0.26.4|0.35.0|
+|kitty|0.26.4|0.35.1|
 |kiwisolver|1.0.1|1.4.5|
 |kjobwidgets|5.115.0|6.0.90|
 |kjournald|23.08.5|24.05.0|
@@ -1278,7 +1275,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libcdr|0.1.6|0.1.7|
 |libcgroup|2.0|3.1.0|
 |libchamplain|0.12.20|0.12.21|
-|libchewing|0.5.1|0.8.3|
+|libchewing|0.5.1|0.8.4|
 |libclc|17.0.3|18.1.6|
 |libcloudproviders|0.3.1|0.3.6|
 |libcmis|0.5.2|0.6.2|
@@ -1349,6 +1346,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libidn|1.41|1.42|
 |libidn+32|1.33|1.42|
 |libidn2|2.3.0|2.3.7|
+|libime|1.1.7|1.1.8|
 |libindi|2.0.5|2.0.7|
 |libinput|1.24.0|1.25.0|
 |libintl-perl|1.29|1.33|
@@ -1761,7 +1759,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |netcat|1.219|1.226|
 |netcdf|4.7.4|4.9.2|
 |netctl|1.23|1.25|
-|netease-cloud-music-gtk|2.3.0|1.0.13|Possible downgrade from the current version (2.3.0   1.0.13)|
+|netease-cloud-music-gtk|2.3.0|2.4.0|
 |nethack|3.6.6|3.6.7_Released|
 |netifaces|0.10.9|0.11.0|
 |netpbm|10.73.34|11.06.03|
@@ -2844,7 +2842,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |wildmidi+32|0.4.3|0.4.6|
 |wimlib|1.13.6|1.14.4|
 |windowmaker|0.95.9<br>+git20220812|0.96.0|Compound version number '0.95.9+git20220812'<br>Version number indicates a snapshot (+git) is used|
-|wine|9.9<br>+gecko2.47.4<br>+mono9.1.0|9.9|Compound version number '9.9+gecko2.47.4+mono9.1.0'|
+|wine|9.9<br>+gecko2.47.4<br>+mono9.1.0|9.10|Compound version number '9.9+gecko2.47.4+mono9.1.0'|
 |wireguard|1|0.0.20191219|Possible downgrade from the current version (1   0.0.20191219)|
 |wireless-tools|30.pre9|29|Possible downgrade from the current version (30.pre9   29)|
 |wmutils|20170223|1.7|Possible downgrade from the current version (20170223   1.7)|
