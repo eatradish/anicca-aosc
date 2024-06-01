@@ -1477,6 +1477,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libstoragemgmt|1.7.3|1.10.0|
 |libsysstat|0.4.4|1.0.0|
 |libtasn1|4.15.0|4.19.0|
+|libtasn1+32|4.15.0|4.19.0|
 |libteam|1.31|1.32|
 |libthai|0.1.28|0.1.29|
 |libticables2|1.3.4|1.3.5|
@@ -2806,6 +2807,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vorbis-tools|1.4.0|1.4.2|
 |vpnc|0.5.3r550|0.5.3|
 |vsftpd|3.0.3|3.0.5|
+|vte|0.68.0|0.76.2|
 |vulkan-extensionlayer|1.3.280.0|1.3.285|
 |vulkan-headers|1.3.280.0|1.3.286|
 |vulkan-headers+32|1.3.272|1.3.286|
