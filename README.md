@@ -768,7 +768,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |harfbuzz+32|2.6.7|8.5.0|
 |haruna|0.12.3|1.1.1|
 |harvid|0.8.3|0.9.1|
-|hashcat|6.2.6|24.4.28|
 |hatch-fancy-pypi-readme|22.8.0|24.1.0|
 |hatchling|1.21.1|1.12.0|Possible downgrade from the current version (1.21.1   1.12.0)|
 |haveged|1.9.13|1.9.18|
@@ -2310,7 +2309,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qmlkonsole|23.08.5|24.05.0|
 |qmltermwidget|0.2.0<br>+git20220109|0.6.0|Compound version number '0.2.0+git20220109'<br>Version number indicates a snapshot (+git) is used|
 |qmmp|1.6.5|2.1.8|
-|qownnotes|22.6.1|24.5.10|
+|qownnotes|22.6.1|24.6.0|
 |qqc2-desktop-style|5.115.0|6.0.90|
 |qrencode|4.0.2|4.1.1|
 |qscintilla|2.13.1|2.14.1|
