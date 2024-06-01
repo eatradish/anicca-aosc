@@ -748,6 +748,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gtksourceview-4|4.8.3|4.8.4|
 |gtkspellcheck|4.0.5|5.0.3|
 |gtranslator|42.0|46.1|
+|gucharmap|15.1.3|15.1.5|
 |guile|3.0.4|3.0.9|
 |gulp|4.0.0|5.0.0|
 |gupnp|1.2.4|1.6.6|
@@ -2867,6 +2868,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xapian-core|1.4.18|1.4.25|
 |xarchiver|0.5.4.15|0.5.4.23|
 |xcalibrate|0.9<br>+git20200330|0.9|Compound version number '0.9+git20200330'<br>Version number indicates a snapshot (+git) is used|
+|xcb-imdkit|1.0.8|1.0.9|
 |xcb-proto|1.16.0|1.17.0|
 |xcb-proto+32|1.14|1.17.0|
 |xcffib|0.7.0|1.5.0|
