@@ -348,7 +348,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |deluge|2.1.1|2.0.5|Possible downgrade from the current version (2.1.1   2.0.5)|
 |deno|1.31.3|1.44.0|
 |dephell-specifier|0.2.2|0.3.0|
-|deploykit-backend|0.2.0|0.2.1|
 |deploykit-gui|0.3.0|test-ci|Versions not comparable: `0.3.0` and `test-ci`|
 |devhelp|41.2|43.0|
 |dex|0.8.0|0.9.0|
@@ -2450,7 +2449,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sfml|2.5.1|2.6.1|
 |sg3-utils|1.47r915|1.48|
 |shaderc|2023.7|2024.1|
-|shadowsocks-rust|1.18.4|1.19.0|
+|shadowsocks-rust|1.18.4|1.19.2|
 |shapelib|1.5.0|1.6.0|
 |shared-color-targets|0.1.7|0_1_7|
 |shotcut|21.08.11|24.04.28|
