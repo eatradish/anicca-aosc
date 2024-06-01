@@ -270,6 +270,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cockpit-podman|63|88|
 |code-server|4.9.1|4.89.1|
 |codeine-trinity|14.1.0|14.1.2|
+|coin|4.0.0<br>+git20220828|4.0.0|Compound version number '4.0.0+git20220828'<br>Version number indicates a snapshot (+git) is used|
 |collectl|4.3.1|4.3.8|
 |colorama|0.4.3|0.4.6|
 |colord-gtk|0.3.0|0.3.1|
@@ -347,8 +348,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |deluge|2.1.1|2.0.5|Possible downgrade from the current version (2.1.1   2.0.5)|
 |deno|1.31.3|1.44.0|
 |dephell-specifier|0.2.2|0.3.0|
-|deploykit-backend|0.1.1|0.1.0|Possible downgrade from the current version (0.1.1   0.1.0)|
-|deploykit-gui|0.2.1|test-ci|Versions not comparable: `0.2.1` and `test-ci`|
+|deploykit-backend|0.2.0|0.1.0|Possible downgrade from the current version (0.2.0   0.1.0)|
+|deploykit-gui|0.3.0|test-ci|Versions not comparable: `0.3.0` and `test-ci`|
 |devhelp|41.2|43.0|
 |dex|0.8.0|0.9.0|
 |dfu-util|0.10|0.11|
@@ -1002,7 +1003,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kdsoap|1.9.0|2.2.0|
 |keditbookmarks|23.08.5|24.05.0|
 |keep-trinity|14.1.0|14.1.2|
-|keepass|2.46|2.56|
+|keepass|2.46|2.57|
 |keepass-plugin-agent|0.10.1|0.13.8|
 |keepass-plugin-favicon|1.9.0|9.7.4|
 |keepass-plugin-twofish|1.3|1.4|
@@ -1890,6 +1891,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |palapeli|23.08.5|24.05.0|
 |palp|2.1|2.21|
 |pam-python|1.0.7|1.0.8|
+|pam-wrapper|1.1.3|1.1.5|
 |pamixer|1.4|1.6|
 |pandas|2.1.2|2.2.2|
 |pandoc|3.1.13|3.2|
