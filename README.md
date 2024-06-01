@@ -348,7 +348,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |deluge|2.1.1|2.0.5|Possible downgrade from the current version (2.1.1   2.0.5)|
 |deno|1.31.3|1.44.0|
 |dephell-specifier|0.2.2|0.3.0|
-|deploykit-backend|0.2.0|0.1.0|Possible downgrade from the current version (0.2.0   0.1.0)|
+|deploykit-backend|0.2.0|0.2.1|
 |deploykit-gui|0.3.0|test-ci|Versions not comparable: `0.3.0` and `test-ci`|
 |devhelp|41.2|43.0|
 |dex|0.8.0|0.9.0|
@@ -2339,7 +2339,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rdflib|6.2.0|7.0.0|
 |rdiscount|2.2.0.2|2.2.7.3|
 |rdma-core|51.0|52.0|
-|re2|20240501|2024-05-01|Possible downgrade from the current version (20240501   2024-05-01)|
+|re2|20240501|2024-06-01|Possible downgrade from the current version (20240501   2024-06-01)|
 |re2c|1.3|3.1|
 |readline|8.2.1|8.2|Possible downgrade from the current version (8.2.1   8.2)|
 |readline+32|8.2.1|8.2|Possible downgrade from the current version (8.2.1   8.2)|
@@ -2351,7 +2351,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |regex|2019.02.21|2024.5.15|
 |reiser4progs|1.2.2|1.2.2.|
 |remmina|1.4.31|1.4.35|
-|renderdoc|1.16|1.32|
+|renderdoc|1.16|1.33|
 |reportlab|3.5.50|4.2.0|
 |reptyr|0.9.0|0.10.0|
 |requests|2.32.2|2.32.3|
