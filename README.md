@@ -748,7 +748,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gtksourceview-4|4.8.3|4.8.4|
 |gtkspellcheck|4.0.5|5.0.3|
 |gtranslator|42.0|46.1|
-|gucharmap|15.1.3|15.1.5|
 |guile|3.0.4|3.0.9|
 |gulp|4.0.0|5.0.0|
 |gupnp|1.2.4|1.6.6|
@@ -2793,7 +2792,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vice|3.5|3.8|
 |vicious|2.3.3|2.7.0|
 |vid.stab|0.98b|1.1.1|
-|vim|9.1.0446|9.1.0452|
+|vim|9.1.0446|9.1.0457|
 |virglrenderer|0.10.4|1.0.1|
 |virtualenv|20.25.0|20.26.2|
 |virtualgl+32|2.5.2|3.1.1|
@@ -2831,7 +2830,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |webrtc-audio-processing|0.3|1.3|
 |websocket-client|1.7.0|1.8.0|
 |websockets|12.0|1.4.4|Possible downgrade from the current version (12.0   1.4.4)|
-|weechat|4.2.2|4.3.0|
+|weechat|4.2.2|4.3.1|
 |weka|3.9.2|8.0.0|
 |werkzeug|1.0.1|3.0.3|
 |wesnoth|1.16.10|1.19.0|
