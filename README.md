@@ -1290,7 +1290,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libdispatch|5.6.1|5.9.2-RELEASE|
 |libdmapsharing|2.9.41|3_9_13|
 |libdnet|1.12|1.18.0|
-|libdrm+32|2.4.113|2.4.120|
+|libdrm|2.4.120|2.4.121|
+|libdrm+32|2.4.113|2.4.121|
 |libdvdcss+32|1.4.2|1.4.3|
 |libdvdnav+32|5.0.3|6.1.1|
 |libdvdread|6.1.1|6.1.3|
@@ -2731,7 +2732,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |txt2tags|3.7|3.9|
 |txtorcon|19.1.0|23.11.0|
 |typed-ast|1.4.3|1.5.5|
-|typing-extensions|4.7.1|4.12.0a2|
+|typing-extensions|4.7.1|4.12.1|
 |uboot-asahi|2023.07.02<br>+3|2024.04-1|Compound version number '2023.07.02+3'|
 |uboot-tools|2022.10|2024.04|
 |ubuntu-keyring|2021.03.26|2023.11.28.1|
