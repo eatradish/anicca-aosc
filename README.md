@@ -1515,8 +1515,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libvncserver|0.9.13|0.9.14|
 |libvoikko|4.3.1|4.3.2|
 |libvpl|2.11.0|2023.4.0|
-|libvpx|1.10.0|1.14.0|
-|libvpx+32|1.9.0|1.14.0|
+|libvpx|1.10.0|1.14.1|
+|libvpx+32|1.9.0|1.14.1|
 |libwacom|2.4.0|2.11.0|
 |libwebp|1.3.1|1.4.0|
 |libwebp+32|0.4.3|1.4.0|
@@ -2012,7 +2012,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-io-tty|1.13<br>+01|1.20|Compound version number '1.13+01'|
 |perl-ipc-run|20180523.0|20231003.0|
 |perl-ipc-system-simple|1.25|1.30|
-|perl-javascript-minifier-xs|0.11|0.15|
 |perl-json|2.90|4.10|
 |perl-json-parse|0.57|0.43|Possible downgrade from the current version (0.57   0.43)|
 |perl-json-xs|4.0<br>+00|4.03|Compound version number '4.0+00'|
@@ -2205,7 +2204,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pybind11|2.11.1|2.12.0|
 |pycairo|1.18.2|1.26.0|
 |pycodestyle|2.7.0|2.11.1|
-|pycountry|18.12.8|23.12.11|
+|pycountry|18.12.8|24.6.1|
 |pycparser|2.19|2.22|
 |pycryptodome|3.7.3|3.20.0|
 |pycryptodomex|3.9.9|3.20.0|
@@ -2758,7 +2757,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |unrpyc|1.1.6|2.0.1|
 |unshield|1.4.3|1.5.1|
 |upower|1.90.0|1.90.4|
-|upx|4.2.1|4.2.4|
 |urfkill|0.5.0<br>+git20210401|0.5.0|Compound version number '0.5.0+git20210401'<br>Version number indicates a snapshot (+git) is used|
 |uritemplate|3.0.1|4.1.1|
 |urlgrabber|3.10.2|4.1.0|
