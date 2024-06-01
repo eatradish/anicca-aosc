@@ -2012,6 +2012,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-io-tty|1.13<br>+01|1.20|Compound version number '1.13+01'|
 |perl-ipc-run|20180523.0|20231003.0|
 |perl-ipc-system-simple|1.25|1.30|
+|perl-javascript-minifier-xs|0.11|0.15|
 |perl-json|2.90|4.10|
 |perl-json-parse|0.57|0.43|Possible downgrade from the current version (0.57   0.43)|
 |perl-json-xs|4.0<br>+00|4.03|Compound version number '4.0+00'|
@@ -2757,6 +2758,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |unrpyc|1.1.6|2.0.1|
 |unshield|1.4.3|1.5.1|
 |upower|1.90.0|1.90.4|
+|upx|4.2.1|4.2.4|
 |urfkill|0.5.0<br>+git20210401|0.5.0|Compound version number '0.5.0+git20210401'<br>Version number indicates a snapshot (+git) is used|
 |uritemplate|3.0.1|4.1.1|
 |urlgrabber|3.10.2|4.1.0|
