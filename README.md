@@ -347,6 +347,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |deluge|2.1.1|2.0.5|Possible downgrade from the current version (2.1.1   2.0.5)|
 |deno|1.31.3|1.44.0|
 |dephell-specifier|0.2.2|0.3.0|
+|deploykit-gui|0.3.1|test-ci|Versions not comparable: `0.3.1` and `test-ci`|
 |devhelp|41.2|43.0|
 |dex|0.8.0|0.9.0|
 |dfu-util|0.10|0.11|
@@ -1277,7 +1278,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libchewing|0.5.1|0.8.4|
 |libclc|17.0.3|18.1.6|
 |libcloudproviders|0.3.1|0.3.6|
-|libcmis|0.5.2|0.6.2|
 |libconfig|1.7.2|1.7.3|
 |libcork|1.0.0~rc3|0.15.0|Possible downgrade from the current version (1.0.0~rc3   0.15.0)|
 |libcpuid|0.5.1|0.6.5|
@@ -1473,6 +1473,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libssh|0.8.9|0.10.6|
 |libssh+32|0.8.9|0.10.6|
 |libssh2|1.9.0|1.11.0|
+|libssh2+32|1.9.0|1.11.0|
 |libstoragemgmt|1.7.3|1.10.0|
 |libsysstat|0.4.4|1.0.0|
 |libtasn1|4.15.0|4.19.0|
@@ -1802,7 +1803,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nuget|4.9.4|6.6.1.2.bin|
 |numactl|2.0.14|2.0.18|
 |numix-icon-theme|20190917|24.04.22|Possible downgrade from the current version (20190917   24.04.22)|
-|numix-icon-theme-circle|20160927|24.04.22|Possible downgrade from the current version (20160927   24.04.22)|
 |nut|2.7.4|2.8.2|
 |nvchecker|1.5|2.15.1|
 |nvidia|550.54.14|555.42.02|
@@ -2177,7 +2177,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |print-manager|23.08.5|24.05.0|
 |prison5|5.115.0|6.0.90|
 |progress|0.16|0.17|
-|proj|9.2.1|9.4.0|
+|proj|9.2.1|9.4.1|
 |projectm|4.0.0|4.1.1|
 |prompt-toolkit|2.0.8|3.0.45|
 |proot|5.1.20171016|5.4.0|
