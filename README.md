@@ -225,6 +225,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cdrdao|1.2.4|1.2.5|
 |celluloid|0.18|0.26|
 |cerberus|1.3.2|1.3.5|
+|certifi|2024.2.2|2024.6.2|
 |cervisia|23.08.5|24.05.0|
 |cffi|1.15.0|1.16.0|
 |cfitsio|3.450|4.4.0|
@@ -634,7 +635,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gmime-3|3.2.7|3.2.14|
 |gnome-applets|3.44.0|3.52.0|
 |gnome-autoar|0.4.3|0.4.4|
-|gnome-backgrounds|42.0|46.0|
 |gnome-bluetooth|42.2|46.0|
 |gnome-boxes|42.3|46.1|
 |gnome-builder|42.1|46.2|
