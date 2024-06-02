@@ -353,6 +353,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dfu-util|0.10|0.11|
 |dhcp|4.4.3.P1|4.4.3-P1|
 |dhcpcd|9.2.0|10.0.8|
+|dia|0.97.3|1|
 |dialog|1.3<br>+20191110|1.3-20230209|Compound version number '1.3+20191110'|
 |dieharder|3.31.1|3.31.1_20110601-1|
 |diff-match-patch|20200713|20230430|
@@ -1254,6 +1255,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libassuan|2.5.3|2.5.7|
 |libatomic-ops|7.8.0|7.8.2|
 |libavif|0.11.1|1.0.4|
+|libblkio|1.3.0|1.5.0|
 |libblockdev|2.23|3.1.1|
 |libbloom|1.6|2.0|
 |libbluray+32|1.2.1|1.3.4|
