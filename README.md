@@ -482,7 +482,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fcitx5-kkc|5.1.3|5.1.4|
 |fcitx5-mozc|2.29.5160.102<br>+fcitx5<br>+git20230919|2.29.5374.102|Compound version number '2.29.5160.102+fcitx5+git20230919'<br>Version number indicates a snapshot (+git) is used|
 |fcitx5-pinyin-zhwiki|0.2.3<br>+dict20210823|0.2.5|Compound version number '0.2.3+dict20210823'|
-|fcitx5-rime|5.1.6|5.1.7|
+|fcitx5-rime|5.1.6|5.1.8|
 |fcitx5-skk|5.1.3|5.1.4|
 |feedbackd|0.2.1|0.3.0|
 |feedparser|6.0.8|6.0.11|
@@ -2820,6 +2820,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vulkan-tools+32|1.3.227|1.3.283|
 |vulkan-utility-libraries|1.3.280.0|1.3.285|
 |vulkan-validationlayers|1.3.280.0|1.3.285|
+|warpinator|1.6.3|1.8.3|
 |warzone2100|4.1.3|4.4.2|
 |watchman|4.9.0|2024.05.27.00|
 |wavpack|5.2.0|5.7.0|
