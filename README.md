@@ -372,6 +372,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |distrobox|1.4.2.1|1.7.2.1|
 |django|5.0.3|5.0.6|
 |dlib|19.20.0|19.24.4|
+|dmd|2.108.1|2.109.0|
 |dmenu|5.2|5.3|
 |dnsdiag|1.6.4|2.1.0|
 |dnspython|2.3.0|2.6.1|
@@ -419,6 +420,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dssim-c|1.3.2<br>+git20200922|3.3.1|Compound version number '1.3.2+git20200922'<br>Version number indicates a snapshot (+git) is used|
 |dsview|1.3.1|1.12|
 |dtc|1.6.0|1.7.0|
+|dub|1.37.0|1.38.0|
 |duktape|2.5.0|2.7.0|
 |dulwich|0.21.6|0.22.1|
 |dune|3.4.1|3.15.3|
@@ -635,6 +637,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gmime-3|3.2.7|3.2.14|
 |gnome-applets|3.44.0|3.52.0|
 |gnome-autoar|0.4.3|0.4.4|
+|gnome-backgrounds|42.0|46.0|
 |gnome-bluetooth|42.2|46.0|
 |gnome-boxes|42.3|46.1|
 |gnome-builder|42.1|46.2|
@@ -2817,7 +2820,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vulkan-tools+32|1.3.227|1.3.283|
 |vulkan-utility-libraries|1.3.280.0|1.3.285|
 |vulkan-validationlayers|1.3.280.0|1.3.285|
-|warpinator|1.6.3|1.8.3|
 |warzone2100|4.1.3|4.4.2|
 |watchman|4.9.0|2024.05.27.00|
 |wavpack|5.2.0|5.7.0|
