@@ -1841,10 +1841,10 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |opencryptoki|3.21.0|3.23.0|
 |opencsg|1.5.1|1.6.0|
 |openexr|3.1.8|3.2.126|
-|openfortivpn|1.18.0|1.22.0|
+|openfortivpn|1.18.0|1.22.1|
 |openh264|2.4.0<br>+gmp114<br>+2|2.4.1|Compound version number '2.4.0+gmp114+2'|
 |openimagedenoise|1.4.3|2.2.2|
-|openimageio|2.4.17.0|2.5.11.0|
+|openimageio|2.4.17.0|2.5.12.0|
 |openixcard|1.0.1|1.1.8|
 |openjdk-11|11.0.20.1<br>+ga|11.0.23+9|Compound version number '11.0.20.1+ga'|
 |openjdk-8|8u382<br>+ga|8u412-b08|Compound version number '8u382+ga'|
@@ -2810,7 +2810,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vorbis-tools|1.4.0|1.4.2|
 |vpnc|0.5.3r550|0.5.3|
 |vsftpd|3.0.3|3.0.5|
-|vte|0.68.0|0.76.2|
+|vte|0.68.0|0.76.3|
 |vulkan-extensionlayer|1.3.280.0|1.3.285|
 |vulkan-headers|1.3.280.0|1.3.286|
 |vulkan-headers+32|1.3.272|1.3.286|
