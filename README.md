@@ -1027,7 +1027,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kguiaddons|5.115.0|6.0.90|
 |khangman|23.08.5|24.05.0|
 |khealthcertificate|22.11|24.05.0|
-|khelpcenter|23.08.5|24.05.0|
 |kholidays|5.115.0|6.0.90|
 |khotkeys|5.27.11|6.0.5|
 |khtml|5.115.0|6.0.90|
@@ -1692,6 +1691,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mitmproxy|7.0.4|10.3.0|
 |mjpegtools|2.1.0|2.2.1|
 |mjpegtools+32|2.1.0|2.2.1|
+|mkvtoolnix|84.0|85.0|
 |mldonkey|3.1.7<br>+2<br>+git20210505|3-1-7-2|Compound version number '3.1.7+2+git20210505'<br>Version number indicates a snapshot (+git) is used|
 |mlt|7.22.0|7.24.0|
 |mlterm|3.8.9|3.9.3|
