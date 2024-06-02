@@ -347,7 +347,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |deluge|2.1.1|2.0.5|Possible downgrade from the current version (2.1.1   2.0.5)|
 |deno|1.31.3|1.44.0|
 |dephell-specifier|0.2.2|0.3.0|
-|deploykit-gui|0.3.0|test-ci|Versions not comparable: `0.3.0` and `test-ci`|
+|deploykit-gui|0.3.1|test-ci|Versions not comparable: `0.3.1` and `test-ci`|
 |devhelp|41.2|43.0|
 |dex|0.8.0|0.9.0|
 |dfu-util|0.10|0.11|
@@ -614,6 +614,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gitg|41|44|
 |gitoxide|0.35.0|0.36.0|
 |gitpython|3.1.35|3.1.43|
+|gitui|0.26.2|0.26.3|
 |gjs|1.74.0|1.80.2|
 |gksu|2.0.2|2.0.12|
 |glances|4.0.5|4.0.7|
@@ -1579,6 +1580,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lmdb|0.9.28|0.9.33|
 |lmms|1.2.2<br>+git20240508|1.2.2|Compound version number '1.2.2+git20240508'<br>Version number indicates a snapshot (+git) is used|
 |log4cpp|1.1.3|1.1.4|
+|logrotate|3.21.0|3.22.0|
 |loguru|0.5.3|0.7.2|
 |lokalize|23.08.5|24.05.0|
 |loudmouth|1.5.3|1.5.4|
