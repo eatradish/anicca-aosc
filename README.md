@@ -851,7 +851,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |intel-media-driver|24.1.5|24.2.4|
 |inxi|3.3.31<br>+2|3.3.31-2|Compound version number '3.3.31+2'|
 |iodine|0.7.0|0.8.0|
-|iosevka-fonts|28.0.5|30.1.1|
+|iosevka-fonts|28.0.5|30.1.2|
 |iozone|3.492|3.506|
 |ipcalc|0.41|1.0.3|
 |iperf3|3.16|3.17.1|
@@ -2397,7 +2397,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rubberband|1.9.2|3.3.0|
 |ruby|3.2.2|3.3.2|
 |ruby-bundler|2.1.4|2.5.11|
-|ruby-ffi|1.10.0|1.16.3|
+|ruby-ffi|1.10.0|1.17.0|
 |ruby-gettext|3.2.9|3.4.9|
 |ruby-locale|2.1.3|2.1.4|
 |ruby-native-package-installer|1.0.9|1.1.9|
