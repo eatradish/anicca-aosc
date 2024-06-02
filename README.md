@@ -1204,7 +1204,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kubo|0.26.0|0.10.0|Possible downgrade from the current version (0.26.0   0.10.0)|
 |kubrick|23.08.5|24.05.0|
 |kunitconversion|5.115.0|6.0.90|
-|kvantum|1.0.10|1.1.1|
+|kvantum|1.0.10|1.1.2|
 |kvirc|5.0.0|5.2.4|
 |kvkbd-trinity|14.1.0|14.1.2|
 |kvpnc-trinity|14.1.0|14.1.2|
@@ -1347,7 +1347,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libidn+32|1.33|1.42|
 |libidn2|2.3.0|2.3.7|
 |libime|1.1.7|1.1.8|
-|libindi|2.0.5|2.0.7|
+|libindi|2.0.5|2.0.8|
 |libinput|1.24.0|1.25.0|
 |libintl-perl|1.29|1.33|
 |libipset|1.1.1<br>+git20150311|1.1.1|Compound version number '1.1.1+git20150311'<br>Version number indicates a snapshot (+git) is used|
