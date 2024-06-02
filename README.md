@@ -592,6 +592,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |geos|3.7.3|3.12.1|
 |getdns|1.6.0|1.7.3|
 |gexiv2|0.14.0|0.14.2|
+|gfm|1.07|1.08|
 |ghc|9.4.8|9.10.1-release|
 |ghex|42.3|46.0|
 |ghidra|11.0|11.0.3_build|
