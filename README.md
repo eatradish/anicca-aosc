@@ -1784,7 +1784,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nginx|1.25.3|1.27.0|
 |ngspice|35|42|
 |nmap|7.93|7.95|
-|nodejs|20.14.0|21.7.1|
 |noip|2.1.9|3.0.0|
 |noise-suppression-for-voice|0.91|1.10|
 |nomino|1.3.1|1.3.4|
