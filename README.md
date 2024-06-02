@@ -1721,6 +1721,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mstflint|4.28.0<br>+1|4.28.0-1|Compound version number '4.28.0+1'|
 |mtd-utils|2.1.5|2.2.0|
 |mtdev|1.1.6|1.1.7|
+|mtools|4.0.43|4.0.44|
 |muffin|5.8.0|6.0.1|
 |mugshot|0.4.1|0.4.3|
 |multipath-tools|0.9.3|0.9.8|
