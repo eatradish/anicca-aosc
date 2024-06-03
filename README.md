@@ -70,7 +70,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |apsw|3.30.1|3.46.0.0|
 |apt|2.6.1|2.7.14|
 |aqbanking|6.2.2|6.5.4|
-|arandr|0.1.10|0.1.11|
 |aranym|1.1.0|1_1_0|
 |arc-kde|20180614|20220908|
 |arch-install-scripts|28<br>+mirrorlist20231113<br>+pacman6.0.1|28|Compound version number '28+mirrorlist20231113+pacman6.0.1'|
@@ -680,6 +679,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-weather|42.0|46.0|
 |gnote|42.1|46.0|
 |gnu-efi|3.0.14|3.0.18|
+|gnuplot|6.0.0|6.0.1|
 |gnustep-base|1.28.0|1_30_0|
 |gnustep-make|2.9.0|2_9_2|
 |gnutls|3.8.4|3.8.5|
@@ -1118,6 +1118,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kolourpaint|23.08.5|24.05.0|
 |kompare|23.08.5|24.05.0|
 |kompose-trinity|14.1.0|14.1.2|
+|kongress|23.08.5|24.05.0|
 |konqueror|23.08.5|24.05.0|
 |konquest|23.08.5|24.05.0|
 |konsole|23.08.5|24.05.0|
@@ -1585,7 +1586,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lpsolve|5.5.2.5|5.6.20|
 |lrs|071a|073|
 |lrzsz|0.12.21|0.12.21.orig|Possible downgrade from the current version (0.12.21   0.12.21.orig)|
-|lsd|1.0.0|1.1.2|
 |lshw|02.19.2|02.20|
 |lskat|23.08.5|24.05.0|
 |lsof|4.98.0|4.99.3|
@@ -1703,7 +1703,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |more-itertools|4.3.0|10.2.0|
 |most|5.0.0a|5.2.0|
 |mouseemu|0.16|0.16.orig|Possible downgrade from the current version (0.16   0.16.orig)|
-|movit|1.6.3|1.7.1|
 |mp3gain|1.6.2|1_6_2|
 |mp4v2|4.1.3|2.1.3|Possible downgrade from the current version (4.1.3   2.1.3)|
 |mp4v2+32|2.0.0|2.1.3|
@@ -2324,7 +2323,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |quickjs|2024.01.13|2024-01-13|
 |qwt5|6.1.5|6.3.0|
 |qzdl|3.2.2.3<br>+git20210516|3.2.2.3|Compound version number '3.2.2.3+git20210516'<br>Version number indicates a snapshot (+git) is used|
-|radare2|5.9.0|5.9.2|
 |ragel|6.10|7.0.4|
 |random2|1.0.1|1.0.2|
 |rapidfuzz|3.2.0|3.1.1|Possible downgrade from the current version (3.2.0   3.1.1)|
@@ -2468,6 +2466,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |simplescreenrecorder|0.4.3|0.4.4|
 |sing-box|1.8.13|1.9.0|
 |singular|4.1.1|2023.02.09|
+|sip|6.3.1|6.8.3|
 |skanlite|23.08.5|24.05.0|
 |skanpage|23.08.5|24.05.0|
 |skktools|1.3.4|1_3_4|
@@ -2537,7 +2536,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sqlite+32|3.32.3|3.46.0|
 |sqlite-fdw|2.1.0|2.4.0|
 |sqlitebrowser|3.12.1|83649a3-3357|
-|sqlmap|1.8.2|1.8.5|
 |sqlparse|0.4.1|0.5.0|
 |squashfs-tools|4.5|4.6.1|
 |squashfuse|0.1.105|0.5.2|
