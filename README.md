@@ -1281,6 +1281,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libdnet|1.12|1.18.0|
 |libdrm|2.4.120|2.4.121|
 |libdrm+32|2.4.113|2.4.121|
+|libdvdcss+32|1.4.2|1.4.3|
 |libdvdnav+32|5.0.3|6.1.1|
 |libdvdread|6.1.1|6.1.3|
 |libdvdread+32|5.0.3|6.1.3|
@@ -2503,6 +2504,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |speex+32|1.2.0|1.2.1|
 |spglib|1.16.2|2.4.0|
 |sphinx|7.0.1|7.3.7|
+|sphinx-press-theme|0.8.0|0.9.1|
 |sphinx-rtd-theme|1.0.0|2.0.0|
 |sphinx-tabs|3.4.1|3.4.5|
 |sphinxbase|5prealpha|0.8|Possible downgrade from the current version (5prealpha   0.8)|
