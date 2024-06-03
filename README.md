@@ -94,6 +94,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |aspnetcore-targeting-pack-6.0|6.0.30|6.0.31|
 |aspnetcore-targeting-pack-8.0|8.0.5|8.0.6|
 |assimp|5.4.0|5.4.1|
+|ast-grep|0.22.4|0.22.5|
 |astroid|2.12.2|3.2.2|
 |astrometry.net|0.94|0.95|
 |astyle|3.4.14|3.4.16|
@@ -991,7 +992,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kdevelop-pg-qt|2.2.1|2.2.2|
 |kdewebkit|5.115.0|6.0.90|
 |kdf|23.08.5|24.05.0|
-|kdiagram|2.8.0|3.0.1|
 |kdialog|23.08.5|24.05.0|
 |kdiamond|23.08.5|24.05.0|
 |kdiff3-trinity|14.1.0|14.1.2|
@@ -1278,6 +1278,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libchewing|0.5.1|0.8.4|
 |libclc|17.0.3|18.1.6|
 |libcloudproviders|0.3.1|0.3.6|
+|libcmis|0.5.2|0.6.2|
 |libconfig|1.7.2|1.7.3|
 |libcork|1.0.0~rc3|0.15.0|Possible downgrade from the current version (1.0.0~rc3   0.15.0)|
 |libcpuid|0.5.1|0.6.5|
@@ -1803,6 +1804,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nuget|4.9.4|6.6.1.2.bin|
 |numactl|2.0.14|2.0.18|
 |numix-icon-theme|20190917|24.04.22|Possible downgrade from the current version (20190917   24.04.22)|
+|numix-icon-theme-circle|20160927|24.04.22|Possible downgrade from the current version (20160927   24.04.22)|
 |nut|2.7.4|2.8.2|
 |nvchecker|1.5|2.15.1|
 |nvidia|550.54.14|555.42.02|
@@ -1920,7 +1922,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pciutils|3.9.0|3.12.0|
 |pcl|1.13.1|1.12|Possible downgrade from the current version (1.13.1   1.12)|
 |pcp|6.0.1|6.2.2|
-|pcre|8.44|8.45|
 |pcre+32|8.44|8.45|
 |pcre-static|8.44|8.45|
 |pcsc-perl|1.4.14|1.4.16|
@@ -2153,8 +2154,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |polkit-qt-1|0.114.0|0.200.0|
 |polkit-tqt|14.1.0|14.1.2|
 |polymake|3.3|4.12|
-|poppler|22.08.0|24.05.0|
-|poppler+32|0.66.0|24.05.0|
+|poppler|22.08.0|24.06.0|
+|poppler+32|0.66.0|24.06.0|
 |poppler-data|0.4.9|0.4.12|
 |popt|1.18|1.19|
 |popt+32|1.16|1.19|
@@ -2897,7 +2898,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xjadeo|0.8.13|0.8.14|
 |xkeyboard-config|2.40|2.41|
 |xl2tpd|1.3.15|1.3.18|
-|xmlrpc-c|1.54.06|1.59.03|
 |xmlsec|1.2.36|1.3.4|
 |xournalpp|1.1.3|1.2.3|
 |xpra|5.0.8|6.0.1|
