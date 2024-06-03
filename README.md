@@ -335,7 +335,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |deluge|2.1.1|2.0.5|Possible downgrade from the current version (2.1.1   2.0.5)|
 |deno|1.31.3|1.44.0|
 |dephell-specifier|0.2.2|0.3.0|
-|deploykit-gui|0.3.1|test-ci|Versions not comparable: `0.3.1` and `test-ci`|
+|deploykit-gui|0.3.4|test-ci|Versions not comparable: `0.3.4` and `test-ci`|
 |devhelp|41.2|43.0|
 |dex|0.8.0|0.9.0|
 |dfu-util|0.10|0.11|
@@ -1018,6 +1018,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |khotkeys|5.27.11|6.0.5|
 |khtml|5.115.0|6.0.90|
 |ki18n|5.115.0|6.0.90|
+|kicad|8.0.2|8.0.3|
 |kiconthemes|5.115.0|6.0.90|
 |kid3|3.8.3|3.9.5|
 |kidentitymanagement|23.08.5|24.05.0|
@@ -2272,6 +2273,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |python-poppler-qt5|21.1.0<br>+git20210304|21.3.0|Compound version number '21.1.0+git20210304'<br>Version number indicates a snapshot (+git) is used|
 |python-tabulate|0.8.3|0.9.0|
 |python-xapp|2.0.1|2.4.1|
+|python-xmp-toolkit|2.0.1|2.0.2|
 |pythondialog|3.3.0|3.5.3|
 |pytools|2019.1|2024.1.4|
 |pyudev|0.24.1|0.24.3|
