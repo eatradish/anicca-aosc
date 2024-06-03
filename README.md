@@ -160,7 +160,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |blinker|1.4|1.8.2|
 |bluedevil|5.27.11|6.0.5|
 |blueman|2.4.1|2.4.2|
-|bluez|5.75|5.76|
 |bluez-alsa|4.1.1|4.2.0|
 |bluez-qt|5.115.0|6.0.90|
 |boinc|7.24.3|8.0/8.0.2|
@@ -313,7 +312,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |css-parser|1.0.6|1.0.10|
 |cssselect2|0.6.0|0.7.0|
 |cssutils|1.0.2|2.11.0|
-|ctags|20191203|6.1.20240526.0|Possible downgrade from the current version (20191203   6.1.20240526.0)|
+|ctags|20191203|6.1.20240602.0|Possible downgrade from the current version (20191203   6.1.20240602.0)|
 |cuda|12.5.0<br>+555.42.02|12.5.0|Compound version number '12.5.0+555.42.02'<br>Possible downgrade from the current version (12.5.0+555.42.02   12.5.0)|
 |cunit|2.1<br>+3|2.1-3|Compound version number '2.1+3'|
 |cups|2.4.7|2.4.8|
@@ -681,7 +680,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-weather|42.0|46.0|
 |gnote|42.1|46.0|
 |gnu-efi|3.0.14|3.0.18|
-|gnuplot|6.0.0|6.0.1|
 |gnustep-base|1.28.0|1_30_0|
 |gnustep-make|2.9.0|2_9_2|
 |gnutls|3.8.4|3.8.5|
@@ -694,7 +692,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |google-api-python-client|1.7.11|2.131.0|
 |google-auth|1.6.3|2.29.0|
 |google-auth-httplib2|0.0.4|0.2.0|
-|google-chrome|125.0.6422.60|125.0.6422.141|
 |gpac|2.2.1|2.4.0|
 |gperftools|2.13|2.15|
 |gpodder|3.10.17|3.11.4|
@@ -1121,7 +1118,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kolourpaint|23.08.5|24.05.0|
 |kompare|23.08.5|24.05.0|
 |kompose-trinity|14.1.0|14.1.2|
-|kongress|23.08.5|24.05.0|
 |konqueror|23.08.5|24.05.0|
 |konquest|23.08.5|24.05.0|
 |konsole|23.08.5|24.05.0|
@@ -2377,6 +2373,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rocm-cmake|6.0.2|6.1.1|
 |rocm-llvm|6.0.2|6.1.1|
 |rocm-smi-lib|6.0.2|6.1.1|
+|rocminfo|6.0.2|6.1.1|
 |rocr-runtime|6.0.2|6.1.1|
 |rocs|23.08.5|24.05.0|
 |roct-thunk-interface|6.0.0|6.1.1|
@@ -2471,7 +2468,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |simplescreenrecorder|0.4.3|0.4.4|
 |sing-box|1.8.13|1.9.0|
 |singular|4.1.1|2023.02.09|
-|sip|6.3.1|6.8.3|
 |skanlite|23.08.5|24.05.0|
 |skanpage|23.08.5|24.05.0|
 |skktools|1.3.4|1_3_4|
@@ -2795,7 +2791,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vice|3.5|3.8|
 |vicious|2.3.3|2.7.0|
 |vid.stab|0.98b|1.1.1|
-|vim|9.1.0446|9.1.0457|
+|vim|9.1.0446|9.1.0461|
 |virglrenderer|0.10.4|1.0.1|
 |virtualenv|20.25.0|20.26.2|
 |virtualgl+32|2.5.2|3.1.1|
@@ -2825,7 +2821,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |wavpack|5.2.0|5.7.0|
 |wavpack+32|5.2.0|5.7.0|
 |wayland|1.22.0|1.23.0|
-|wayland-utils|1.1.0|1.2.0|
 |wcslib|6.4|8.3|
 |wcwidth|0.1.8|0.2.13|
 |wdm|1.28|1.29|
