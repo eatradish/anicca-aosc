@@ -1237,7 +1237,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lcms2+32|2.9|2.16|
 |ldb|2.6.1|2.9.0|
 |leatherman|1.9.1|1.12.13|
-|level-zero|1.17.0|1.17.6|
 |levenshtein|0.12.0|0.25.1|
 |lib3mf|2.2.0|2.3.1|
 |libaacs|0.11.0|0.11.1|
@@ -2295,7 +2294,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pythondialog|3.3.0|3.5.3|
 |pytools|2019.1|2024.1.4|
 |pyudev|0.24.1|0.24.3|
-|pyusb|1.0.2|1.2.1|
 |pyutil|3.3.0|3.3.6|
 |pywbem|0.13.0|1.7.2|
 |pyx|0.14.1|0.16|
@@ -2458,7 +2456,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |shadowsocks-rust|1.18.4|1.19.2|
 |shapelib|1.5.0|1.6.0|
 |shared-color-targets|0.1.7|0_1_7|
-|shotcut|21.08.11|24.04.28|
+|shotcut|21.08.11|24.06.02|
 |shotwell|0.31.4|0.32.6|
 |showmethekey|1.12.0|1.13.1|
 |shutter|0.94|0.99.2|
