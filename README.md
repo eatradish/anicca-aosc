@@ -542,7 +542,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |freexl|1.0.5|2.0.0|
 |frescobaldi|3.2|3.3.0|
 |fribidi+32|1.0.10|1.0.14|
-|frp|0.58.0|0.58.1|
 |functools32|3.2.3<br>+2|3.2.3-2|Compound version number '3.2.3+2'|
 |fuse-exfat|1.3.0|1.4.0|
 |fuse-python|0.3.1|1.0.7|
@@ -1703,6 +1702,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |more-itertools|4.3.0|10.2.0|
 |most|5.0.0a|5.2.0|
 |mouseemu|0.16|0.16.orig|Possible downgrade from the current version (0.16   0.16.orig)|
+|movit|1.6.3|1.7.1|
 |mp3gain|1.6.2|1_6_2|
 |mp4v2|4.1.3|2.1.3|Possible downgrade from the current version (4.1.3   2.1.3)|
 |mp4v2+32|2.0.0|2.1.3|
