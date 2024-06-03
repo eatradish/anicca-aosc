@@ -425,6 +425,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |elvis|2.2<br>+1pre3|2.2_1-pre2|Compound version number '2.2+1pre3'<br>Possible downgrade from the current version (2.2+1pre3   2.2_1-pre2)|
 |emerald|0.8.12.4|0.8.18|
 |enchant-2|2.3.1|2.8.0|
+|endeavour|42.0|43.0|
 |entrypoints|0.3|0.4|
 |eog|42.3|45.3|
 |eog-plugins|42.1|44.0|
@@ -474,6 +475,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |feeluown-bilibili|0.3.3|0.4.0|
 |feeluown-netease|1.0.1|1.0.3|
 |feeluown-qqmusic|1.0.2|1.0.5|
+|ffcall|2.2|2.4|
 |ffmpeg|4.4.4|7.0.1|
 |ffmpeg+32|4.2.5|7.0.1|
 |ffmpegthumbs|23.08.5|24.05.0|
@@ -663,6 +665,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-usage|3.38.1|46.0|
 |gnome-user-docs|42.0|46.1|
 |gnome-user-share|3.34.0|43.0|
+|gnome-video-effects|0.4.3|0.6.0|
 |gnome-weather|42.0|46.0|
 |gnote|42.1|46.0|
 |gnu-efi|3.0.14|3.0.18|
@@ -1994,6 +1997,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-http-date|6.02|6.06|
 |perl-http-message|6.11|6.46|
 |perl-image-exiftool|12.50|12.85|
+|perl-io-socket-inet6|2.72|2.73|
 |perl-io-socket-ssl|2.062|2.085|
 |perl-io-tee|0.65|0.66|
 |perl-io-tty|1.13<br>+01|1.20|Compound version number '1.13+01'|
@@ -2645,6 +2649,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |terminaltables|3.1.0|3.1.10|
 |terminator|2.1.1|2.1.4|
 |tesseract|5.3.4|5.2.1|Possible downgrade from the current version (5.3.4   5.2.1)|
+|testdisk|7.0|7.2|
 |tevent|0.13.0|0.16.1|
 |texlive|20220321|2024|Possible downgrade from the current version (20220321   2024)|
 |texmaker|5.1.2|5.1.4|
