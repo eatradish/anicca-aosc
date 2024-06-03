@@ -139,7 +139,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |bash|5.2.26|5.2.21|Possible downgrade from the current version (5.2.26   5.2.21)|
 |basket-trinity|14.1.0|14.1.2|
 |bcachefs-tools|1.6.4|1.7.0|
-|bcftools|1.10.2|1.20|
 |bcrypt|3.1.7|4.1.3|
 |beaker|1.11.0|1.13.0|
 |beancount|2.2.1|2.3.6|
@@ -157,7 +156,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |bluez-alsa|4.1.1|4.2.0|
 |bluez-qt|5.115.0|6.0.90|
 |boinc|7.24.3|8.0/8.0.2|
-|bolt|0.9.7|0.9.8|
 |bomber|23.08.5|24.05.0|
 |boost|1.83.0|1.85.0|
 |boost+32|1.63.0|1.85.0|
@@ -175,9 +173,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |breeze-plymouth|5.27.11|6.0.5|
 |brotli|1.0.9|1.1.0|
 |brotlipy|0.7.0|1.0.9.2|
-|bubblewrap|0.6.2|0.9.0|
 |budgie-screensaver|5.0.2|5.1.0|
-|bulky|2.9|3.2|
 |bullet|2.88|3.25|
 |bup|0.30|0.33.3|
 |byobu|5.133|6.12|
@@ -599,6 +595,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |git|2.45.1|2.45.2|
 |git-archive-all|1.20.0|1.23.1|
 |git-branchless|0.7.1|0.9.0|
+|git-cliff|2.2.2|2.3.0|
 |git-lfs|3.5.0|3.5.1|
 |gitdb|4.0.10|4.0.11|
 |gitg|41|44|
@@ -756,7 +753,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hardinfo|0.5.1<br>+git20220724|0.5.1|Compound version number '0.5.1+git20220724'<br>Version number indicates a snapshot (+git) is used|
 |harfbuzz|8.4.0|8.5.0|
 |harfbuzz+32|2.6.7|8.5.0|
-|haruna|0.12.3|1.1.1|
+|haruna|0.12.3|1.1.2|
 |harvid|0.8.3|0.9.1|
 |hatch-fancy-pypi-readme|22.8.0|24.1.0|
 |hatchling|1.21.1|1.12.0|Possible downgrade from the current version (1.21.1   1.12.0)|
@@ -2275,7 +2272,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |python-poppler-qt5|21.1.0<br>+git20210304|21.3.0|Compound version number '21.1.0+git20210304'<br>Version number indicates a snapshot (+git) is used|
 |python-tabulate|0.8.3|0.9.0|
 |python-xapp|2.0.1|2.4.1|
-|python-xmp-toolkit|2.0.1|2.0.2|
 |pythondialog|3.3.0|3.5.3|
 |pytools|2019.1|2024.1.4|
 |pyudev|0.24.1|0.24.3|
