@@ -162,7 +162,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |borgbackup|1.1.17|1.2.8|
 |botan|1.10.17|3.4.0|
 |botan-2|2.12.1|3.4.0|
-|boto3|1.20.26|1.34.117|
+|boto3|1.20.26|1.34.118|
 |bottle|0.12.18|0.12.25|
 |bottles|2022.2.28<br>+trento<br>+4|51.11|Compound version number '2022.2.28+trento+4'<br>Possible downgrade from the current version (2022.2.28+trento+4   51.11)|
 |bovo|23.08.5|24.05.0|
@@ -251,6 +251,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cloud-init|24.1.4<br>+git20240513|24.1.6|Compound version number '24.1.4+git20240513'<br>Version number indicates a snapshot (+git) is used|
 |clucene|2.3.3.4<br>+git20130812|2.3.3.4|Compound version number '2.3.3.4+git20130812'<br>Version number indicates a snapshot (+git) is used|
 |clzip|1.10|1.14|
+|cmake|3.29.3|3.29.4|
 |cmark|0.30.3|0.31.0|
 |cmus|2.9.1|2.10.0|
 |cock|0.6.0|0.11.0|
@@ -2546,7 +2547,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |stopit|0<br>+git20190827|1.1.2|Compound version number '0+git20190827'<br>Version number indicates a snapshot (+git) is used|
 |stow|2.3.1|2.4.0|
 |strace|6.5|6.9|
-|streamlink|6.5.1|6.7.4|
 |strongswan|5.9.4|5.9.14|
 |structlog|19.1.0|24.2.0|
 |stubby|0.3.0|0.4.3|
