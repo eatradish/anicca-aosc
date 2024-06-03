@@ -992,6 +992,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kdevelop-pg-qt|2.2.1|2.2.2|
 |kdewebkit|5.115.0|6.0.90|
 |kdf|23.08.5|24.05.0|
+|kdiagram|2.8.0|3.0.1|
 |kdialog|23.08.5|24.05.0|
 |kdiamond|23.08.5|24.05.0|
 |kdiff3-trinity|14.1.0|14.1.2|
@@ -1922,6 +1923,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pciutils|3.9.0|3.12.0|
 |pcl|1.13.1|1.12|Possible downgrade from the current version (1.13.1   1.12)|
 |pcp|6.0.1|6.2.2|
+|pcre|8.44|8.45|
 |pcre+32|8.44|8.45|
 |pcre-static|8.44|8.45|
 |pcsc-perl|1.4.14|1.4.16|
@@ -2898,6 +2900,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xjadeo|0.8.13|0.8.14|
 |xkeyboard-config|2.40|2.41|
 |xl2tpd|1.3.15|1.3.18|
+|xmlrpc-c|1.54.06|1.59.03|
 |xmlsec|1.2.36|1.3.4|
 |xournalpp|1.1.3|1.2.3|
 |xpra|5.0.8|6.0.1|
