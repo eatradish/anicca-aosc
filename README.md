@@ -335,7 +335,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |deluge|2.1.1|2.0.5|Possible downgrade from the current version (2.1.1   2.0.5)|
 |deno|1.31.3|1.44.0|
 |dephell-specifier|0.2.2|0.3.0|
-|deploykit-gui|0.3.4|test-ci|Versions not comparable: `0.3.4` and `test-ci`|
+|deploykit-backend|0.2.4|0.2.3|Possible downgrade from the current version (0.2.4   0.2.3)|
+|deploykit-gui|0.3.5|test-ci|Versions not comparable: `0.3.5` and `test-ci`|
 |devhelp|41.2|43.0|
 |dex|0.8.0|0.9.0|
 |dfu-util|0.10|0.11|
@@ -536,6 +537,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fuse-python|0.3.1|1.0.7|
 |future|0.17.0|1.0.0|
 |futures|3.2.0|3.4.0|
+|fvwm|2.6.9|2.7.0|
 |fzf|0.46.1|0.52.1|
 |gajim|1.4.0|1.8.4|
 |game-music-emu+32|0.6.0|0.6.3|
@@ -2326,6 +2328,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rdiscount|2.2.0.2|2.2.7.3|
 |rdma-core|51.0|52.0|
 |re2|20240501|2024-06-01|Possible downgrade from the current version (20240501   2024-06-01)|
+|re2c|1.3|3.1|
 |readline|8.2.1|8.2|Possible downgrade from the current version (8.2.1   8.2)|
 |readline+32|8.2.1|8.2|Possible downgrade from the current version (8.2.1   8.2)|
 |realmd|0.17.1|0.16.3|Possible downgrade from the current version (0.17.1   0.16.3)|
