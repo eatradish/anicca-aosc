@@ -2094,6 +2094,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pixman+32|0.40.0|0.43.4|
 |pkcs11-helper|1.29.0|1.30.0|
 |pkginfo|1.5.0.1|1.11.0|
+|pktstat|20160317|1.8.5|Possible downgrade from the current version (20160317   1.8.5)|
 |plank|0.11.89<br>+git20210222|0.11.89|Compound version number '0.11.89+git20210222'<br>Version number indicates a snapshot (+git) is used|
 |plasma-angelfish|22.06|24.05.0|
 |plasma-browser-integration|5.27.11|6.0.5|
@@ -2202,7 +2203,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pycups|1.9.74|2.0.4|
 |pycurl|7.43.0.6|7.45.3|
 |pydantic|2.6.0|2.7.2|
-|pydantic-core|2.16.1|2.18.3|
+|pydantic-core|2.16.1|2.18.4|
 |pydot|1.4.1|2.0.0|
 |pyelftools|0.30|0.31|
 |pyenchant|2.0.0|3.2.2|
