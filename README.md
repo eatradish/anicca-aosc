@@ -312,7 +312,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cymem|2.0.5|2.0.8|
 |cython-0.29|0.29.36|3.0.10|
 |czmq|4.2.0|4.2.1|
-|damo|1.0.9|2.3.6|
+|damo|1.0.9|2.3.7|
 |dante|1.4.2|1.4.3|
 |dar|2.7.13|2.7.14|
 |darkradiant|3.8.0|3.9.0|
@@ -1281,7 +1281,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libdnet|1.12|1.18.0|
 |libdrm|2.4.120|2.4.121|
 |libdrm+32|2.4.113|2.4.121|
-|libdvdcss+32|1.4.2|1.4.3|
 |libdvdnav+32|5.0.3|6.1.1|
 |libdvdread|6.1.1|6.1.3|
 |libdvdread+32|5.0.3|6.1.3|
@@ -2203,7 +2202,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pycuda|2022.2.2|2024.1|
 |pycups|1.9.74|2.0.4|
 |pycurl|7.43.0.6|7.45.3|
-|pydantic|2.6.0|2.7.2|
+|pydantic|2.6.0|2.7.3|
 |pydantic-core|2.16.1|2.18.4|
 |pydot|1.4.1|2.0.0|
 |pyelftools|0.30|0.31|
@@ -2504,7 +2503,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |speex+32|1.2.0|1.2.1|
 |spglib|1.16.2|2.4.0|
 |sphinx|7.0.1|7.3.7|
-|sphinx-press-theme|0.8.0|0.9.1|
 |sphinx-rtd-theme|1.0.0|2.0.0|
 |sphinx-tabs|3.4.1|3.4.5|
 |sphinxbase|5prealpha|0.8|Possible downgrade from the current version (5prealpha   0.8)|
@@ -2547,6 +2545,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |stopit|0<br>+git20190827|1.1.2|Compound version number '0+git20190827'<br>Version number indicates a snapshot (+git) is used|
 |stow|2.3.1|2.4.0|
 |strace|6.5|6.9|
+|streamlink|6.5.1|6.7.4|
 |strongswan|5.9.4|5.9.14|
 |structlog|19.1.0|24.2.0|
 |stubby|0.3.0|0.4.3|
