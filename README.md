@@ -61,7 +61,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |aosc-community-wallpapers-extras-2024|2024.04.1|2024.04.0|Possible downgrade from the current version (2024.04.1   2024.04.0)|
 |aosc-media-writer|0.3.4|5.0.9|
 |aosc-xdg-menu|20200412|20160217|Possible downgrade from the current version (20200412   20160217)|
-|apache-maven|3.9.6|3.9.7|
 |apicula|0.9.1|0.12|
 |apparmor|3.0.8|3.1.7|
 |appstream|0.16.0|1.0.3|
@@ -84,7 +83,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |arts|14.1.0|14.1.2|
 |asahi-common|20231113|20231113-aosc|Possible downgrade from the current version (20231113   20231113-aosc)|
 |asahi-fwextract|0.6.21|0.7.6|
-|asciidoctor|2.0.12|2.0.23|
 |asio|1.18.1|1.30.2|
 |asn1crypto|1.2.0|1.5.1|
 |aspell|0.60.8|0.60.8.1|
@@ -96,7 +94,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ast-grep|0.22.4|0.22.5|
 |astroid|2.12.2|3.2.2|
 |astrometry.net|0.94|0.95|
-|astyle|3.4.14|3.4.16|
 |at-spi2-atk+32|2.26.3|2.38.0|
 |at-spi2-core+32|2.26.3|2.52.0|
 |atk+32|2.26.1|2.38.0|
@@ -129,7 +126,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |b43-firmware-installer|20160210|019|Possible downgrade from the current version (20160210   019)|
 |b43-tools|0<br>+git20170913|019|Compound version number '0+git20170913'<br>Version number indicates a snapshot (+git) is used|
 |babel|2.9.1|2.15.0|
-|babeld|1.9.2|1.13.1|
 |babeltrace|1.5.7|1.5.11|
 |babl|0.1.108|0_1_108|
 |backcall|0.1.0|0.2.0|
@@ -158,7 +154,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |blinken|23.08.5|24.05.0|
 |blinker|1.4|1.8.2|
 |bluedevil|5.27.11|6.0.5|
-|blueman|2.4.1|2.4.2|
 |bluez-alsa|4.1.1|4.2.0|
 |bluez-qt|5.115.0|6.0.90|
 |boinc|7.24.3|8.0/8.0.2|
@@ -178,7 +173,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |breeze-gtk|5.27.11|6.0.5|
 |breeze-icons|5.115.0|6.0.90|
 |breeze-plymouth|5.27.11|6.0.5|
-|bridge-utils|1.6|1.7.1|
 |brotli|1.0.9|1.1.0|
 |brotlipy|0.7.0|1.0.9.2|
 |bubblewrap|0.6.2|0.9.0|
@@ -289,7 +283,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |containerd|1.7.13|1.7.17|
 |containers-common|0.57.0<br>+image5.29.0<br>+shortnames2023.02.20<br>+skopeo1.14.0<br>+storage1.51.0|1.0.1|Compound version number '0.57.0+image5.29.0+shortnames2023.02.20+skopeo1.14.0+storage1.51.0'|
 |convertall|0.7.5|1.0.1|
-|coreboot-utils|4.15|24.05|
 |corefreq|20170301|1.97.2-x86_64|Possible downgrade from the current version (20170301   1.97.2-x86_64)|
 |corrosion|0.2.1|0.4.10|
 |cowsay|3.04.01|3.7.0|
@@ -453,7 +446,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |evolution-ews|3.42.0|3.52.2|
 |evtest|1.34|1.35|
 |exempi|2.5.1|2.6.5|
-|exfatprogs|1.2.2|1.2.3|
 |exiv2|0.27.5|0.28.2|
 |extra-cmake-modules|5.115.0|6.0.90|
 |eyed3|0.9.5|0.9.7|
@@ -1504,8 +1496,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libva+32|2.15.0|2.21.0|
 |libva-nvidia-driver|0.0.11|0.7.4|
 |libvdpau+32|1.1.1|1.5|
-|libvirt|10.2.0|10.3.0|
-|libvirt-python|10.1.0|10.3.0|
+|libvirt|10.2.0|10.4.0|
+|libvirt-python|10.1.0|10.4.0|
 |libvisual|0.4.0|0.4.2|
 |libvisual+32|0.4.0|0.4.2|
 |libvncserver|0.9.13|0.9.14|
@@ -1719,7 +1711,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mstflint|4.28.0<br>+1|4.28.0-1|Compound version number '4.28.0+1'|
 |mtd-utils|2.1.5|2.2.0|
 |mtdev|1.1.6|1.1.7|
-|mtools|4.0.43|4.0.44|
 |muffin|5.8.0|6.0.1|
 |mugshot|0.4.1|0.4.3|
 |multipath-tools|0.9.3|0.9.8|
@@ -1837,7 +1828,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |opencsg|1.5.1|1.6.0|
 |openexr|3.1.8|3.2.126|
 |openfortivpn|1.18.0|1.22.1|
-|openh264|2.4.0<br>+gmp114<br>+2|2.4.1|Compound version number '2.4.0+gmp114+2'|
+|openh264|2.4.1<br>+gmp114<br>+2|2.4.1|Compound version number '2.4.1+gmp114+2'|
 |openimagedenoise|1.4.3|2.2.2|
 |openimageio|2.4.17.0|2.5.12.0|
 |openixcard|1.0.1|1.1.8|
@@ -2133,7 +2124,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |plymouth-kcm|5.27.11|6.0.5|
 |pmac-utils|1.1.3|1.1.3.orig|Possible downgrade from the current version (1.1.3   1.1.3.orig)|
 |pngquant|2.12.6|3.0.3|
-|pnpm|8.15.5|9.1.4|
 |po-debconf|1.0.21|1.0.21+nmu1|Possible downgrade from the current version (1.0.21   1.0.21+nmu1)|
 |po4a|0.63|0.72|
 |pocketsphinx|5~prealpha|0.8|Possible downgrade from the current version (5~prealpha   0.8)|
@@ -2352,7 +2342,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |renderdoc|1.16|1.33|
 |reportlab|3.5.50|4.2.0|
 |reptyr|0.9.0|0.10.0|
-|requests|2.32.2|2.32.3|
 |requests-cache|0.5.2|1.2.0|
 |rest|0.8.1|0.9.1|
 |retext|7.2.2|8.0.2|
@@ -2763,7 +2752,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |urwid|2.1.2|2.6.12|
 |usb-modeswitch|2.6.0|2.6.1|
 |usbredir|0.8.0|0.14.0|
-|usbutils|015|017|
 |utfcpp|3.2.1|4.0.5|
 |uthash|2.1.0|2.3.0|
 |util-linux+32|2.29.2|2.40.1|
@@ -2918,7 +2906,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |yelp|42.1|42.2|
 |yelp-tools|42.0|42.1|
 |yelp-xsl|42.0|42.1|
-|you-get|0.4.1650|0.4.1700|
 |ytmusicapi|1.7.2|1.7.3|
 |yubico-pam|2.26|2.27|
 |yubico-piv-tool|2.3.1|2.5.2|
