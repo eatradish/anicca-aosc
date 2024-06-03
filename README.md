@@ -181,7 +181,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cabextract|1.9|1.11|
 |cachecontrol|0.12.6|0.14.0|
 |cachetools|3.1.0|5.3.3|
-|caddy|2.7.6|2.8.1|
+|caddy|2.7.6|2.8.4|
 |cairo|1.17.6|1.18.0|
 |cairo+32|1.14.12|1.18.0|
 |cairocffi|1.0.2|1.7.0|
@@ -471,8 +471,9 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |feedbackd|0.2.1|0.3.0|
 |feedparser|6.0.8|6.0.11|
 |feeluown|4.1.1|4.1.4|
+|feeluown-bilibili|0.3.3|0.4.0|
 |feeluown-netease|1.0.1|1.0.3|
-|feeluown-qqmusic|1.0.2|1.0.4|
+|feeluown-qqmusic|1.0.2|1.0.5|
 |ffcall|2.2|2.4|
 |ffmpeg|4.4.4|7.0.1|
 |ffmpeg+32|4.2.5|7.0.1|
@@ -535,7 +536,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fuse-python|0.3.1|1.0.7|
 |future|0.17.0|1.0.0|
 |futures|3.2.0|3.4.0|
-|fvwm|2.6.9|2.7.0|
 |fzf|0.46.1|0.52.1|
 |gajim|1.4.0|1.8.4|
 |game-music-emu+32|0.6.0|0.6.3|
@@ -2326,7 +2326,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rdiscount|2.2.0.2|2.2.7.3|
 |rdma-core|51.0|52.0|
 |re2|20240501|2024-06-01|Possible downgrade from the current version (20240501   2024-06-01)|
-|re2c|1.3|3.1|
 |readline|8.2.1|8.2|Possible downgrade from the current version (8.2.1   8.2)|
 |readline+32|8.2.1|8.2|Possible downgrade from the current version (8.2.1   8.2)|
 |realmd|0.17.1|0.16.3|Possible downgrade from the current version (0.17.1   0.16.3)|
