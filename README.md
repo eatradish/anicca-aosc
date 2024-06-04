@@ -62,6 +62,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |aosc-media-writer|0.3.4|5.0.9|
 |aosc-xdg-menu|20200412|20160217|Possible downgrade from the current version (20200412   20160217)|
 |apicula|0.9.1|0.12|
+|apitrace|11.1|12.0|
 |apparmor|3.0.8|3.1.7|
 |appstream|0.16.0|1.0.3|
 |appstream-glib|0.7.18|0_8_2|
@@ -1797,6 +1798,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ocrad|0.27|0.29|
 |ocrmypdf|11.7.0|16.3.1|
 |ocserv|1.1.2|1.3.0|
+|octave|9.1.0|9.2.0|
 |ofono|1.30|2.7|
 |okteta|0.26.9|0.26.15|
 |okular|23.08.5|24.05.0|
@@ -2365,6 +2367,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rtmidi|4.0.0|6.0.0|
 |rtmpdump|20151223|2.3|Possible downgrade from the current version (20151223   2.3)|
 |rtmpdump+32|20150114|2.3|Possible downgrade from the current version (20150114   2.3)|
+|rtslib-fb|2.1.75|2.1.76|
 |rtv|1.27.0|1.27.1|
 |ruamel-yaml|0.17.19|0.18.6|
 |ruamel-yaml-clib|0.2.6|0.2.8|
