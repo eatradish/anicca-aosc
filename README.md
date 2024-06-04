@@ -739,6 +739,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gupnp|1.2.4|1.6.6|
 |gupnp-av|0.12.11|0.14.1|
 |gupnp-dlna|0.10.5|0.12.0|
+|gupnp-igd|0.2.5|1.6.0|
 |guvcview|2.0.5|2.1.0|
 |gvfs|1.50.2|1.54.1|
 |gwc|0.21<br>+19|0.22-06|Compound version number '0.21+19'|
@@ -863,6 +864,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |jdcal|1.4|1.4.1|
 |jedi|0.18.1|0.19.1|
 |jeepney|0.6.0|0.8.0|
+|jellyfish|0.6.0|1.0.4|
 |jetring|0.29|0.31|
 |jinja2|3.1.2|3.1.4|
 |jmespath|0.10.0|1.0.1|
@@ -1942,7 +1944,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-datetime|1.52|1.65|
 |perl-datetime-format-strptime|1.77|1.79|
 |perl-datetime-locale|1.26|1.42|
-|perl-dbd-mysql|4.050|5.005|
+|perl-dbd-mysql|4.050|5.006|
 |perl-dbd-sqlite|1.63<br>+03|1.74|Compound version number '1.63+03'|
 |perl-dbi|1.642|1.643|
 |perl-devel-checklib|1.13|1.16|
@@ -2626,7 +2628,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tdmtheme|14.1.0|14.1.2|
 |tectonic|0.12.0|0.15.0|
 |teeworlds|0.7.5<br>+git20220313|0.7.5|Compound version number '0.7.5+git20220313'<br>Version number indicates a snapshot (+git) is used|
-|telegram-desktop|5.0.1|5.1.1|
+|telegram-desktop|5.0.1|5.1.3|
 |telepathy-accounts-signon|1.0|2.1|
 |telepathy-glib|0.24.1|0.24.2|
 |telepathy-idle|0.2.0|0.2.2|
@@ -2818,7 +2820,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |windowmaker|0.95.9<br>+git20220812|0.96.0|Compound version number '0.95.9+git20220812'<br>Version number indicates a snapshot (+git) is used|
 |wine|9.9<br>+gecko2.47.4<br>+mono9.1.0|9.10|Compound version number '9.9+gecko2.47.4+mono9.1.0'|
 |wireguard|1|0.0.20191219|Possible downgrade from the current version (1   0.0.20191219)|
-|wireless-tools|30.pre9|29|Possible downgrade from the current version (30.pre9   29)|
 |wmutils|20170223|1.7|Possible downgrade from the current version (20170223   1.7)|
 |wpebackend-fdo|1.12.1|1.14.2|
 |wqy-unibit|1.1.0|4.3.0|
