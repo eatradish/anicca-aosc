@@ -125,7 +125,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |b43-firmware-installer|20160210|019|Possible downgrade from the current version (20160210   019)|
 |b43-tools|0<br>+git20170913|019|Compound version number '0+git20170913'<br>Version number indicates a snapshot (+git) is used|
 |babel|2.9.1|2.15.0|
-|babeltrace|1.5.7|1.5.11|
 |babl|0.1.108|0_1_108|
 |backcall|0.1.0|0.2.0|
 |backports|0|1.1|
@@ -2640,7 +2639,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |terminaltables|3.1.0|3.1.10|
 |terminator|2.1.1|2.1.4|
 |tesseract|5.3.4|5.2.1|Possible downgrade from the current version (5.3.4   5.2.1)|
-|testdisk|7.0|7.2|
 |tevent|0.13.0|0.16.1|
 |texlive|20220321|2024|Possible downgrade from the current version (20220321   2024)|
 |texmaker|5.1.2|5.1.4|
