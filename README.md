@@ -161,7 +161,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |borgbackup|1.1.17|1.2.8|
 |botan|1.10.17|3.4.0|
 |botan-2|2.12.1|3.4.0|
-|boto3|1.20.26|1.34.118|
+|boto3|1.20.26|1.34.119|
 |bottle|0.12.18|0.12.25|
 |bottles|2022.2.28<br>+trento<br>+4|51.11|Compound version number '2022.2.28+trento+4'<br>Possible downgrade from the current version (2022.2.28+trento+4   51.11)|
 |bovo|23.08.5|24.05.0|
@@ -670,7 +670,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnustep-make|2.9.0|2_9_2|
 |gnutls|3.8.4|3.8.5|
 |gnutls+32|3.6.15|3.8.5|
-|go|1.22.3<br>+tools0.21.0<br>+net0.25.0|1.22.3|Compound version number '1.22.3+tools0.21.0+net0.25.0'|
+|go|1.22.3<br>+tools0.21.0<br>+net0.25.0|1.22.4|Compound version number '1.22.3+tools0.21.0+net0.25.0'|
 |gobject-introspection|1.80.0|1.80.1|
 |goffice|0.10.48|0.10.57|
 |goldendict|1.5.0~rc2|1.5.0|
@@ -1844,9 +1844,10 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |opensc|0.22.0|0.25.1|
 |openscad|2021.01<br>+git20230825|2021.01|Compound version number '2021.01+git20230825'<br>Version number indicates a snapshot (+git) is used|
 |openslide|3.4.1|4.0.0|
-|openssl+32|3.2.0|3.3.0|
-|openssl-1.1|1.1.1w|3.3.0|
-|openssl-1.1+32|1.1.1q|3.3.0|
+|openssl|3.3.0|3.3.1|
+|openssl+32|3.2.0|3.3.1|
+|openssl-1.1|1.1.1w|3.3.1|
+|openssl-1.1+32|1.1.1q|3.3.1|
 |opensubdiv|3.6.0|3_6_0|
 |openswan|2.6.51.5|3.0.0|
 |opentimelineio|0.15|0.16.0|
@@ -2067,6 +2068,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl4-corelibs|0.004|0.005|
 |pexpect|4.8.0|4.9.0|
 |pgxnclient|1.3.1|1.3.2|
+|php|8.3.7|8.3.8|
 |picard|2.8.5|2.11|
 |picmi|23.08.5|24.05.0|
 |picocom|3.1|2023-04|
@@ -2445,7 +2447,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |simplejson|3.16.0|3.19.2|
 |simplescreenrecorder|0.4.3|0.4.4|
 |sing-box|1.8.13|1.9.0|
-|singular|4.1.1|2023.02.09|
+|singular|4.1.1|2024.06.03|
 |sip|6.3.1|6.8.3|
 |skanlite|23.08.5|24.05.0|
 |skanpage|23.08.5|24.05.0|
@@ -2485,7 +2487,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |soundtouch|2.3.3|2.3.1|Possible downgrade from the current version (2.3.3   2.3.1)|
 |soundtouch+32|1.9.2|2.3.1|
 |soupsieve|1.8.0|2.5|
-|sozu|0.15.2|1.0.1|
+|sozu|0.15.2|1.0.2|
 |spamassassin|3.4.6|4.0.1|
 |spandsp|0.0.6|3.0.0|
 |spectacle|22.12.3|24.05.0|
@@ -2556,7 +2558,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |swig|4.1.1|4.2.1|
 |sympy|1.12|1.12.1|
 |synaptic|0.90.2|0.91.3|
-|syncthing|1.27.3|1.27.7|
+|syncthing|1.27.3|1.27.8|
 |syncthing-gtk|0.9.4.4|0.9.4.5|
 |syndication|5.115.0|6.0.90|
 |synergy|1.11.1|2.3.2|
