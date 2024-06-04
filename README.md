@@ -129,7 +129,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |babl|0.1.108|0_1_108|
 |backcall|0.1.0|0.2.0|
 |backports|0|1.1|
-|backports-functools-lru-cache|1.5|2.0.0|
 |baloo|5.115.0|6.0.90|
 |baloo-widgets|23.08.5|24.05.0|
 |balz|1.20|9.86|
@@ -758,7 +757,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |haveged|1.9.13|1.9.18|
 |hddtemp|0.3.52|0.4.3|
 |hdf5|1.10.5|1.14.4.3|
-|hdrhistogram-c|0.11.6|0.11.8|
 |hdsentinel|0.17|400s|
 |helm|3.15.0|3.15.1|
 |help2man|1.48.1|1.49.3|
@@ -952,7 +950,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kde-dev-scripts|23.08.5|24.05.0|
 |kde-dev-utils|23.08.5|24.05.0|
 |kde-gtk-config|5.27.11|6.0.5|
-|kde-inotify-survey|23.08.5|24.05.0|
 |kdebugsettings|23.08.5|24.05.0|
 |kdeclarative|5.115.0|6.0.90|
 |kdeconnect|23.08.5|24.05.0|
