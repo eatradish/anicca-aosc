@@ -783,7 +783,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |httrack|3.49.2|3.49.5|
 |hub|2.14.2<br>+git20230617|2.14.2|Compound version number '2.14.2+git20230617'<br>Version number indicates a snapshot (+git) is used|
 |hugin|2022.0.0|2023.0.0|
-|hugo|0.126.1|0.126.2|
+|hugo|0.126.1|0.126.3|
 |humanize|0.5.1|4.9.0|
 |hunspell|1.7.0|1.7.2|
 |hyper-h11|0.12.0|0.14.0|
@@ -861,7 +861,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |iw|5.19|6.9|
 |iwd|1.20|2.17|
 |ixion|0.17.0|0.19.0|
-|j4-dmenu-desktop|2.17|2.18|
+|j4-dmenu-desktop|2.17|3.0|
 |jack|1.9.21|1.9.22|
 |jasper|2.0.21|4.2.4|
 |jbig2dec|0.18|0.20|
@@ -1747,7 +1747,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |netcat|1.219|1.226|
 |netcdf|4.7.4|4.9.2|
 |netctl|1.23|1.25|
-|netease-cloud-music-gtk|2.3.0|2.4.0|
 |nethack|3.6.6|3.6.7_Released|
 |netifaces|0.10.9|0.11.0|
 |netpbm|10.73.34|11.06.03|
@@ -2751,7 +2750,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |uthash|2.1.0|2.3.0|
 |util-linux+32|2.29.2|2.40.1|
 |util-macros+32|999|1.20.1|Possible downgrade from the current version (999   1.20.1)|
-|v2raya|2.2.5.1|2.2.5|Possible downgrade from the current version (2.2.5.1   2.2.5)|
 |v4l-utils|1.22.1|1.26.1|
 |v4l-utils+32|1.18.0|1.26.1|
 |vala|0.56.16|0.56.17|
