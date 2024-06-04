@@ -293,7 +293,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |crun|1.12|1.15|
 |cryfs|0.10.2|0.11.4|
 |crypto++|8.2.0|8.9.0|
-|cryptography|40.0.0|42.0.7|
+|cryptography|40.0.0|42.0.8|
 |cryptsetup|2.7.0|2.7.2|
 |css-parser|1.0.6|1.0.10|
 |cssselect2|0.6.0|0.7.0|
@@ -739,7 +739,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gupnp|1.2.4|1.6.6|
 |gupnp-av|0.12.11|0.14.1|
 |gupnp-dlna|0.10.5|0.12.0|
-|gupnp-igd|0.2.5|1.6.0|
 |guvcview|2.0.5|2.1.0|
 |gvfs|1.50.2|1.54.1|
 |gwc|0.21<br>+19|0.22-06|Compound version number '0.21+19'|
@@ -864,7 +863,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |jdcal|1.4|1.4.1|
 |jedi|0.18.1|0.19.1|
 |jeepney|0.6.0|0.8.0|
-|jellyfish|0.6.0|1.0.4|
 |jetring|0.29|0.31|
 |jinja2|3.1.2|3.1.4|
 |jmespath|0.10.0|1.0.1|
