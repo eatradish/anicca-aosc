@@ -91,7 +91,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |aspnetcore-targeting-pack-6.0|6.0.30|6.0.31|
 |aspnetcore-targeting-pack-8.0|8.0.5|8.0.6|
 |assimp|5.4.0|5.4.1|
-|ast-grep|0.22.4|0.22.5|
 |astroid|2.12.2|3.2.2|
 |astrometry.net|0.94|0.95|
 |at-spi2-atk+32|2.26.3|2.38.0|
@@ -171,7 +170,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |breeze-gtk|5.27.11|6.0.5|
 |breeze-icons|5.115.0|6.0.90|
 |breeze-plymouth|5.27.11|6.0.5|
-|brotli|1.0.9|1.1.0|
 |brotlipy|0.7.0|1.0.9.2|
 |budgie-screensaver|5.0.2|5.1.0|
 |bullet|2.88|3.25|
@@ -1252,7 +1250,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libbytesize|2.1|2.10|
 |libc+wasi|20|22|
 |libcaldav|14.1.0|14.1.2|
-|libcamera|0.2.0|0.3.0|
 |libcap|2.69|2.70|
 |libcap+32|2.31|2.70|
 |libcap-ng|0.7.11|0.8.5|
@@ -1826,6 +1823,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |opencore-amr+32|0.1.5|0.1.6|
 |opencryptoki|3.21.0|3.23.0|
 |opencsg|1.5.1|1.6.0|
+|opencv|4.9.0|4.10.0|
 |openexr|3.1.8|3.2.126|
 |openfortivpn|1.18.0|1.22.1|
 |openh264|2.4.1<br>+gmp114<br>+2|2.4.1|Compound version number '2.4.1+gmp114+2'|
@@ -1872,7 +1870,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |oxygen|5.27.11|6.0.5|
 |oxygen-icons|5.115.0|6.0.90|
 |oxygen-sounds|5.25.3|6.0.5|
-|p-vector|0.3.6|0.3.8|
 |p11-kit+32|0.23.18.1|0.25.3|
 |packaging|23.0|24.0|
 |pacman|6.0.1|6.1.0|
@@ -1897,7 +1894,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |parsedatetime|2.4|2.6|
 |parso|0.3.3|0.8.4|
 |partclone|0.3.20|0.3.27|
-|parted|3.5|3.6|
 |partimage|0.6.9|0.7.2|
 |partitionmanager|23.08.5|24.05.0|
 |pastel|0.2.0|0.2.1|
@@ -2075,7 +2071,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl4-corelibs|0.004|0.005|
 |pexpect|4.8.0|4.9.0|
 |pgxnclient|1.3.1|1.3.2|
-|phonon|4.11.1|4.12.0|
 |picard|2.8.5|2.11|
 |picmi|23.08.5|24.05.0|
 |picocom|3.1|2023-04|
@@ -2089,7 +2084,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pinentry|1.1.0|1.3.0|
 |pip|22.3.1|24.1b1|
 |piper|0.6|0.7|
-|pipewire|1.0.6|1.1.82|
+|pipewire|1.0.7|1.1.82|
 |pipewire-0.2|0.2.7|1.1.82|
 |pixman|0.43.0|0.43.4|
 |pixman+32|0.40.0|0.43.4|
@@ -2830,7 +2825,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |wine|9.9<br>+gecko2.47.4<br>+mono9.1.0|9.10|Compound version number '9.9+gecko2.47.4+mono9.1.0'|
 |wireguard|1|0.0.20191219|Possible downgrade from the current version (1   0.0.20191219)|
 |wireless-tools|30.pre9|29|Possible downgrade from the current version (30.pre9   29)|
-|wireplumber|0.5.2|0.5.3|
 |wmutils|20170223|1.7|Possible downgrade from the current version (20170223   1.7)|
 |wpebackend-fdo|1.12.1|1.14.2|
 |wqy-unibit|1.1.0|4.3.0|
