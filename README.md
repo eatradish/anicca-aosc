@@ -296,7 +296,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cryptsetup|2.7.0|2.7.2|
 |css-parser|1.0.6|1.0.10|
 |cssselect2|0.6.0|0.7.0|
-|cssutils|1.0.2|2.11.0|
+|cssutils|1.0.2|2.11.1|
 |ctags|20191203|6.1.20240602.0|Possible downgrade from the current version (20191203   6.1.20240602.0)|
 |cuda|12.5.0<br>+555.42.02|12.5.0|Compound version number '12.5.0+555.42.02'<br>Possible downgrade from the current version (12.5.0+555.42.02   12.5.0)|
 |cunit|2.1<br>+3|2.1-3|Compound version number '2.1+3'|
@@ -2365,7 +2365,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rtmidi|4.0.0|6.0.0|
 |rtmpdump|20151223|2.3|Possible downgrade from the current version (20151223   2.3)|
 |rtmpdump+32|20150114|2.3|Possible downgrade from the current version (20150114   2.3)|
-|rtslib-fb|2.1.75|2.1.76|
 |rtv|1.27.0|1.27.1|
 |ruamel-yaml|0.17.19|0.18.6|
 |ruamel-yaml-clib|0.2.6|0.2.8|
