@@ -1193,7 +1193,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kvkbd-trinity|14.1.0|14.1.2|
 |kvpnc-trinity|14.1.0|14.1.2|
 |kwallet|5.115.0|6.0.90|
-|kwallet-pam|5.27.11|6.0.5|
 |kwalletmanager|23.08.5|24.05.0|
 |kwave|23.08.5|24.05.0|
 |kwayland|5.115.0|6.0.90|
@@ -2264,7 +2263,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |python-pam|1.8.4|2.0.2|
 |python-poppler-qt5|21.1.0<br>+git20210304|21.3.0|Compound version number '21.1.0+git20210304'<br>Version number indicates a snapshot (+git) is used|
 |python-tabulate|0.8.3|0.9.0|
-|python-xapp|2.0.1|2.4.1|
+|python-xapp|2.0.1|2.4.2|
 |python-xmp-toolkit|2.0.1|2.0.2|
 |pythondialog|3.3.0|3.5.3|
 |pytools|2019.1|2024.1.4|
