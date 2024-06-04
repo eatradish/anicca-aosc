@@ -519,6 +519,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |freealut|1.1.0|1_1_0|
 |freealut+32|1.1.0|1_1_0|
 |freecell-solver|6.2.0|6.8.0|
+|freeciv|2.6.5|3.1.1|
 |freeglut+32|3.0.0|3.4.0|
 |freerdp|2.11.2|3.5.1|
 |freetds|1.00.112|1.4.19|
@@ -594,6 +595,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |git-branchless|0.7.1|0.9.0|
 |git-cliff|2.2.2|2.3.0|
 |git-lfs|3.5.0|3.5.1|
+|gitdb|4.0.10|4.0.11|
 |gitg|41|44|
 |gitoxide|0.35.0|0.36.0|
 |gitpython|3.1.35|3.1.43|
@@ -1139,6 +1141,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |krdc|23.08.5|24.05.0|
 |krecipes-trinity|14.1.0|14.1.2|
 |krecorder|23.08.5|24.05.0|
+|krename-trinity|14.1.0|14.1.2|
 |kreversi|23.08.5|24.05.0|
 |krfb|23.08.5|24.05.0|
 |kross|5.115.0|6.0.90|
@@ -1458,6 +1461,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libstoragemgmt|1.7.3|1.10.0|
 |libsysstat|0.4.4|1.0.0|
 |libtasn1|4.15.0|4.19.0|
+|libtasn1+32|4.15.0|4.19.0|
 |libteam|1.31|1.32|
 |libthai|0.1.28|0.1.29|
 |libticables2|1.3.4|1.3.5|
@@ -1659,6 +1663,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mimalloc|2.1.2|2.1.7|
 |mime-types|9|99|
 |minetest|5.7.0<br>+irrlicht1.9.0mt10|5.8.0|Compound version number '5.7.0+irrlicht1.9.0mt10'|
+|mingw+w64|8.0.2|12.0.0|
 |mini-portile|2.8.6|2.8.7|
 |minicom|2.8|2.9|
 |miniserve|0.26.0|0.27.1|
