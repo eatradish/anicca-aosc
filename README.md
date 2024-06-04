@@ -488,7 +488,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |findlib|1.9.5|1.9.6|
 |findutils|4.9.0|4.10.0|
 |fio|3.35|3.37|
-|firefox|126.0|126.0.1|
 |firewalld|2.0.0|2.1.2|
 |flac|1.3.3|1.4.3|
 |flac+32|1.3.3|1.4.3|
@@ -1245,7 +1244,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libblockdev|2.23|3.1.1|
 |libbloom|1.6|2.0|
 |libbluray+32|1.2.1|1.3.4|
-|libbpf|1.2.0|1.4.2|
+|libbpf|1.2.0|1.4.3|
 |libburn|1.5.2|1.5.6|
 |libbytesize|2.1|2.10|
 |libc+wasi|20|22|
