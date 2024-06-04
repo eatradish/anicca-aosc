@@ -1288,6 +1288,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libesmtp|1.0.6|1.1.0|
 |libetebase|0.5.4|0.5.6|
 |libetonyek|0.1.9|0.1.10|
+|libevdev|1.11.0|1.13.2|
 |libexif|0.6.22|0.6.24|
 |libexif+32|0.6.22|0.6.24|
 |libfdk-aac|2.0.1|2.0.3|
@@ -2067,6 +2068,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |picard|2.8.5|2.11|
 |picmi|23.08.5|24.05.0|
 |picocom|3.1|2023-04|
+|pidgin|2.14.12|2.14.13|
 |pikepdf|2.8.0|9.0.0|
 |piklab-trinity|14.1.0|14.1.2|
 |pillow|8.4.0|10.3.0|
