@@ -879,6 +879,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |jsonpointer|2.3|2.4|
 |jsonrpc-glib|3.42.0|3.44.0|
 |jsonschema|3.2.0|0.0.1|Possible downgrade from the current version (3.2.0   0.0.1)|
+|juk|23.08.5|24.05.0|
 |jupyter-client|5.2.4|8.6.2|
 |jupyter-core|4.4.0|5.7.2|
 |k3b|23.08.5|24.05.0|
@@ -1600,6 +1601,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |m17n-db|1.8.0|1.8.5|
 |m17n-lib|1.8.0|1.8.4|
 |m1n1|1.4.6<br>+logo20231113.1|1.4.14|Compound version number '1.4.6+logo20231113.1'|
+|m2crypto|0.38.0|0.41.0|
 |m2r|0.2.1|0.3.1|
 |m3u8|0.7.1|5.0.0|
 |mac-fdisk|0.1|0.1.orig|Possible downgrade from the current version (0.1   0.1.orig)|
