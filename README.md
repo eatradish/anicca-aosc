@@ -129,6 +129,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |babl|0.1.108|0_1_108|
 |backcall|0.1.0|0.2.0|
 |backports|0|1.1|
+|backports-functools-lru-cache|1.5|2.0.0|
 |baloo|5.115.0|6.0.90|
 |baloo-widgets|23.08.5|24.05.0|
 |balz|1.20|9.86|
@@ -878,7 +879,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |jsonpointer|2.3|2.4|
 |jsonrpc-glib|3.42.0|3.44.0|
 |jsonschema|3.2.0|0.0.1|Possible downgrade from the current version (3.2.0   0.0.1)|
-|juk|23.08.5|24.05.0|
 |jupyter-client|5.2.4|8.6.2|
 |jupyter-core|4.4.0|5.7.2|
 |k3b|23.08.5|24.05.0|
@@ -950,6 +950,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kde-dev-scripts|23.08.5|24.05.0|
 |kde-dev-utils|23.08.5|24.05.0|
 |kde-gtk-config|5.27.11|6.0.5|
+|kde-inotify-survey|23.08.5|24.05.0|
 |kdebugsettings|23.08.5|24.05.0|
 |kdeclarative|5.115.0|6.0.90|
 |kdeconnect|23.08.5|24.05.0|
@@ -1599,7 +1600,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |m17n-db|1.8.0|1.8.5|
 |m17n-lib|1.8.0|1.8.4|
 |m1n1|1.4.6<br>+logo20231113.1|1.4.14|Compound version number '1.4.6+logo20231113.1'|
-|m2crypto|0.38.0|0.41.0|
 |m2r|0.2.1|0.3.1|
 |m3u8|0.7.1|5.0.0|
 |mac-fdisk|0.1|0.1.orig|Possible downgrade from the current version (0.1   0.1.orig)|
@@ -1903,7 +1903,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pcre-static|8.44|8.45|
 |pcsc-perl|1.4.14|1.4.16|
 |pcsclite|1.9.9|2.2.3|
-|pcsx2|1.6.0<br>+git20210825|1.7.5862|Compound version number '1.6.0+git20210825'<br>Version number indicates a snapshot (+git) is used|
+|pcsx2|1.6.0<br>+git20210825|1.7.5864|Compound version number '1.6.0+git20210825'<br>Version number indicates a snapshot (+git) is used|
 |pdfgrep|2.1.2|2.2.0|
 |pdfminer|20191020|20231228|
 |pdlzip|1.9|1.13|
