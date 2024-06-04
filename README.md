@@ -848,14 +848,13 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ipython|7.28.0|8.25.0|
 |irrlicht|1.8.4|1.8.5|
 |iso-codes|4.4|4.16.0|
-|isomd5sum|1.2.3|1.2.4|
 |isort|4.3.21|5.13.2|
 |ispc|1.22.0|1.24.0|
 |itinerary|23.08.5|24.05.0|
 |itsdangerous|1.1.0|2.2.0|
 |iverilog|12.0|12_0|
 |iw|5.19|6.9|
-|iwd|1.20|2.17|
+|iwd|1.20|2.18|
 |ixion|0.17.0|0.19.0|
 |j4-dmenu-desktop|2.17|3.0|
 |jack|1.9.21|1.9.22|
@@ -1193,6 +1192,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kvkbd-trinity|14.1.0|14.1.2|
 |kvpnc-trinity|14.1.0|14.1.2|
 |kwallet|5.115.0|6.0.90|
+|kwallet-pam|5.27.11|6.0.5|
 |kwalletmanager|23.08.5|24.05.0|
 |kwave|23.08.5|24.05.0|
 |kwayland|5.115.0|6.0.90|
@@ -1288,7 +1288,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libesmtp|1.0.6|1.1.0|
 |libetebase|0.5.4|0.5.6|
 |libetonyek|0.1.9|0.1.10|
-|libevdev|1.11.0|1.13.2|
 |libexif|0.6.22|0.6.24|
 |libexif+32|0.6.22|0.6.24|
 |libfdk-aac|2.0.1|2.0.3|
@@ -2068,7 +2067,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |picard|2.8.5|2.11|
 |picmi|23.08.5|24.05.0|
 |picocom|3.1|2023-04|
-|pidgin|2.14.12|2.14.13|
 |pikepdf|2.8.0|9.0.0|
 |piklab-trinity|14.1.0|14.1.2|
 |pillow|8.4.0|10.3.0|
@@ -2155,7 +2153,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |progress|0.16|0.17|
 |proj|9.2.1|9.4.1|
 |projectm|4.0.0|4.1.1|
-|prompt-toolkit|2.0.8|3.0.45|
+|prompt-toolkit|2.0.8|3.0.46|
 |proot|5.1.20171016|5.4.0|
 |protobuf|25.2|27.0|
 |proxychains-ng+32|20161205|4.17|Possible downgrade from the current version (20161205   4.17)|
@@ -2238,7 +2236,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pysol-sound-server|3.01|3.20|
 |pysolfc|2.12.0|3.0.0|
 |pyte|0.8.0|0.8.2|
-|pytest|7.1.1|8.2.1|
+|pytest|7.1.1|8.2.2|
 |python-2+32|999|2.7.18|Possible downgrade from the current version (999   2.7.18)|
 |python-3|3.10.13|3.12.3|
 |python-augeas|1.0.3|1.1.0|
