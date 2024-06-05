@@ -15,7 +15,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ack|3.2.0|3.7.0|
 |acl|2.3.1|2.3.2|
 |acl+32|2.2.52|2.3.2|
-|acme|2.5.0|2.10.0|
 |adobe-source-code-pro|2.042|2.042-u/1.062-i/1.026-vf|Possible downgrade from the current version (2.042   2.042-u/1.062-i/1.026-vf)|
 |adobe-source-han-sans|2.004|2.004R|Possible downgrade from the current version (2.004   2.004R)|
 |adobe-source-han-serif|2.002|2.002R|Possible downgrade from the current version (2.002   2.002R)|
@@ -266,7 +265,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |coloredlogs|10.0|15.0.1|
 |composer|2.0.13|2.7.6|
 |concurrencykit|0.7.1|0.7.2|
-|configargparse|1.3|1.7|
 |configobj|5.0.6|5.0.8|
 |configparser|3.7.3|3.12.3|
 |confuse|3.2.2|3.3|
@@ -1222,6 +1220,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |levenshtein|0.12.0|0.25.1|
 |lib3mf|2.2.0|2.3.1|
 |libaacs|0.11.0|0.11.1|
+|libaal|1.0.7|24"|
 |libaccounts-glib|1.24|1.27|
 |libaccounts-qt|1.16|1.17|
 |libadwaita|1.5.0|1.5.1|
@@ -2829,7 +2828,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |wxgtk-3+32|3.0.4|3.2.5|
 |wxmaxima|22.05.0|24.05.0|
 |wxwidgets|3.2.4|3.2.5|
-|x11-proto|2023.2|2024.1|
 |x11-proto+32|2019.2|2024.1|
 |x264|0<br>+git20240305|3191|Compound version number '0+git20240305'<br>Version number indicates a snapshot (+git) is used|
 |x264+32|20160827.2245|3191|Possible downgrade from the current version (20160827.2245   3191)|
