@@ -573,7 +573,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gegl-0.4|0.4.48|0_4_48|
 |geoclue2|2.6.0|2.7.1|
 |geoipupdate|6.1.0|7.0.1|
-|geos|3.7.3|3.12.1|
+|geos|3.7.3|3.12.2|
 |getdns|1.6.0|1.7.3|
 |gexiv2|0.14.0|0.14.2|
 |gfm|1.07|1.08|
@@ -690,7 +690,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |graphene|1.10.2|1.10.8|
 |graphviz|10.0.1|11.0.0|
 |greenlet|1.1.2|3.0.3|
-|greetd|0.9.0|0.10.0|
+|greetd|0.9.0|0.10.1|
 |greetd-gtkgreet|0.8|0.5|Possible downgrade from the current version (0.8   0.5)|
 |grep|3.8|3.11|
 |greybird|3.22.12|3.23.3|
@@ -786,7 +786,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hyper-h2|4.0.0|4.1.0|
 |hyperframe|6.0.0|6.0.1|
 |hyperlink|19.0.0|21.0.0|
-|hypothesis-python|6.97.4|6.103.0|
+|hypothesis-python|6.97.4|6.103.1|
 |hysteria|2.4.0|2.4.5|
 |i2c-tools|4.1|4.3|
 |i2pd|2.41.0|2.52.0|
@@ -1587,7 +1587,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lxc|5.0.2|6.0.0|
 |lxcfs|3.0.3|6.0.0|
 |lxgwcleargothic-font|0.300.4|0.311.3|
-|lxgwnewcleargothic-font|1.121|1.123.1|
+|lxgwnewcleargothic-font|1.121|1.123.2|
 |lxml|4.7.1|4.9.1|
 |lxpanel|0.9.3|0.10.1|
 |lxterminal|0.3.2|0.4.0|
@@ -1626,7 +1626,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mathemagics-trinity|14.1.0|14.1.2|
 |mathjax|2.7.5|3.2.2|
 |matplotlib|3.8.0|3.9.0|
-|maturin|1.4.0|1.5.1|
+|maturin|1.4.0|1.6.0|
 |mawk|1.3.4<br>+20190203|1.3.4-20240123|Compound version number '1.3.4+20190203'|
 |maxima|5.46.0|5.47.0|
 |mbedtls|2.16.7|3.6.0|
@@ -1916,7 +1916,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pep517|0.12.0|0.13.1|
 |perl|5.36.3|5.38.2|
 |perl+32|999|5.38.2|Possible downgrade from the current version (999   5.38.2)|
-|perl-alien-build|1.92|2.80|
+|perl-alien-build|1.92|2.83|
 |perl-alien-libxml2|0.11|0.19|
 |perl-anyevent|7.14|7.17|
 |perl-anyevent-i3|0.17|0.19|
