@@ -161,7 +161,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |borgbackup|1.1.17|1.2.8|
 |botan|1.10.17|3.4.0|
 |botan-2|2.12.1|3.4.0|
-|boto3|1.20.26|1.34.119|
+|boto3|1.20.26|1.34.120|
 |bottle|0.12.18|0.12.25|
 |bottles|2022.2.28<br>+trento<br>+4|51.11|Compound version number '2022.2.28+trento+4'<br>Possible downgrade from the current version (2022.2.28+trento+4   51.11)|
 |bovo|23.08.5|24.05.0|
@@ -362,7 +362,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |docbook-dtd|4.5|5.1|
 |docbook-sgml|0|4.5|
 |docbook-xml|0|5.1|
-|docker|25.0.3<br>+tini0.19.0|26.1.3|Compound version number '25.0.3+tini0.19.0'|
+|docker|25.0.3<br>+tini0.19.0|26.1.4|Compound version number '25.0.3+tini0.19.0'|
 |docker-compose|2.24.6|2.27.1|
 |docutils|0.20.1|0.21.2|
 |dolphin|23.08.5|24.05.0|
@@ -449,6 +449,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |faad2|2.10.0|2.11.1|
 |faad2+32|2.10.0|2.11.1|
 |facile|1.1.3|1.1.4|
+|fakeroot|1.34|1.35|
 |falkon|23.08.5|24.05.0|
 |fann|20190109|2.2.0|Possible downgrade from the current version (20190109   2.2.0)|
 |fasteners|0.18|0.19|
@@ -1402,7 +1403,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libpano13|2.9.19|2.9.22|
 |libpcap+32|1.10.1|1.10.4|
 |libpeas|1.32.0|2.0.2|
-|libphonenumber|8.12.17|8.13.37|
+|libphonenumber|8.12.17|8.13.38|
 |libpinyin|2.6.0|2.8.1|
 |libpipeline|1.5.3|1.5.7|
 |libplist|2.3.0|2.6.0|
@@ -1420,7 +1421,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libquotient|0.8.1.2|0.8.2|
 |libraw|0.20.0|0.21.2|
 |librcc|0.2.12|0.2.13|
-|libreoffice|7.5.4.2|24.2.4.1|
+|libreoffice|7.5.4.2|24.2.4.2|
 |librevenge|0.0.4|0.0.5|
 |librsvg|2.56.1|2.58.91|
 |librsvg+32|2.40.21|2.58.91|
@@ -1527,6 +1528,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libzip|1.5.2|1.10.1|
 |liferea|1.13.8|1.15.6|
 |light-locker|1.8.0|1.9.0|
+|lightdm-settings|2.0.2|2.0.3|
 |lightsoff|40.0.1|46.0|
 |lighttpd|1.4.55|1.4.76|
 |lilv|0.24.12|0.24.24|
