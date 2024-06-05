@@ -91,7 +91,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |aspnetcore-targeting-pack-6.0|6.0.30|6.0.31|
 |aspnetcore-targeting-pack-8.0|8.0.5|8.0.6|
 |assimp|5.4.0|5.4.1|
-|ast-grep|0.22.5|0.22.6|
 |astroid|2.12.2|3.2.2|
 |astrometry.net|0.94|0.95|
 |at-spi2-atk+32|2.26.3|2.38.0|
@@ -236,6 +235,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cinnamon-translations|5.8.1|6.0.2|
 |cjs|5.8.0|6.0.0|
 |clamav|1.3.0|1.3.1|
+|clash-verge-rev|1.6.4|1.6.5|
 |cldr-emoji-annotation|37.0<br>+13.0<br>+0<br>+2|37.0_13.0_0_2|Compound version number '37.0+13.0+0+2'|
 |cleo|2.0.1|2.1.0|
 |cli-helpers|1.1.0|2.3.1|
@@ -2756,7 +2756,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |varnish|6.3.2|7.5.0|
 |vasm|1.9f|1.9.f|
 |vba-m|2.1.8|2.1.9|
-|vde2|2.3.2|2.3.3|
 |vdpauinfo|1.0|1.5|
 |verdict|1.4.1|1.4.2|
 |verilator|4.204|5.024|
@@ -2819,6 +2818,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |wireguard|1|0.0.20191219|Possible downgrade from the current version (1   0.0.20191219)|
 |wireless-tools|30.pre9|29|Possible downgrade from the current version (30.pre9   29)|
 |wmutils|20170223|1.7|Possible downgrade from the current version (20170223   1.7)|
+|wolfssl|5.7.0|5.7.0-stable|Possible downgrade from the current version (5.7.0   5.7.0-stable)|
 |wpebackend-fdo|1.12.1|1.14.2|
 |wqy-unibit|1.1.0|4.3.0|
 |wrapt|1.11.2|1.16.0|
