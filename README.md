@@ -1279,7 +1279,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libdwarf|20210305|0.9.2|Possible downgrade from the current version (20210305   0.9.2)|
 |libe-book|0.1.2|0.1.3|
 |libebml|1.4.0|1.4.5|
-|libeconf|0.5.0|0.6.3|
+|libeconf|0.5.0|0.7.0|
 |libedit|20191231<br>+3.1|20240517-3.1|Compound version number '20191231+3.1'|
 |libepoxy+32|1.2|1.5.10|
 |libepubgen|0.1.0|0.1.1|
@@ -1363,7 +1363,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |liblangtag|0.6.3|0.6.7|
 |libliftoff|0.4.1|0.5.0|
 |liblo|0.29|0.32|
-|liblouis|3.12.0|3.29.0|
+|liblouis|3.12.0|3.30.0|
 |libltc|1.3.1|1.3.2|
 |libluv|1.47.0<br>+0|1.48.0-2|Compound version number '1.47.0+0'|
 |libmanette|0.2.6|0.2.7|
@@ -1645,9 +1645,9 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |menulibre|2.2.1|2.4.0|
 |menumaker|0.99.12|0.99.14|
 |merkuro|23.08.5|24.05.0|
-|mesa|24.0.7<br>+dxheaders1.613.1|24.1.0|Compound version number '24.0.7+dxheaders1.613.1'|
-|mesa+32|22.1.7|24.1.0|
-|mesa-amber|21.3.9|24.1.0|
+|mesa|24.0.7<br>+dxheaders1.613.1|24.1.1|Compound version number '24.0.7+dxheaders1.613.1'|
+|mesa+32|22.1.7|24.1.1|
+|mesa-amber|21.3.9|24.1.1|
 |meson|1.4.0|1.4.1|
 |messagelib|23.08.5|24.05.0|
 |metacity|3.44.0|3.46.0|
