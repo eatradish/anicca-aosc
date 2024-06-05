@@ -407,7 +407,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dulwich|0.21.6|0.22.1|
 |dune|3.4.1|3.15.3|
 |duplicity|2.2.2|3.0.0|
-|e2fsprogs|1.47.0|1.47.1|
 |easy-rsa|3.0.8|3.2.0|
 |ecl|23.9.9|24.5.10|
 |editables|0.3|0.5|
@@ -672,7 +671,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |goffice|0.10.48|0.10.57|
 |goldendict|1.5.0~rc2|1.5.0|
 |gom|0.4|0.5.1|
-|google-api-python-client|1.7.11|2.131.0|
+|google-api-python-client|1.7.11|2.132.0|
 |google-auth|1.6.3|2.29.0|
 |google-auth-httplib2|0.0.4|0.2.0|
 |gpac|2.2.1|2.4.0|
@@ -2804,7 +2803,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |weka|3.9.2|8.0.0|
 |werkzeug|1.0.1|3.0.3|
 |wesnoth|1.16.10|1.19.0|
-|weston|13.0.0|13.0.2|
+|weston|13.0.0|13.0.3|
 |wezterm|20240203<br>+110809<br>+5046fc22|20240203-110809-5046fc22|Compound version number '20240203+110809+5046fc22'|
 |wheel|0.42.0|0.43.0|
 |wheezy.template|3.1.0|3.2.2|
