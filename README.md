@@ -1264,7 +1264,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libcork|1.0.0~rc3|0.15.0|Possible downgrade from the current version (1.0.0~rc3   0.15.0)|
 |libcpuid|0.5.1|0.6.5|
 |libcuckoo|0.3|0.3.1|
-|libdc1394|2.2.6|2.2.7|
 |libde265|1.0.8|1.0.15|
 |libdecor|0.1.1|0.2.2|
 |libdeflate|1.19|1.20|
@@ -2790,11 +2789,11 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vulkan-loader+32|1.3.272|1.3.285|
 |vulkan-tools|1.3.280.0|1.3.283|
 |vulkan-tools+32|1.3.227|1.3.283|
-|vulkan-utility-libraries|1.3.280.0|1.3.285|
+|vulkan-utility-libraries|1.3.280.0|1.3.286|
 |vulkan-validationlayers|1.3.280.0|1.3.285|
 |warpinator|1.6.3|1.8.3|
 |warzone2100|4.1.3|4.4.2|
-|watchman|4.9.0|2024.05.27.00|
+|watchman|4.9.0|2024.06.03.00|
 |wavpack|5.2.0|5.7.0|
 |wavpack+32|5.2.0|5.7.0|
 |wayland|1.22.0|1.23.0|
@@ -2839,6 +2838,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xa|2.4.0|2.4.1|
 |xalan-c|1.12|1.12.0|
 |xapian-core|1.4.18|1.4.25|
+|xapps|2.8.2|2.8.3|
 |xarchiver|0.5.4.15|0.5.4.23|
 |xcalibrate|0.9<br>+git20200330|0.9|Compound version number '0.9+git20200330'<br>Version number indicates a snapshot (+git) is used|
 |xcb-imdkit|1.0.8|1.0.9|
