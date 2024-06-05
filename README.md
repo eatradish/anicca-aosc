@@ -2304,6 +2304,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qwt5|6.1.5|6.3.0|
 |qzdl|3.2.2.3<br>+git20210516|3.2.2.3|Compound version number '3.2.2.3+git20210516'<br>Version number indicates a snapshot (+git) is used|
 |ragel|6.10|7.0.4|
+|random2|1.0.1|1.0.2|
 |rapidfuzz|3.2.0|3.1.1|Possible downgrade from the current version (3.2.0   3.1.1)|
 |rapidfuzz-cpp|2.0.0|3.0.4|
 |raptor2|2.0.15|2.0.16|
@@ -2804,7 +2805,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |weka|3.9.2|8.0.0|
 |werkzeug|1.0.1|3.0.3|
 |wesnoth|1.16.10|1.19.0|
-|weston|13.0.0|13.0.1|
+|weston|13.0.0|13.0.2|
 |wezterm|20240203<br>+110809<br>+5046fc22|20240203-110809-5046fc22|Compound version number '20240203+110809+5046fc22'|
 |wheel|0.42.0|0.43.0|
 |wheezy.template|3.1.0|3.2.2|
