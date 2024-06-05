@@ -73,6 +73,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |arc-kde|20180614|20220908|
 |arch-install-scripts|28<br>+mirrorlist20231113<br>+pacman6.0.1|28|Compound version number '28+mirrorlist20231113+pacman6.0.1'|
 |arduino-avr-core|1.8.3|1.8.6|
+|argparse-manpage|4.5|4.6|
 |argyllcms|3.1.0|3.2.0|
 |arianna|23.08.5|24.05.0|
 |ark|23.08.5|24.05.0|
@@ -336,7 +337,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dex|0.8.0|0.9.0|
 |dfu-util|0.10|0.11|
 |dhcp|4.4.3.P1|4.4.3-P1|
-|dhcpcd|9.2.0|10.0.8|
 |dia|0.97.3|1|
 |dialog|1.3<br>+20191110|1.3-20230209|Compound version number '1.3+20191110'|
 |dieharder|3.31.1|3.31.1_20110601-1|
@@ -608,7 +608,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |glibc+32|2.38|2.39|
 |glibmm|2.66.2|2.80.0|
 |glibmm-2.68|2.78.0|2.80.0|
-|glm|0.9.9.8|1.0.1|
 |glog|0.3.5|0.7.0|
 |gloox|1.0.27|1.0.28|
 |glslang|13.1.1|14.2.0|
@@ -2860,7 +2859,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xf86-video-intel|2.99.917<br>+git20210115|2.99.917|Compound version number '2.99.917+git20210115'<br>Version number indicates a snapshot (+git) is used|
 |xf86-video-r128|6.12.1|6.9.7|Possible downgrade from the current version (6.12.1   6.9.7)|
 |xfce4-screenshooter|1.10.5|1.10.6|
-|xfsprogs|6.7.0|6.8.0|
 |xine-ui|0.99.12|0.99.14|
 |xinetd|2.3.15|2.3.15.4|
 |xjadeo|0.8.13|0.8.14|
@@ -2879,7 +2877,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xss-lock|0.3.0<br>+git20140302|0.3.0|Compound version number '0.3.0+git20140302'<br>Version number indicates a snapshot (+git) is used|
 |xterm|390|392|
 |xviewer|3.0.2|3.4.4|
-|xwayland|23.2.6|24.1.0|
 |xxhash|0.8.1|0.8.2|
 |xz+32|5.4.1|5.6.2|
 |yad|0.40.0|13.0|
