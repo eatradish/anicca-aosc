@@ -839,7 +839,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |iperf3|3.16|3.17.1|
 |ipmitool|1.8.18|1_8_19|
 |iproute2|6.8.0|6.9.0|
-|ipset|7.1|7.21|
+|ipset|7.1|7.22|
 |ipt2socks|1.1.3|1.1.4|
 |iptables|1.8.8|1.8.10|
 |iptraf-ng|1.1.4|1.2.1|
