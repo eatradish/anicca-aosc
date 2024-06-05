@@ -1222,7 +1222,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |levenshtein|0.12.0|0.25.1|
 |lib3mf|2.2.0|2.3.1|
 |libaacs|0.11.0|0.11.1|
-|libaal|1.0.7|24"|
 |libaccounts-glib|1.24|1.27|
 |libaccounts-qt|1.16|1.17|
 |libadwaita|1.5.0|1.5.1|
