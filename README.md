@@ -1783,8 +1783,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |numix-icon-theme-circle|20160927|24.04.22|Possible downgrade from the current version (20160927   24.04.22)|
 |nut|2.7.4|2.8.2|
 |nvchecker|1.5|2.15.1|
-|nvidia|550.54.14|555.42.02|
-|nvidia+32|0|555.42.02|
+|nvidia|550.54.14|555.52.04|
+|nvidia+32|0|555.52.04|
 |ocaml|4.14.2|5.2.0|
 |ocaml-cmdliner|1.2.0|1.3.0|
 |ocaml-csexp|1.5.1|1.5.2|
