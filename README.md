@@ -407,6 +407,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dulwich|0.21.6|0.22.1|
 |dune|3.4.1|3.15.3|
 |duplicity|2.2.2|3.0.0|
+|e2fsprogs|1.47.0|1.47.1|
 |easy-rsa|3.0.8|3.2.0|
 |ecl|23.9.9|24.5.10|
 |editables|0.3|0.5|
@@ -776,7 +777,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |httrack|3.49.2|3.49.5|
 |hub|2.14.2<br>+git20230617|2.14.2|Compound version number '2.14.2+git20230617'<br>Version number indicates a snapshot (+git) is used|
 |hugin|2022.0.0|2023.0.0|
-|hugo|0.126.1|0.126.3|
+|hugo|0.126.1|0.127.0|
 |humanize|0.5.1|4.9.0|
 |hunspell|1.7.0|1.7.2|
 |hyper-h11|0.12.0|0.14.0|
@@ -784,7 +785,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hyperframe|6.0.0|6.0.1|
 |hyperlink|19.0.0|21.0.0|
 |hypothesis-python|6.97.4|6.103.0|
-|hysteria|2.4.0|2.4.4|
+|hysteria|2.4.0|2.4.5|
 |i2c-tools|4.1|4.3|
 |i2pd|2.41.0|2.52.0|
 |i3status-rust|0.31.9|0.33.1|
@@ -2352,7 +2353,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rocr-runtime|6.0.2|6.1.1|
 |rocs|23.08.5|24.05.0|
 |roct-thunk-interface|6.0.0|6.1.1|
-|rosegarden|20.12|23.12|
+|rosegarden|20.12|24.06|
 |rosegarden-trinity|14.1.0|14.1.2|
 |rpcsvc-proto|1.4.2|1.4.4|
 |rpm|4.18.0|4.19.1.1-release|
