@@ -1799,7 +1799,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ocrmypdf|11.7.0|16.3.1|
 |ocserv|1.1.2|1.3.0|
 |octave|9.1.0|9.2.0|
-|ofono|1.30|2.7|
+|ofono|1.30|2.8|
 |okteta|0.26.9|0.26.15|
 |okular|23.08.5|24.05.0|
 |olefile|0.46|0.47|
@@ -2774,6 +2774,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vkd3d|1.9|1.12|
 |vkd3d+32|1.9|1.12|
 |vkmark|2017.08<br>+git20230412|2017.08|Compound version number '2017.08+git20230412'<br>Version number indicates a snapshot (+git) is used|
+|vlc|3.0.20|3.0.21|
 |vmpk|0.8.0|0.9.0|
 |vnstat|2.4|2.12|
 |volk|2.5.0|3.1.2|
