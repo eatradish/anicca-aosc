@@ -332,7 +332,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |deluge|2.1.1|2.0.5|Possible downgrade from the current version (2.1.1   2.0.5)|
 |deno|1.31.3|1.44.0|
 |dephell-specifier|0.2.2|0.3.0|
-|deploykit-gui|0.3.5|test-ci|Versions not comparable: `0.3.5` and `test-ci`|
+|deploykit-backend|0.2.5|0.2.4|Possible downgrade from the current version (0.2.5   0.2.4)|
+|deploykit-gui|0.4.3|test-ci|Versions not comparable: `0.4.3` and `test-ci`|
 |devhelp|41.2|43.0|
 |dex|0.8.0|0.9.0|
 |dfu-util|0.10|0.11|
@@ -828,6 +829,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |iniparser|4.1|4.2.2|
 |inkscape|1.3.2|1_3_2|
 |intel-compute-runtime|24.17.29377.6|24.17.29377.8|
+|intel-gmmlib|22.3.19|22.3.20|
 |intel-graphics-compiler|1.0.16695.4|1.0.16900.3|
 |intel-media-driver|24.1.5|24.2.4|
 |inxi|3.3.31<br>+2|3.3.31-2|Compound version number '3.3.31+2'|
