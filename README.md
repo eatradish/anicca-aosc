@@ -1619,7 +1619,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |markdown|3.3.4|3.6|
 |markdownpart|23.08.5|24.05.0|
 |markupsafe|2.1.1|2.1.5|
-|marshmallow|3.20.2|3.21.2|
+|marshmallow|3.20.2|3.21.3|
 |mat2|0.13.0|0.6.1|Possible downgrade from the current version (0.13.0   0.6.1)|
 |mate-control-center|1.28.0|1.28.1|
 |materialx|1.38.8|1.38.10|
@@ -1935,6 +1935,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-common-sense|3.74|3.75|
 |perl-config-file|1.50|1.54|
 |perl-convert-asn1|0.27|0.34|
+|perl-crypt-openssl-guess|0.11|0.15|
 |perl-crypt-openssl-random|0.15|0.16|
 |perl-crypt-ssleay|0.73<br>+06|0.72|Compound version number '0.73+06'<br>Possible downgrade from the current version (0.73+06   0.72)|
 |perl-data-dump|1.23|1.25|
@@ -2356,6 +2357,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rocminfo|6.0.2|6.1.1|
 |rocr-runtime|6.0.2|6.1.1|
 |rocs|23.08.5|24.05.0|
+|roct-thunk-interface|6.0.0|6.1.1|
 |rosegarden|20.12|24.06|
 |rosegarden-trinity|14.1.0|14.1.2|
 |rpcsvc-proto|1.4.2|1.4.4|
