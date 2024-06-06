@@ -15,6 +15,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ack|3.2.0|3.7.0|
 |acl|2.3.1|2.3.2|
 |acl+32|2.2.52|2.3.2|
+|acme|2.10.0|2.11.0|
 |adobe-source-code-pro|2.042|2.042-u/1.062-i/1.026-vf|Possible downgrade from the current version (2.042   2.042-u/1.062-i/1.026-vf)|
 |adobe-source-han-sans|2.004|2.004R|Possible downgrade from the current version (2.004   2.004R)|
 |adobe-source-han-serif|2.002|2.002R|Possible downgrade from the current version (2.002   2.002R)|
@@ -250,7 +251,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cloud-init|24.1.4<br>+git20240513|24.1.6|Compound version number '24.1.4+git20240513'<br>Version number indicates a snapshot (+git) is used|
 |clucene|2.3.3.4<br>+git20130812|2.3.3.4|Compound version number '2.3.3.4+git20130812'<br>Version number indicates a snapshot (+git) is used|
 |clzip|1.10|1.14|
-|cmake|3.29.3|3.29.4|
+|cmake|3.29.3|3.29.5|
 |cmark|0.30.3|0.31.0|
 |cmus|2.9.1|2.10.0|
 |cock|0.6.0|0.11.0|
@@ -1710,7 +1711,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |multipath-tools|0.9.3|0.9.8|
 |munkres|1.0.12|release-1.1.4|
 |muparser|2.2.6.1|2.3.4|
-|mupdf|1.18.0|1.24.2|
+|mupdf|1.18.0|1.24.3|
 |musescore|4.3.0|4.3.1|
 |mutter|42.4|46.2|
 |mxml|3.2|4.0.3|
@@ -2705,7 +2706,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ttf-tibetan-machine-unicode|1.901b|1.901|
 |ttf-vlgothic|20200720|20220612|
 |ttyd|1.6.3|1.7.7|
-|tuned|2.19.0|2.22.1|
+|tuned|2.19.0|2.23.0|
 |twin-style-machbunt|14.1.0|14.1.2|
 |twisted|21.2.0|24.3.0|
 |twm|1.0.11|1.0.12|
