@@ -512,6 +512,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fontconfig|2.14.0|2.15.0|
 |fontconfig+32|2.14.0|2.15.0|
 |fonttools|4.47.2|4.53.0|
+|foolscap|0.13.2|23.11.0|
 |fortune-mod|3.6.1|3.20.0|
 |fping|5.1|5.2|
 |fprintd|1.94.2|1.94.3|
@@ -564,6 +565,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gdbm+32|1.11|1.23|
 |gdk-pixbuf+32|2.38.2|2.42.12|
 |gdm|42.0|46.2|
+|gdmd|0.1.0<br>+git20230214|script-0.1.0|Compound version number '0.1.0+git20230214'<br>Version number indicates a snapshot (+git) is used<br>Possible downgrade from the current version (0.1.0+git20230214   script-0.1.0)|
 |gdome2|0.8.1<br>+debian|0.8.1|Compound version number '0.8.1+debian'|
 |geany|2.0|2.0.0|
 |geany-plugins|2.0|2.0.0|
@@ -715,6 +717,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gssproxy|0.8.2|0.9.2|
 |gst-libav-1-0+32|1.16.2|1.24.4|
 |gst-plugins-bad-1-0+32|1.16.2|1.24.4|
+|gst-plugins-base-1-0+32|1.16.2|1.24.4|
 |gst-plugins-good-1-0+32|1.16.2|1.24.4|
 |gst-plugins-ugly-1-0+32|1.16.2|1.24.4|
 |gstreamer|1.24.3|1.24.4|
@@ -2473,6 +2476,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sniffio|1.3.0|1.3.1|
 |snowball|2.1.0|2.2.0|
 |snowballstemmer|1.2.1|2.2.0|
+|soci|4.0.1|4.0.3|
 |sof-firmware|2.2.3|2.8.1|
 |sof-tools|2.2.3|2.8.1|
 |sofia-sip|1.12.11|1.13.17|
@@ -2553,7 +2557,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sunpinyin|3.0.0~rc1|2.0.3-rel-1|Possible downgrade from the current version (3.0.0~rc1   2.0.3-rel-1)|
 |sunshine|0.23.0|2024.601.193044|
 |sunxi-tools|1.4.2<br>+git20220729|1.4.2|Compound version number '1.4.2+git20220729'<br>Version number indicates a snapshot (+git) is used|
-|superslicer|2.5.59.11|2.5.59.10|Possible downgrade from the current version (2.5.59.11   2.5.59.10)|
 |sushi|42.0|46.0|
 |svgpart|23.08.5|24.05.0|
 |sweeper|23.08.5|24.05.0|
