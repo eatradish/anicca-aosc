@@ -2217,7 +2217,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pylast|3.0.0|5.3.0|
 |pylev|1.3.0|1.4.0|
 |pylibacl|0.5.4|0.7.0|
-|pylint|2.14.4|3.2.2|
+|pylint|2.14.4|3.2.3|
 |pymarkups|3.0.0|4.0.0|
 |pymediainfo|5.0.3|6.1.0|
 |pymysql|0.9.3|1.1.1|
