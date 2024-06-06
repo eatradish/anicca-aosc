@@ -2676,7 +2676,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |toposort|1.8|1.10|
 |tor|0.4.7.14|0.4.8.12|
 |tork-trinity|14.1.0|14.1.2|
-|tornado|5.1|6.4|
+|tornado|5.1|6.4.1|
 |totem|42.0|43.0|
 |toxcore|0.2.18|0.2.19|
 |tpm-tools|1.3.9.1|1.3.9.2|
