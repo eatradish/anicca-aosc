@@ -61,7 +61,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |aosc-media-writer|0.3.4|5.0.9|
 |aosc-xdg-menu|20200412|20160217|Possible downgrade from the current version (20200412   20160217)|
 |apicula|0.9.1|0.12|
-|apitrace|11.1|12.0|
 |apparmor|3.0.8|3.1.7|
 |appstream|0.16.0|1.0.3|
 |appstream-glib|0.7.18|0_8_2|
@@ -227,6 +226,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |chmlib|0.40a|0.40|
 |chntpw|1.1|140201|
 |chromaprint|1.5.0|1.5.1|
+|ciel|3.2.6|3.2.5|Possible downgrade from the current version (3.2.6   3.2.5)|
 |cifs-utils|6.10|7.0|
 |cinnamon|5.8.3|6.0.4|
 |cinnamon-control-center|5.8.1|6.0.1|
@@ -1636,7 +1636,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mbox-importer|23.08.5|24.05.0|
 |mbpfan|2.2.1|2.4.0|
 |mccabe|0.6.1|0.7.0|
-|mcfly|0.8.6|0.9.0|
 |mcomix|1.2.1|3.1.0|
 |mdadm|4.2|4.3|
 |mdbook|0.4.14|0.4.40|
@@ -2302,6 +2301,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qsynth|0.5.6|0.9.91|
 |qt-5|5.15.13<br>+webengine5.15.16<br>+webkit5.212.0<br>+kde20240408|5.15.14-lts-lgpl|Compound version number '5.15.13+webengine5.15.16+webkit5.212.0+kde20240408'|
 |qt4-tqt-theme-engine-trinity|14.1.0|14.1.2|
+|qtcreator|13.0.1|13.0.2|
 |qtkeychain|0.13.2|0.14.3|
 |qtpy|2.1.0|2.4.1|
 |qtractor|0.9.23|0.9.91|
