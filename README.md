@@ -230,7 +230,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |chmlib|0.40a|0.40|
 |chntpw|1.1|140201|
 |chromaprint|1.5.0|1.5.1|
-|ciel|3.2.6|3.2.5|Possible downgrade from the current version (3.2.6   3.2.5)|
 |cifs-utils|6.10|7.0|
 |cinnamon|5.8.3|6.0.4|
 |cinnamon-control-center|5.8.1|6.0.1|
@@ -251,7 +250,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |clipit|1.4.2|1.4.5|
 |cln|1.3.6|1.3.7|
 |cloc|1.84|2.00|
-|cloud-init|24.1.4<br>+git20240513|24.1.6|Compound version number '24.1.4+git20240513'<br>Version number indicates a snapshot (+git) is used|
+|cloud-init|24.1.4<br>+git20240513|24.1.7|Compound version number '24.1.4+git20240513'<br>Version number indicates a snapshot (+git) is used|
 |clucene|2.3.3.4<br>+git20130812|2.3.3.4|Compound version number '2.3.3.4+git20130812'<br>Version number indicates a snapshot (+git) is used|
 |clzip|1.10|1.14|
 |cmake|3.29.3|3.29.5|
@@ -260,7 +259,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cock|0.6.0|0.11.0|
 |cockpit|286.1|317|
 |cockpit-machines|284.1|313|
-|cockpit-podman|63|88|
+|cockpit-podman|63|89|
 |code-server|4.9.1|4.89.1|
 |codeine-trinity|14.1.0|14.1.2|
 |coin|4.0.0<br>+git20220828|4.0.0|Compound version number '4.0.0+git20220828'<br>Version number indicates a snapshot (+git) is used|
@@ -273,7 +272,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |composer|2.0.13|2.7.6|
 |concurrencykit|0.7.1|0.7.2|
 |configobj|5.0.6|5.0.8|
-|configparser|3.7.3|3.12.3|
+|configparser|3.7.3|3.12.4|
 |confuse|3.2.2|3.3|
 |conky|1.10.8|1.21.2|
 |conmon|2.1.10|2.1.12|
@@ -808,7 +807,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ibus-sunpinyin|3.0.0~rc1|2.0.3-rel-1|Possible downgrade from the current version (3.0.0~rc1   2.0.3-rel-1)|
 |ibus-table|1.14.1|1.17.4|
 |icdiff|1.9.5|2.0.7|
-|icewm|1.8.3|3.5.0|
+|icewm|1.8.3|3.5.1|
 |icewm-themes|1.2.26|1.2.26.orig|Possible downgrade from the current version (1.2.26   1.2.26.orig)|
 |icu|64.2|75-1|
 |icu+32|64.2|75-1|
