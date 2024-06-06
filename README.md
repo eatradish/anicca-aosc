@@ -1330,7 +1330,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libidn2|2.3.0|2.3.7|
 |libime|1.1.7|1.1.8|
 |libindi|2.0.5|2.0.8|
-|libinput|1.24.0|1.25.0|
+|libinput|1.24.0|1.26.0|
 |libintl-perl|1.29|1.33|
 |libipset|1.1.1<br>+git20150311|1.1.1|Compound version number '1.1.1+git20150311'<br>Version number indicates a snapshot (+git) is used|
 |libiscsi|1.18.0|1.20.0|
@@ -2352,14 +2352,14 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rng-tools|6.7|6.17|
 |robin-hood-hashing|3.11.4|3.11.5|
 |rockbox-utility|3.15<br>+final|3.15-final|Compound version number '3.15+final'|
-|rocm-bandwidth-test|6.0.2|6.1.1|
-|rocm-cmake|6.0.2|6.1.1|
-|rocm-llvm|6.0.2|6.1.1|
-|rocm-smi-lib|6.0.2|6.1.1|
-|rocminfo|6.0.2|6.1.1|
-|rocr-runtime|6.0.2|6.1.1|
+|rocm-bandwidth-test|6.0.2|6.1.2|
+|rocm-cmake|6.0.2|6.1.2|
+|rocm-llvm|6.0.2|6.1.2|
+|rocm-smi-lib|6.0.2|6.1.2|
+|rocminfo|6.0.2|6.1.2|
+|rocr-runtime|6.0.2|6.1.2|
 |rocs|23.08.5|24.05.0|
-|roct-thunk-interface|6.0.0|6.1.1|
+|roct-thunk-interface|6.0.0|6.1.2|
 |rosegarden|20.12|24.06|
 |rosegarden-trinity|14.1.0|14.1.2|
 |rpcsvc-proto|1.4.2|1.4.4|
