@@ -94,7 +94,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |assimp|5.4.0|5.4.1|
 |astroid|2.12.2|3.2.2|
 |astrometry.net|0.94|0.95|
-|astyle|3.4.16|3.5|
 |at-spi2-atk+32|2.26.3|2.38.0|
 |at-spi2-core+32|2.26.3|2.52.0|
 |atk+32|2.26.1|2.38.0|
@@ -115,7 +114,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |automake|1.16i|1.16.5|
 |automat|20.2.0|22.10.0|
 |autopep8|1.5.6|2.2.0|
-|autossh|1.4f|1.4g|
 |avahi-tqt|14.1.0|14.1.2|
 |avogadrolibs|1.95.1|1.99.0|
 |avr-binutils|2.37|2.42|
@@ -2524,7 +2522,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sqlite+32|3.32.3|3.46.0|
 |sqlite-fdw|2.1.0|2.4.0|
 |sqlitebrowser|3.12.1|83649a3-3357|
-|sqlmap|1.8.5|1.8.6|
 |sqlparse|0.4.1|0.5.0|
 |squashfs-tools|4.5|4.6.1|
 |squashfuse|0.1.105|0.5.2|
@@ -2677,7 +2674,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |toolbelt|0.9.1|1.0.0|
 |topgrade|11.0.2|14.0.1|
 |toposort|1.8|1.10|
-|tor|0.4.7.14|0.4.8.11|
+|tor|0.4.7.14|0.4.8.12|
 |tork-trinity|14.1.0|14.1.2|
 |tornado|5.1|6.4|
 |totem|42.0|43.0|
@@ -2766,6 +2763,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |varnish|6.3.2|7.5.0|
 |vasm|1.9f|1.9.f|
 |vba-m|2.1.8|2.1.9|
+|vc|1.4.4|1.4.5|
 |vdpauinfo|1.0|1.5|
 |verdict|1.4.1|1.4.2|
 |verilator|4.204|5.024|
@@ -2774,7 +2772,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vice|3.5|3.8|
 |vicious|2.3.3|2.7.0|
 |vid.stab|0.98b|1.1.1|
-|vim|9.1.0446|9.1.0466|
+|vim|9.1.0446|9.1.0470|
 |virglrenderer|0.10.4|1.0.1|
 |virtualenv|20.25.0|20.26.2|
 |virtualgl+32|2.5.2|3.1.1|
