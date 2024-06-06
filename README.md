@@ -211,6 +211,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cdrdao|1.2.4|1.2.5|
 |celluloid|0.18|0.26|
 |cerberus|1.3.2|1.3.5|
+|certbot-dns-cloudflare|2.10.0|2.11.0|
 |cervisia|23.08.5|24.05.0|
 |cffi|1.15.0|1.16.0|
 |cfitsio|3.450|4.4.0|
@@ -2118,11 +2119,12 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |plymouth-kcm|5.27.11|6.0.5|
 |pmac-utils|1.1.3|1.1.3.orig|Possible downgrade from the current version (1.1.3   1.1.3.orig)|
 |pngquant|2.12.6|3.0.3|
+|pnpm|9.1.4|9.2.0|
 |po-debconf|1.0.21|1.0.21+nmu1|Possible downgrade from the current version (1.0.21   1.0.21+nmu1)|
 |po4a|0.63|0.72|
 |pocketsphinx|5~prealpha|0.8|Possible downgrade from the current version (5~prealpha   0.8)|
 |podcastparser|0.6.5|0.6.10|
-|podman|4.9.3<br>+vsock0.7.2|5.1.0|Compound version number '4.9.3+vsock0.7.2'|
+|podman|4.9.3<br>+vsock0.7.2|5.1.1|Compound version number '4.9.3+vsock0.7.2'|
 |podofo|0.9.6|0.10.3|
 |poedit|3.4.1|3.4.4-oss|
 |poetry|1.6.1|1.8.3|
