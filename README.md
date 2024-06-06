@@ -94,6 +94,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |assimp|5.4.0|5.4.1|
 |astroid|2.12.2|3.2.2|
 |astrometry.net|0.94|0.95|
+|astyle|3.4.16|3.5|
 |at-spi2-atk+32|2.26.3|2.38.0|
 |at-spi2-core+32|2.26.3|2.52.0|
 |atk+32|2.26.1|2.38.0|
@@ -1904,7 +1905,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pcl|1.13.1|1.12|Possible downgrade from the current version (1.13.1   1.12)|
 |pcp|6.0.1|6.2.2|
 |pcre|8.44|8.45|
-|pcre+32|8.44|8.45|
 |pcre-static|8.44|8.45|
 |pcsc-perl|1.4.14|1.4.16|
 |pcsclite|1.9.9|2.2.3|
