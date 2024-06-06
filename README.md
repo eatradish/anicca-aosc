@@ -1809,6 +1809,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |oolite|1.90|1.91.0.7616-240527-f882b71|
 |open-iscsi|2.1.9|2.1.10|
 |open-isns|0.101|0.102|
+|open-rs|5.1.3|5.1.4|
 |open-vm-tools|12.3.5|12.4.0|
 |openblas|0.3.21<br>+git20221105|0.3.27|Compound version number '0.3.21+git20221105'<br>Version number indicates a snapshot (+git) is used|
 |opencascade|7.6.3|7.8.0|
@@ -1934,7 +1935,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-common-sense|3.74|3.75|
 |perl-config-file|1.50|1.54|
 |perl-convert-asn1|0.27|0.34|
-|perl-crypt-openssl-guess|0.11|0.15|
 |perl-crypt-openssl-random|0.15|0.16|
 |perl-crypt-ssleay|0.73<br>+06|0.72|Compound version number '0.73+06'<br>Possible downgrade from the current version (0.73+06   0.72)|
 |perl-data-dump|1.23|1.25|
@@ -2356,7 +2356,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rocminfo|6.0.2|6.1.1|
 |rocr-runtime|6.0.2|6.1.1|
 |rocs|23.08.5|24.05.0|
-|roct-thunk-interface|6.0.0|6.1.1|
 |rosegarden|20.12|24.06|
 |rosegarden-trinity|14.1.0|14.1.2|
 |rpcsvc-proto|1.4.2|1.4.4|
