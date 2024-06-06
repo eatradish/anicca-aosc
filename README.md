@@ -34,7 +34,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |akonadi-calendar-tools|23.08.5|24.05.0|
 |akonadi-contacts|23.08.5|24.05.0|
 |akonadi-import-wizard|23.08.5|24.05.0|
-|akonadi-mime|23.08.5|24.05.0|
 |akonadi-notes|23.08.5|24.05.0|
 |akonadi-search|23.08.5|24.05.0|
 |akonadiconsole|23.08.5|24.05.0|
@@ -630,7 +629,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-characters|42.0|46.0|
 |gnome-chess|42.1|46.0|
 |gnome-clocks|42.0|46.0|
-|gnome-color-manager|3.36.0|3_36_0|
 |gnome-connections|42.1.2|46.0|
 |gnome-contacts|42.0|46.0|
 |gnome-control-center|42.3|46.2|
@@ -752,7 +750,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hardinfo|0.5.1<br>+git20220724|0.5.1|Compound version number '0.5.1+git20220724'<br>Version number indicates a snapshot (+git) is used|
 |harfbuzz|8.4.0|8.5.0|
 |harfbuzz+32|2.6.7|8.5.0|
-|haruna|0.12.3|1.1.2|
 |harvid|0.8.3|0.9.1|
 |hatch-fancy-pypi-readme|22.8.0|24.1.0|
 |hatchling|1.21.1|1.12.0|Possible downgrade from the current version (1.21.1   1.12.0)|
@@ -1044,7 +1041,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kirigami-gallery|23.08.5|24.05.0|
 |kirigami2|5.115.0|6.0.90|
 |kiriki|23.08.5|24.05.0|
-|kitemmodels|5.115.0|6.0.90|
 |kitemviews|5.115.0|6.0.90|
 |kiten|23.08.5|24.05.0|
 |kitinerary|23.08.5|24.05.0|
@@ -1730,7 +1726,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ncbi-blast+|2.13.0|2.15.0+|
 |ncbi-vdb|3.0.2|3.1.1|
 |ncdu|1.16|2.4|
-|ncompress|4.2.4.6|5.0|
 |ndctl|72|79|
 |neatvnc|0.7.1|0.8.0|
 |nemo|5.8.3|6.0.2|
@@ -1905,6 +1900,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pcl|1.13.1|1.12|Possible downgrade from the current version (1.13.1   1.12)|
 |pcp|6.0.1|6.2.2|
 |pcre|8.44|8.45|
+|pcre+32|8.44|8.45|
 |pcre-static|8.44|8.45|
 |pcsc-perl|1.4.14|1.4.16|
 |pcsclite|1.9.9|2.2.3|
@@ -2181,7 +2177,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |purple-matrix|0.0.0<br>+git20210626|0.1.0|Compound version number '0.0.0+git20210626'<br>Version number indicates a snapshot (+git) is used|
 |purpose|5.115.0|6.0.90|
 |pv|1.6.20|1.8.9|
-|py-setproctitle|1.1.10|1.3.3|
 |pyaaf2|1.6.0|1.7.1|
 |pyacoustid|1.1.7|1.3.0|
 |pyasn1|0.4.8|0.6.0|
@@ -2554,6 +2549,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sunpinyin|3.0.0~rc1|2.0.3-rel-1|Possible downgrade from the current version (3.0.0~rc1   2.0.3-rel-1)|
 |sunshine|0.23.0|2024.601.193044|
 |sunxi-tools|1.4.2<br>+git20220729|1.4.2|Compound version number '1.4.2+git20220729'<br>Version number indicates a snapshot (+git) is used|
+|superslicer|2.5.59.11|2.5.59.10|Possible downgrade from the current version (2.5.59.11   2.5.59.10)|
 |sushi|42.0|46.0|
 |svgpart|23.08.5|24.05.0|
 |sweeper|23.08.5|24.05.0|
@@ -2714,7 +2710,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |typed-ast|1.4.3|1.5.5|
 |typing-extensions|4.7.1|4.12.1|
 |uboot-asahi|2023.07.02<br>+3|2024.04-1|Compound version number '2023.07.02+3'|
-|uboot-tools|2022.10|2024.04|
 |ubuntu-keyring|2021.03.26|2023.11.28.1|
 |uchardet|0.0.5|0.0.8|
 |ucx|1.15.0|1.16.0|
@@ -2871,7 +2866,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xinetd|2.3.15|2.3.15.4|
 |xjadeo|0.8.13|0.8.14|
 |xkeyboard-config|2.40|2.41|
-|xl2tpd|1.3.15|1.3.18|
 |xmlrpc-c|1.54.06|1.59.03|
 |xmlsec|1.2.36|1.3.4|
 |xournalpp|1.1.3|1.2.3|
