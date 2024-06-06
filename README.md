@@ -64,7 +64,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |apicula|0.9.1|0.12|
 |apparmor|3.0.8|3.1.7|
 |appstream|0.16.0|1.0.3|
-|appstream-glib|0.7.18|0_8_2|
+|appstream-glib|0.7.18|0_8_3|
 |apr|1.6.5|1.7.4|
 |apsw|3.30.1|3.46.0.0|
 |apt|2.6.1|2.7.14|
@@ -83,7 +83,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |artikulate|23.08.5|24.05.0|
 |arts|14.1.0|14.1.2|
 |asahi-common|20231113|20231113-aosc|Possible downgrade from the current version (20231113   20231113-aosc)|
-|asahi-fwextract|0.6.21|0.7.6|
+|asahi-fwextract|0.6.21|0.7.7|
 |asio|1.18.1|1.30.2|
 |asn1crypto|1.2.0|1.5.1|
 |aspell|0.60.8|0.60.8.1|
@@ -110,6 +110,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |audiotube|23.08.5|24.05.0|
 |audiveris|5.1.0|5.3.1|
 |autobahn|19.2.1|23.6.2|
+|autobuild4|4.2.2|4.3.0|
 |autojump-rs|0.5.1<br>+22.5.3|0.5.1|Compound version number '0.5.1+22.5.3'<br>Possible downgrade from the current version (0.5.1+22.5.3   0.5.1)|
 |automake|1.16i|1.16.5|
 |automat|20.2.0|22.10.0|
@@ -160,7 +161,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |borgbackup|1.1.17|1.2.8|
 |botan|1.10.17|3.4.0|
 |botan-2|2.12.1|3.4.0|
-|boto3|1.20.26|1.34.120|
+|boto3|1.20.26|1.34.121|
 |bottle|0.12.18|0.12.25|
 |bottles|2022.2.28<br>+trento<br>+4|51.11|Compound version number '2022.2.28+trento+4'<br>Possible downgrade from the current version (2022.2.28+trento+4   51.11)|
 |bovo|23.08.5|24.05.0|
@@ -2880,7 +2881,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xpra|5.0.8|6.0.1|
 |xray|1.8.4|1.8.13|
 |xray-plugin|1.8.11|1.8.12|
-|xreader|3.8.5|4.0.2|
+|xreader|3.8.5|4.2.0|
 |xsd|4.1.0~alpha11|4.0.0|Possible downgrade from the current version (4.1.0~alpha11   4.0.0)|
 |xsel|1.2.0|1.2.1|
 |xsimd|10.0.0|13.0.0|
@@ -2916,6 +2917,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |zeromq|4.3.4|4.3.5|
 |zerotier-one|1.12.2|1.14.0|
 |zfec|1.5.3|1.5.7.4|
+|zig|0.12.0|0.13.0|
 |zita-alsa-pcmi|0.3.2|0.6.1|
 |zita-resampler|1.8.0|1.11.2|
 |zlib-static|1.2.12|1.3.1|
