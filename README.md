@@ -212,7 +212,10 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cdrdao|1.2.4|1.2.5|
 |celluloid|0.18|0.26|
 |cerberus|1.3.2|1.3.5|
+|certbot|2.10.0|2.11.0|
+|certbot-apache|2.10.0|2.11.0|
 |certbot-dns-cloudflare|2.10.0|2.11.0|
+|certbot-nginx|2.10.0|2.11.0|
 |cervisia|23.08.5|24.05.0|
 |cffi|1.15.0|1.16.0|
 |cfitsio|3.450|4.4.0|
@@ -328,7 +331,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ddnet|17.0.3|18.2|
 |ddrescue|1.24|1.28|
 |ddrescueview|1.23|0.4.5|Possible downgrade from the current version (1.23   0.4.5)|
-|debianutils|5.7|5.17|
+|debianutils|5.7|5.18|
 |decorator|4.3.2|5.1.1|
 |deja-dup|42.9|45.2|
 |dejavu-fonts|2.37|2_37|
