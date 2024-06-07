@@ -677,7 +677,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |goldendict|1.5.0~rc2|1.5.0|
 |gom|0.4|0.5.1|
 |google-api-python-client|1.7.11|2.132.0|
-|google-auth|1.6.3|2.29.0|
+|google-auth|1.6.3|2.30.0|
 |google-auth-httplib2|0.0.4|0.2.0|
 |gpac|2.2.1|2.4.0|
 |gperftools|2.13|2.15|
