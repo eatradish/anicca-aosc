@@ -114,7 +114,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |autojump-rs|0.5.1<br>+22.5.3|0.5.1|Compound version number '0.5.1+22.5.3'<br>Possible downgrade from the current version (0.5.1+22.5.3   0.5.1)|
 |automake|1.16i|1.16.5|
 |automat|20.2.0|22.10.0|
-|autopep8|1.5.6|2.2.0|
 |avahi-tqt|14.1.0|14.1.2|
 |avogadrolibs|1.95.1|1.99.0|
 |avr-binutils|2.37|2.42|
@@ -212,7 +211,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cdrdao|1.2.4|1.2.5|
 |celluloid|0.18|0.26|
 |cerberus|1.3.2|1.3.5|
-|certbot|2.10.0|2.11.0|
 |certbot-apache|2.10.0|2.11.0|
 |certbot-dns-cloudflare|2.10.0|2.11.0|
 |certbot-nginx|2.10.0|2.11.0|
@@ -335,9 +333,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |deja-dup|42.9|45.2|
 |dejavu-fonts|2.37|2_37|
 |deluge|2.1.1|2.0.5|Possible downgrade from the current version (2.1.1   2.0.5)|
-|deno|1.31.3|1.44.0|
+|deno|1.31.3|1.44.1|
 |dephell-specifier|0.2.2|0.3.0|
-|deploykit-backend|0.2.5|0.2.4|Possible downgrade from the current version (0.2.5   0.2.4)|
 |deploykit-gui|0.4.3|test-ci|Versions not comparable: `0.4.3` and `test-ci`|
 |devhelp|41.2|43.0|
 |dex|0.8.0|0.9.0|
