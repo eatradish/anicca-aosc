@@ -674,6 +674,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnutls+32|3.6.15|3.8.5|
 |go|1.22.3<br>+tools0.21.0<br>+net0.25.0|1.22.4|Compound version number '1.22.3+tools0.21.0+net0.25.0'|
 |gobject-introspection|1.80.0|1.80.1|
+|goffice|0.10.48|0.10.57|
 |goldendict|1.5.0~rc2|1.5.0|
 |gom|0.4|0.5.1|
 |google-api-python-client|1.7.11|2.132.0|
@@ -2430,6 +2431,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |setuptools-python2|44.1.0|70.0.0|
 |setuptools-python3|69.1.0|70.0.0|
 |setuptools-rust|1.5.2|1.9.0|
+|setuptools-scm|7.1.0|8.1.0|
 |sfml|2.5.1|2.6.1|
 |sg3-utils|1.47r915|1.48|
 |shaderc|2023.7|2024.1|
