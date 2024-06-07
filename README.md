@@ -1236,7 +1236,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libantlr3c|3.4|4.13.1|
 |libappimage|1.0.4<br>+5|1.0.4-5|Compound version number '1.0.4+5'|
 |libapt-pkg-perl|0.1.36|0.1.40|
-|libarchive|3.7.3|3.7.4|
 |libart-lgpl|14.1.0|14.1.2|
 |libass+32|0.15.1|0.17.2|
 |libassuan|2.5.3|2.5.7|
