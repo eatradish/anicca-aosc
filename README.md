@@ -871,7 +871,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |jetring|0.29|0.31|
 |jinja2|3.1.2|3.1.4|
 |jmespath|0.10.0|1.0.1|
-|jmol|14.30.0|16.2.15|
+|jmol|14.30.0|16.2.17|
 |john|1.8.0|1.9.0|
 |josepy|1.13.0|1.14.0|
 |json-c|0.16|0.17|
@@ -1770,7 +1770,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nmap|7.93|7.95|
 |noip|2.1.9|3.0.0|
 |noise-suppression-for-voice|0.91|1.10|
-|nomino|1.3.1|1.3.4|
+|nomino|1.3.1|1.3.5|
 |normaliz|3.6.3|3.10.3|
 |notmuch|0.34|0.38.3|
 |noto-fonts|24.1.1<br>+emoji2.042<br>+cjksans2.004<br>+cjkserif2.002|24.6.1|Compound version number '24.1.1+emoji2.042+cjksans2.004+cjkserif2.002'|
@@ -2296,6 +2296,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qmltermwidget|0.2.0<br>+git20220109|0.6.0|Compound version number '0.2.0+git20220109'<br>Version number indicates a snapshot (+git) is used|
 |qmmp|1.6.5|2.1.8|
 |qownnotes|22.6.1|24.6.0|
+|qpdf|11.9.0|11.9.1|
 |qqc2-desktop-style|5.115.0|6.0.90|
 |qrencode|4.0.2|4.1.1|
 |qscintilla|2.13.1|2.14.1|
