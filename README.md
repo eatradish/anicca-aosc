@@ -173,7 +173,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |budgie-screensaver|5.0.2|5.1.0|
 |bullet|2.88|3.25|
 |bup|0.30|0.33.3|
-|c-ares|1.28.1|1.29.0|
+|c-ares|1.28.1|1.30.0|
 |cabextract|1.9|1.11|
 |cachecontrol|0.12.6|0.14.0|
 |cachetools|3.1.0|5.3.3|
@@ -693,7 +693,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |graphene|1.10.2|1.10.8|
 |graphviz|10.0.1|11.0.0|
 |greenlet|1.1.2|3.0.3|
-|greetd|0.9.0|0.10.1|
+|greetd|0.9.0|0.10.3|
 |greetd-gtkgreet|0.8|0.5|Possible downgrade from the current version (0.8   0.5)|
 |grep|3.8|3.11|
 |greybird|3.22.12|3.23.3|
@@ -1260,7 +1260,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libcgroup|2.0|3.1.0|
 |libchamplain|0.12.20|0.12.21|
 |libchewing|0.5.1|0.8.4|
-|libclc|17.0.3|18.1.6|
+|libclc|17.0.3|18.1.7|
 |libcloudproviders|0.3.1|0.3.6|
 |libcmis|0.5.2|0.6.2|
 |libconfig|1.7.2|1.7.3|
@@ -1500,7 +1500,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libvpl|2.11.0|2023.4.0|
 |libvpx|1.10.0|1.14.1|
 |libvpx+32|1.9.0|1.14.1|
-|libwacom|2.4.0|2.11.0|
+|libwacom|2.4.0|2.12.0|
 |libwebp|1.3.1|1.4.0|
 |libwebp+32|0.4.3|1.4.0|
 |libwebsockets|3.1.0|4.3.3|
@@ -1557,9 +1557,9 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lksctp-tools|1.0.17|1.0.19|
 |lldpd|1.0.17|1.0.18|
 |llfuse|1.4.1|1.5.0|
-|llvm|17.0.6|18.1.6|
-|llvm+32|14.0.6|18.1.6|
-|llvm-runtime+wasi|17.0.6|18.1.6|
+|llvm|17.0.6|18.1.7|
+|llvm+32|14.0.6|18.1.7|
+|llvm-runtime+wasi|17.0.6|18.1.7|
 |lm-sensors|3.6.0|3-6-0|
 |lmdb|0.9.28|0.9.33|
 |lmms|1.2.2<br>+git20240508|1.2.2|Compound version number '1.2.2+git20240508'<br>Version number indicates a snapshot (+git) is used|
@@ -1589,7 +1589,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lvm2|2.03.14|2.03.24|
 |lxc|5.0.2|6.0.0|
 |lxcfs|3.0.3|6.0.0|
-|lxgwcleargothic-font|0.300.4|0.311.3|
+|lxgwcleargothic-font|0.300.4|0.312|
 |lxgwnewcleargothic-font|1.121|1.123.2|
 |lxml|4.7.1|4.9.1|
 |lxpanel|0.9.3|0.10.1|
