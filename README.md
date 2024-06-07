@@ -1591,7 +1591,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lxc|5.0.2|6.0.0|
 |lxcfs|3.0.3|6.0.0|
 |lxgwcleargothic-font|0.300.4|0.312|
-|lxgwnewcleargothic-font|1.121|1.123.2|
 |lxml|4.7.1|4.9.1|
 |lxpanel|0.9.3|0.10.1|
 |lxterminal|0.3.2|0.4.0|
