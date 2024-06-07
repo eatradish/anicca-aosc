@@ -160,7 +160,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |borgbackup|1.1.17|1.2.8|
 |botan|1.10.17|3.4.0|
 |botan-2|2.12.1|3.4.0|
-|boto3|1.20.26|1.34.121|
+|boto3|1.20.26|1.34.122|
 |bottle|0.12.18|0.12.25|
 |bottles|2022.2.28<br>+trento<br>+4|51.11|Compound version number '2022.2.28+trento+4'<br>Possible downgrade from the current version (2022.2.28+trento+4   51.11)|
 |bovo|23.08.5|24.05.0|
@@ -2277,7 +2277,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |python-xapp|2.0.1|2.4.2|
 |python-xmp-toolkit|2.0.1|2.0.2|
 |pythondialog|3.3.0|3.5.3|
-|pytools|2019.1|2024.1.4|
+|pytools|2019.1|2024.1.5|
 |pyudev|0.24.1|0.24.3|
 |pyusb|1.0.2|1.2.1|
 |pyutil|3.3.0|3.3.6|
