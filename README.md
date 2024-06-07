@@ -213,6 +213,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cerberus|1.3.2|1.3.5|
 |certbot-apache|2.10.0|2.11.0|
 |certbot-dns-cloudflare|2.10.0|2.11.0|
+|certbot-nginx|2.10.0|2.11.0|
 |cervisia|23.08.5|24.05.0|
 |cffi|1.15.0|1.16.0|
 |cfitsio|3.450|4.4.0|
@@ -296,6 +297,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |crypto++|8.2.0|8.9.0|
 |cryptography|40.0.0|42.0.8|
 |cryptsetup|2.7.0|2.7.2|
+|css-parser|1.0.6|1.0.10|
 |cssselect2|0.6.0|0.7.0|
 |cssutils|1.0.2|2.11.1|
 |ctags|20191203|6.1.20240602.0|Possible downgrade from the current version (20191203   6.1.20240602.0)|
@@ -311,6 +313,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |czmq|4.2.0|4.2.1|
 |damo|1.0.9|2.3.7|
 |dante|1.4.2|1.4.3|
+|dar|2.7.13|2.7.14|
 |darkradiant|3.8.0|3.9.0|
 |dateutil|2.8.2|2.9.0.post0|
 |dav1d|1.4.0|1.4.2|
@@ -515,6 +518,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fprintd|1.94.2|1.94.3|
 |fractal|7.0|7|
 |frameworkintegration|5.115.0|6.0.90|
+|freealut|1.1.0|1_1_0|
 |freealut+32|1.1.0|1_1_0|
 |freecell-solver|6.2.0|6.8.0|
 |freeciv|2.6.5|3.1.1|
@@ -879,6 +883,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |juk|23.08.5|24.05.0|
 |jupyter-client|5.2.4|8.6.2|
 |jupyter-core|4.4.0|5.7.2|
+|just|1.27.0|1.28.0|
 |k3b|23.08.5|24.05.0|
 |k3b-trinity|14.1.0|14.1.2|
 |k9copy-trinity|14.1.0|14.1.2|
@@ -1004,6 +1009,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kgoldrunner|23.08.5|24.05.0|
 |kgpg|23.08.5|24.05.0|
 |kgtk-qt3-trinity|14.1.0|14.1.2|
+|kguiaddons|5.115.0|6.0.90|
 |khangman|23.08.5|24.05.0|
 |khealthcertificate|22.11|24.05.0|
 |khelpcenter|23.08.5|24.05.0|
@@ -1021,6 +1027,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kile-trinity|14.1.0|14.1.2|
 |killbots|23.08.5|24.05.0|
 |kima-trinity|14.1.0|14.1.2|
+|kimageannotator|0.6.0|0.7.1|
 |kimageformats|5.115.0|6.0.90|
 |kimagemapeditor|23.08.5|24.05.0|
 |kimap|23.08.5|24.05.0|
@@ -1178,6 +1185,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ktorrent|23.08.5|24.05.0|
 |ktorrent-trinity|14.1.0|14.1.2|
 |ktouch|23.08.5|24.05.0|
+|ktrip|23.08.5|24.05.0|
 |ktuberling|23.08.5|24.05.0|
 |kturtle|23.08.5|24.05.0|
 |kubo|0.26.0|0.10.0|Possible downgrade from the current version (0.26.0   0.10.0)|
@@ -1289,6 +1297,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libffado|2.4.4|2.4.8|
 |libffi|3.4.4|3.4.6|
 |libffi+32|3.4.2|3.4.6|
+|libfido2|1.13.0|1.14.0|
 |libfilezilla|0.45.0|0.38.1|Possible downgrade from the current version (0.45.0   0.38.1)|
 |libfm|1.3.0.2|1.3.2|
 |libfprint|1.94.4|1.94.7|
@@ -1375,6 +1384,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libndp|1.7|1.8|
 |libnet|1.1.6|1.3|
 |libnfc|1.7.1|1.8.0|
+|libnfnetlink|1.0.1|1.0.2|
 |libnfs|4.0.0|5.0.3|
 |libnfs-static|4.0.0|5.0.3|
 |libnice|0.1.17|0.1.22|
@@ -1470,6 +1480,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libuninameslist|20190701|20240524|
 |libunistring|0.9.10|1.2|
 |libunwind|1.6.2|1.8.1|
+|libupnp|1.14.16|1.14.19|
 |libusb|1.0.23|1.0.27|
 |libusb+32|1.0.23|1.0.27|
 |libusb-compat|0.1.5|0.1.8|
@@ -1537,6 +1548,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |linux+kernel+retro+minimal|5.15.17|5.10.218|Possible downgrade from the current version (5.15.17   5.10.218)|
 |linux-firmware|20240506<br>+debian20230210<br>+5~bpo11<br>+1|20240513|Compound version number '20240506+debian20230210+5~bpo11+1'|
 |linux-kernel|6.9.3|5.19.17|Possible downgrade from the current version (6.9.3   5.19.17)|
+|linux-kernel-lts|6.6.31|5.19.17|Possible downgrade from the current version (6.6.31   5.19.17)|
 |linux-kernel-retro|5.10.132|5.10.218|
 |linux-kernel-retro-minimal|5.15.17|5.10.218|Possible downgrade from the current version (5.15.17   5.10.218)|
 |linuxsampler|2.3.0|2.3.1|
@@ -1802,6 +1814,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |open-vm-tools|12.3.5|12.4.0|
 |openblas|0.3.21<br>+git20221105|0.3.27|Compound version number '0.3.21+git20221105'<br>Version number indicates a snapshot (+git) is used|
 |opencascade|7.6.3|7.8.0|
+|opencl-clang|17.0.0|18.1.0|
 |opencolorio|2.1.2|2.3.2|
 |openconnect|8.10|9.12|
 |opencore-amr|0.1.5|0.1.6|
@@ -1842,6 +1855,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |opentimelineio|0.15|0.16.0|
 |openttd|12.2<br>+opengfx7.1<br>+opensfx1.0.3|14.1|Compound version number '12.2+opengfx7.1+opensfx1.0.3'|
 |openvpn|2.5.4|2.6.10|
+|openvswitch|3.0.3|3.3.0|
 |optipng|0.7.7|0.7.8|
 |opus|1.3.1|1.5.2|
 |opus+32|1.3.1|1.5.2|
@@ -2140,6 +2154,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ppsspp|1.11.3|1.17.1|
 |precis-i18n|1.0.3|1.1.0|
 |premake|5.0.0~beta1|4.3|Possible downgrade from the current version (5.0.0~beta1   4.3)|
+|presenterm|0.5.0|0.7.0|
 |prettytable|0.7.2|3.10.0|
 |primus+32|20150328|0.2|Possible downgrade from the current version (20150328   0.2)|
 |print-manager|23.08.5|24.05.0|
@@ -2191,6 +2206,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pyenchant|2.0.0|3.2.2|
 |pygccxml|2.1.0|2.5.0|
 |pygit2|1.14.1|1.15.0|
+|pyglet|1.3.2|2.0.15|
 |pygments|2.10.0|2.18.0|
 |pygobject-3|3.42.2|3.48.2|
 |pygraphviz|1.5|1.13|
@@ -2219,6 +2235,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pyqt-builder|1.12.1|1.16.2|
 |pyqt5|5.15.5|5.15.10|
 |pyqt5-sip|12.9.0|12.13.0|
+|pyqtwebengine|5.15.5|5.15.6|
 |pyscard|1.9.9|2.0.10|
 |pyscss|1.3.7|1.4.0|
 |pyside2|5.15.11|5.15.2.1|Possible downgrade from the current version (5.15.11   5.15.2.1)|
@@ -2236,6 +2253,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |python-cloudflare|2.8.15|3.0.0b9|
 |python-cssselect|1.0.3|1.2.0|
 |python-daemonize|2.5.0|3.8.0|
+|python-dbusmock|0.22.0|0.31.1|
 |python-djvulibre|0.8.6|0.8.8|
 |python-evdev|1.4.0|1.7.1|
 |python-graphviz|0.16|0.20.3|
@@ -2247,6 +2265,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |python-lz4|2.1.6|4.3.3|
 |python-markdown-math|0.6|0.8|
 |python-msgpack|1.0.2|1.0.8|
+|python-node-semver|0.8.0|0.9.0|
 |python-openid|2.2.5|3.2|
 |python-pam|1.8.4|2.0.2|
 |python-poppler-qt5|21.1.0<br>+git20210304|21.3.0|Compound version number '21.1.0+git20210304'<br>Version number indicates a snapshot (+git) is used|
@@ -2504,6 +2523,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sqlite+32|3.32.3|3.46.0|
 |sqlite-fdw|2.1.0|2.4.0|
 |sqlitebrowser|3.12.1|83649a3-3357|
+|sqlparse|0.4.1|0.5.0|
 |squashfs-tools|4.5|4.6.1|
 |squashfuse|0.1.105|0.5.2|
 |squid|5.7|6.9|
@@ -2553,6 +2573,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |systemd|255.6|255.7|
 |systemsettings|5.27.11|6.0.5|
 |systemtap|4.4|5.1|
+|sysv-ipc|1.0.1|1.1.0|
 |taglib|1.11.1|2.0.1|
 |taglib+32|1.11|2.0.1|
 |tagparser|11.5.1|12.1.0|
@@ -2566,6 +2587,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tbb|2021.11.0|2021.12.0|
 |tbb+32|4.4u4|2021.12.0|
 |tcl|8.6.10|8.6.14|
+|tcl+32|8.6.10|8.6.14|
 |tclap|1.2.2|1.2.5|
 |tcping|1.3.5|2.1.0|
 |tde-common-cmake|14.1.0|14.1.2|
@@ -2605,6 +2627,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tdesvn|14.1.0|14.1.2|
 |tdetoys|14.1.0|14.1.2|
 |tdeutils|14.1.0|14.1.2|
+|tdevelop|14.1.0|14.1.2|
 |tdewebdev|14.1.0|14.1.2|
 |tdmtheme|14.1.0|14.1.2|
 |tectonic|0.12.0|0.15.0|
@@ -2635,6 +2658,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tig|2.4.1|2.5.10|
 |tigervnc|1.12.0|1.13.1|
 |tikzplotlib|0.9.8|0.10.1|
+|tilda|1.4.1|2.0.0|
 |tilp|1.17|1.18|
 |timezonemap|0.4.6|0.4.5.3|Possible downgrade from the current version (0.4.6   0.4.5.3)|
 |tint2|16.7|17.0.2|
@@ -2704,6 +2728,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |uim|1.8.8|1.8.9|
 |ujson|1.35|1.36|
 |umbrello|23.08.5|24.05.0|
+|uml-utilities|20070815.4|20070815.4.orig|Possible downgrade from the current version (20070815.4   20070815.4.orig)|
 |un-fonts|1.0.2|1.0.2-080608|
 |unace|2.5|2.5.orig|Possible downgrade from the current version (2.5   2.5.orig)|
 |unar|1.10.1|1.10.8|
