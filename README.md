@@ -1591,6 +1591,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lxc|5.0.2|6.0.0|
 |lxcfs|3.0.3|6.0.0|
 |lxgwcleargothic-font|0.300.4|0.312|
+|lxgwnewcleargothic-font|1.121|1.123.2|
 |lxml|4.7.1|4.9.1|
 |lxpanel|0.9.3|0.10.1|
 |lxterminal|0.3.2|0.4.0|
@@ -1726,7 +1727,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nautilus|42.2|46.2|
 |nautilus-python|1.2.3|4.0.1|
 |nbd|3.24|3.26.1|
-|nbxmpp|3.1.0|4.5.4|
+|nbxmpp|3.1.0|5.0.0|
 |ncbi-blast+|2.13.0|2.15.0+|
 |ncbi-vdb|3.0.2|3.1.1|
 |ncdu|1.16|2.4|
