@@ -170,6 +170,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |breeze-icons|5.115.0|6.0.90|
 |breeze-plymouth|5.27.11|6.0.5|
 |brotlipy|0.7.0|1.0.9.2|
+|btrfs-progs|6.8.1|6.9|
 |budgie-screensaver|5.0.2|5.1.0|
 |bullet|2.88|3.25|
 |bup|0.30|0.33.3|
@@ -1778,7 +1779,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nsd|4.7.0|4_9_1_REL|
 |nsgenbind|0.8|0.9|
 |nspr+32|4.24|4.35|
-|nss+32|3.78|3.100|
+|nss|3.100|3.101|
+|nss+32|3.78|3.101|
 |nss-mdns|0.14.1|0.15.1|
 |nufraw|0.43<br>+3|0.42|Compound version number '0.43+3'<br>Possible downgrade from the current version (0.43+3   0.42)|
 |nuget|4.9.4|6.6.1.2.bin|
