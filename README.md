@@ -536,7 +536,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |future|0.17.0|1.0.0|
 |futures|3.2.0|3.4.0|
 |fvwm|2.6.9|2.7.0|
-|fzf|0.46.1|0.52.1|
+|fzf|0.46.1|0.53.0|
 |gajim|1.4.0|1.8.4|
 |game-music-emu+32|0.6.0|0.6.3|
 |gammaray|2.11.2|3.0.0|
@@ -1862,6 +1862,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |orc|0.4.32|0.4.38|
 |orc+32|0.4.32|0.4.38|
 |orca|42.3|46.1|
+|os-prober|1.81|1.82|
 |osdlyrics|20190407|0.5.15|Possible downgrade from the current version (20190407   0.5.15)|
 |osinfo-db-tools|1.10.0|1.11.0|
 |osu-lazer|2024.412.1|2024.523.0|
