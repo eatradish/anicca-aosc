@@ -1910,9 +1910,10 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pcre|8.44|8.45|
 |pcre+32|8.44|8.45|
 |pcre-static|8.44|8.45|
+|pcre2|10.43|10.44|
 |pcsc-perl|1.4.14|1.4.16|
 |pcsclite|1.9.9|2.2.3|
-|pcsx2|1.6.0<br>+git20210825|1.7.5865|Compound version number '1.6.0+git20210825'<br>Version number indicates a snapshot (+git) is used|
+|pcsx2|1.6.0<br>+git20210825|1.7.5870|Compound version number '1.6.0+git20210825'<br>Version number indicates a snapshot (+git) is used|
 |pdfgrep|2.1.2|2.2.0|
 |pdfminer|20191020|20231228|
 |pdlzip|1.9|1.13|
@@ -2717,7 +2718,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |txt2tags|3.7|3.9|
 |txtorcon|19.1.0|23.11.0|
 |typed-ast|1.4.3|1.5.5|
-|typing-extensions|4.7.1|4.12.1|
+|typing-extensions|4.7.1|4.12.2|
 |uboot-asahi|2023.07.02<br>+3|2024.04-1|Compound version number '2023.07.02+3'|
 |uboot-tools|2022.10|2024.04|
 |ubuntu-keyring|2021.03.26|2023.11.28.1|
