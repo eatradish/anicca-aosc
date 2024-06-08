@@ -2558,7 +2558,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sudo|1.9.15p5|1_9_15p5|
 |suitesparse|7.6.1|7.7.0|
 |sunpinyin|3.0.0~rc1|2.0.3-rel-1|Possible downgrade from the current version (3.0.0~rc1   2.0.3-rel-1)|
-|sunshine|0.23.0|2024.601.193044|
+|sunshine|0.23.0|2024.607.215756|
 |sunxi-tools|1.4.2<br>+git20220729|1.4.2|Compound version number '1.4.2+git20220729'<br>Version number indicates a snapshot (+git) is used|
 |sushi|42.0|46.0|
 |svgpart|23.08.5|24.05.0|
@@ -2637,7 +2637,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tdmtheme|14.1.0|14.1.2|
 |tectonic|0.12.0|0.15.0|
 |teeworlds|0.7.5<br>+git20220313|0.7.5|Compound version number '0.7.5+git20220313'<br>Version number indicates a snapshot (+git) is used|
-|telegram-desktop|5.0.1|5.1.3|
+|telegram-desktop|5.0.1|5.1.5|
 |telepathy-accounts-signon|1.0|2.1|
 |telepathy-glib|0.24.1|0.24.2|
 |telepathy-idle|0.2.0|0.2.2|
@@ -2654,7 +2654,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tevent|0.13.0|0.16.1|
 |texlive|20220321|2024|Possible downgrade from the current version (20220321   2024)|
 |texmaker|5.1.2|5.1.4|
-|texstudio|4.0.2|4.8.0|
+|texstudio|4.0.2|4.8.1|
 |texworks|0.6.6|0.6.9|
 |thedarkmod|2.09a|2.12|
 |thin-provisioning-tools|1.0.10|1.0.12|
