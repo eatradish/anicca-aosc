@@ -456,6 +456,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |falkon|23.08.5|24.05.0|
 |fann|20190109|2.2.0|Possible downgrade from the current version (20190109   2.2.0)|
 |fasteners|0.18|0.19|
+|fastfetch|2.14.0|2.15.0|
 |fastimport|0.9.8|0.9.14|
 |fatattr|1.0.1|1.0.1.orig|Possible downgrade from the current version (1.0.1   1.0.1.orig)|
 |faulthandler|3.1|3.2|
@@ -1995,7 +1996,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-http-daemon|6.01|6.16|
 |perl-http-date|6.02|6.06|
 |perl-http-message|6.11|6.46|
-|perl-image-exiftool|12.50|12.85|
+|perl-image-exiftool|12.50|12.86|
 |perl-io-socket-inet6|2.72|2.73|
 |perl-io-socket-ssl|2.062|2.085|
 |perl-io-tee|0.65|0.66|
