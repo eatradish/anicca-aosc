@@ -2877,7 +2877,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xine-ui|0.99.12|0.99.14|
 |xinetd|2.3.15|2.3.15.4|
 |xjadeo|0.8.13|0.8.14|
-|xkeyboard-config|2.40|2.41|
+|xkeyboard-config|2.40|2.42|
 |xl2tpd|1.3.15|1.3.18|
 |xmlrpc-c|1.54.06|1.59.03|
 |xmlsec|1.2.36|1.3.4|
