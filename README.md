@@ -1417,7 +1417,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libpng+32|1.2.57|1.6.43|
 |libpng-1.6+32|1.6.37|1.6.43|
 |libportal|0.6|0.7.1|
-|libpqxx|6.4.5|7.9.0|
+|libpqxx|6.4.5|7.9.1|
 |libpwquality|1.4.2|1.4.5|
 |libqaccessibilityclient|0.4.1|0.6.0|
 |libqalculate|4.5.1|5.1.1|
@@ -1670,7 +1670,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mini-portile|2.8.6|2.8.7|
 |minicom|2.8|2.9|
 |miniserve|0.26.0|0.27.1|
-|miniupnpc|2.1|2.2.7|
+|miniupnpc|2.1|2.2.8|
 |miniupnpd|2.3.5|2.3.6|
 |minizip|1.2.11|1.3.1|
 |minuet|23.08.5|24.05.0|
@@ -1857,7 +1857,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |openssl-1.1+32|1.1.1q|3.3.1|
 |opensubdiv|3.6.0|3_6_0|
 |openswan|2.6.51.5|3.0.0|
-|opentimelineio|0.15|0.16.0|
 |openttd|12.2<br>+opengfx7.1<br>+opensfx1.0.3|14.1|Compound version number '12.2+opengfx7.1+opensfx1.0.3'|
 |openvpn|2.5.4|2.6.10|
 |openvswitch|3.0.3|3.3.0|
@@ -2759,7 +2758,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |uthash|2.1.0|2.3.0|
 |util-linux+32|2.29.2|2.40.1|
 |util-macros+32|999|1.20.1|Possible downgrade from the current version (999   1.20.1)|
-|v4l-utils|1.22.1|1.26.1|
 |v4l-utils+32|1.18.0|1.26.1|
 |vala|0.56.16|0.56.17|
 |vala-panel-appmenu|0.7.4|24.05|
