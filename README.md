@@ -2791,17 +2791,18 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |volk-meta-loader|1.3.280.0|1.3.283.0|
 |vorbis-tools|1.4.0|1.4.2|
 |vpnc|0.5.3r550|0.5.3|
+|vscodium|1.89.1.24130|1.90.0.24158|
 |vsftpd|3.0.3|3.0.5|
 |vte|0.68.0|0.76.3|
-|vulkan-extensionlayer|1.3.280.0|1.3.285|
-|vulkan-headers|1.3.280.0|1.3.286|
-|vulkan-headers+32|1.3.272|1.3.286|
-|vulkan-loader|1.3.280.0|1.3.285|
-|vulkan-loader+32|1.3.272|1.3.285|
+|vulkan-extensionlayer|1.3.280.0|1.3.287|
+|vulkan-headers|1.3.280.0|1.3.287|
+|vulkan-headers+32|1.3.272|1.3.287|
+|vulkan-loader|1.3.280.0|1.3.287|
+|vulkan-loader+32|1.3.272|1.3.287|
 |vulkan-tools|1.3.280.0|1.3.283|
 |vulkan-tools+32|1.3.227|1.3.283|
-|vulkan-utility-libraries|1.3.280.0|1.3.286|
-|vulkan-validationlayers|1.3.280.0|1.3.285|
+|vulkan-utility-libraries|1.3.280.0|1.3.287|
+|vulkan-validationlayers|1.3.280.0|1.3.287|
 |warpinator|1.6.3|1.8.3|
 |warzone2100|4.1.3|4.4.2|
 |watchman|4.9.0|2024.06.03.00|
@@ -2815,7 +2816,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |webrtc-audio-processing|0.3|1.3|
 |websocket-client|1.7.0|1.8.0|
 |websockets|12.0|1.4.4|Possible downgrade from the current version (12.0   1.4.4)|
-|weechat|4.2.2|4.3.1|
+|weechat|4.2.2|4.3.2|
 |weka|3.9.2|8.0.0|
 |werkzeug|1.0.1|3.0.3|
 |wesnoth|1.16.10|1.19.0|
