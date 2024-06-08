@@ -336,7 +336,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |deluge|2.1.1|2.0.5|Possible downgrade from the current version (2.1.1   2.0.5)|
 |deno|1.31.3|1.44.1|
 |dephell-specifier|0.2.2|0.3.0|
-|deploykit-backend|0.2.6|0.2.5|Possible downgrade from the current version (0.2.6   0.2.5)|
 |deploykit-gui|0.4.5|test-ci|Versions not comparable: `0.4.5` and `test-ci`|
 |devhelp|41.2|43.0|
 |dex|0.8.0|0.9.0|
