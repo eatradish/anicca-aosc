@@ -616,7 +616,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |glibc+32|2.38|2.39|
 |glibmm|2.66.2|2.80.0|
 |glibmm-2.68|2.78.0|2.80.0|
-|glog|0.3.5|0.7.0|
+|glog|0.3.5|0.7.1|
 |gloox|1.0.27|1.0.28|
 |glslang|13.1.1|14.2.0|
 |glslang+32|7.11.3214|14.2.0|
@@ -2096,7 +2096,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pixman|0.43.0|0.43.4|
 |pixman+32|0.40.0|0.43.4|
 |pkcs11-helper|1.29.0|1.30.0|
-|pkginfo|1.5.0.1|1.11.0|
+|pkginfo|1.5.0.1|1.11.1|
 |pktstat|20160317|1.8.5|Possible downgrade from the current version (20160317   1.8.5)|
 |plank|0.11.89<br>+git20210222|0.11.89|Compound version number '0.11.89+git20210222'<br>Version number indicates a snapshot (+git) is used|
 |plasma-angelfish|22.06|24.05.0|
