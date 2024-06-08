@@ -1906,7 +1906,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pathspec|0.11.0|0.12.1|
 |patool|1.12|upstream/2.2.0|Possible downgrade from the current version (1.12   upstream/2.2.0)|
 |pbr|5.6.0|6.0.0|
-|pciutils|3.9.0|3.12.0|
+|pciutils|3.9.0|3.13.0|
 |pcl|1.13.1|1.12|Possible downgrade from the current version (1.13.1   1.12)|
 |pcp|6.0.1|6.2.2|
 |pcre|8.44|8.45|
