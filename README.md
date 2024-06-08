@@ -1419,6 +1419,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libpwquality|1.4.2|1.4.5|
 |libqaccessibilityclient|0.4.1|0.6.0|
 |libqalculate|4.5.1|5.1.1|
+|libqmi|1.30.8|1.34.0|
 |libqofono|0.98|0.123|
 |libqtxdg|3.6.0|4.0.0|
 |libquotient|0.8.1.2|0.8.2|
