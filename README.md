@@ -2264,7 +2264,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |python-evdev|1.4.0|1.7.1|
 |python-graphviz|0.16|0.20.3|
 |python-hglib|2.6.1|2.6.2|
-|python-installer|0.5.1|0.7.0|
 |python-kaitaistruct|0.9|0.10|
 |python-ldap3|2.9|2.9.1|
 |python-linux-procfs|0.7.1|0.7.3|
