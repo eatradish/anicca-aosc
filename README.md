@@ -704,7 +704,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |grilo-plugins|0.3.15|0.3.16|
 |gringo|5.4.1|5.7.1|
 |groff|1.22.4|1.23.0|
-|grpc|1.64.0|1.64.1|
+|grpc|1.64.0|1.64.2|
 |grsync|1.2.8|1.3.1|
 |grub|2.12<br>+unifont15.1.04|2.12|Compound version number '2.12+unifont15.1.04'|
 |grub-customizer|5.2.4|5.2.5|
@@ -2889,6 +2889,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xray|1.8.4|1.8.13|
 |xray-plugin|1.8.11|1.8.12|
 |xreader|3.8.5|4.2.0|
+|xscreensaver|6.08|6.09|
 |xsd|4.1.0~alpha11|4.0.0|Possible downgrade from the current version (4.1.0~alpha11   4.0.0)|
 |xsel|1.2.0|1.2.1|
 |xsimd|10.0.0|13.0.0|
