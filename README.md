@@ -530,8 +530,10 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |freetype|2.12.1|2.13.2|
 |freetype+32|2.12.1|2.13.2|
 |freexl|1.0.5|2.0.0|
+|frei0r-plugins|2.3.2|2.3.3|
 |frescobaldi|3.2|3.3.0|
-|fribidi+32|1.0.10|1.0.14|
+|fribidi|1.0.14|1.0.15|
+|fribidi+32|1.0.10|1.0.15|
 |functools32|3.2.3<br>+2|3.2.3-2|Compound version number '3.2.3+2'|
 |fuse-exfat|1.3.0|1.4.0|
 |fuse-python|0.3.1|1.0.7|
@@ -583,7 +585,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gfm|1.07|1.08|
 |ghc|9.4.8|9.10.1-release|
 |ghex|42.3|46.0|
-|ghidra|11.0|11.0.3_build|
+|ghidra|11.0|11.1_build|
 |ghostscript|9.54.0|10.03.1|
 |ghostscript+32|9.27|10.03.1|
 |ghostwriter|23.08.5|24.05.0|
@@ -606,7 +608,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gitui|0.26.2|0.26.3|
 |gjs|1.74.0|1.80.2|
 |gksu|2.0.2|2.0.12|
-|glances|4.0.5|4.0.7|
+|glances|4.0.5|4.0.8|
 |glib|2.80.0|2.80.2|
 |glib+32|2.62.6|2.80.2|
 |glib-networking|2.72.2|2.80.0|
