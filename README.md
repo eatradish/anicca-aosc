@@ -1884,7 +1884,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pamixer|1.4|1.6|
 |pandas|2.1.2|2.2.2|
 |pandoc|3.1.13|3.2|
-|pango+32|1.44.7|1.52.2|
+|pango|1.52.2|1.54.0|
+|pango+32|1.44.7|1.54.0|
 |pangomm|2.46.3|2.52.0|
 |pangomm-2.48|2.50.1|2.52.0|
 |paper-icon-theme|20180816|.1.5.0|Possible downgrade from the current version (20180816   .1.5.0)|
@@ -2546,6 +2547,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |stepmania|5.0.12<br>+git20221114|5.0.12|Compound version number '5.0.12+git20221114'<br>Version number indicates a snapshot (+git) is used|
 |sticky|1.16|1.19|
 |stlink|1.7.0|1.8.0|
+|stopit|0<br>+git20190827|1.1.2|Compound version number '0+git20190827'<br>Version number indicates a snapshot (+git) is used|
 |strace|6.5|6.9|
 |streamlink|6.5.1|6.7.4|
 |strongswan|5.9.4|5.9.14|
