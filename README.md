@@ -276,7 +276,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |conky|1.10.8|1.21.2|
 |conmon|2.1.10|2.1.12|
 |constantly|15.1.0|23.10.4|
-|construct|2.9.45|2.10.70|
 |containerd|1.7.13|1.7.18|
 |containers-common|0.57.0<br>+image5.29.0<br>+shortnames2023.02.20<br>+skopeo1.14.0<br>+storage1.51.0|1.0.1|Compound version number '0.57.0+image5.29.0+shortnames2023.02.20+skopeo1.14.0+storage1.51.0'|
 |convertall|0.7.5|1.0.1|
@@ -463,7 +462,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fcitx5|5.1.9|5.1.10|
 |fcitx5-chewing|5.1.3|5.1.4|
 |fcitx5-chinese-addons|5.1.5|5.1.6|
-|fcitx5-configtool|5.1.5|5.1.6|
 |fcitx5-hangul|5.1.3|5.1.4|
 |fcitx5-kkc|5.1.3|5.1.4|
 |fcitx5-mozc|2.29.5160.102<br>+fcitx5<br>+git20230919|2.29.5374.102|Compound version number '2.29.5160.102+fcitx5+git20230919'<br>Version number indicates a snapshot (+git) is used|
@@ -1511,7 +1509,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libwmf|0.2.8.4|0.2.13|
 |libwnck-3|40.1|43.0|
 |libwpd|0.10.2|0.10.3|
-|libwpe|1.12.2|1.16.0|
 |libwpg|0.3.3|0.3.4|
 |libwww-perl|6.33|6.77|
 |libx86|1.1|3.5|
