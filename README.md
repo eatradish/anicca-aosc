@@ -2817,6 +2817,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |websockets|12.0|1.4.4|Possible downgrade from the current version (12.0   1.4.4)|
 |weechat|4.2.2|4.3.2|
 |weka|3.9.2|8.0.0|
+|werkzeug|1.0.1|3.0.3|
 |wesnoth|1.16.10|1.19.0|
 |weston|13.0.0|13.0.3|
 |wezterm|20240203<br>+110809<br>+5046fc22|20240203-110809-5046fc22|Compound version number '20240203+110809+5046fc22'|
