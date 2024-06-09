@@ -300,7 +300,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |css-parser|1.0.6|1.0.10|
 |cssselect2|0.6.0|0.7.0|
 |cssutils|1.0.2|2.11.1|
-|ctags|20191203|6.1.20240602.0|Possible downgrade from the current version (20191203   6.1.20240602.0)|
+|ctags|20191203|6.1.20240609.0|Possible downgrade from the current version (20191203   6.1.20240609.0)|
 |cuda|12.5.0<br>+555.42.02|12.5.0|Compound version number '12.5.0+555.42.02'<br>Possible downgrade from the current version (12.5.0+555.42.02   12.5.0)|
 |cunit|2.1<br>+3|2.1-3|Compound version number '2.1+3'|
 |cups|2.4.7|2.4.8|
@@ -1709,6 +1709,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mtdev|1.1.6|1.1.7|
 |muffin|5.8.0|6.0.1|
 |mugshot|0.4.1|0.4.3|
+|multipath-tools|0.9.3|0.9.8|
 |munkres|1.0.12|release-1.1.4|
 |muparser|2.2.6.1|2.3.4|
 |mupdf|1.18.0|1.24.3|
@@ -2874,6 +2875,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xf86-video-r128|6.12.1|6.9.7|Possible downgrade from the current version (6.12.1   6.9.7)|
 |xfce4-screenshooter|1.10.5|1.10.6|
 |xfce4-settings|4.18.4|4.18.5|
+|xfe|1.46.1|1.46.2|
 |xine-ui|0.99.12|0.99.14|
 |xinetd|2.3.15|2.3.15.4|
 |xjadeo|0.8.13|0.8.14|
