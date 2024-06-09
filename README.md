@@ -335,7 +335,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |deluge|2.1.1|2.0.5|Possible downgrade from the current version (2.1.1   2.0.5)|
 |deno|1.31.3|1.44.1|
 |dephell-specifier|0.2.2|0.3.0|
-|deploykit-backend|0.3.0|0.2.6|Possible downgrade from the current version (0.3.0   0.2.6)|
 |deploykit-gui|0.4.6|test-ci|Versions not comparable: `0.4.6` and `test-ci`|
 |devhelp|41.2|43.0|
 |dex|0.8.0|0.9.0|
@@ -2293,6 +2292,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qcef|1.1.6|1.1.8|
 |qcustomplot|2.1.1|2.1.1.1|
 |qd|2.3.22|2.3.24|
+|qemu|9.0.0|9.0.1|
 |qgnomeplatform|0.8.4|0.9.2|
 |qhull|7.2.0|8.0.2|
 |qjackctl|0.9.7|0.9.91|
