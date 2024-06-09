@@ -72,6 +72,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |aranym|1.1.0|1_1_0|
 |arc-kde|20180614|20220908|
 |arch-install-scripts|28<br>+mirrorlist20231113<br>+pacman6.0.1|28|Compound version number '28+mirrorlist20231113+pacman6.0.1'|
+|archlinux-keyring|20240520|20240609|
 |arduino-avr-core|1.8.3|1.8.6|
 |argparse-manpage|4.5|4.6|
 |argyllcms|3.1.0|3.2.0|
