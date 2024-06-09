@@ -1116,7 +1116,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kontactinterface|23.08.5|24.05.0|
 |kontrast|23.08.5|24.05.0|
 |konversation|23.08.5|24.05.0|
-|konversation-trinity|14.1.0|14.1.2|
 |kooldock-trinity|14.1.0|14.1.2|
 |kopeninghours|23.08.5|24.05.0|
 |kopete|23.08.5|24.05.0|
@@ -2873,7 +2872,9 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xf86-input-wacom|1.2.0|1.2.2|
 |xf86-video-intel|2.99.917<br>+git20210115|2.99.917|Compound version number '2.99.917+git20210115'<br>Version number indicates a snapshot (+git) is used|
 |xf86-video-r128|6.12.1|6.9.7|Possible downgrade from the current version (6.12.1   6.9.7)|
+|xfce4-power-manager|4.18.3|4.18.4|
 |xfce4-screenshooter|1.10.5|1.10.6|
+|xfce4-session|4.18.3|4.18.4|
 |xfce4-settings|4.18.4|4.18.5|
 |xfe|1.46.1|1.46.2|
 |xine-ui|0.99.12|0.99.14|
