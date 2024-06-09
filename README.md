@@ -456,7 +456,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |falkon|23.08.5|24.05.0|
 |fann|20190109|2.2.0|Possible downgrade from the current version (20190109   2.2.0)|
 |fasteners|0.18|0.19|
-|fastfetch|2.14.0|2.15.0|
 |fastimport|0.9.8|0.9.14|
 |fatattr|1.0.1|1.0.1.orig|Possible downgrade from the current version (1.0.1   1.0.1.orig)|
 |faulthandler|3.1|3.2|
@@ -511,7 +510,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |folks|0.15.5|0.15.9|
 |font-awesome|6.5.1|6.5.2|
 |font-manager|0.8.8|0.8.9|
-|fontconfig|2.14.0|2.15.0|
 |fontconfig+32|2.14.0|2.15.0|
 |fonttools|4.47.2|4.53.0|
 |foolscap|0.13.2|23.11.0|
@@ -2308,7 +2306,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qsynth|0.5.6|0.9.91|
 |qt-5|5.15.13<br>+webengine5.15.16<br>+webkit5.212.0<br>+kde20240408|5.15.14-lts-lgpl|Compound version number '5.15.13+webengine5.15.16+webkit5.212.0+kde20240408'|
 |qt4-tqt-theme-engine-trinity|14.1.0|14.1.2|
-|qtcreator|13.0.1|13.0.2|
 |qtkeychain|0.13.2|0.14.3|
 |qtpy|2.1.0|2.4.1|
 |qtractor|0.9.23|0.9.91|
@@ -2457,7 +2454,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |simple-scan|42.1|46.0|
 |simplejson|3.16.0|3.19.2|
 |simplescreenrecorder|0.4.3|0.4.4|
-|sing-box|1.8.13|1.9.1|
+|sing-box|1.8.13|1.9.2|
 |singular|4.1.1|2024.06.03|
 |sip|6.3.1|6.8.3|
 |skanlite|23.08.5|24.05.0|
@@ -2877,6 +2874,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xf86-video-intel|2.99.917<br>+git20210115|2.99.917|Compound version number '2.99.917+git20210115'<br>Version number indicates a snapshot (+git) is used|
 |xf86-video-r128|6.12.1|6.9.7|Possible downgrade from the current version (6.12.1   6.9.7)|
 |xfce4-screenshooter|1.10.5|1.10.6|
+|xfce4-settings|4.18.4|4.18.5|
 |xine-ui|0.99.12|0.99.14|
 |xinetd|2.3.15|2.3.15.4|
 |xjadeo|0.8.13|0.8.14|
