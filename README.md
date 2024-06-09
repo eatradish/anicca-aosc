@@ -656,7 +656,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-shell-extension-gsconnect|53|57|
 |gnome-shell-extensions|42.3|46.2|
 |gnome-software|42.4|46.2|
-|gnome-sudoku|42.0|46.1|
+|gnome-sudoku|42.0|46.2|
 |gnome-system-monitor|42.0|46.0|
 |gnome-terminal|3.44.1|3.97.0|
 |gnome-themes-standard|3.27.90|3.28|
@@ -1116,6 +1116,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kontactinterface|23.08.5|24.05.0|
 |kontrast|23.08.5|24.05.0|
 |konversation|23.08.5|24.05.0|
+|konversation-trinity|14.1.0|14.1.2|
 |kooldock-trinity|14.1.0|14.1.2|
 |kopeninghours|23.08.5|24.05.0|
 |kopete|23.08.5|24.05.0|
@@ -2545,7 +2546,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |stepmania|5.0.12<br>+git20221114|5.0.12|Compound version number '5.0.12+git20221114'<br>Version number indicates a snapshot (+git) is used|
 |sticky|1.16|1.19|
 |stlink|1.7.0|1.8.0|
-|stopit|0<br>+git20190827|1.1.2|Compound version number '0+git20190827'<br>Version number indicates a snapshot (+git) is used|
 |strace|6.5|6.9|
 |streamlink|6.5.1|6.7.4|
 |strongswan|5.9.4|5.9.14|
