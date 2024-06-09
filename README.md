@@ -328,7 +328,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ddnet|17.0.3|18.2|
 |ddrescue|1.24|1.28|
 |ddrescueview|1.23|0.4.5|Possible downgrade from the current version (1.23   0.4.5)|
-|debianutils|5.7|5.18|
+|debianutils|5.7|5.19|
 |decorator|4.3.2|5.1.1|
 |deja-dup|42.9|45.2|
 |dejavu-fonts|2.37|2_37|
@@ -2557,7 +2557,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sudo|1.9.15p5|1_9_15p5|
 |suitesparse|7.6.1|7.7.0|
 |sunpinyin|3.0.0~rc1|2.0.3-rel-1|Possible downgrade from the current version (3.0.0~rc1   2.0.3-rel-1)|
-|sunshine|0.23.0|2024.607.215756|
+|sunshine|0.23.0|2024.608.220126|
 |sunxi-tools|1.4.2<br>+git20220729|1.4.2|Compound version number '1.4.2+git20220729'<br>Version number indicates a snapshot (+git) is used|
 |sushi|42.0|46.0|
 |svgpart|23.08.5|24.05.0|
@@ -2817,7 +2817,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |websockets|12.0|1.4.4|Possible downgrade from the current version (12.0   1.4.4)|
 |weechat|4.2.2|4.3.2|
 |weka|3.9.2|8.0.0|
-|werkzeug|1.0.1|3.0.3|
 |wesnoth|1.16.10|1.19.0|
 |weston|13.0.0|13.0.3|
 |wezterm|20240203<br>+110809<br>+5046fc22|20240203-110809-5046fc22|Compound version number '20240203+110809+5046fc22'|
