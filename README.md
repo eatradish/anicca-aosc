@@ -131,7 +131,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |backports-functools-lru-cache|1.5|2.0.0|
 |baloo|5.115.0|6.0.90|
 |baloo-widgets|23.08.5|24.05.0|
-|balz|1.20|9.86|
+|balz|1.20|.55|
 |bandwhich|0.20.0|0.22.2|
 |baobab|42.0|46.0|
 |bash|5.2.26|5.2.21|Possible downgrade from the current version (5.2.26   5.2.21)|
@@ -153,7 +153,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |bluedevil|5.27.11|6.0.5|
 |bluez-alsa|4.1.1|4.2.0|
 |bluez-qt|5.115.0|6.0.90|
-|boinc|7.24.3|8.0/8.0.2|
+|boinc|7.24.3|8.0.2|
 |bomber|23.08.5|24.05.0|
 |boost|1.83.0|1.85.0|
 |boost+32|1.63.0|1.85.0|
@@ -1860,7 +1860,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |opentimelineio|0.15|0.16.0|
 |openttd|12.2<br>+opengfx7.1<br>+opensfx1.0.3|14.1|Compound version number '12.2+opengfx7.1+opensfx1.0.3'|
 |openvpn|2.5.4|2.6.10|
-|openvswitch|3.0.3|3.3.0|
+|openvswitch|3.0.3|3.3.1|
 |optipng|0.7.7|0.7.8|
 |opus|1.3.1|1.5.2|
 |opus+32|1.3.1|1.5.2|
@@ -2161,6 +2161,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |precis-i18n|1.0.3|1.1.0|
 |premake|5.0.0~beta1|4.3|Possible downgrade from the current version (5.0.0~beta1   4.3)|
 |presenterm|0.5.0|0.7.0|
+|prettytable|0.7.2|3.10.0|
 |primus+32|20150328|0.2|Possible downgrade from the current version (20150328   0.2)|
 |print-manager|23.08.5|24.05.0|
 |prison5|5.115.0|6.0.90|
