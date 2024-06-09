@@ -359,7 +359,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |django|5.0.3|5.0.6|
 |dlib|19.20.0|19.24.4|
 |dmd|2.108.1|2.109.0|
-|dmenu|5.2|5.3|
 |dnsdiag|1.6.4|2.1.0|
 |dnspython|2.3.0|2.6.1|
 |docbook-dtd|4.5|5.1|
@@ -1374,7 +1373,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libmanette|0.2.6|0.2.7|
 |libmatroska|1.6.2|1.7.1|
 |libmaxminddb|1.4.3|1.9.1|
-|libmediaart|1.9.4|1.9.6|
 |libmediainfo|22.06|24.05|
 |libmicrohttpd|0.9.71|1.0.1|
 |libmikmod+32|3.3.7|3.3.11.1|
@@ -1604,7 +1602,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |m17n-db|1.8.0|1.8.5|
 |m17n-lib|1.8.0|1.8.4|
 |m1n1|1.4.6<br>+logo20231113.1|1.4.14|Compound version number '1.4.6+logo20231113.1'|
-|m2crypto|0.38.0|0.41.0|
 |m2r|0.2.1|0.3.1|
 |m3u8|0.7.1|5.0.0|
 |mac-fdisk|0.1|0.1.orig|Possible downgrade from the current version (0.1   0.1.orig)|
@@ -2879,7 +2876,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xinetd|2.3.15|2.3.15.4|
 |xjadeo|0.8.13|0.8.14|
 |xkeyboard-config|2.40|2.42|
-|xl2tpd|1.3.15|1.3.18|
 |xmlrpc-c|1.54.06|1.59.03|
 |xmlsec|1.2.36|1.3.4|
 |xournalpp|1.1.3|1.2.3|
