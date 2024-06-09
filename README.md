@@ -1592,7 +1592,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lvm2|2.03.14|2.03.24|
 |lxc|5.0.2|6.0.0|
 |lxcfs|3.0.3|6.0.0|
-|lxgwcleargothic-font|0.300.4|0.312|
+|lxgwcleargothic-font|0.300.4|0.320|
 |lxgwnewcleargothic-font|1.121|1.123.2|
 |lxml|4.7.1|4.9.1|
 |lxpanel|0.9.3|0.10.1|
@@ -1857,6 +1857,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |openssl-1.1+32|1.1.1q|3.3.1|
 |opensubdiv|3.6.0|3_6_0|
 |openswan|2.6.51.5|3.0.0|
+|opentimelineio|0.15|0.16.0|
 |openttd|12.2<br>+opengfx7.1<br>+opensfx1.0.3|14.1|Compound version number '12.2+opengfx7.1+opensfx1.0.3'|
 |openvpn|2.5.4|2.6.10|
 |openvswitch|3.0.3|3.3.0|
@@ -2160,7 +2161,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |precis-i18n|1.0.3|1.1.0|
 |premake|5.0.0~beta1|4.3|Possible downgrade from the current version (5.0.0~beta1   4.3)|
 |presenterm|0.5.0|0.7.0|
-|prettytable|0.7.2|3.10.0|
 |primus+32|20150328|0.2|Possible downgrade from the current version (20150328   0.2)|
 |print-manager|23.08.5|24.05.0|
 |prison5|5.115.0|6.0.90|
@@ -2758,6 +2758,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |uthash|2.1.0|2.3.0|
 |util-linux+32|2.29.2|2.40.1|
 |util-macros+32|999|1.20.1|Possible downgrade from the current version (999   1.20.1)|
+|v4l-utils|1.22.1|1.26.1|
 |v4l-utils+32|1.18.0|1.26.1|
 |vala|0.56.16|0.56.17|
 |vala-panel-appmenu|0.7.4|24.05|
