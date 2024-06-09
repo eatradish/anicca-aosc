@@ -170,7 +170,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |breeze-icons|5.115.0|6.0.90|
 |breeze-plymouth|5.27.11|6.0.5|
 |brotlipy|0.7.0|1.0.9.2|
-|btrfs-progs|6.8.1|6.9|
 |budgie-screensaver|5.0.2|5.1.0|
 |bullet|2.88|3.25|
 |bup|0.30|0.33.3|
@@ -336,7 +335,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |deluge|2.1.1|2.0.5|Possible downgrade from the current version (2.1.1   2.0.5)|
 |deno|1.31.3|1.44.1|
 |dephell-specifier|0.2.2|0.3.0|
-|deploykit-gui|0.4.5|test-ci|Versions not comparable: `0.4.5` and `test-ci`|
+|deploykit-backend|0.3.0|0.2.6|Possible downgrade from the current version (0.3.0   0.2.6)|
+|deploykit-gui|0.4.6|test-ci|Versions not comparable: `0.4.6` and `test-ci`|
 |devhelp|41.2|43.0|
 |dex|0.8.0|0.9.0|
 |dfu-util|0.10|0.11|
