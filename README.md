@@ -490,6 +490,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |findlib|1.9.5|1.9.6|
 |findutils|4.9.0|4.10.0|
 |fio|3.35|3.37|
+|firefox|126.0.1|127.0|
 |firewalld|2.0.0|2.1.2|
 |flac|1.3.3|1.4.3|
 |flac+32|1.3.3|1.4.3|
@@ -1833,7 +1834,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |openldap|2.6.7|2_6_8|
 |openldap+32|2.4.59|2_6_8|
 |openmpi|4.1.6|5.0.3|
-|openmpt|0.6.4|0.7.7|
+|openmpt|0.6.4|0.7.8|
 |openpgl|0.5.0|0.6.0|
 |openpyxl|2.6.0|3.1.3|
 |openra|20210321|20231010|
@@ -1867,7 +1868,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |oxygen-icons|5.115.0|6.0.90|
 |oxygen-sounds|5.25.3|6.0.5|
 |p11-kit+32|0.23.18.1|0.25.3|
-|packaging|23.0|24.0|
+|packaging|23.0|24.1|
 |pacman|6.0.1|6.1.0|
 |pahole|1.25|1.26|
 |palapeli|23.08.5|24.05.0|
