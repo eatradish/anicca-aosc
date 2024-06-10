@@ -539,7 +539,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |futures|3.2.0|3.4.0|
 |fvwm|2.6.9|2.7.0|
 |fzf|0.46.1|0.53.0|
-|gajim|1.4.0|1.8.4|
+|gajim|1.4.0|1.9.0|
 |game-music-emu+32|0.6.0|0.6.3|
 |gammaray|2.11.2|3.0.0|
 |gap|4.10.2|4.13.0|
@@ -2242,7 +2242,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pyqtwebengine|5.15.5|5.15.6|
 |pyscard|1.9.9|2.0.10|
 |pyscss|1.3.7|1.4.0|
-|pyside2|5.15.11|5.15.2.1|Possible downgrade from the current version (5.15.11   5.15.2.1)|
+|pyside2|5.15.14|5.15.2.1|Possible downgrade from the current version (5.15.14   5.15.2.1)|
 |pysmbc|1.0.22|1.0.25.1|
 |pysocks|1.6.8|1.7.1|
 |pysol-cards|0.14.2|0.16.0|
@@ -2531,7 +2531,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sqlparse|0.4.1|0.5.0|
 |squashfs-tools|4.5|4.6.1|
 |squashfuse|0.1.105|0.5.2|
-|squid|5.7|6.9|
+|squid|5.7|6.10|
 |sra-tools|3.0.3|3.1.1|
 |srain|1.5.1|1.7.0|
 |sratom|0.6.4|0.6.16|
