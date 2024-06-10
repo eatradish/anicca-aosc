@@ -607,8 +607,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gjs|1.74.0|1.80.2|
 |gksu|2.0.2|2.0.12|
 |glances|4.0.5|4.0.8|
-|glib|2.80.0|2.80.2|
-|glib+32|2.62.6|2.80.2|
+|glib|2.80.0|2.80.3|
+|glib+32|2.62.6|2.80.3|
 |glib-networking|2.72.2|2.80.0|
 |glibc|2.38|2.39|
 |glibc+32|2.38|2.39|
@@ -1640,7 +1640,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mediainfo|22.06|24.05|
 |meld|3.21.3|3.22.2|
 |melonds|0.9.2|0.9.5|
-|memcached|1.6.12|1.6.28|
+|memcached|1.6.27|1.6.28|
 |menumaker|0.99.12|0.99.14|
 |merkuro|23.08.5|24.05.0|
 |mesa|24.0.7<br>+dxheaders1.613.1|24.1.1|Compound version number '24.0.7+dxheaders1.613.1'|
@@ -2114,7 +2114,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |plasma-workspace-wallpapers|5.27.11|6.0.5|
 |plasmatube|23.08.5|24.05.0|
 |platformdirs|2.5.2|4.2.2|
-|pluggy|1.0.0|1.5.0|
 |plymouth-kcm|5.27.11|6.0.5|
 |pmac-utils|1.1.3|1.1.3.orig|Possible downgrade from the current version (1.1.3   1.1.3.orig)|
 |pngquant|2.12.6|3.0.3|
@@ -2159,7 +2158,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |progress|0.16|0.17|
 |proj|9.2.1|9.4.1|
 |projectm|4.0.0|4.1.1|
-|prompt-toolkit|2.0.8|3.0.46|
+|prompt-toolkit|2.0.8|3.0.47|
 |proot|5.1.20171016|5.4.0|
 |protobuf|25.2|27.1|
 |proxychains-ng+32|20161205|4.17|Possible downgrade from the current version (20161205   4.17)|
@@ -2242,7 +2241,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pysol-sound-server|3.01|3.20|
 |pysolfc|2.12.0|3.0.0|
 |pyte|0.8.0|0.8.2|
-|pytest|7.1.1|8.2.2|
 |python-2+32|999|2.7.18|Possible downgrade from the current version (999   2.7.18)|
 |python-3|3.10.13|3.12.4|
 |python-augeas|1.0.3|1.1.0|
@@ -2856,7 +2854,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xdg-dbus-proxy|0.1.2|0.1.5|
 |xdg-desktop-portal|1.16.0|1.18.4|
 |xdg-desktop-portal-gnome|42.3|46.2|
-|xdg-desktop-portal-gtk|1.12.0|1.15.1|
 |xdg-desktop-portal-kde|5.27.11|6.0.5|
 |xdg-user-dirs|0.17|0.18|
 |xdg-user-dirs-gtk|0.10|0.11|
@@ -2918,7 +2915,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |zeal|0.7.0|0.7.1|
 |zenity|3.42.1|4.0.1|
 |zeroconf|0.28.6|0.132.2|
-|zeromq|4.3.4|4.3.5|
 |zerotier-one|1.12.2|1.14.0|
 |zfec|1.5.3|1.5.7.4|
 |zig|0.12.0|0.13.0|
@@ -2936,4 +2932,4 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |zxing-cpp|1.4.0|2.2.1|
 |zxtune|5053|5061|
 |zyn-fusion|3.0.5|3.0.6|
-|zziplib|0.13.74|0.13.76|
+|zziplib|0.13.75|0.13.76|
