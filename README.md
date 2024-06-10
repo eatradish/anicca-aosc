@@ -1214,7 +1214,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kxmlgui|5.115.0|6.0.90|
 |kxmlrpcclient|5.115.0|6.0.90|
 |kyotocabinet|1.2.79|1.2.80|
-|lablgtk|2.18.11|3.1.4|
+|lablgtk|2.18.11|3.1.5|
 |ladish|20200418|1.2|Possible downgrade from the current version (20200418   1.2)|
 |lash|0.6.0~rc2|0.5.4|Possible downgrade from the current version (0.6.0~rc2   0.5.4)|
 |layer-shell-qt|5.27.11|6.0.5|
@@ -1407,7 +1407,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libpano13|2.9.19|2.9.22|
 |libpcap+32|1.10.1|1.10.4|
 |libpeas|1.32.0|2.0.2|
-|libphonenumber|8.12.17|8.13.38|
 |libpinyin|2.6.0|2.8.1|
 |libpipeline|1.5.3|1.5.7|
 |libplist|2.3.0|2.6.0|
