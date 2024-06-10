@@ -160,7 +160,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |borgbackup|1.1.17|1.2.8|
 |botan|1.10.17|3.4.0|
 |botan-2|2.12.1|3.4.0|
-|boto3|1.20.26|1.34.122|
+|boto3|1.20.26|1.34.123|
 |bottle|0.12.18|0.12.25|
 |bottles|2022.2.28<br>+trento<br>+4|51.11|Compound version number '2022.2.28+trento+4'<br>Possible downgrade from the current version (2022.2.28+trento+4   51.11)|
 |bovo|23.08.5|24.05.0|
@@ -877,7 +877,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |json-c+32|0.13.1<br>+20180305|0.17|Compound version number '0.13.1+20180305'|
 |json-glib|1.6.6|1.8.0-actual|
 |jsonlines|1.2.0|4.0.0|
-|jsonpointer|2.3|2.4|
+|jsonpointer|2.3|3.0.0|
 |jsonrpc-glib|3.42.0|3.44.0|
 |jsonschema|3.2.0|0.0.1|Possible downgrade from the current version (3.2.0   0.0.1)|
 |juk|23.08.5|24.05.0|
