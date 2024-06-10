@@ -1544,7 +1544,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |linux+kernel+rc|5.8.0|5.19.17|
 |linux+kernel+retro|5.10.132|5.10.218|
 |linux+kernel+retro+minimal|5.15.17|5.10.218|Possible downgrade from the current version (5.15.17   5.10.218)|
-|linux-firmware|20240506<br>+debian20230210<br>+5~bpo11<br>+1|20240513|Compound version number '20240506+debian20230210+5~bpo11+1'|
+|linux-firmware|20240506<br>+debian20230210<br>+5~bpo11<br>+1|20240610|Compound version number '20240506+debian20230210+5~bpo11+1'|
 |linux-kernel|6.9.3|5.19.17|Possible downgrade from the current version (6.9.3   5.19.17)|
 |linux-kernel-lts|6.6.31|5.19.17|Possible downgrade from the current version (6.6.31   5.19.17)|
 |linux-kernel-retro|5.10.132|5.10.218|
@@ -1681,7 +1681,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mold|2.4.0|2.32.0|
 |monotonic|1.5|1.6|
 |moodbar|1.2.1|1.3.0|
-|more-itertools|4.3.0|10.2.0|
+|more-itertools|4.3.0|10.3.0|
 |most|5.0.0a|5.2.0|
 |mouseemu|0.16|0.16.orig|Possible downgrade from the current version (0.16   0.16.orig)|
 |movit|1.6.3|1.7.1|
