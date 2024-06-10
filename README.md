@@ -602,7 +602,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gitdb|4.0.10|4.0.11|
 |gitg|41|44|
 |gitoxide|0.35.0|0.36.0|
-|gitpython|3.1.35|3.1.43|
 |gitui|0.26.2|0.26.3|
 |gjs|1.74.0|1.80.2|
 |gksu|2.0.2|2.0.12|
