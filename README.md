@@ -2118,6 +2118,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |plymouth-kcm|5.27.11|6.0.5|
 |pmac-utils|1.1.3|1.1.3.orig|Possible downgrade from the current version (1.1.3   1.1.3.orig)|
 |pngquant|2.12.6|3.0.3|
+|pnpm|9.2.0|9.3.0|
 |po-debconf|1.0.21|1.0.21+nmu1|Possible downgrade from the current version (1.0.21   1.0.21+nmu1)|
 |po4a|0.63|0.72|
 |pocketsphinx|5~prealpha|0.8|Possible downgrade from the current version (5~prealpha   0.8)|
