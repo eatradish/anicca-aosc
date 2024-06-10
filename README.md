@@ -465,6 +465,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fcitx5-hangul|5.1.3|5.1.4|
 |fcitx5-kkc|5.1.3|5.1.4|
 |fcitx5-mozc|2.29.5160.102<br>+fcitx5<br>+git20230919|2.29.5374.102|Compound version number '2.29.5160.102+fcitx5+git20230919'<br>Version number indicates a snapshot (+git) is used|
+|fcitx5-pinyin-moegirl|20240509|20240609|
 |fcitx5-pinyin-zhwiki|0.2.3<br>+dict20210823|0.2.5|Compound version number '0.2.3+dict20210823'|
 |fcitx5-rime|5.1.6|5.1.8|
 |fcitx5-skk|5.1.3|5.1.4|
@@ -775,17 +776,14 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |html2text|2020.1.16|2024.2.26|
 |html5-parser|0.4.9|0.4.12|
 |htslib|1.16|1.20|
-|httpcore|0.12.2|1.0.5|
 |httpd|2.4.58|2.4.59|
 |httplib2|0.19.0|0.22.0|
-|httpx|0.23.3|0.27.0|
 |httrack|3.49.2|3.49.5|
 |hub|2.14.2<br>+git20230617|2.14.2|Compound version number '2.14.2+git20230617'<br>Version number indicates a snapshot (+git) is used|
 |hugin|2022.0.0|2023.0.0|
 |hugo|0.126.1|0.127.0|
 |humanize|0.5.1|4.9.0|
 |hunspell|1.7.0|1.7.2|
-|hyper-h11|0.12.0|0.14.0|
 |hyper-h2|4.0.0|4.1.0|
 |hyperframe|6.0.0|6.0.1|
 |hyperlink|19.0.0|21.0.0|
@@ -1679,7 +1677,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |modemmanager|1.18.12|1.22.0|
 |modemmanager-qt|5.115.0|6.0.90|
 |mokutil|0.6.0|0.7.2|
-|mold|2.4.0|2.31.0|
+|mold|2.4.0|2.32.0|
 |monotonic|1.5|1.6|
 |moodbar|1.2.1|1.3.0|
 |more-itertools|4.3.0|10.2.0|
