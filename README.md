@@ -154,7 +154,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |bluedevil|5.27.11|6.0.5|
 |bluez-alsa|4.1.1|4.2.0|
 |bluez-qt|5.115.0|6.0.90|
-|boinc|7.24.3|8.0.2|
 |bomber|23.08.5|24.05.0|
 |boost|1.83.0|1.85.0|
 |boost+32|1.63.0|1.85.0|
@@ -1305,7 +1304,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libfprint|1.94.4|1.94.7|
 |libftdi|1.4|1.5|
 |libgcrypt+32|1.9.1|1.10.3|
-|libgdiplus|6.0.5|6.1|
 |libgee|0.20.5|0.20.6|
 |libgeotiff|1.5.1|1.7.3|
 |libgig|4.4.0|4.4.1|
@@ -1595,7 +1593,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lxpanel|0.9.3|0.10.1|
 |lxterminal|0.3.2|0.4.0|
 |lynx|2.9.0|2.9.2|
-|lyx|2.3.7|2.4.0|
 |lzd|1.0|1.4|
 |lzip|1.23|1.24.1|
 |lziprecover|1.21|1.24|
@@ -1646,7 +1643,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |meld|3.21.3|3.22.2|
 |melonds|0.9.2|0.9.5|
 |memcached|1.6.12|1.6.28|
-|menulibre|2.2.1|2.4.0|
 |menumaker|0.99.12|0.99.14|
 |merkuro|23.08.5|24.05.0|
 |mesa|24.0.7<br>+dxheaders1.613.1|24.1.1|Compound version number '24.0.7+dxheaders1.613.1'|
@@ -2155,7 +2151,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |powerpc-utils|1.3.10|1.3.12|
 |poxml|23.08.5|24.05.0|
 |ppp|2.4.9|2.5.0|
-|ppsspp|1.11.3|1.17.1|
 |precis-i18n|1.0.3|1.1.0|
 |premake|5.0.0~beta1|4.3|Possible downgrade from the current version (5.0.0~beta1   4.3)|
 |presenterm|0.5.0|0.7.0|
