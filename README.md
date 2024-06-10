@@ -56,7 +56,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |angelfish|23.08.5|24.05.0|
 |annotated-types|0.6.0|0.7.0|
 |ansible|2.12.1|2.17.0|
-|aom|3.8.1|3.9.0|
+|aom|3.8.1|3.9.1|
 |aosc-community-wallpapers-extras-2023|2023.10.1|2024.04.0|
 |aosc-community-wallpapers-extras-2024|2024.04.1|2024.04.0|Possible downgrade from the current version (2024.04.1   2024.04.0)|
 |aosc-media-writer|0.3.4|5.0.9|
@@ -2406,6 +2406,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |scons|4.4.0|4.7.0|
 |scour|0.37|0.38.2|
 |screen|4.9.0|4.9.1|
+|scrot|1.10|1.11.1|
 |scummvm|2.2.0|2.8.1|
 |sdcc|4.3.6|4.4.0|
 |sddm-kcm|5.27.11|6.0.5|
@@ -2432,7 +2433,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sfml|2.5.1|2.6.1|
 |sg3-utils|1.47r915|1.48|
 |shaderc|2023.7|2024.1|
-|shadowsocks-rust|1.18.4|1.19.2|
+|shadowsocks-rust|1.18.4|1.19.3|
 |shapelib|1.5.0|1.6.0|
 |shared-color-targets|0.1.7|0_1_7|
 |shotcut|21.08.11|24.06.02|
