@@ -1438,7 +1438,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libshumate|1.2.1|1.2.2|
 |libsidplay|1.36.59|2.1.1|
 |libsidplay+32|1.36.59|2.1.1|
-|libsidplayfp|1.8.8|2.7.1|
+|libsidplayfp|1.8.8|2.8.0|
 |libsigc++|2.10.8|3.6.0|
 |libsigc++-3.0|3.4.0|3.6.0|
 |libsigsegv|2.12|2.14|
@@ -2747,6 +2747,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |unshield|1.4.3|1.5.1|
 |upower|1.90.0|1.90.4|
 |upx|4.2.1|4.2.4|
+|urfkill|0.5.0<br>+git20210401|0.5.0|Compound version number '0.5.0+git20210401'<br>Version number indicates a snapshot (+git) is used|
 |uritemplate|3.0.1|4.1.1|
 |urlgrabber|3.10.2|4.1.0|
 |urwid|2.1.2|2.6.13|
@@ -2823,6 +2824,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |wezterm|20240203<br>+110809<br>+5046fc22|20240203-110809-5046fc22|Compound version number '20240203+110809+5046fc22'|
 |wheel|0.42.0|0.43.0|
 |wheezy.template|3.1.0|3.2.2|
+|wikipedia|1.4.0|1.4.5|
 |wildmidi|0.4.3|0.4.6|
 |wildmidi+32|0.4.3|0.4.6|
 |wimlib|1.13.6|1.14.4|
