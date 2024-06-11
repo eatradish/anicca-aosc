@@ -630,7 +630,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-autoar|0.4.3|0.4.4|
 |gnome-backgrounds|42.0|46.0|
 |gnome-bluetooth|42.2|46.0|
-|gnome-boxes|42.3|46.1|
 |gnome-builder|42.1|46.2|
 |gnome-calculator|42.2|46.1|
 |gnome-calendar|42.2|46.1|
@@ -944,6 +943,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kconfig|5.115.0|6.0.90|
 |kconfigwidgets|5.115.0|6.0.90|
 |kcontacts|5.115.0|6.0.90|
+|kcoreaddons|5.115.0|6.0.90|
 |kcpuload-trinity|14.1.0|14.1.2|
 |kcrash|5.115.0|6.0.90|
 |kcron|23.08.5|24.05.0|
@@ -1873,7 +1873,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |p11-kit+32|0.23.18.1|0.25.3|
 |packaging|23.0|24.1|
 |pacman|6.0.1|6.1.0|
-|pahole|1.25|1.26|
+|pahole|1.25|1.27|
 |palapeli|23.08.5|24.05.0|
 |palp|2.1|2.21|
 |pam-python|1.0.7|1.0.8|
