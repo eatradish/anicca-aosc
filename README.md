@@ -362,7 +362,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dnsdiag|1.6.4|2.1.0|
 |dnspython|2.3.0|2.6.1|
 |docbook-dtd|4.5|5.1|
-|docbook-sgml|0|4.5|
 |docbook-xml|0|5.1|
 |docker|25.0.3<br>+tini0.19.0|26.1.4|Compound version number '25.0.3+tini0.19.0'|
 |docker-compose|2.24.6|2.27.1|
@@ -1615,7 +1614,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mangohud+32|0.7.0|0.7.2|
 |marble|23.08.5|24.05.0|
 |mariadb|10.9.4|11.5.1|
-|markdown|3.3.4|3.6|
 |markdownpart|23.08.5|24.05.0|
 |markupsafe|2.1.1|2.1.5|
 |marshmallow|3.20.2|3.21.3|
@@ -1964,7 +1962,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-exception-class|1.44|1.45|
 |perl-extutils-config|0.008|0.009|
 |perl-extutils-depends|0.405|0.8001|
-|perl-extutils-installpaths|0.012|0.013|
 |perl-fcgi|0.78|0.82|
 |perl-file-basedir|0.08|0.09|
 |perl-file-copy-recursive|0.44|0.45|
@@ -2765,11 +2762,10 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |verdict|1.4.1|1.4.2|
 |verilator|4.204|5.024|
 |versioningit|3.0.0|3.1.1|
-|vgmstream|20191206|1879|Possible downgrade from the current version (20191206   1879)|
 |vice|3.5|3.8|
 |vicious|2.3.3|2.7.0|
 |vid.stab|0.98b|1.1.1|
-|vim|9.1.0446|9.1.0470|
+|vim|9.1.0446|9.1.0474|
 |virglrenderer|0.10.4|1.0.1|
 |virtualenv|20.25.0|20.26.2|
 |virtualgl+32|2.5.2|3.1.1|
