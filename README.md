@@ -547,7 +547,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |game-music-emu+32|0.6.0|0.6.3|
 |gammaray|2.11.2|3.0.0|
 |gap|4.10.2|4.13.0|
-|gaupol|1.7|1.14.1|
+|gaupol|1.7|1.15|
 |gc|8.2.6|8.2.4|Possible downgrade from the current version (8.2.6   8.2.4)|
 |gcab|1.1|1.6|
 |gcc|13.2.0|14.1.0|
