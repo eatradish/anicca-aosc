@@ -305,8 +305,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ctags|20191203|6.1.20240609.0|Possible downgrade from the current version (20191203   6.1.20240609.0)|
 |cuda|12.5.0<br>+555.42.02|12.5.0|Compound version number '12.5.0+555.42.02'<br>Possible downgrade from the current version (12.5.0+555.42.02   12.5.0)|
 |cunit|2.1<br>+3|2.1-3|Compound version number '2.1+3'|
-|cups|2.4.7|2.4.8|
-|cups+32|2.3.3|2.4.8|
+|cups|2.4.7|2.4.9|
+|cups+32|2.3.3|2.4.9|
 |curl+32|8.6.0|8.8.0|
 |curtsies|0.3.4|0.4.2|
 |cycler|0.10.0|0.12.1|
@@ -2870,7 +2870,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xfce4-power-manager|4.18.3|4.18.4|
 |xfce4-screenshooter|1.10.5|1.10.6|
 |xfce4-session|4.18.3|4.18.4|
-|xfce4-settings|4.18.4|4.18.5|
+|xfce4-settings|4.18.4|4.18.6|
 |xfe|1.46.1|1.46.2|
 |xine-ui|0.99.12|0.99.14|
 |xinetd|2.3.15|2.3.15.4|
