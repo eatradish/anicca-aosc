@@ -274,7 +274,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |configobj|5.0.6|5.0.8|
 |configparser|3.7.3|3.12.4|
 |confuse|3.2.2|3.3|
-|conky|1.10.8|1.21.2|
+|conky|1.10.8|1.21.3|
 |conmon|2.1.10|2.1.12|
 |constantly|15.1.0|23.10.4|
 |construct|2.9.45|2.10.70|
@@ -337,7 +337,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |deluge|2.1.1|2.0.5|Possible downgrade from the current version (2.1.1   2.0.5)|
 |deno|1.31.3|1.44.1|
 |dephell-specifier|0.2.2|0.3.0|
-|deploykit-gui|0.4.6|test-ci|Versions not comparable: `0.4.6` and `test-ci`|
+|deploykit-backend|0.4.0|0.3.0|Possible downgrade from the current version (0.4.0   0.3.0)|
+|deploykit-gui|0.5.0|test-ci|Versions not comparable: `0.5.0` and `test-ci`|
 |devhelp|41.2|43.0|
 |dex|0.8.0|0.9.0|
 |dfu-util|0.10|0.11|
