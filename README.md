@@ -93,6 +93,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |aspnetcore-targeting-pack-6.0|6.0.30|6.0.31|
 |aspnetcore-targeting-pack-8.0|8.0.5|8.0.6|
 |assimp|5.4.0|5.4.1|
+|ast-grep|0.22.6|0.23.0|
 |astroid|2.12.2|3.2.2|
 |astrometry.net|0.94|0.95|
 |at-spi2-atk+32|2.26.3|2.38.0|
@@ -1228,7 +1229,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libaacs|0.11.0|0.11.1|
 |libaal|1.0.7|24"|
 |libaccounts-glib|1.24|1.27|
-|libaccounts-qt|1.16|1.17|
 |libadwaita|1.5.0|1.5.1|
 |libaio|0.3.111|0.3.113|
 |libaio+32|0.3.110|0.3.113|
