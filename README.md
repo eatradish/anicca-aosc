@@ -389,7 +389,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dotnet-runtime-8.0|8.0.5|8.0.6|
 |dotnet-runtime-deps-6.0|6.0.0|6.0.31|
 |dotnet-sdk-6.0|6.0.422|6.0.423|
-|dotnet-sdk-8.0|8.0.300|8.0.301|
+|dotnet-sdk-8.0|8.0.300|8.0.302|
 |dotnet-targeting-pack-6.0|6.0.30|6.0.31|
 |dotnet-targeting-pack-8.0|8.0.5|8.0.6|
 |dotnet-templates-6.0|6.0.422|6.0.423|
@@ -685,6 +685,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |google-api-python-client|1.7.11|2.132.0|
 |google-auth|1.6.3|2.30.0|
 |google-auth-httplib2|0.0.4|0.2.0|
+|google-chrome|125.0.6422.141|126.0.6478.55|
 |gpac|2.2.1|2.4.0|
 |gperftools|2.13|2.15|
 |gpodder|3.10.17|3.11.4|
@@ -2652,7 +2653,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |thedarkmod|2.09a|2.12|
 |thin-provisioning-tools|1.0.10|1.0.12|
 |threadweaver|5.115.0|6.0.90|
-|thunderbird|115.5.2|125.0|
+|thunderbird|115.5.2|127.0|
 |tig|2.4.1|2.5.10|
 |tigervnc|1.12.0|1.13.1|
 |tikzplotlib|0.9.8|0.10.1|
