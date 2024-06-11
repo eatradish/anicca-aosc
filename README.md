@@ -350,6 +350,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |digikam|7.9.0|8.3.0|
 |digikam-trinity|14.1.0|14.1.2|
 |ding-libs|0.6.1|0.6.2|
+|discord|0.0.55|0.0.56|
 |discover|5.27.11|6.0.5|
 |distlib|0.3.1|0.3.8|
 |distorm|3.5.1|3.5.2b|
@@ -2341,7 +2342,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |retext|7.2.2|8.0.2|
 |rexml|3.2.5|3.2.9|
 |rfc3986|1.4.0|2.0.0|
-|rhythmbox|3.4.4|3.4.7|
 |rime-cantonese|2023.06.15<br>+git20230912|2023.06.15|Compound version number '2023.06.15+git20230912'<br>Version number indicates a snapshot (+git) is used|
 |rime-emoji|13.0<br>+git20230826|15.0|Compound version number '13.0+git20230826'<br>Version number indicates a snapshot (+git) is used|
 |rinutils|0.4.1|0.10.2|
