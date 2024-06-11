@@ -944,7 +944,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kconfig|5.115.0|6.0.90|
 |kconfigwidgets|5.115.0|6.0.90|
 |kcontacts|5.115.0|6.0.90|
-|kcoreaddons|5.115.0|6.0.90|
 |kcpuload-trinity|14.1.0|14.1.2|
 |kcrash|5.115.0|6.0.90|
 |kcron|23.08.5|24.05.0|
