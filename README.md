@@ -79,7 +79,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |arianna|23.08.5|24.05.0|
 |ark|23.08.5|24.05.0|
 |arpack-ng|3.8.0|3.9.1|
-|arpwatch|2.1a15|3.6|
 |arrow|1.0.3|1.3.0|
 |artikulate|23.08.5|24.05.0|
 |arts|14.1.0|14.1.2|
@@ -746,7 +745,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gupnp-av|0.12.11|0.14.1|
 |gupnp-dlna|0.10.5|0.12.0|
 |gupnp-igd|0.2.5|1.6.0|
-|guvcview|2.0.5|2.1.0|
 |gvfs|1.50.2|1.54.1|
 |gwc|0.21<br>+19|0.22-06|Compound version number '0.21+19'|
 |gwenhywfar|5.4.0|5.10.2|
@@ -1229,6 +1227,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libaacs|0.11.0|0.11.1|
 |libaal|1.0.7|24"|
 |libaccounts-glib|1.24|1.27|
+|libaccounts-qt|1.16|1.17|
 |libadwaita|1.5.0|1.5.1|
 |libaio|0.3.111|0.3.113|
 |libaio+32|0.3.110|0.3.113|
@@ -2084,7 +2083,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pimcommon|23.08.5|24.05.0|
 |pinentry|1.1.0|1.3.0|
 |pip|22.3.1|24.1b1|
-|piper|0.6|0.7|
 |pipewire|1.0.7|1.1.82|
 |pipewire-0.2|0.2.7|1.1.82|
 |pixman|0.43.0|0.43.4|
