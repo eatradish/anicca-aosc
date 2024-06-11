@@ -311,7 +311,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cymem|2.0.5|2.0.8|
 |cython-0.29|0.29.36|3.0.10|
 |czmq|4.2.0|4.2.1|
-|damo|1.0.9|2.3.7|
+|damo|1.0.9|2.3.8|
 |dante|1.4.2|1.4.3|
 |dar|2.7.13|2.7.14|
 |darkradiant|3.8.0|3.9.0|
@@ -2280,7 +2280,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pyyaml|5.3.1|6.0.1|
 |pyzmq|22.3.0|26.0.3|
 |qalculate-tde-trinity|14.1.0|14.1.2|
-|qbittorrent|4.6.4|4.6.5|
 |qca|2.3.4|2.3.8|
 |qcef|1.1.6|1.1.8|
 |qcustomplot|2.1.1|2.1.1.1|
