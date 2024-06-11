@@ -105,6 +105,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |attr|2.4.48|2.5.2|
 |attr+32|2.4.48|2.5.2|
 |attrs|20.3.0|23.2.0|
+|atuin|18.2.0|18.3.0|
 |audacity|3.4.2|3.5.1|
 |audiocd-kio|23.08.5|24.05.0|
 |audiofile|0.3.6git20160829|0.3.6|
@@ -362,6 +363,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dnsdiag|1.6.4|2.1.0|
 |dnspython|2.3.0|2.6.1|
 |docbook-dtd|4.5|5.1|
+|docbook-sgml|0|4.5|
 |docbook-xml|0|5.1|
 |docker|25.0.3<br>+tini0.19.0|26.1.4|Compound version number '25.0.3+tini0.19.0'|
 |docker-compose|2.24.6|2.27.1|
@@ -1614,6 +1616,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mangohud+32|0.7.0|0.7.2|
 |marble|23.08.5|24.05.0|
 |mariadb|10.9.4|11.5.1|
+|markdown|3.3.4|3.6|
 |markdownpart|23.08.5|24.05.0|
 |markupsafe|2.1.1|2.1.5|
 |marshmallow|3.20.2|3.21.3|
@@ -1962,6 +1965,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-exception-class|1.44|1.45|
 |perl-extutils-config|0.008|0.009|
 |perl-extutils-depends|0.405|0.8001|
+|perl-extutils-installpaths|0.012|0.013|
 |perl-fcgi|0.78|0.82|
 |perl-file-basedir|0.08|0.09|
 |perl-file-copy-recursive|0.44|0.45|
@@ -2336,7 +2340,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |requests-cache|0.5.2|1.2.0|
 |rest|0.8.1|0.9.1|
 |retext|7.2.2|8.0.2|
-|rexml|3.2.5|3.2.9|
+|rexml|3.2.5|3.3.0|
 |rfc3986|1.4.0|2.0.0|
 |rime-cantonese|2023.06.15<br>+git20230912|2023.06.15|Compound version number '2023.06.15+git20230912'<br>Version number indicates a snapshot (+git) is used|
 |rime-emoji|13.0<br>+git20230826|15.0|Compound version number '13.0+git20230826'<br>Version number indicates a snapshot (+git) is used|
@@ -2762,6 +2766,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |verdict|1.4.1|1.4.2|
 |verilator|4.204|5.024|
 |versioningit|3.0.0|3.1.1|
+|vgmstream|20191206|1879|Possible downgrade from the current version (20191206   1879)|
 |vice|3.5|3.8|
 |vicious|2.3.3|2.7.0|
 |vid.stab|0.98b|1.1.1|
@@ -2793,7 +2798,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vulkan-validationlayers|1.3.280.0|1.3.287|
 |warpinator|1.6.3|1.8.3|
 |warzone2100|4.1.3|4.4.2|
-|watchman|4.9.0|2024.06.03.00|
+|watchman|4.9.0|2024.06.10.00|
 |wavpack|5.2.0|5.7.0|
 |wavpack+32|5.2.0|5.7.0|
 |wayland|1.22.0|1.23.0|
