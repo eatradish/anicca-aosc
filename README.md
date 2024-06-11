@@ -2449,7 +2449,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |simple-scan|42.1|46.0|
 |simplejson|3.16.0|3.19.2|
 |simplescreenrecorder|0.4.3|0.4.4|
-|sing-box|1.8.13|1.9.2|
+|sing-box|1.8.13|1.9.3|
 |singular|4.1.1|2024.06.03|
 |sip|6.3.1|6.8.3|
 |skanlite|23.08.5|24.05.0|
@@ -2552,7 +2552,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sudo|1.9.15p5|1_9_15p5|
 |suitesparse|7.6.1|7.7.0|
 |sunpinyin|3.0.0~rc1|2.0.3-rel-1|Possible downgrade from the current version (3.0.0~rc1   2.0.3-rel-1)|
-|sunshine|0.23.0|2024.608.220126|
+|sunshine|0.23.0|2024.610.122248|
 |sunxi-tools|1.4.2<br>+git20220729|1.4.2|Compound version number '1.4.2+git20220729'<br>Version number indicates a snapshot (+git) is used|
 |sushi|42.0|46.0|
 |svgpart|23.08.5|24.05.0|
