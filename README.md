@@ -157,7 +157,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |bomber|23.08.5|24.05.0|
 |boost|1.83.0|1.85.0|
 |boost+32|1.63.0|1.85.0|
-|borgbackup|1.1.17|1.2.8|
 |botan|1.10.17|3.4.0|
 |botan-2|2.12.1|3.4.0|
 |boto3|1.20.26|1.34.123|
