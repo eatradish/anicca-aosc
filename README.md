@@ -45,11 +45,13 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |allegro|5.2.6.0|5.2.9.1|
 |allegro+32|4.4.2|5.2.9.1|
 |alligator|23.08.5|24.05.0|
-|alsa-lib|1.2.6.1|1.2.11|
-|alsa-lib+32|1.2.5.1|1.2.11|
-|alsa-ucm-conf|1.2.5.1|1.2.11|
+|alsa-lib|1.2.6.1|1.2.12|
+|alsa-lib+32|1.2.5.1|1.2.12|
+|alsa-plugins|1.2.7.1|1.2.12|
+|alsa-plugins+32|1.2.7.1|1.2.12|
+|alsa-ucm-conf|1.2.5.1|1.2.12|
 |alsa-ucm-conf-asahi|4|5|
-|alsa-utils|1.2.8|1.2.11|
+|alsa-utils|1.2.8|1.2.12|
 |amarok-trinity|14.1.0|14.1.2|
 |amtk|5.5.1|5.6.1|
 |analitza|23.08.5|24.05.0|
@@ -267,7 +269,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |colord-kde|23.08.5|24.05.0|
 |colordiff|1.0.20|1.0.21|
 |coloredlogs|10.0|15.0.1|
-|composer|2.0.13|2.7.6|
+|composer|2.0.13|2.7.7|
 |concurrencykit|0.7.1|0.7.2|
 |configobj|5.0.6|5.0.8|
 |configparser|3.7.3|3.12.4|
@@ -2058,7 +2060,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-uri|1.74|5.28|
 |perl-www-mechanize|1.91|2.18|
 |perl-x11-protocol-other|30|31|
-|perl-xml-libxslt|1.96|2.002001|
+|perl-xml-libxslt|1.96|2.003000|
 |perl-xml-namespacesupport|1.12<br>+9|1.12|Compound version number '1.12+9'<br>Possible downgrade from the current version (1.12+9   1.12)|
 |perl-xml-parser|2.44|2.47|
 |perl-xml-parser+32|999|2.47|Possible downgrade from the current version (999   2.47)|
