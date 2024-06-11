@@ -162,7 +162,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |boost+32|1.63.0|1.85.0|
 |botan|1.10.17|3.4.0|
 |botan-2|2.12.1|3.4.0|
-|boto3|1.20.26|1.34.123|
+|boto3|1.20.26|1.34.124|
 |bottle|0.12.18|0.12.25|
 |bottles|2022.2.28<br>+trento<br>+4|51.11|Compound version number '2022.2.28+trento+4'<br>Possible downgrade from the current version (2022.2.28+trento+4   51.11)|
 |bovo|23.08.5|24.05.0|
@@ -230,6 +230,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |chmlib|0.40a|0.40|
 |chntpw|1.1|140201|
 |chromaprint|1.5.0|1.5.1|
+|chromium|125.0.6422.141|126.0.6478.55|
 |cifs-utils|6.10|7.0|
 |cinnamon|5.8.3|6.0.4|
 |cinnamon-control-center|5.8.1|6.0.1|
@@ -682,7 +683,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |goffice|0.10.48|0.10.57|
 |goldendict|1.5.0~rc2|1.5.0|
 |gom|0.4|0.5.1|
-|google-api-python-client|1.7.11|2.132.0|
+|google-api-python-client|1.7.11|2.133.0|
 |google-auth|1.6.3|2.30.0|
 |google-auth-httplib2|0.0.4|0.2.0|
 |google-chrome|125.0.6422.141|126.0.6478.55|
