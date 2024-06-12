@@ -254,7 +254,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cloud-init|24.1.4<br>+git20240513|24.1.7|Compound version number '24.1.4+git20240513'<br>Version number indicates a snapshot (+git) is used|
 |clucene|2.3.3.4<br>+git20130812|2.3.3.4|Compound version number '2.3.3.4+git20130812'<br>Version number indicates a snapshot (+git) is used|
 |clzip|1.10|1.14|
-|cmake|3.29.3|3.29.5|
 |cmark|0.30.3|0.31.0|
 |cmus|2.9.1|2.10.0|
 |cock|0.6.0|0.11.0|
@@ -266,7 +265,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |coin|4.0.0<br>+git20220828|4.0.0|Compound version number '4.0.0+git20220828'<br>Version number indicates a snapshot (+git) is used|
 |collectl|4.3.1|4.3.8|
 |colorama|0.4.3|0.4.6|
-|colord-gtk|0.3.0|0.3.1|
 |colord-kde|23.08.5|24.05.0|
 |colordiff|1.0.20|1.0.21|
 |coloredlogs|10.0|15.0.1|
@@ -338,7 +336,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |deluge|2.1.1|2.0.5|Possible downgrade from the current version (2.1.1   2.0.5)|
 |deno|1.31.3|1.44.1|
 |dephell-specifier|0.2.2|0.3.0|
-|deploykit-gui|0.5.0|test-ci|Versions not comparable: `0.5.0` and `test-ci`|
+|deploykit-backend|0.4.1|0.4.0|Possible downgrade from the current version (0.4.1   0.4.0)|
+|deploykit-gui|0.5.1|test-ci|Versions not comparable: `0.5.1` and `test-ci`|
 |devhelp|41.2|43.0|
 |dex|0.8.0|0.9.0|
 |dfu-util|0.10|0.11|
@@ -1308,7 +1307,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libfprint|1.94.4|1.94.7|
 |libftdi|1.4|1.5|
 |libgcrypt+32|1.9.1|1.10.3|
-|libgee|0.20.5|0.20.6|
 |libgeotiff|1.5.1|1.7.3|
 |libgig|4.4.0|4.4.1|
 |libgit2|1.7.2|1.8.1|
@@ -1335,7 +1333,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libidn2|2.3.0|2.3.7|
 |libime|1.1.7|1.1.8|
 |libindi|2.0.5|2.0.8|
-|libinput|1.24.0|1.26.0|
 |libintl-perl|1.29|1.33|
 |libipset|1.1.1<br>+git20150311|1.1.1|Compound version number '1.1.1+git20150311'<br>Version number indicates a snapshot (+git) is used|
 |libiscsi|1.18.0|1.20.0|
@@ -2072,7 +2069,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl4-corelibs|0.004|0.005|
 |pexpect|4.8.0|4.9.0|
 |pgxnclient|1.3.1|1.3.2|
-|php|8.3.7|8.3.8|
 |picard|2.8.5|2.11|
 |picmi|23.08.5|24.05.0|
 |picocom|3.1|2023-04|
@@ -2145,7 +2141,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |portaudio+32|19<br>+20140130|190600_20161030|Compound version number '19+20140130'|
 |portmidi|2.0.4|236|
 |postfix|3.7.3|3.9.0|
-|postgresql|13.13|17|
+|postgresql|13.15|17|
 |potracegui-trinity|14.1.0|14.1.2|
 |powerdevil|5.27.11|6.0.5|
 |powerpc-utils|1.3.10|1.3.12|
@@ -2552,6 +2548,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sunpinyin|3.0.0~rc1|2.0.3-rel-1|Possible downgrade from the current version (3.0.0~rc1   2.0.3-rel-1)|
 |sunshine|0.23.0|2024.610.122248|
 |sunxi-tools|1.4.2<br>+git20220729|1.4.2|Compound version number '1.4.2+git20220729'<br>Version number indicates a snapshot (+git) is used|
+|superslicer|2.5.59.11|2.5.59.12|
 |sushi|42.0|46.0|
 |svgpart|23.08.5|24.05.0|
 |sweeper|23.08.5|24.05.0|
@@ -2901,8 +2898,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |yarl|1.6.3|1.9.4|
 |yaspin|1.2.0|3.0.2|
 |yelp|42.1|42.2|
-|yelp-tools|42.0|42.1|
-|yelp-xsl|42.0|42.1|
 |yosys|0.41|0.42|
 |ytmusicapi|1.7.2|1.7.3|
 |yubico-pam|2.26|2.27|
