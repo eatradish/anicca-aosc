@@ -161,7 +161,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |boost+32|1.63.0|1.85.0|
 |botan|1.10.17|3.4.0|
 |botan-2|2.12.1|3.4.0|
-|boto3|1.20.26|1.34.124|
+|boto3|1.20.26|1.34.125|
 |bottle|0.12.18|0.12.25|
 |bottles|2022.2.28<br>+trento<br>+4|51.11|Compound version number '2022.2.28+trento+4'<br>Possible downgrade from the current version (2022.2.28+trento+4   51.11)|
 |bovo|23.08.5|24.05.0|
@@ -1150,6 +1150,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |krunner|5.115.0|6.0.90|
 |krusader|2.7.2|2.8.1|
 |krusader-trinity|14.1.0|14.1.2|
+|ksanecore|23.08.5|24.05.0|
 |kscope-trinity|14.1.0|14.1.2|
 |kscreen|5.27.11|6.0.5|
 |kscreenlocker|5.27.11|6.0.5|
@@ -1513,6 +1514,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libxdmcp+32|1.1.3|1.1.5|
 |libxkbcommon+32|0.9.1|1.7.0|
 |libxml++|2.40.1|5.2.0|
+|libxml2|2.10.4|2.13.0|
 |libxml2+32|2.10.4|2.13.0|
 |libxmlb|0.3.15|0.3.19|
 |libxnvctrl|545.23.06|550.54.14|
@@ -2312,6 +2314,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |re2|20240501|2024-06-01|Possible downgrade from the current version (20240501   2024-06-01)|
 |re2c|1.3|3.1|
 |readline|8.2.1|8.2|Possible downgrade from the current version (8.2.1   8.2)|
+|readline+32|8.2.1|8.2|Possible downgrade from the current version (8.2.1   8.2)|
 |realmd|0.17.1|0.16.3|Possible downgrade from the current version (0.17.1   0.16.3)|
 |recode+32|3.6|3.7.14|
 |recommonmark|20180907|0.7.1|Possible downgrade from the current version (20180907   0.7.1)|
@@ -2418,7 +2421,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sfml|2.5.1|2.6.1|
 |sg3-utils|1.47r915|1.48|
 |shaderc|2023.7|2024.1|
-|shadowsocks-rust|1.18.4|1.19.3|
+|shadowsocks-rust|1.18.4|1.19.4|
 |shapelib|1.5.0|1.6.0|
 |shared-color-targets|0.1.7|0_1_7|
 |shotcut|21.08.11|24.06.02|
@@ -2446,7 +2449,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |slop|7.4|7.6|
 |slurm|0.4.4|0.5.1|
 |smartcardauth-trinity|14.1.0|14.1.2|
-|smartdns|35|45|
+|smartdns|35|46|
 |smartmontools|7.3|7.4|
 |smb4k-trinity|14.1.0|14.1.2|
 |smmap|5.0.0|6.0.0|
