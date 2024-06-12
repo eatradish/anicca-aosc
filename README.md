@@ -2124,8 +2124,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |polkit-qt-1|0.114.0|0.200.0|
 |polkit-tqt|14.1.0|14.1.2|
 |polymake|3.3|4.12|
-|poppler|22.08.0|24.06.0|
-|poppler+32|0.66.0|24.06.0|
+|poppler|22.08.0|24.06.1|
+|poppler+32|0.66.0|24.06.1|
 |poppler-data|0.4.9|0.4.12|
 |popt|1.18|1.19|
 |popt+32|1.16|1.19|
@@ -2556,14 +2556,14 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |syslinux|6.04~pre1|6.03|Possible downgrade from the current version (6.04~pre1   6.03)|
 |sysprof|3.44.0|46.0|
 |system-config-printer|1.5.17|1.5.18|
-|systemd|255.6|255.7|
+|systemd|255.6|256|
 |systemsettings|5.27.11|6.0.5|
 |systemtap|4.4|5.1|
 |sysv-ipc|1.0.1|1.1.0|
 |taglib|1.11.1|2.0.1|
 |taglib+32|1.11|2.0.1|
 |tagparser|11.5.1|12.1.0|
-|tailscale|1.64.2|1.66.4|
+|tailscale|1.64.2|1.68.0|
 |taisei|1.3.2|1.4.1|
 |tali|40.8|40.9|
 |talloc|2.3.4|2.4.2|
