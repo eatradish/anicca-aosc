@@ -1519,8 +1519,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libxmlb|0.3.15|0.3.19|
 |libxnvctrl|545.23.06|550.54.14|
 |libxnvctrl+32|545.23.06|550.54.14|
-|libxslt|1.1.34|1.1.39|
-|libxslt+32|1.1.34|1.1.39|
+|libxslt|1.1.34|1.1.40|
+|libxslt+32|1.1.34|1.1.40|
 |libzen|0.4.38|0.4.41|
 |libzip|1.5.2|1.10.1|
 |liferea|1.13.8|1.15.6|
@@ -1831,7 +1831,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |openmpi|4.1.6|5.0.3|
 |openmpt|0.6.4|0.7.8|
 |openpgl|0.5.0|0.6.0|
-|openpyxl|2.6.0|3.1.3|
+|openpyxl|2.6.0|3.1.4|
 |openra|20210321|20231010|
 |openrazer|3.3.0|3.8.0|
 |openrgb|0.6|0.9|
@@ -2364,7 +2364,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ruamel-yaml|0.17.19|0.18.6|
 |ruamel-yaml-clib|0.2.6|0.2.8|
 |rubberband|1.9.2|3.3.0|
-|ruby|3.2.2|3.3.2|
+|ruby|3.2.2|3.3.3|
 |ruby-bundler|2.1.4|2.5.11|
 |ruby-ffi|1.10.0|1.17.0|
 |ruby-gettext|3.2.9|3.4.9|
