@@ -2083,7 +2083,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pim-sieve-editor|23.08.5|24.05.0|
 |pimcommon|23.08.5|24.05.0|
 |pinentry|1.1.0|1.3.0|
-|pip|22.3.1|24.1b1|
+|pip|22.3.1|24.1b2|
 |pipewire|1.0.7|1.1.82|
 |pipewire-0.2|0.2.7|1.1.82|
 |pixman|0.43.0|0.43.4|
@@ -2346,7 +2346,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rinutils|0.4.1|0.10.2|
 |rlvm|0.14<br>+git20220404|0.14|Compound version number '0.14+git20220404'<br>Version number indicates a snapshot (+git) is used|
 |rlwrap|0.43|0.46.1|
-|rng-tools|6.7|6.17|
+|rng-tools|6.16|6.17|
 |robin-hood-hashing|3.11.4|3.11.5|
 |rockbox-utility|3.15<br>+final|3.15-final|Compound version number '3.15+final'|
 |rocm-bandwidth-test|6.0.2|6.1.2|
@@ -2525,7 +2525,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |squashfuse|0.1.105|0.5.2|
 |squid|5.7|6.10|
 |sra-tools|3.0.3|3.1.1|
-|srain|1.5.1|1.7.0|
 |sratom|0.6.4|0.6.16|
 |srecord|1.64|1.65.0|
 |srtp+32|1.5.4|2.6.0|
