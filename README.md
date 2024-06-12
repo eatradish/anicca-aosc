@@ -2587,6 +2587,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tcl+32|8.6.10|8.6.14|
 |tclap|1.2.2|1.2.5|
 |tcping|1.3.5|2.1.0|
+|tcsh|6.24.12|6.24.13|
 |tde-common-cmake|14.1.0|14.1.2|
 |tde-i18n|14.1.0|14.1.2|
 |tde-style-baghira|14.1.0|14.1.2|
