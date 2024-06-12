@@ -1648,6 +1648,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |melonds|0.9.2|0.9.5|
 |memcached|1.6.27|1.6.28|
 |menumaker|0.99.12|0.99.14|
+|mercurial|6.7.3|6.7.4|
 |merkuro|23.08.5|24.05.0|
 |mesa|24.0.7<br>+dxheaders1.613.1|24.1.1|Compound version number '24.0.7+dxheaders1.613.1'|
 |mesa+32|22.1.7|24.1.1|
@@ -1893,7 +1894,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |parley|23.08.5|24.05.0|
 |parsedatetime|2.4|2.6|
 |parso|0.3.3|0.8.4|
-|partclone|0.3.20|0.3.27|
+|partclone|0.3.20|0.3.28|
 |partimage|0.6.9|0.7.2|
 |partitionmanager|23.08.5|24.05.0|
 |pastel|0.2.0|0.2.1|
@@ -1910,7 +1911,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pcre2|10.43|10.44|
 |pcsc-perl|1.4.14|1.4.16|
 |pcsclite|1.9.9|2.2.3|
-|pcsx2|1.6.0<br>+git20210825|1.7.5880|Compound version number '1.6.0+git20210825'<br>Version number indicates a snapshot (+git) is used|
+|pcsx2|1.6.0<br>+git20210825|1.7.5886|Compound version number '1.6.0+git20210825'<br>Version number indicates a snapshot (+git) is used|
 |pdfgrep|2.1.2|2.2.0|
 |pdfminer|20191020|20231228|
 |pdlzip|1.9|1.13|
@@ -1918,8 +1919,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |peewee|3.17.1|3.17.5|
 |peg|0.1.18|0.1.20|
 |pep517|0.12.0|0.13.1|
-|perl|5.36.3|5.40.0|
-|perl+32|999|5.40.0|Possible downgrade from the current version (999   5.40.0)|
+|perl|5.36.3|5.41.0|
+|perl+32|999|5.41.0|Possible downgrade from the current version (999   5.41.0)|
 |perl-alien-build|1.92|2.83|
 |perl-alien-libxml2|0.11|0.19|
 |perl-anyevent|7.14|7.17|
