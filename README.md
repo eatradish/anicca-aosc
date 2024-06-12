@@ -1276,7 +1276,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libdeflate|1.19|1.20|
 |libdiscid|0.6.2|0.6.4|
 |libdispatch|5.6.1|5.9.2-RELEASE|
-|libdmapsharing|2.9.41|3_9_13|
+|libdmapsharing|3.9.13|3_9_13|
 |libdnet|1.12|1.18.0|
 |libdrm|2.4.120|2.4.121|
 |libdrm+32|2.4.113|2.4.121|
