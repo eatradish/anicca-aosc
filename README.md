@@ -733,14 +733,11 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gstreamer-1-0+32|1.16.2|1.24.4|
 |gtest|1.10.0<br>+git20210513|1.14.0|Compound version number '1.10.0+git20210513'<br>Version number indicates a snapshot (+git) is used|
 |gti|1.6.1|1.9.1|
-|gtk-2+32|2.24.32|2.24.33|
 |gtk-4|4.14.1|4.14.4|
 |gtk-engines-2|2.21.0|2.20.2|Possible downgrade from the current version (2.21.0   2.20.2)|
 |gtk-layer-shell|0.8.1|0.8.2|
 |gtk-qt-engine|14.1.0|14.1.2|
 |gtk3-tqt-engine|14.1.0|14.1.2|
-|gtkmm-3|3.24.6|3.24.9|
-|gtksourceview-4|4.8.3|4.8.4|
 |gtkspellcheck|4.0.5|5.0.3|
 |gtranslator|42.0|46.1|
 |gucharmap|15.1.3|15.1.5|
@@ -1502,7 +1499,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libvpl|2.11.0|2023.4.0|
 |libvpx|1.10.0|1.14.1|
 |libvpx+32|1.9.0|1.14.1|
-|libwacom|2.4.0|2.12.0|
+|libwacom|2.4.0|2.12.1|
 |libwebp|1.3.1|1.4.0|
 |libwebp+32|0.4.3|1.4.0|
 |libwebsockets|3.1.0|4.3.3|
