@@ -398,7 +398,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dpdk|22.11.1|24.03|
 |dragon|23.08.5|24.05.0|
 |drkonqi|5.27.11|6.0.5|
-|dropbox|148.4.4519|200.4.7134|
+|dropbox|148.4.4519|201.4.5552|
 |drumstick|2.0.0|2.9.0|
 |dssim|3.2.0|3.3.1|
 |dssim-c|1.3.2<br>+git20200922|3.3.1|Compound version number '1.3.2+git20200922'<br>Version number indicates a snapshot (+git) is used|
@@ -1150,7 +1150,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |krunner|5.115.0|6.0.90|
 |krusader|2.7.2|2.8.1|
 |krusader-trinity|14.1.0|14.1.2|
-|ksanecore|23.08.5|24.05.0|
 |kscope-trinity|14.1.0|14.1.2|
 |kscreen|5.27.11|6.0.5|
 |kscreenlocker|5.27.11|6.0.5|
@@ -1514,7 +1513,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libxdmcp+32|1.1.3|1.1.5|
 |libxkbcommon+32|0.9.1|1.7.0|
 |libxml++|2.40.1|5.2.0|
-|libxml2|2.10.4|2.13.0|
 |libxml2+32|2.10.4|2.13.0|
 |libxmlb|0.3.15|0.3.19|
 |libxnvctrl|545.23.06|550.54.14|
@@ -2188,7 +2186,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pycups|1.9.74|2.0.4|
 |pycurl|7.43.0.6|7.45.3|
 |pydantic|2.6.0|2.7.4|
-|pydantic-core|2.16.1|2.18.4|
+|pydantic-core|2.16.1|2.19.0|
 |pydot|1.4.1|2.0.0|
 |pyelftools|0.30|0.31|
 |pyenchant|2.0.0|3.2.2|
@@ -2314,7 +2312,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |re2|20240501|2024-06-01|Possible downgrade from the current version (20240501   2024-06-01)|
 |re2c|1.3|3.1|
 |readline|8.2.1|8.2|Possible downgrade from the current version (8.2.1   8.2)|
-|readline+32|8.2.1|8.2|Possible downgrade from the current version (8.2.1   8.2)|
 |realmd|0.17.1|0.16.3|Possible downgrade from the current version (0.17.1   0.16.3)|
 |recode+32|3.6|3.7.14|
 |recommonmark|20180907|0.7.1|Possible downgrade from the current version (20180907   0.7.1)|
