@@ -222,7 +222,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cgal|5.2|5.6.1|
 |cgns|4.2.0|4.4.0|
 |chardet|3.0.4|5.2.0|
-|charset-normalizer|2.0.9|3.3.2|
 |checksec|1.9.0|2.7.1|
 |cheese|41.1|44.1|
 |cheetah3|3.2.5|3.2.6.post2|
@@ -320,7 +319,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |darkradiant|3.8.0|3.9.0|
 |dateutil|2.8.2|2.9.0.post0|
 |dav1d|1.4.0|1.4.2|
-|dblatex|0.3.12|1.0.97|
+|dblatex|0.3.12|1.1.14|
 |dbus+32|1.12.18|1.14.10|
 |dbus-1-tqt|14.1.0|14.1.2|
 |dbus-glib|0.110|0.112|
@@ -527,7 +526,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |freealut+32|1.1.0|1_1_0|
 |freecell-solver|6.2.0|6.8.0|
 |freeciv|2.6.5|3.1.1|
-|freeglut+32|3.0.0|3.4.0|
+|freeglut|3.4.0|3.6.0|
+|freeglut+32|3.0.0|3.6.0|
 |freerdp|2.11.2|3.5.1|
 |freetds|1.00.112|1.4.19|
 |freetype|2.12.1|2.13.2|
@@ -630,6 +630,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-autoar|0.4.3|0.4.4|
 |gnome-backgrounds|42.0|46.0|
 |gnome-bluetooth|42.2|46.0|
+|gnome-boxes|42.3|46.1|
 |gnome-builder|42.1|46.2|
 |gnome-calculator|42.2|46.1|
 |gnome-calendar|42.2|46.1|
@@ -1212,7 +1213,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kwordquiz|23.08.5|24.05.0|
 |kwrited|5.27.11|6.0.5|
 |kxmleditor-trinity|14.1.0|14.1.2|
-|kxmlgui|5.115.0|6.0.90|
 |kxmlrpcclient|5.115.0|6.0.90|
 |kyotocabinet|1.2.79|1.2.80|
 |lablgtk|2.18.11|3.1.5|
