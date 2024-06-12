@@ -1455,6 +1455,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libspectre|0.2.9|0.2.12|
 |libspectre+32|0.2.9|0.2.12|
 |libspiro|0.5.20150702|20221101|
+|libspnav|0.2.3|1.0|
 |libssh|0.8.9|0.10.6|
 |libssh+32|0.8.9|0.10.6|
 |libssh2|1.9.0|1.11.0|
@@ -1521,8 +1522,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libxdmcp+32|1.1.3|1.1.5|
 |libxkbcommon+32|0.9.1|1.7.0|
 |libxml++|2.40.1|5.2.0|
-|libxml2|2.10.4|2.12.7|
-|libxml2+32|2.10.4|2.12.7|
+|libxml2|2.10.4|2.12.8|
+|libxml2+32|2.10.4|2.12.8|
 |libxmlb|0.3.15|0.3.19|
 |libxnvctrl|545.23.06|550.54.14|
 |libxnvctrl+32|545.23.06|550.54.14|
@@ -2168,7 +2169,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pstate-frequency|3.11.0|3.15.1|
 |pstoedit|3.75|4.01|
 |psycopg2|2.8.6|2.9.9|
-|ptex|2.3.2|2.4.2|
+|ptex|2.3.2|2.4.3|
 |ptyprocess|0.6.0|0.7.0|
 |pugixml|1.11.4|1.14|
 |pulseaudio|17.0<br>+xrdp0.7|17.0|Compound version number '17.0+xrdp0.7'|
