@@ -515,7 +515,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |frameworkintegration|5.115.0|6.0.90|
 |freealut|1.1.0|1_1_0|
 |freealut+32|1.1.0|1_1_0|
-|freecell-solver|6.2.0|6.8.0|
+|freecell-solver|6.2.0|6.10.0|
 |freeciv|2.6.5|3.1.1|
 |freeglut|3.4.0|3.6.0|
 |freeglut+32|3.0.0|3.6.0|
@@ -534,6 +534,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |future|0.17.0|1.0.0|
 |futures|3.2.0|3.4.0|
 |fvwm|2.6.9|2.7.0|
+|fwupd|1.9.20|1.9.21|
 |fzf|0.46.1|0.53.0|
 |gajim|1.4.0|1.9.0|
 |game-music-emu+32|0.6.0|0.6.3|
@@ -577,6 +578,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |getdns|1.6.0|1.7.3|
 |gexiv2|0.14.0|0.14.2|
 |gfm|1.07|1.08|
+|gh|2.50.0|2.51.0|
 |ghc|9.4.8|9.10.1-release|
 |ghex|42.3|46.0|
 |ghidra|11.0|11.1_build|
@@ -2357,7 +2359,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ruamel-yaml-clib|0.2.6|0.2.8|
 |rubberband|1.9.2|3.3.0|
 |ruby|3.2.2|3.3.3|
-|ruby-bundler|2.1.4|2.5.11|
+|ruby-bundler|2.1.4|2.5.12|
 |ruby-ffi|1.10.0|1.17.0|
 |ruby-gettext|3.2.9|3.4.9|
 |ruby-locale|2.1.3|2.1.4|
