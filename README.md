@@ -330,9 +330,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |deja-dup|42.9|45.2|
 |dejavu-fonts|2.37|2_37|
 |deluge|2.1.1|2.0.5|Possible downgrade from the current version (2.1.1   2.0.5)|
-|deno|1.31.3|1.44.1|
+|deno|1.31.3|1.44.2|
 |dephell-specifier|0.2.2|0.3.0|
-|deploykit-backend|0.4.1|0.4.0|Possible downgrade from the current version (0.4.1   0.4.0)|
 |deploykit-gui|0.5.1|test-ci|Versions not comparable: `0.5.1` and `test-ci`|
 |devhelp|41.2|43.0|
 |dex|0.8.0|0.9.0|
@@ -2074,7 +2073,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pkginfo|1.5.0.1|1.11.1|
 |pktstat|20160317|1.8.5|Possible downgrade from the current version (20160317   1.8.5)|
 |plank|0.11.89<br>+git20210222|0.11.89|Compound version number '0.11.89+git20210222'<br>Version number indicates a snapshot (+git) is used|
-|plasma-angelfish|22.06|24.05.0|
+|plasma-angelfish|22.06|24.05.1|
 |plasma-browser-integration|5.27.11|6.0.5|
 |plasma-desktop|5.27.11|6.0.5|
 |plasma-disks|5.27.11|6.0.5|
