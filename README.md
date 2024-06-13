@@ -285,7 +285,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cpprestsdk|2.10.18|2.10.19|
 |cpulimit|3.0|3.1|
 |cracklib|2.9.8|2.9.11|
-|crash|7.2.9|8.0.5|
 |crazydiskinfo|1.0.2|1.1.0|
 |crda|3.18|4.15|
 |crow-translate|2.9.1|2.11.1|
@@ -410,14 +409,14 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ecl|23.9.9|24.5.10|
 |editables|0.3|0.5|
 |editline|1.16.1|1.17.1|
-|editorconfig-core-c|0.12.6|0.12.7|
+|editorconfig-core-c|0.12.6|0.12.8|
 |efivar|38|39|
 |elfutils|0.188|0.191|
 |elfutils+32|0.166|0.191|
 |elisa|23.08.5|24.05.1|
 |elvis|2.2<br>+1pre3|2.2_1-pre2|Compound version number '2.2+1pre3'<br>Possible downgrade from the current version (2.2+1pre3   2.2_1-pre2)|
 |emerald|0.8.12.4|0.8.18|
-|enchant-2|2.3.1|2.8.0|
+|enchant-2|2.3.1|2.8.1|
 |endeavour|42.0|43.0|
 |entrypoints|0.3|0.4|
 |eog|42.3|45.3|
@@ -695,7 +694,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |grilo|0.3.15|0.3.16|
 |grilo-plugins|0.3.15|0.3.16|
 |gringo|5.4.1|5.7.1|
-|groff|1.22.4|1.23.0|
 |grpc|1.64.0|1.64.2|
 |grsync|1.2.8|1.3.1|
 |grub|2.12<br>+unifont15.1.04|2.12|Compound version number '2.12+unifont15.1.04'|
