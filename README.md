@@ -94,7 +94,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |aspnetcore-targeting-pack-6.0|6.0.30|6.0.31|
 |aspnetcore-targeting-pack-8.0|8.0.5|8.0.6|
 |assimp|5.4.0|5.4.1|
-|ast-grep|0.22.6|0.23.0|
 |astroid|2.12.2|3.2.2|
 |astrometry.net|0.94|0.95|
 |at-spi2-atk+32|2.26.3|2.38.0|
@@ -107,7 +106,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |attr|2.4.48|2.5.2|
 |attr+32|2.4.48|2.5.2|
 |attrs|20.3.0|23.2.0|
-|atuin|18.2.0|18.3.0|
 |audacious|4.3.1|4.4|
 |audacity|3.4.2|3.5.1|
 |audiocd-kio|23.08.5|24.05.0|
@@ -2772,7 +2770,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |volk-meta-loader|1.3.280.0|1.3.283.0|
 |vorbis-tools|1.4.0|1.4.2|
 |vpnc|0.5.3r550|0.5.3|
-|vscodium|1.89.1.24130|1.90.0.24158|
 |vsftpd|3.0.3|3.0.5|
 |vte|0.68.0|0.76.3|
 |vulkan-extensionlayer|1.3.280.0|1.3.287|
