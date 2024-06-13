@@ -1751,6 +1751,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nmap|7.93|7.95|
 |noip|2.1.9|3.0.0|
 |noise-suppression-for-voice|0.91|1.10|
+|nokogiri|1.16.5|1.16.6|
 |nomino|1.3.1|1.3.5|
 |normaliz|3.6.3|3.10.3|
 |notmuch|0.34|0.38.3|
@@ -2696,7 +2697,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |uboot-tools|2022.10|2024.04|
 |ubuntu-keyring|2021.03.26|2023.11.28.1|
 |uchardet|0.0.5|0.0.8|
-|ucx|1.15.0|1.16.0|
+|ucx|1.15.0|1.17.0|
 |udiskie|2.2.0|2.5.3|
 |udisks-2|2.8.4|2.10.1|
 |udns|0.4|0.5|
