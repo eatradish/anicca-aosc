@@ -696,7 +696,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |graphene|1.10.2|1.10.8|
 |graphviz|10.0.1|11.0.0|
 |greenlet|1.1.2|3.0.3|
-|greetd|0.9.0|0.10.3|
 |grep|3.8|3.11|
 |greybird|3.22.12|3.23.3|
 |grilo|0.3.15|0.3.16|
@@ -1674,7 +1673,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |modemmanager|1.18.12|1.22.0|
 |modemmanager-qt|5.115.0|6.0.90|
 |mokutil|0.6.0|0.7.2|
-|mold|2.4.0|2.32.0|
 |monotonic|1.5|1.6|
 |moodbar|1.2.1|1.3.0|
 |more-itertools|4.3.0|10.3.0|
