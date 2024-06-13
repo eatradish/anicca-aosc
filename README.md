@@ -1201,7 +1201,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kwindowsystem|5.115.0|6.0.90|
 |kwordquiz|23.08.5|24.05.0|
 |kwrited|5.27.11|6.0.5|
-|kxmleditor-trinity|14.1.0|14.1.2|
 |kxmlgui|5.115.0|6.0.90|
 |kxmlrpcclient|5.115.0|6.0.90|
 |kyotocabinet|1.2.79|1.2.80|
@@ -1692,7 +1691,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mtdev|1.1.6|1.1.7|
 |muffin|5.8.0|6.2.0|
 |mugshot|0.4.1|0.4.3|
-|multipath-tools|0.9.3|0.9.8|
+|multipath-tools|0.9.3|0.9.9|
 |munkres|1.0.12|release-1.1.4|
 |muparser|2.2.6.1|2.3.4|
 |mupdf|1.18.0|1.24.3|
@@ -1857,6 +1856,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |packaging|23.0|24.1|
 |pacman|6.0.1|6.1.0|
 |pahole|1.25|1.27|
+|palapeli|23.08.5|24.05.0|
 |palp|2.1|2.21|
 |pam-python|1.0.7|1.0.8|
 |pam-wrapper|1.1.3|1.1.5|
@@ -2185,7 +2185,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pyenchant|2.0.0|3.2.2|
 |pygccxml|2.1.0|2.5.0|
 |pygit2|1.14.1|1.15.0|
-|pyglet|1.3.2|2.0.15|
 |pygments|2.10.0|2.18.0|
 |pygobject-3|3.42.2|3.48.2|
 |pygraphviz|1.5|1.13|
@@ -2594,7 +2593,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tdeio-umountwrapper|14.1.0|14.1.2|
 |tdelibs|14.1.0|14.1.2|
 |tdemultimedia|14.1.0|14.1.2|
-|tdenetwork|14.1.0|14.1.2|
 |tdenetworkmanager|14.1.0|14.1.2|
 |tdepacman|14.1.0|14.1.2|
 |tdepim|14.1.0|14.1.2|
@@ -2824,7 +2822,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xapps|2.8.2|2.8.3|
 |xarchiver|0.5.4.15|0.5.4.23|
 |xcalibrate|0.9<br>+git20200330|0.9|Compound version number '0.9+git20200330'<br>Version number indicates a snapshot (+git) is used|
-|xcb-imdkit|1.0.8|1.0.9|
 |xcb-proto|1.16.0|1.17.0|
 |xcb-proto+32|1.14|1.17.0|
 |xcffib|0.7.0|1.5.0|
