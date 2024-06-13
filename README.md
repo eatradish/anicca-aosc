@@ -285,6 +285,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cpprestsdk|2.10.18|2.10.19|
 |cpulimit|3.0|3.1|
 |cracklib|2.9.8|2.9.11|
+|crash|7.2.9|8.0.5|
 |crazydiskinfo|1.0.2|1.1.0|
 |crda|3.18|4.15|
 |crow-translate|2.9.1|2.11.1|
@@ -453,7 +454,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fatattr|1.0.1|1.0.1.orig|Possible downgrade from the current version (1.0.1   1.0.1.orig)|
 |faulthandler|3.1|3.2|
 |fcitx5|5.1.9|5.1.10|
-|fcitx5-chewing|5.1.3|5.1.4|
+|fcitx5-chewing|5.1.3|5.1.5|
 |fcitx5-chinese-addons|5.1.5|5.1.6|
 |fcitx5-configtool|5.1.5|5.1.6|
 |fcitx5-hangul|5.1.3|5.1.4|
@@ -537,7 +538,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gajim|1.4.0|1.9.0|
 |game-music-emu+32|0.6.0|0.6.3|
 |gammaray|2.11.2|3.0.0|
-|gap|4.10.2|4.13.0|
+|gap|4.10.2|4.13.1|
 |gaupol|1.7|1.15|
 |gc|8.2.6|8.2.4|Possible downgrade from the current version (8.2.6   8.2.4)|
 |gcab|1.1|1.6|
@@ -694,6 +695,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |grilo|0.3.15|0.3.16|
 |grilo-plugins|0.3.15|0.3.16|
 |gringo|5.4.1|5.7.1|
+|groff|1.22.4|1.23.0|
 |grpc|1.64.0|1.64.2|
 |grsync|1.2.8|1.3.1|
 |grub|2.12<br>+unifont15.1.04|2.12|Compound version number '2.12+unifont15.1.04'|
@@ -1919,7 +1921,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-config-file|1.50|1.54|
 |perl-convert-asn1|0.27|0.34|
 |perl-crypt-openssl-guess|0.11|0.15|
-|perl-crypt-openssl-random|0.15|0.16|
+|perl-crypt-openssl-random|0.15|0.17|
 |perl-crypt-ssleay|0.73<br>+06|0.72|Compound version number '0.73+06'<br>Possible downgrade from the current version (0.73+06   0.72)|
 |perl-data-dumper|2.167<br>+02|2.183|Compound version number '2.167+02'|
 |perl-data-optlist|0.110|0.114|
@@ -2361,6 +2363,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ruby-native-package-installer|1.0.9|1.1.9|
 |ruby-pg|1.1.4|1.5.6|
 |ruby-pkg-config|1.4.4|1.5.6|
+|rustc|1.78.0|1.79.0|
 |rustc-demangle|0.1.21|0.1.24|
 |rxvt-unicode|9.22|9.31|
 |rygel|0.40.4|0.42.6|
