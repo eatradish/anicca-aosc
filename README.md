@@ -108,6 +108,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |attr+32|2.4.48|2.5.2|
 |attrs|20.3.0|23.2.0|
 |atuin|18.2.0|18.3.0|
+|audacious|4.3.1|4.4|
 |audacity|3.4.2|3.5.1|
 |audiocd-kio|23.08.5|24.05.0|
 |audiofile|0.3.6git20160829|0.3.6|
@@ -2757,7 +2758,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vice|3.5|3.8|
 |vicious|2.3.3|2.7.0|
 |vid.stab|0.98b|1.1.1|
-|vim|9.1.0446|9.1.0474|
+|vim|9.1.0446|9.1.0478|
 |virglrenderer|0.10.4|1.0.1|
 |virtualenv|20.25.0|20.26.2|
 |virtualgl+32|2.5.2|3.1.1|
