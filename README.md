@@ -964,7 +964,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kdesu|5.115.0|6.0.90|
 |kdev-php|23.08.5|24.05.1|
 |kdev-python|23.08.5|24.05.1|
-|kdevelop|23.08.5|24.05.0|
+|kdevelop|23.08.5|24.05.1|
 |kdevelop-pg-qt|2.2.1|2.2.2|
 |kdewebkit|5.115.0|6.0.90|
 |kdf|23.08.5|24.05.1|
@@ -2871,7 +2871,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xxhash|0.8.1|0.8.2|
 |xz+32|5.4.1|5.6.2|
 |yad|0.40.0|13.0|
-|yakuake|23.08.5|24.05.0|
+|yakuake|23.08.5|24.05.1|
 |yakuake-trinity|14.1.0|14.1.2|
 |yaml-cpp|0.6.3|0.8.0|
 |yara|4.5.0|4.5.1|
