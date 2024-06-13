@@ -758,7 +758,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hddtemp|0.3.52|0.4.3|
 |hdf5|1.10.5|1.14.4.3|
 |hdsentinel|0.17|400s|
-|helm|3.15.0|3.15.1|
+|helm|3.15.0|3.15.2|
 |help2man|1.48.1|1.49.3|
 |herbstluftwm|0.7.2|0.9.5|
 |hexchat|2.16.1|2.16.2|
