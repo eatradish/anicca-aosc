@@ -679,7 +679,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |google-api-python-client|1.7.11|2.133.0|
 |google-auth|1.6.3|2.30.0|
 |google-auth-httplib2|0.0.4|0.2.0|
-|google-chrome|126.0.6478.55|126.0.6478.61|
 |gpac|2.2.1|2.4.0|
 |gperftools|2.13|2.15|
 |gpodder|3.10.17|3.11.4|
@@ -1698,7 +1697,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |munkres|1.0.12|release-1.1.4|
 |muparser|2.2.6.1|2.3.4|
 |mupdf|1.18.0|1.24.3|
-|musescore|4.3.0|4.3.1|
+|musescore|4.3.0|4.3.2|
 |mutter|42.4|46.2|
 |mxml|3.2|4.0.3|
 |mycli|1.23.2|1.27.2|
@@ -1719,8 +1718,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ncompress|4.2.4.6|5.0|
 |ndctl|72|79|
 |neatvnc|0.7.1|0.8.0|
-|nemo|5.8.3|6.0.2|
-|nemo-extensions|5.8.0|6.0.1|
+|nemo|5.8.3|6.2.0|
+|nemo-extensions|5.8.0|6.2.0|
 |neochat|23.08.5|24.05.1|
 |neomutt|20200619|20240425|
 |neon+32|0.31.2|0.33.0|
@@ -1750,7 +1749,9 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |newt|0.52.23|0.52.24|
 |nfs-utils|2.6.2|2.6.4|
 |nghttp2|1.58.0|1.62.1|
+|nghttp3|1.3.0|1.4.0|
 |ngspice|35|42|
+|ngtcp2|1.5.0|1.6.0|
 |nmap|7.93|7.95|
 |noip|2.1.9|3.0.0|
 |noise-suppression-for-voice|0.91|1.10|
