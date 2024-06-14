@@ -1761,7 +1761,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |notmuch|0.34|0.38.3|
 |noto-fonts|24.1.1<br>+emoji2.042<br>+cjksans2.004<br>+cjkserif2.002|24.6.1|Compound version number '24.1.1+emoji2.042+cjksans2.004+cjkserif2.002'|
 |npth|1.6|1.7|
-|nsd|4.7.0|4_9_1_REL|
+|nsd|4.7.0|4_10_0_REL|
 |nsgenbind|0.8|0.9|
 |nspr+32|4.24|4.35|
 |nss|3.100|3.101|
