@@ -222,7 +222,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |checksec|1.9.0|2.7.1|
 |cheese|41.1|44.1|
 |cheetah3|3.2.5|3.2.6.post2|
-|cherrypy|18.1.0|18.9.0|
+|cherrypy|18.1.0|18.10.0|
 |chmlib|0.40a|0.40|
 |chntpw|1.1|140201|
 |chromaprint|1.5.0|1.5.1|
@@ -877,7 +877,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |juk|23.08.5|24.05.1|
 |jupyter-client|5.2.4|8.6.2|
 |jupyter-core|4.4.0|5.7.2|
-|just|1.28.0|1.29.0|
 |k3b|23.08.5|24.05.1|
 |k3b-trinity|14.1.0|14.1.2|
 |k9copy-trinity|14.1.0|14.1.2|
