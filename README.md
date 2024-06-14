@@ -28,7 +28,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |aha|0.5|0.5.1|
 |aide|0.16.2|0.18.8|
 |aiohttp|3.7.4.post0|3.9.5|
-|aisleriot|3.22.24|3.22.33|
 |akode|14.1.0|14.1.2|
 |akonadi|23.08.5|24.05.1|
 |akonadi-calendar|23.08.5|24.05.1|
@@ -2242,7 +2241,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |python-hglib|2.6.1|2.6.2|
 |python-installer|0.5.1|0.7.0|
 |python-kaitaistruct|0.9|0.10|
-|python-ldap3|2.9|2.9.1|
 |python-linux-procfs|0.7.1|0.7.3|
 |python-lz4|2.1.6|4.3.3|
 |python-markdown-math|0.6|0.8|
