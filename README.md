@@ -158,7 +158,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |boost+32|1.63.0|1.85.0|
 |botan|1.10.17|3.4.0|
 |botan-2|2.12.1|3.4.0|
-|boto3|1.20.26|1.34.126|
+|boto3|1.20.26|1.34.127|
 |bottle|0.12.18|0.12.25|
 |bottles|2022.2.28<br>+trento<br>+4|51.11|Compound version number '2022.2.28+trento+4'<br>Possible downgrade from the current version (2022.2.28+trento+4   51.11)|
 |bovo|23.08.5|24.05.1|
@@ -1600,7 +1600,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mako|1.1.4|1.3.5|
 |malcontent|0.10.5|0.12.0|
 |man-db|2.11.1|2.12.1|
-|man-pages|6.05.01<br>+posix2017a|6.8|Compound version number '6.05.01+posix2017a'|
+|man-pages|6.05.01<br>+posix2017a|6.9|Compound version number '6.05.01+posix2017a'|
 |mangohud|0.7.0|0.7.2|
 |mangohud+32|0.7.0|0.7.2|
 |marble|23.08.5|24.05.1|
@@ -2409,6 +2409,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |seahorse|42.0|43.0|
 |secretstorage|3.3.0|3.3.3|
 |semver|2.8.1|3.0.2|
+|sequoia-sq|0.36.0|0.37.0|
 |ser2net|3.5|4.6.2|
 |serf|1.3.9|1.3.10|
 |service-identity|18.1.0|24.1.0|
