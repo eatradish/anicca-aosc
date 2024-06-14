@@ -2361,7 +2361,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ruamel-yaml-clib|0.2.6|0.2.8|
 |rubberband|1.9.2|3.3.0|
 |ruby|3.2.2|3.3.3|
-|ruby-bundler|2.1.4|2.5.12|
+|ruby-bundler|2.1.4|2.5.13|
 |ruby-ffi|1.10.0|1.17.0|
 |ruby-gettext|3.2.9|3.4.9|
 |ruby-locale|2.1.3|2.1.4|
@@ -2537,7 +2537,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sudo|1.9.15p5|1_9_15p5|
 |suitesparse|7.6.1|7.7.0|
 |sunpinyin|3.0.0~rc1|2.0.3-rel-1|Possible downgrade from the current version (3.0.0~rc1   2.0.3-rel-1)|
-|sunshine|0.23.0|2024.610.122248|
+|sunshine|0.23.0|2024.613.3910|
 |sunxi-tools|1.4.2<br>+git20220729|1.4.2|Compound version number '1.4.2+git20220729'<br>Version number indicates a snapshot (+git) is used|
 |sushi|42.0|46.0|
 |svgpart|23.08.5|24.05.1|
