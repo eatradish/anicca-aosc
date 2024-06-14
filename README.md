@@ -145,6 +145,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |benchmark|1.8.2|1.8.4|
 |bibletime-trinity|14.1.0|14.1.2|
 |bigsh0t|2.5.1|2.7|
+|bind|9.18.24|9.16.33|Possible downgrade from the current version (9.18.24   9.16.33)|
 |black-hole-solver|1.10.1|1.12.0|
 |blender|4.0.2|4.1.1|
 |blinken|23.08.5|24.05.1|
@@ -1900,6 +1901,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pcsx2|1.6.0<br>+git20210825|1.7.5890|Compound version number '1.6.0+git20210825'<br>Version number indicates a snapshot (+git) is used|
 |pdfgrep|2.1.2|2.2.0|
 |pdfminer|20191020|20231228|
+|pdlzip|1.9|1.13|
 |peewee|3.17.1|3.17.5|
 |peg|0.1.18|0.1.20|
 |pep517|0.12.0|0.13.1|
