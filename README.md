@@ -2369,6 +2369,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ruby-native-package-installer|1.0.9|1.1.9|
 |ruby-pg|1.1.4|1.5.6|
 |ruby-pkg-config|1.4.4|1.5.6|
+|runc|1.1.12|1.1.13|
 |rustc|1.78.0|1.79.0|
 |rustc-demangle|0.1.21|0.1.24|
 |rxvt-unicode|9.22|9.31|
