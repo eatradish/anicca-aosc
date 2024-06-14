@@ -1659,7 +1659,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |miniupnpd|2.3.5|2.3.6|
 |minizip|1.2.11|1.3.1|
 |minuet|23.08.5|24.05.1|
-|mitmproxy|7.0.4|10.3.0|
+|mitmproxy|7.0.4|10.3.1|
 |mjpegtools|2.1.0|2.2.1|
 |mjpegtools+32|2.1.0|2.2.1|
 |mkvtoolnix|84.0|85.0|
