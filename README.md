@@ -617,7 +617,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |glslang|13.1.1|14.2.0|
 |glslang+32|7.11.3214|14.2.0|
 |glu+32|9.0.1|9.0.3|
-|gmic|3.2.6|3.3.6|
+|gmic|3.2.6|3.4.0|
 |gmime-3|3.2.7|3.2.14|
 |gnome-applets|3.44.0|3.52.0|
 |gnome-autoar|0.4.3|0.4.4|
