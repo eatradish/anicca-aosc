@@ -1292,7 +1292,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libffado|2.4.4|2.4.8|
 |libffi|3.4.4|3.4.6|
 |libffi+32|3.4.2|3.4.6|
-|libfido2|1.13.0|1.14.0|
+|libfido2|1.13.0|1.15.0|
 |libfilezilla|0.45.0|0.38.1|Possible downgrade from the current version (0.45.0   0.38.1)|
 |libfm|1.3.0.2|1.3.2|
 |libfprint|1.94.4|1.94.7|
