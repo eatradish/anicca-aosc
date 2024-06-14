@@ -337,6 +337,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dex|0.8.0|0.9.0|
 |dfu-util|0.10|0.11|
 |dhcp|4.4.3.P1|4.4.3-P1|
+|dia|0.97.3|1|
 |dialog|1.3<br>+20191110|1.3-20230209|Compound version number '1.3+20191110'|
 |dieharder|3.31.1|3.31.1_20110601-1|
 |diff-match-patch|20200713|20230430|
@@ -506,6 +507,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |font-manager|0.8.8|0.8.9|
 |fontconfig+32|2.14.0|2.15.0|
 |fonttools|4.47.2|4.53.0|
+|foolscap|0.13.2|23.11.0|
 |fortune-mod|3.6.1|3.20.0|
 |fping|5.1|5.2|
 |fprintd|1.94.2|1.94.3|
@@ -2841,6 +2843,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xdg-desktop-portal-gnome|42.3|46.2|
 |xdg-desktop-portal-kde|5.27.11|6.0.5|
 |xdg-user-dirs|0.17|0.18|
+|xdg-user-dirs-gtk|0.10|0.11|
 |xdg-utils|1.1.3|1.2.1|
 |xdm|1.1.12|1.1.16|
 |xerces-c|3.2.3|3.2.5|
