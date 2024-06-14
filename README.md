@@ -145,7 +145,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |benchmark|1.8.2|1.8.4|
 |bibletime-trinity|14.1.0|14.1.2|
 |bigsh0t|2.5.1|2.7|
-|bind|9.18.24|9.16.33|Possible downgrade from the current version (9.18.24   9.16.33)|
 |black-hole-solver|1.10.1|1.12.0|
 |blender|4.0.2|4.1.1|
 |blinken|23.08.5|24.05.1|
@@ -1881,7 +1880,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |parley|23.08.5|24.05.1|
 |parsedatetime|2.4|2.6|
 |parso|0.3.3|0.8.4|
-|partclone|0.3.20|0.3.28|
+|partclone|0.3.20|0.3.29|
 |partimage|0.6.9|0.7.2|
 |partitionmanager|23.08.5|24.05.1|
 |pastel|0.2.0|0.2.1|
@@ -1898,10 +1897,9 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pcre2|10.43|10.44|
 |pcsc-perl|1.4.14|1.4.16|
 |pcsclite|1.9.9|2.2.3|
-|pcsx2|1.6.0<br>+git20210825|1.7.5886|Compound version number '1.6.0+git20210825'<br>Version number indicates a snapshot (+git) is used|
+|pcsx2|1.6.0<br>+git20210825|1.7.5890|Compound version number '1.6.0+git20210825'<br>Version number indicates a snapshot (+git) is used|
 |pdfgrep|2.1.2|2.2.0|
 |pdfminer|20191020|20231228|
-|pdlzip|1.9|1.13|
 |peewee|3.17.1|3.17.5|
 |peg|0.1.18|0.1.20|
 |pep517|0.12.0|0.13.1|
@@ -2293,6 +2291,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |quickjs|2024.01.13|2024-01-13|
 |qwt5|6.1.5|6.3.0|
 |qzdl|3.2.2.3<br>+git20210516|3.2.2.3|Compound version number '3.2.2.3+git20210516'<br>Version number indicates a snapshot (+git) is used|
+|r|4.4.0|4.4.1|
 |ragel|6.10|7.0.4|
 |random2|1.0.1|1.0.2|
 |rapidfuzz|3.2.0|3.1.1|Possible downgrade from the current version (3.2.0   3.1.1)|
