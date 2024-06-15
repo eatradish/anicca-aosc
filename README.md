@@ -1272,7 +1272,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libdwarf|20210305|0.9.2|Possible downgrade from the current version (20210305   0.9.2)|
 |libe-book|0.1.2|0.1.3|
 |libebml|1.4.0|1.4.5|
-|libeconf|0.5.0|0.7.1|
+|libeconf|0.5.0|0.7.2|
 |libedit|20191231<br>+3.1|20240517-3.1|Compound version number '20191231+3.1'|
 |libepoxy+32|1.2|1.5.10|
 |libepubgen|0.1.0|0.1.1|
