@@ -326,6 +326,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ddrescue|1.24|1.28|
 |ddrescueview|1.23|0.4.5|Possible downgrade from the current version (1.23   0.4.5)|
 |debianutils|5.7|5.19|
+|debootstrap|1.0.134|1.0.135|
 |decorator|4.3.2|5.1.1|
 |deja-dup|42.9|45.2|
 |dejavu-fonts|2.37|2_37|
