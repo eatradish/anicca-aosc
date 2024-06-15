@@ -322,7 +322,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dbus-tqt|14.1.0|14.1.2|
 |dcaenc|3|2|Possible downgrade from the current version (3   2)|
 |ddcutil|2.1.3|2.1.4|
-|ddnet|17.0.3|18.2|
+|ddnet|17.0.3|18.3|
 |ddrescue|1.24|1.28|
 |ddrescueview|1.23|0.4.5|Possible downgrade from the current version (1.23   0.4.5)|
 |debianutils|5.7|5.19|
