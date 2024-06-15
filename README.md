@@ -322,7 +322,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ddcutil|2.1.3|2.1.4|
 |ddnet|17.0.3|18.3|
 |ddrescue|1.24|1.28|
-|ddrescueview|1.23|0.4.5|Possible downgrade from the current version (1.23   0.4.5)|
 |debianutils|5.7|5.19|
 |decorator|4.3.2|5.1.1|
 |deja-dup|42.9|45.2|
@@ -340,7 +339,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dieharder|3.31.1|3.31.1_20110601-1|
 |diff-match-patch|20200713|20230430|
 |diff-so-fancy|1.4.1|1.4.4|
-|diffuse|0.6.0|0.9.0|
 |diffutils|3.8|3.10|
 |digikam|7.9.0|8.3.0|
 |digikam-trinity|14.1.0|14.1.2|
@@ -875,6 +873,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |juk|23.08.5|24.05.1|
 |jupyter-client|5.2.4|8.6.2|
 |jupyter-core|4.4.0|5.7.2|
+|just|1.29.0|1.29.1|
 |k3b|23.08.5|24.05.1|
 |k3b-trinity|14.1.0|14.1.2|
 |k9copy-trinity|14.1.0|14.1.2|
@@ -1501,7 +1500,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libxau+32|1.0.9|1.0.11|
 |libxcb|1.16.1|1.17.0|
 |libxcb+32|1.13|1.17.0|
-|libxdmcp|1.1.4|1.1.5|
 |libxdmcp+32|1.1.3|1.1.5|
 |libxkbcommon+32|0.9.1|1.7.0|
 |libxml++|2.40.1|5.2.0|
@@ -1846,7 +1844,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |orc+32|0.4.32|0.4.38|
 |orca|42.3|46.1|
 |os-prober|1.81|1.82|
-|osdlyrics|20190407|0.5.15|Possible downgrade from the current version (20190407   0.5.15)|
 |osinfo-db-tools|1.10.0|1.11.0|
 |osu-lazer|2024.412.1|2024.523.0|
 |oxygen|5.27.11|6.0.5|
@@ -2523,7 +2520,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |stlink|1.7.0|1.8.0|
 |stopit|0<br>+git20190827|1.1.2|Compound version number '0+git20190827'<br>Version number indicates a snapshot (+git) is used|
 |strace|6.5|6.9|
-|streamlink|6.5.1|6.7.4|
 |strongswan|5.9.4|5.9.14|
 |structlog|19.1.0|24.2.0|
 |stubby|0.3.0|0.4.3|
@@ -2617,7 +2613,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |telepathy-glib|0.24.1|0.24.2|
 |telepathy-idle|0.2.0|0.2.2|
 |telepathy-logger-qt|15.04.0|17.09.0|
-|telepathy-mission-control|5.16.4|5.16.6|
 |tellico-trinity|14.1.0|14.1.2|
 |telly-skout|23.08.5|24.05.1|
 |template-glib|3.28.0|3.36.2|
@@ -2832,7 +2827,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xcffib|0.7.0|1.5.0|
 |xclip|20191017|0.13|Possible downgrade from the current version (20191017   0.13)|
 |xcompmgr|1.1.8|1.1.9|
-|xcowsay|1.4|1.6|
 |xdg-dbus-proxy|0.1.2|0.1.5|
 |xdg-desktop-portal|1.16.0|1.18.4|
 |xdg-desktop-portal-gnome|42.3|46.2|
