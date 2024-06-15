@@ -2772,7 +2772,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |volk-meta-loader|1.3.280.0|1.3.283.0|
 |vorbis-tools|1.4.0|1.4.2|
 |vpnc|0.5.3r550|0.5.3|
-|vscode|1.90.0|1.90.1|
 |vscodium|1.90.0.24158|1.90.1.24165|
 |vsftpd|3.0.3|3.0.5|
 |vte|0.68.0|0.76.3|
