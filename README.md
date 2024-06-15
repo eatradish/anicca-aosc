@@ -501,7 +501,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |flightgear|2020.3.13|2020.3.19|
 |flint|2.5.2|3.1.2|
 |fltk|1.3.5|1.3.9|
-|fluidsynth|2.0.5|2.3.5|
 |fluidsynth+32|1.1.6|2.3.5|
 |folks|0.15.5|0.15.9|
 |font-awesome|6.5.1|6.5.2|
