@@ -1870,6 +1870,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |paq8o|9|10t|
 |parallel|20191122|20240522|
 |paramiko|2.10.3|3.4.0|
+|pari|2.13.1|2.15.5|
 |parley|23.08.5|24.05.1|
 |parsedatetime|2.4|2.6|
 |parso|0.3.3|0.8.4|
