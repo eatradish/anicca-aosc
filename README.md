@@ -525,7 +525,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |freetds|1.00.112|1.4.19|
 |freetype|2.12.1|2.13.2|
 |freetype+32|2.12.1|2.13.2|
-|freexl|1.0.5|2.0.0|
 |frei0r-plugins|2.3.2|2.3.3|
 |frescobaldi|3.2|3.3.0|
 |fribidi|1.0.14|1.0.15|
@@ -2578,7 +2577,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tclap|1.2.2|1.2.5|
 |tcping|1.3.5|2.1.0|
 |tcsh|6.24.12|6.24.13|
-|tde-common-cmake|14.1.0|14.1.2|
 |tde-i18n|14.1.0|14.1.2|
 |tde-style-baghira|14.1.0|14.1.2|
 |tde-style-domino|14.1.0|14.1.2|
