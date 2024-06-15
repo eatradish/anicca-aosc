@@ -485,6 +485,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |firewalld|2.0.0|2.1.2|
 |flac|1.3.3|1.4.3|
 |flac+32|1.3.3|1.4.3|
+|flake8|7.0.0|7.1.0|
 |flask|1.1.2|3.0.3|
 |flask-login|0.4.1|0.6.3|
 |flask-mail|0.9.1|0.10.0|
@@ -1391,6 +1392,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libpano13|2.9.19|2.9.22|
 |libpcap+32|1.10.1|1.10.4|
 |libpeas|1.32.0|2.0.2|
+|libphonenumber|8.13.38|8.13.39|
 |libpinyin|2.6.0|2.8.1|
 |libpipeline|1.5.3|1.5.7|
 |libplist|2.3.0|2.6.0|
@@ -1868,7 +1870,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |paq8o|9|10t|
 |parallel|20191122|20240522|
 |paramiko|2.10.3|3.4.0|
-|pari|2.13.1|2.15.5|
 |parley|23.08.5|24.05.1|
 |parsedatetime|2.4|2.6|
 |parso|0.3.3|0.8.4|
@@ -2164,7 +2165,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pyaudio|0.2.11|0.2.14|
 |pybind11|2.11.1|2.12.0|
 |pycairo|1.18.2|1.26.0|
-|pycodestyle|2.7.0|2.11.1|
+|pycodestyle|2.7.0|2.12.0|
 |pycountry|18.12.8|24.6.1|
 |pycparser|2.19|2.22|
 |pycryptodome|3.7.3|3.20.0|
