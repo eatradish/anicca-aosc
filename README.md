@@ -416,6 +416,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |elfutils+32|0.166|0.191|
 |elisa|23.08.5|24.05.1|
 |elvis|2.2<br>+1pre3|2.2_1-pre2|Compound version number '2.2+1pre3'<br>Possible downgrade from the current version (2.2+1pre3   2.2_1-pre2)|
+|embree|4.3.1|4.3.2|
 |emerald|0.8.12.4|0.8.18|
 |enchant-2|2.3.1|2.8.1|
 |endeavour|42.0|43.0|
@@ -1978,7 +1979,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-http-daemon|6.01|6.16|
 |perl-http-date|6.02|6.06|
 |perl-http-message|6.11|6.46|
-|perl-image-exiftool|12.50|12.86|
+|perl-image-exiftool|12.50|12.87|
 |perl-io-socket-inet6|2.72|2.73|
 |perl-io-socket-ssl|2.062|2.085|
 |perl-io-tee|0.65|0.66|
