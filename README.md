@@ -139,7 +139,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |bcachefs-tools|1.6.4|1.7.0|
 |bcrypt|3.1.7|4.1.3|
 |beaker|1.11.0|1.13.0|
-|beancount|2.2.1|2.3.6|
+|beancount|2.2.1|3.0.0|
 |beautifulsoup4|4.10.0|4.12.3|
 |benchmark|1.8.2|1.8.4|
 |bibletime-trinity|14.1.0|14.1.2|
