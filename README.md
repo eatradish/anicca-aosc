@@ -873,7 +873,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |juk|23.08.5|24.05.1|
 |jupyter-client|5.2.4|8.6.2|
 |jupyter-core|4.4.0|5.7.2|
-|just|1.29.0|1.29.1|
 |k3b|23.08.5|24.05.1|
 |k3b-trinity|14.1.0|14.1.2|
 |k9copy-trinity|14.1.0|14.1.2|
@@ -1728,8 +1727,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |netifaces|0.10.9|0.11.0|
 |netpbm|10.73.34|11.06.03|
 |netsurf-buildsystem|1.9|1.10|
-|nettle|3.7.2|3.9.1|
-|nettle+32|3.7.2|3.9.1|
+|nettle|3.7.2|3.10|
+|nettle+32|3.7.2|3.10|
 |networkmanager|1.40.6|1.48.0|
 |networkmanager-iodine|1.2.0<br>+git20220728|1.2.0|Compound version number '1.2.0+git20220728'<br>Version number indicates a snapshot (+git) is used|
 |networkmanager-l2tp|1.8.6|1.20.16|
@@ -2450,7 +2449,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |smpeg+32|0.4.5|2_0_0|
 |smplayer|19.10.2|24.5.0|
 |snapd|2.61.2|2.63|
-|snapd-glib|1.63|1.65|
 |snapper-gui|0.1<br>+git20220626|0.1|Compound version number '0.1+git20220626'<br>Version number indicates a snapshot (+git) is used|
 |snappy|1.1.8|1.2.1|
 |sniffio|1.3.0|1.3.1|
