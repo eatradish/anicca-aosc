@@ -2806,7 +2806,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |wpebackend-fdo|1.12.1|1.14.2|
 |wqy-unibit|1.1.0|4.3.0|
 |wrapt|1.11.2|1.16.0|
-|wrk|4.1.0|4.2.0|
 |wsproto|1.0.0|1.2.0|
 |wtforms|2.2.1|3.1.2|
 |wxgtk-3+32|3.0.4|3.2.5|
