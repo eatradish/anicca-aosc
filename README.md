@@ -2763,7 +2763,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vpnc|0.5.3r550|0.5.3|
 |vsftpd|3.0.3|3.0.5|
 |vte|0.68.0|0.76.3|
-|vulkan-extensionlayer|1.3.280.0|1.3.287|
+|vulkan-extensionlayer|1.3.280.0|1.3.288|
 |vulkan-headers|1.3.280.0|1.3.288|
 |vulkan-headers+32|1.3.272|1.3.288|
 |vulkan-loader|1.3.280.0|1.3.288|
@@ -2771,7 +2771,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vulkan-tools|1.3.280.0|1.3.283|
 |vulkan-tools+32|1.3.227|1.3.283|
 |vulkan-utility-libraries|1.3.280.0|1.3.288|
-|vulkan-validationlayers|1.3.280.0|1.3.287|
+|vulkan-validationlayers|1.3.280.0|1.3.288|
 |warpinator|1.6.3|1.8.4|
 |warzone2100|4.1.3|4.4.2|
 |watchman|4.9.0|2024.06.10.00|
