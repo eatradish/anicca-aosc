@@ -2740,7 +2740,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vc|1.4.4|1.4.5|
 |vdpauinfo|1.0|1.5|
 |verdict|1.4.1|1.4.2|
-|verilator|4.204|5.024|
+|verilator|4.204|5.026|
 |versioningit|3.0.0|3.1.1|
 |vgmstream|20191206|1879|Possible downgrade from the current version (20191206   1879)|
 |vice|3.5|3.8|
