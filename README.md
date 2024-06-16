@@ -2414,7 +2414,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sfml|2.5.1|2.6.1|
 |sg3-utils|1.47r915|1.48|
 |shaderc|2023.7|2024.1|
-|shadowsocks-rust|1.18.4|1.19.4|
+|shadowsocks-rust|1.18.4|1.20.0|
 |shapelib|1.5.0|1.6.0|
 |shared-color-targets|0.1.7|0_1_7|
 |shotcut|21.08.11|24.06.02|
