@@ -2556,7 +2556,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |taglib|1.11.1|2.0.1|
 |taglib+32|1.11|2.0.1|
 |tagparser|11.5.1|12.1.0|
-|tailscale|1.64.2|1.68.0|
+|tailscale|1.64.2|1.68.1|
 |taisei|1.3.2|1.4.1|
 |tali|40.8|40.9|
 |talloc|2.3.4|2.4.2|
@@ -2612,7 +2612,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tdmtheme|14.1.0|14.1.2|
 |tectonic|0.12.0|0.15.0|
 |teeworlds|0.7.5<br>+git20220313|0.7.5|Compound version number '0.7.5+git20220313'<br>Version number indicates a snapshot (+git) is used|
-|telegram-desktop|5.0.1|5.1.7|
+|telegram-desktop|5.0.1|5.1.8|
 |telepathy-accounts-signon|1.0|2.1|
 |telepathy-glib|0.24.1|0.24.2|
 |telepathy-idle|0.2.0|0.2.2|
