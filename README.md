@@ -2155,7 +2155,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |puremagic|1.15|1.23|
 |purple-matrix|0.0.0<br>+git20210626|0.1.0|Compound version number '0.0.0+git20210626'<br>Version number indicates a snapshot (+git) is used|
 |purpose|5.115.0|6.0.90|
-|pv|1.6.20|1.8.9|
+|pv|1.6.20|1.8.10|
 |py-filelock|3.14.0|3.15.1|
 |py-setproctitle|1.1.10|1.3.3|
 |pyaaf2|1.6.0|1.7.1|
