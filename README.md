@@ -2373,7 +2373,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |samtools|1.16.1|1.20|
 |sane-backends|1.0.32|1.3.1|
 |sanlock|3.8.5|3.9.2|
-|sarasa-gothic-fonts|1.0.12|1.0.13|
+|sarasa-gothic-fonts|1.0.12|1.0.14|
 |sass-listen|4.0.0|3.9.0|Possible downgrade from the current version (4.0.0   3.9.0)|
 |sassc|3.6.1|3.6.2|
 |sbc+32|1.3|2.0|
