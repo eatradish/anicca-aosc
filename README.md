@@ -228,7 +228,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |chromaprint|1.5.0|1.5.1|
 |chromium|125.0.6422.141|126.0.6478.61|
 |cifs-utils|6.10|7.0|
-|cinnamon|5.8.3|6.0.4|
+|cinnamon|5.8.3|6.2.0|
 |cinnamon-control-center|5.8.1|6.2.0|
 |cinnamon-desktop|5.8.0|6.2.0|
 |cinnamon-menus|5.8.0|6.2.0|
