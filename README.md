@@ -49,7 +49,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |alsa-lib+32|1.2.5.1|1.2.12|
 |alsa-plugins|1.2.7.1|1.2.12|
 |alsa-plugins+32|1.2.7.1|1.2.12|
-|alsa-ucm-conf|1.2.5.1|1.2.12|
 |alsa-ucm-conf-asahi|4|5|
 |alsa-utils|1.2.8|1.2.12|
 |amarok-trinity|14.1.0|14.1.2|
@@ -1791,7 +1790,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |oma|1.3.15|1.12.13|
 |onefetch|2.20.0|2.21.0|
 |onig|6.9.5<br>+rev1|6.9.9|Compound version number '6.9.5+rev1'|
-|oolite|1.90|1.91.0.7616-240527-f882b71|
+|oolite|1.90|1.91.0.7617-240614-f930b3a|
 |open-iscsi|2.1.9|2.1.10|
 |open-isns|0.101|0.102|
 |open-rs|5.1.3|5.1.4|
@@ -2652,7 +2651,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |toolbelt|0.9.1|1.0.0|
 |topgrade|11.0.2|14.0.1|
 |toposort|1.8|1.10|
-|tor|0.4.7.14|0.4.8.12|
 |tork-trinity|14.1.0|14.1.2|
 |tornado|5.1|6.4.1|
 |totem|42.0|43.0|
