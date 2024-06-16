@@ -152,6 +152,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |bluedevil|5.27.11|6.0.5|
 |bluez-alsa|4.1.1|4.2.0|
 |bluez-qt|5.115.0|6.0.90|
+|boinc|8.0.2|8.0.3|
 |bomber|23.08.5|24.05.1|
 |boost|1.83.0|1.85.0|
 |boost+32|1.63.0|1.85.0|
@@ -2746,7 +2747,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vice|3.5|3.8|
 |vicious|2.3.3|2.7.0|
 |vid.stab|0.98b|1.1.1|
-|vim|9.1.0446|9.1.0487|
+|vim|9.1.0446|9.1.0494|
 |virglrenderer|0.10.4|1.0.1|
 |virtualenv|20.25.0|20.26.2|
 |virtualgl+32|2.5.2|3.1.1|
