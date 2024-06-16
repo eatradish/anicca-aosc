@@ -1528,15 +1528,15 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |linux+api+32|6.7.12|5.19.17|Possible downgrade from the current version (6.7.12   5.19.17)|
 |linux+kernel|6.9.3|5.19.17|Possible downgrade from the current version (6.9.3   5.19.17)|
 |linux+kernel+asahi|6.5.11|5.19.17|Possible downgrade from the current version (6.5.11   5.19.17)|
-|linux+kernel+lts|6.6.31|5.10.218|Possible downgrade from the current version (6.6.31   5.10.218)|
+|linux+kernel+lts|6.6.31|5.10.219|Possible downgrade from the current version (6.6.31   5.10.219)|
 |linux+kernel+rc|5.8.0|5.19.17|
-|linux+kernel+retro|5.10.132|5.10.218|
-|linux+kernel+retro+minimal|5.15.17|5.10.218|Possible downgrade from the current version (5.15.17   5.10.218)|
+|linux+kernel+retro|5.10.132|5.10.219|
+|linux+kernel+retro+minimal|5.15.17|5.10.219|Possible downgrade from the current version (5.15.17   5.10.219)|
 |linux-firmware|20240506<br>+debian20230210<br>+5~bpo11<br>+1|20240610|Compound version number '20240506+debian20230210+5~bpo11+1'|
 |linux-kernel|6.9.3|5.19.17|Possible downgrade from the current version (6.9.3   5.19.17)|
 |linux-kernel-lts|6.6.31|5.19.17|Possible downgrade from the current version (6.6.31   5.19.17)|
-|linux-kernel-retro|5.10.132|5.10.218|
-|linux-kernel-retro-minimal|5.15.17|5.10.218|Possible downgrade from the current version (5.15.17   5.10.218)|
+|linux-kernel-retro|5.10.132|5.10.219|
+|linux-kernel-retro-minimal|5.15.17|5.10.219|Possible downgrade from the current version (5.15.17   5.10.219)|
 |linuxsampler|2.3.0|2.3.1|
 |lirc|0.9.4d|0.10.2|
 |lksctp-tools|1.0.17|1.0.19|
@@ -1768,6 +1768,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |numactl|2.0.14|2.0.18|
 |numix-icon-theme|20190917|24.04.22|Possible downgrade from the current version (20190917   24.04.22)|
 |numix-icon-theme-circle|20160927|24.04.22|Possible downgrade from the current version (20160927   24.04.22)|
+|numpy|1.26.4|2.0.0|
 |nut|2.7.4|2.8.2|
 |nvchecker|1.5|2.15.1|
 |nvidia|550.54.14|555.52.04|
@@ -2531,7 +2532,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sudo|1.9.15p5|1_9_15p5|
 |suitesparse|7.6.1|7.7.0|
 |sunpinyin|3.0.0~rc1|2.0.3-rel-1|Possible downgrade from the current version (3.0.0~rc1   2.0.3-rel-1)|
-|sunshine|0.23.0|2024.613.3910|
+|sunshine|0.23.0|2024.616.13035|
 |sunxi-tools|1.4.2<br>+git20220729|1.4.2|Compound version number '1.4.2+git20220729'<br>Version number indicates a snapshot (+git) is used|
 |sushi|42.0|46.0|
 |svgpart|23.08.5|24.05.1|
