@@ -114,7 +114,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |autojump-rs|0.5.1<br>+22.5.3|0.5.1|Compound version number '0.5.1+22.5.3'<br>Possible downgrade from the current version (0.5.1+22.5.3   0.5.1)|
 |automake|1.16i|1.16.5|
 |automat|20.2.0|22.10.0|
-|autopep8|2.2.0|2.3.0|
 |avahi-tqt|14.1.0|14.1.2|
 |avogadrolibs|1.95.1|1.99.0|
 |avr-binutils|2.37|2.42|
@@ -796,7 +795,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ibus-sunpinyin|3.0.0~rc1|2.0.3-rel-1|Possible downgrade from the current version (3.0.0~rc1   2.0.3-rel-1)|
 |ibus-table|1.14.1|1.17.4|
 |icdiff|1.9.5|2.0.7|
-|icewm|1.8.3|3.5.1|
+|icewm|1.8.3|3.6.0|
 |icewm-themes|1.2.26|1.2.26.orig|Possible downgrade from the current version (1.2.26   1.2.26.orig)|
 |icu|64.2|75-1|
 |icu+32|64.2|75-1|
