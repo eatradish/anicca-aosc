@@ -114,6 +114,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |autojump-rs|0.5.1<br>+22.5.3|0.5.1|Compound version number '0.5.1+22.5.3'<br>Possible downgrade from the current version (0.5.1+22.5.3   0.5.1)|
 |automake|1.16i|1.16.5|
 |automat|20.2.0|22.10.0|
+|autopep8|2.2.0|2.3.0|
 |avahi-tqt|14.1.0|14.1.2|
 |avogadrolibs|1.95.1|1.99.0|
 |avr-binutils|2.37|2.42|
