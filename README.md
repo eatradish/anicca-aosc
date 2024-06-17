@@ -1961,6 +1961,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-gnome2|1.047|1.048|
 |perl-gnome2-canvas|1.002|1.006|
 |perl-gnome2-vfs|1.083|1.084|
+|perl-gnome2-wnck|0.16|0.18|
 |perl-gtk2|1.2499|1.24993|
 |perl-gtk2-unique|0.05|0.07|
 |perl-html-form|6.03|6.11|
@@ -2137,7 +2138,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |projectm|4.0.0|4.1.1|
 |prompt-toolkit|2.0.8|3.0.47|
 |proot|5.1.20171016|5.4.0|
-|protobuf|25.2|27.1|
 |proxychains-ng+32|20161205|4.17|Possible downgrade from the current version (20161205   4.17)|
 |psmisc|23.6|23.7|
 |pstate-frequency|3.11.0|3.15.1|
