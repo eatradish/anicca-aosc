@@ -817,12 +817,12 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |inetutils|2.4|2.5|
 |inih|53|58|
 |iniparse|0.4|0.5|
-|iniparser|4.1|4.2.3|
+|iniparser|4.1|4.2.4|
 |inkscape|1.3.2|1_3_2|
 |intel-compute-runtime|24.17.29377.6|24.17.29377.8|
 |intel-gmmlib|22.3.19|22.3.20|
 |intel-graphics-compiler|1.0.16695.4|1.0.16900.3|
-|intel-media-driver|24.1.5|24.2.4|
+|intel-media-driver|24.1.5|24.2.5|
 |inxi|3.3.31<br>+2|3.3.31-2|Compound version number '3.3.31+2'|
 |iodine|0.7.0|0.8.0|
 |iosevka-fonts|28.0.5|30.2.0|
