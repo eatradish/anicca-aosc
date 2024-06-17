@@ -2252,7 +2252,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qemu|9.0.0|9.0.1|
 |qgnomeplatform|0.8.4|0.9.2|
 |qhull|7.2.0|8.0.2|
-|qjackctl|0.9.7|0.9.91|
+|qjackctl|0.9.7|1.0.0|
 |qmlkonsole|23.08.5|24.05.1|
 |qmltermwidget|0.2.0<br>+git20220109|0.6.0|Compound version number '0.2.0+git20220109'<br>Version number indicates a snapshot (+git) is used|
 |qmmp|1.6.5|2.1.8|
@@ -2261,7 +2261,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qqc2-desktop-style|5.115.0|6.0.90|
 |qrencode|4.0.2|4.1.1|
 |qscintilla|2.13.1|2.14.1|
-|qsynth|0.5.6|0.9.91|
+|qsynth|0.5.6|1.0.0|
 |qt-5|5.15.13<br>+webengine5.15.16<br>+webkit5.212.0<br>+kde20240408|5.15.14-lts-lgpl|Compound version number '5.15.13+webengine5.15.16+webkit5.212.0+kde20240408'|
 |qt4-tqt-theme-engine-trinity|14.1.0|14.1.2|
 |qtkeychain|0.13.2|0.14.3|
