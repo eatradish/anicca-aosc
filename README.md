@@ -1550,6 +1550,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |logrotate|3.21.0|3.22.0|
 |loguru|0.5.3|0.7.2|
 |lokalize|23.08.5|24.05.1|
+|loudmouth|1.5.3|1.5.4|
 |lowdown|1.1.0|1_1_0|
 |lpaq|8|9m|
 |lpsolve|5.5.2.5|5.6.20|
@@ -1960,7 +1961,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-gnome2|1.047|1.048|
 |perl-gnome2-canvas|1.002|1.006|
 |perl-gnome2-vfs|1.083|1.084|
-|perl-gnome2-wnck|0.16|0.18|
 |perl-gtk2|1.2499|1.24993|
 |perl-gtk2-unique|0.05|0.07|
 |perl-html-form|6.03|6.11|
@@ -2319,6 +2319,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rexml|3.2.5|3.3.0|
 |rfc3986|1.4.0|2.0.0|
 |rime-cantonese|2023.06.15<br>+git20230912|2023.06.15|Compound version number '2023.06.15+git20230912'<br>Version number indicates a snapshot (+git) is used|
+|rime-emoji|13.0<br>+git20230826|15.0|Compound version number '13.0+git20230826'<br>Version number indicates a snapshot (+git) is used|
 |rinutils|0.4.1|0.10.2|
 |rlvm|0.14<br>+git20220404|0.14|Compound version number '0.14+git20220404'<br>Version number indicates a snapshot (+git) is used|
 |rlwrap|0.43|0.46.1|
