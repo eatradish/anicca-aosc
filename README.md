@@ -1841,6 +1841,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |oxygen-icons|5.115.0|6.0.90|
 |oxygen-sounds|5.25.3|6.0.5|
 |p11-kit+32|0.23.18.1|0.25.3|
+|packagekit|1.2.8|1.3.0|
+|packagekit-qt|1.1.1|1.1.2|
 |packaging|23.0|24.1|
 |pacman|6.0.1|6.1.0|
 |pahole|1.25|1.27|
@@ -1880,7 +1882,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pcre2|10.43|10.44|
 |pcsc-perl|1.4.14|1.4.16|
 |pcsclite|1.9.9|2.2.3|
-|pcsx2|1.6.0<br>+git20210825|1.7.5902|Compound version number '1.6.0+git20210825'<br>Version number indicates a snapshot (+git) is used|
+|pcsx2|1.6.0<br>+git20210825|1.7.5911|Compound version number '1.6.0+git20210825'<br>Version number indicates a snapshot (+git) is used|
 |pdfgrep|2.1.2|2.2.0|
 |pdfminer|20191020|20231228|
 |pdlzip|1.9|1.13|
