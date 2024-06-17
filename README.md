@@ -340,6 +340,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |digikam|7.9.0|8.3.0|
 |digikam-trinity|14.1.0|14.1.2|
 |ding-libs|0.6.1|0.6.2|
+|discord|0.0.56|0.0.57|
 |discover|5.27.11|6.0.5|
 |distlib|0.3.1|0.3.8|
 |distorm|3.5.1|3.5.2b|
