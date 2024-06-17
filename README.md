@@ -310,6 +310,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dante|1.4.2|1.4.3|
 |dar|2.7.13|2.7.14|
 |darkradiant|3.8.0|3.9.0|
+|darktable|4.6.1|4.8.0|
 |dateutil|2.8.2|2.9.0.post0|
 |dav1d|1.4.0|1.4.3|
 |dblatex|0.3.12|1.1.14|
@@ -526,7 +527,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |frescobaldi|3.2|3.3.0|
 |fribidi|1.0.14|1.0.15|
 |fribidi+32|1.0.10|1.0.15|
-|functools32|3.2.3<br>+2|3.2.3-2|Compound version number '3.2.3+2'|
 |fuse-exfat|1.3.0|1.4.0|
 |fuse-python|0.3.1|1.0.8|
 |future|0.17.0|1.0.0|
@@ -1539,7 +1539,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |linuxsampler|2.3.0|2.3.1|
 |lirc|0.9.4d|0.10.2|
 |lksctp-tools|1.0.17|1.0.19|
-|lldpd|1.0.17|1.0.18|
 |llfuse|1.4.1|1.5.0|
 |llvm|17.0.6|18.1.7|
 |llvm+32|14.0.6|18.1.7|
@@ -1878,7 +1877,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |partimage|0.6.9|0.7.2|
 |partitionmanager|23.08.5|24.05.1|
 |pastel|0.2.0|0.2.1|
-|pathlib2|2.3.5|2.3.7.post1|
 |pathspec|0.11.0|0.12.1|
 |patool|1.12|upstream/2.2.0|Possible downgrade from the current version (1.12   upstream/2.2.0)|
 |pbr|5.6.0|6.0.0|
@@ -2152,7 +2150,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pulseaudio+32|13.0|17.0|
 |pulseaudio-qt|1.3|1.5.0|
 |pulsectl|20.5.1|24.4.0|
-|puremagic|1.15|1.23|
+|puremagic|1.15|1.24|
 |purple-matrix|0.0.0<br>+git20210626|0.1.0|Compound version number '0.0.0+git20210626'<br>Version number indicates a snapshot (+git) is used|
 |purpose|5.115.0|6.0.90|
 |pv|1.6.20|1.8.10|
