@@ -236,7 +236,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cinnamon-translations|5.8.1|6.2.0|
 |cjs|5.8.0|6.2.0|
 |clamav|1.3.0|1.3.1|
-|clash-verge-rev|1.6.4|1.6.6|
 |cldr-emoji-annotation|37.0<br>+13.0<br>+0<br>+2|37.0_13.0_0_2|Compound version number '37.0+13.0+0+2'|
 |cleo|2.0.1|2.1.0|
 |cli-helpers|1.1.0|2.3.1|
@@ -589,7 +588,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gifski|1.14.4|1.32.0|
 |gimp|2.10.36|2_10_38|
 |girara|0.4.4|0.4.3|Possible downgrade from the current version (0.4.4   0.4.3)|
-|git|2.45.1|2.45.2|
 |git-archive-all|1.20.0|1.23.1|
 |git-branchless|0.7.1|0.9.0|
 |git-cliff|2.2.2|2.3.0|
@@ -598,7 +596,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gitg|41|44|
 |gitoxide|0.35.0|0.36.0|
 |gitpython|3.1.35|3.1.43|
-|gitui|0.26.2|0.26.3|
 |gjs|1.74.0|1.80.2|
 |gksu|2.0.2|2.0.12|
 |glances|4.0.5|4.0.8|
@@ -773,7 +770,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |httrack|3.49.2|3.49.5|
 |hub|2.14.2<br>+git20230617|2.14.2|Compound version number '2.14.2+git20230617'<br>Version number indicates a snapshot (+git) is used|
 |hugin|2022.0.0|2023.0.0|
-|hugo|0.126.1|0.127.0|
 |humanize|0.5.1|4.9.0|
 |hunspell|1.7.0|1.7.2|
 |hyper-h2|4.0.0|4.1.0|
@@ -1987,7 +1983,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-lwp-protocol-https|6.06|6.14|
 |perl-mail-dkim|0.40|1.20240124|
 |perl-mail-imapclient|3.42|3.43|
-|perl-mail-spf|2.9.0|3.20240206|
+|perl-mail-spf|2.9.0|3.20240617|
 |perl-mailtools|2.20|2.21|
 |perl-mime-charset|1.012.2|1.013.1|
 |perl-mime-lite|3.030|3.033|
