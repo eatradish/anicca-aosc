@@ -2138,6 +2138,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |projectm|4.0.0|4.1.1|
 |prompt-toolkit|2.0.8|3.0.47|
 |proot|5.1.20171016|5.4.0|
+|protobuf|25.2|27.1|
 |proxychains-ng+32|20161205|4.17|Possible downgrade from the current version (20161205   4.17)|
 |psmisc|23.6|23.7|
 |pstate-frequency|3.11.0|3.15.1|
