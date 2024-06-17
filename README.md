@@ -41,7 +41,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |akonadiconsole|23.08.5|24.05.1|
 |akregator|23.08.5|24.05.1|
 |alabaster|0.7.12|0.7.16|
-|alacarte|3.44.2|3.52.0|
 |allegro|5.2.6.0|5.2.9.1|
 |allegro+32|4.4.2|5.2.9.1|
 |alligator|23.08.5|24.05.1|
@@ -2708,6 +2707,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |urfkill|0.5.0<br>+git20210401|0.5.0|Compound version number '0.5.0+git20210401'<br>Version number indicates a snapshot (+git) is used|
 |uritemplate|3.0.1|4.1.1|
 |urlgrabber|3.10.2|4.1.0|
+|urllib3|2.2.1|2.2.2|
 |urwid|2.1.2|2.6.14|
 |usb-modeswitch|2.6.0|2.6.1|
 |usbredir|0.8.0|0.14.0|
