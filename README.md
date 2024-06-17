@@ -288,7 +288,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cryfs|0.10.2|0.11.4|
 |crypto++|8.2.0|8.9.0|
 |cryptography|40.0.0|42.0.8|
-|cryptsetup|2.7.0|2.7.2|
+|cryptsetup|2.7.0|2.7.3|
 |css-parser|1.0.6|1.0.10|
 |cssselect2|0.6.0|0.7.0|
 |cssutils|1.0.2|2.11.1|
@@ -1265,7 +1265,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libdvdread+32|5.0.3|6.1.3|
 |libdwarf|20210305|0.9.2|Possible downgrade from the current version (20210305   0.9.2)|
 |libe-book|0.1.2|0.1.3|
-|libebml|1.4.0|1.4.5|
 |libeconf|0.5.0|0.7.2|
 |libedit|20191231<br>+3.1|20240517-3.1|Compound version number '20191231+3.1'|
 |libepoxy+32|1.2|1.5.10|
@@ -1350,7 +1349,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libltc|1.3.1|1.3.2|
 |libluv|1.47.0<br>+0|1.48.0-2|Compound version number '1.47.0+0'|
 |libmanette|0.2.6|0.2.7|
-|libmatroska|1.6.2|1.7.1|
 |libmaxminddb|1.4.3|1.10.0|
 |libmediaart|1.9.4|1.9.6|
 |libmediainfo|22.06|24.05|
