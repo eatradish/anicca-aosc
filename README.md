@@ -860,7 +860,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |josepy|1.13.0|1.14.0|
 |json-c|0.16|0.17|
 |json-c+32|0.13.1<br>+20180305|0.17|Compound version number '0.13.1+20180305'|
-|json-glib|1.6.6|1.8.0-actual|
+|json-glib|1.8.0|1.8.0-actual|Possible downgrade from the current version (1.8.0   1.8.0-actual)|
 |jsonlines|1.2.0|4.0.0|
 |jsonpointer|2.3|3.0.0|
 |jsonrpc-glib|3.42.0|3.44.0|
@@ -1210,8 +1210,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lib3mf|2.2.0|2.3.1|
 |libaacs|0.11.0|0.11.1|
 |libaal|1.0.7|24"|
-|libaccounts-glib|1.24|1.27|
-|libaccounts-qt|1.16|1.17|
 |libadwaita|1.5.0|1.5.1|
 |libaio|0.3.111|0.3.113|
 |libaio+32|0.3.110|0.3.113|
@@ -1370,7 +1368,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libnotify|0.7.9|0.8.3|
 |libnsl2|1.3.0|2.0.1|
 |libnspsl|0.1.6|0.1.7|
-|libnumbertext|1.0.7|1.0.11|
 |libodfgen|0.1.6|0.1.8|
 |libofono-qt|0.54<br>+git20190116|1.30|Compound version number '0.54+git20190116'<br>Version number indicates a snapshot (+git) is used|
 |libogg|1.3.4|1.3.5|
@@ -1742,7 +1739,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nmap|7.93|7.95|
 |noip|2.1.9|3.0.0|
 |noise-suppression-for-voice|0.91|1.10|
-|nokogiri|1.16.5|1.16.6|
 |nomino|1.3.1|1.3.5|
 |normaliz|3.6.3|3.10.3|
 |notmuch|0.34|0.38.3|
@@ -1780,7 +1776,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |okteta|0.26.9|0.26.15|
 |okular|23.08.5|24.05.1|
 |olefile|0.46|0.47|
-|oma|1.3.15|1.12.13|
+|oma|1.3.17|1.12.13|
 |onefetch|2.20.0|2.21.0|
 |onig|6.9.5<br>+rev1|6.9.9|Compound version number '6.9.5+rev1'|
 |oolite|1.90|1.91.0.7617-240614-f930b3a|
