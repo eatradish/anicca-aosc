@@ -1585,7 +1585,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mako|1.1.4|1.3.5|
 |malcontent|0.10.5|0.12.0|
 |man-db|2.11.1|2.12.1|
-|man-pages|6.05.01<br>+posix2017a|6.9|Compound version number '6.05.01+posix2017a'|
+|man-pages|6.05.01<br>+posix2017a|6.9.1|Compound version number '6.05.01+posix2017a'|
 |mangohud|0.7.0|0.7.2|
 |mangohud+32|0.7.0|0.7.2|
 |marble|23.08.5|24.05.1|
