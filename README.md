@@ -2509,6 +2509,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |stlink|1.7.0|1.8.0|
 |stopit|0<br>+git20190827|1.1.2|Compound version number '0+git20190827'<br>Version number indicates a snapshot (+git) is used|
 |strace|6.5|6.9|
+|streamlink|6.7.4|6.8.0|
 |strongswan|5.9.4|5.9.14|
 |structlog|19.1.0|24.2.0|
 |stubby|0.3.0|0.4.3|
