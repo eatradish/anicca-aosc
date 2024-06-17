@@ -764,7 +764,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hostapd|2.9|2.10|
 |hotdoc|0.13.7|0.16|
 |hotspot|1.3.0|1.5.1|
-|hplip|3.22.4|3.23.12|
+|hplip|3.22.4|3.24.4|
 |html2text|2020.1.16|2024.2.26|
 |html5-parser|0.4.9|0.4.12|
 |htslib|1.16|1.20|
