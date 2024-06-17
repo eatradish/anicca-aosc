@@ -104,7 +104,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |attr|2.4.48|2.5.2|
 |attr+32|2.4.48|2.5.2|
 |attrs|20.3.0|23.2.0|
-|audacious|4.3.1|4.4|
 |audacity|3.4.2|3.5.1|
 |audiocd-kio|23.08.5|24.05.1|
 |audiofile|0.3.6git20160829|0.3.6|
@@ -152,7 +151,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |bluedevil|5.27.11|6.0.5|
 |bluez-alsa|4.1.1|4.2.0|
 |bluez-qt|5.115.0|6.0.90|
-|boinc|8.0.2|8.0.3|
 |bomber|23.08.5|24.05.1|
 |boost|1.83.0|1.85.0|
 |boost+32|1.63.0|1.85.0|
@@ -407,7 +405,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ecl|23.9.9|24.5.10|
 |editables|0.3|0.5|
 |editline|1.16.1|1.17.1|
-|editorconfig-core-c|0.12.6|0.12.8|
+|editorconfig-core-c|0.12.6|0.12.9|
 |efivar|38|39|
 |elfutils|0.188|0.191|
 |elfutils+32|0.166|0.191|
@@ -527,6 +525,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |frescobaldi|3.2|3.3.0|
 |fribidi|1.0.14|1.0.15|
 |fribidi+32|1.0.10|1.0.15|
+|functools32|3.2.3<br>+2|3.2.3-2|Compound version number '3.2.3+2'|
 |fuse-exfat|1.3.0|1.4.0|
 |fuse-python|0.3.1|1.0.8|
 |future|0.17.0|1.0.0|
@@ -1539,6 +1538,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |linuxsampler|2.3.0|2.3.1|
 |lirc|0.9.4d|0.10.2|
 |lksctp-tools|1.0.17|1.0.19|
+|lldpd|1.0.17|1.0.18|
 |llfuse|1.4.1|1.5.0|
 |llvm|17.0.6|18.1.7|
 |llvm+32|14.0.6|18.1.7|
@@ -1550,7 +1550,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |logrotate|3.21.0|3.22.0|
 |loguru|0.5.3|0.7.2|
 |lokalize|23.08.5|24.05.1|
-|loudmouth|1.5.3|1.5.4|
 |lowdown|1.1.0|1_1_0|
 |lpaq|8|9m|
 |lpsolve|5.5.2.5|5.6.20|
@@ -1877,6 +1876,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |partimage|0.6.9|0.7.2|
 |partitionmanager|23.08.5|24.05.1|
 |pastel|0.2.0|0.2.1|
+|pathlib2|2.3.5|2.3.7.post1|
 |pathspec|0.11.0|0.12.1|
 |patool|1.12|upstream/2.2.0|Possible downgrade from the current version (1.12   upstream/2.2.0)|
 |pbr|5.6.0|6.0.0|
@@ -2319,7 +2319,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rexml|3.2.5|3.3.0|
 |rfc3986|1.4.0|2.0.0|
 |rime-cantonese|2023.06.15<br>+git20230912|2023.06.15|Compound version number '2023.06.15+git20230912'<br>Version number indicates a snapshot (+git) is used|
-|rime-emoji|13.0<br>+git20230826|15.0|Compound version number '13.0+git20230826'<br>Version number indicates a snapshot (+git) is used|
 |rinutils|0.4.1|0.10.2|
 |rlvm|0.14<br>+git20220404|0.14|Compound version number '0.14+git20220404'<br>Version number indicates a snapshot (+git) is used|
 |rlwrap|0.43|0.46.1|
@@ -2902,6 +2901,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |zotero|6.0.26|6.0.37|
 |zshdb|1.1.3|1.1.4|
 |zutils|1.7|1.13|
+|zvbi|0.2.35|0.2.42|
 |zxing-cpp|1.4.0|2.2.1|
 |zxtune|5053|5061|
 |zyn-fusion|3.0.5|3.0.6|
