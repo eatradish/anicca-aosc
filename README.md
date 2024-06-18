@@ -109,6 +109,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |audiotube|23.08.5|24.05.1|
 |audiveris|5.1.0|5.3.1|
 |autobahn|19.2.1|23.6.2|
+|autobuild4|4.3.2|4.3.1|Possible downgrade from the current version (4.3.2   4.3.1)|
 |autojump-rs|0.5.1<br>+22.5.3|0.5.1|Compound version number '0.5.1+22.5.3'<br>Possible downgrade from the current version (0.5.1+22.5.3   0.5.1)|
 |automake|1.16i|1.16.5|
 |automat|20.2.0|22.10.0|
@@ -327,7 +328,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |deluge|2.1.1|2.0.5|Possible downgrade from the current version (2.1.1   2.0.5)|
 |deno|1.31.3|1.44.2|
 |dephell-specifier|0.2.2|0.3.0|
-|deploykit-gui|0.5.1|test-ci|Versions not comparable: `0.5.1` and `test-ci`|
+|deploykit-backend|0.4.3|0.4.1|Possible downgrade from the current version (0.4.3   0.4.1)|
+|deploykit-gui|0.5.4|test-ci|Versions not comparable: `0.5.4` and `test-ci`|
 |devhelp|41.2|43.0|
 |dex|0.8.0|0.9.0|
 |dfu-util|0.10|0.11|
