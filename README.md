@@ -341,7 +341,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |digikam|7.9.0|8.3.0|
 |digikam-trinity|14.1.0|14.1.2|
 |ding-libs|0.6.1|0.6.2|
-|discord|0.0.56|0.0.57|
 |discover|5.27.11|6.0.5|
 |distlib|0.3.1|0.3.8|
 |distorm|3.5.1|3.5.2b|
@@ -2087,8 +2086,9 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |plymouth-kcm|5.27.11|6.0.5|
 |pmac-utils|1.1.3|1.1.3.orig|Possible downgrade from the current version (1.1.3   1.1.3.orig)|
 |pngquant|2.12.6|3.0.3|
+|pnpm|9.3.0|9.4.0|
 |po-debconf|1.0.21|1.0.21+nmu1|Possible downgrade from the current version (1.0.21   1.0.21+nmu1)|
-|po4a|0.63|0.72|
+|po4a|0.63|0.73|
 |pocketsphinx|5~prealpha|0.8|Possible downgrade from the current version (5~prealpha   0.8)|
 |podcastparser|0.6.5|0.6.10|
 |podman|5.1.0<br>+vsock0.7.3|5.1.1|Compound version number '5.1.0+vsock0.7.3'|
