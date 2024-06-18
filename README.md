@@ -210,7 +210,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |certbot-nginx|2.10.0|2.11.0|
 |cervisia|23.08.5|24.05.1|
 |cffi|1.15.0|1.16.0|
-|cfitsio|3.450|4.4.0|
+|cfitsio|3.450|4.4.1|
 |cgal|5.2|5.6.1|
 |cgns|4.2.0|4.4.0|
 |chardet|3.0.4|5.2.0|
@@ -479,6 +479,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |findlib|1.9.5|1.9.6|
 |findutils|4.9.0|4.10.0|
 |fio|3.35|3.37|
+|firefox|127.0|127.0.1|
 |firewalld|2.0.0|2.1.2|
 |flac|1.3.3|1.4.3|
 |flac+32|1.3.3|1.4.3|
@@ -1359,6 +1360,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libnfnetlink|1.0.1|1.0.2|
 |libnfs|4.0.0|5.0.3|
 |libnfs-static|4.0.0|5.0.3|
+|libnice|0.1.17|0.1.22|
 |libnl+32|3.2.28|3.9.0|
 |libnotify|0.7.9|0.8.3|
 |libnsl2|1.3.0|2.0.1|
