@@ -2211,7 +2211,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |python-3|3.10.13|3.12.4|
 |python-augeas|1.0.3|1.1.0|
 |python-build|0.8.0|1.2.1|
-|python-cloudflare|2.8.15|3.0.0b9|
+|python-cloudflare|2.8.15|3.0.0b10|
 |python-cssselect|1.0.3|1.2.0|
 |python-daemonize|2.5.0|3.8.0|
 |python-dbusmock|0.22.0|0.31.1|
