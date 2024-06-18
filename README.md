@@ -721,6 +721,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gtkmm-3|3.24.6|3.24.9|
 |gtksourceview-4|4.8.3|4.8.4|
 |gtkspellcheck|4.0.5|5.0.3|
+|gtkwave|3.3.119|3.3.120|
 |gtranslator|42.0|46.1|
 |gucharmap|15.1.3|15.1.5|
 |guile|3.0.4|3.0.9|
@@ -2861,6 +2862,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |yara|4.5.0|4.5.1|
 |yard|0.9.26|0.9.36|
 |yaspin|1.2.0|3.0.2|
+|yaz|5.34.0|5.34.1|
 |yelp|42.1|42.2|
 |yosys|0.41|0.42|
 |ytmusicapi|1.7.2|1.7.3|
