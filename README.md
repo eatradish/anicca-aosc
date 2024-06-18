@@ -8,6 +8,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |aardvark-dns|1.9.0|1.11.0|
 |aarty|0.4.9|0.6.1|
 |abakus-trinity|14.1.0|14.1.2|
+|abyss|2.1.5|2.3.7|
 |acccheck|0.2.1|0-2-1|
 |accerciser|3.40.0|3.42.0|
 |accountsservice|22.08.8|23.13.9|
@@ -2047,8 +2048,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pimcommon|23.08.5|24.05.1|
 |pinentry|1.1.0|1.3.0|
 |pip|22.3.1|24.1b2|
-|pipewire|1.0.7|1.1.82|
-|pipewire-0.2|0.2.7|1.1.82|
+|pipewire|1.0.7|1.1.83|
+|pipewire-0.2|0.2.7|1.1.83|
 |pixman|0.43.0|0.43.4|
 |pixman+32|0.40.0|0.43.4|
 |pkcs11-helper|1.29.0|1.30.0|
@@ -2544,7 +2545,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tali|40.8|40.9|
 |talloc|2.3.4|2.4.2|
 |targetcli-fb|2.1.54|2.1.58|
-|tarsnap|1.0.39|1.0.40|
 |tastymenu-trinity|14.1.0|14.1.2|
 |tbb|2021.11.0|2021.12.0|
 |tbb+32|4.4u4|2021.12.0|
@@ -2684,7 +2684,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |udns|0.4|0.5|
 |ufw|0.36|0.36.2|
 |uget|2.2.3<br>+1|2.2.2|Compound version number '2.2.3+1'<br>Possible downgrade from the current version (2.2.3+1   2.2.2)|
-|uhttpmock|0.5.3|0.10.0|
+|uhttpmock|0.5.3|0.11.0|
 |uim|1.8.8|1.8.9|
 |ujson|1.35|1.36|
 |umbrello|23.08.5|24.05.1|
@@ -2712,6 +2712,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |uthash|2.1.0|2.3.0|
 |util-linux+32|2.29.2|2.40.1|
 |util-macros+32|999|1.20.1|Possible downgrade from the current version (999   1.20.1)|
+|v2raya|2.2.5.1|2.2.5.2|
 |v4l-utils|1.22.1|1.26.1|
 |v4l-utils+32|1.18.0|1.26.1|
 |vala|0.56.16|0.56.17|
@@ -2858,7 +2859,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |yaml-cpp|0.6.3|0.8.0|
 |yara|4.5.0|4.5.1|
 |yard|0.9.26|0.9.36|
-|yarl|1.6.3|1.9.4|
 |yaspin|1.2.0|3.0.2|
 |yelp|42.1|42.2|
 |yosys|0.41|0.42|
