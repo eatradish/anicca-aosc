@@ -350,7 +350,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dlib|19.20.0|19.24.4|
 |dmd|2.108.1|2.109.0|
 |dmenu|5.2|5.3|
-|dnsdiag|1.6.4|2.1.0|
+|dnsdiag|1.6.4|2.5.0|
 |dnspython|2.3.0|2.6.1|
 |docbook-dtd|4.5|5.1|
 |docbook-sgml|0|4.5|
@@ -1359,7 +1359,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libnfnetlink|1.0.1|1.0.2|
 |libnfs|4.0.0|5.0.3|
 |libnfs-static|4.0.0|5.0.3|
-|libnice|0.1.17|0.1.22|
 |libnl+32|3.2.28|3.9.0|
 |libnotify|0.7.9|0.8.3|
 |libnsl2|1.3.0|2.0.1|
@@ -2303,7 +2302,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |renderdoc|1.16|1.33|
 |reportlab|3.5.50|4.2.0|
 |reptyr|0.9.0|0.10.0|
-|requests-cache|0.5.2|1.2.0|
+|requests-cache|0.5.2|1.2.1|
 |rest|0.8.1|0.9.1|
 |retext|7.2.2|8.0.2|
 |rexml|3.2.5|3.3.0|
@@ -2762,7 +2761,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vulkan-validationlayers|1.3.280.0|1.3.288|
 |warpinator|1.6.3|1.8.4|
 |warzone2100|4.1.3|4.4.2|
-|watchman|4.9.0|2024.06.10.00|
+|watchman|4.9.0|2024.06.17.00|
 |wavpack|5.2.0|5.7.0|
 |wavpack+32|5.2.0|5.7.0|
 |wayland|1.22.0|1.23.0|
@@ -2776,7 +2775,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |weechat|4.2.2|4.3.2|
 |weka|3.9.2|8.0.0|
 |werkzeug|1.0.1|3.0.3|
-|wesnoth|1.16.10|1.19.0|
+|wesnoth|1.16.10|1.19.1|
 |weston|13.0.0|13.0.3|
 |wezterm|20240203<br>+110809<br>+5046fc22|20240203-110809-5046fc22|Compound version number '20240203+110809+5046fc22'|
 |wheel|0.42.0|0.43.0|
