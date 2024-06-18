@@ -605,7 +605,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |glibmm|2.66.2|2.80.0|
 |glibmm-2.68|2.78.0|2.80.0|
 |glog|0.3.5|0.7.1|
-|gloox|1.0.27|1.0.28|
 |glslang|13.1.1|14.2.0|
 |glslang+32|7.11.3214|14.2.0|
 |glu+32|9.0.1|9.0.3|
@@ -2084,7 +2083,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |plymouth-kcm|5.27.11|6.0.5|
 |pmac-utils|1.1.3|1.1.3.orig|Possible downgrade from the current version (1.1.3   1.1.3.orig)|
 |pngquant|2.12.6|3.0.3|
-|pnpm|9.3.0|9.4.0|
 |po-debconf|1.0.21|1.0.21+nmu1|Possible downgrade from the current version (1.0.21   1.0.21+nmu1)|
 |po4a|0.63|0.73|
 |pocketsphinx|5~prealpha|0.8|Possible downgrade from the current version (5~prealpha   0.8)|
