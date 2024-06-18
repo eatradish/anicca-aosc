@@ -670,6 +670,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |google-api-python-client|1.7.11|2.133.0|
 |google-auth|1.6.3|2.30.0|
 |google-auth-httplib2|0.0.4|0.2.0|
+|google-chrome|126.0.6478.61|126.0.6478.114|
 |gpac|2.2.1|2.4.0|
 |gperftools|2.13|2.15|
 |gpodder|3.10.17|3.11.4|
@@ -1932,6 +1933,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-exception-class|1.44|1.45|
 |perl-extutils-config|0.008|0.009|
 |perl-extutils-depends|0.405|0.8001|
+|perl-extutils-helpers|0.026|0.027|
 |perl-extutils-installpaths|0.012|0.013|
 |perl-fcgi|0.78|0.82|
 |perl-file-basedir|0.08|0.09|
