@@ -792,7 +792,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |icu|64.2|75-1|
 |icu+32|64.2|75-1|
 |id3|0.80|0.81|
-|idna|3.3|3.7|
 |ifaddr|0.1.7|0.2.0|
 |iftop|1.0pre4|0.17|Possible downgrade from the current version (1.0pre4   0.17)|
 |igraph|0.7.1|0.10.12|
@@ -2256,7 +2255,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qmlkonsole|23.08.5|24.05.1|
 |qmltermwidget|0.2.0<br>+git20220109|0.6.0|Compound version number '0.2.0+git20220109'<br>Version number indicates a snapshot (+git) is used|
 |qmmp|1.6.5|2.1.8|
-|qownnotes|22.6.1|24.6.2|
+|qownnotes|22.6.1|24.6.3|
 |qpdf|11.9.0|11.9.1|
 |qqc2-desktop-style|5.115.0|6.0.90|
 |qrencode|4.0.2|4.1.1|
@@ -2505,7 +2504,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |stellarium|0.21.3|24.1|
 |step|23.08.5|24.05.1|
 |stepmania|5.0.12<br>+git20221114|5.0.12|Compound version number '5.0.12+git20221114'<br>Version number indicates a snapshot (+git) is used|
-|sticky|1.16|1.20|
 |stlink|1.7.0|1.8.0|
 |stopit|0<br>+git20190827|1.1.2|Compound version number '0+git20190827'<br>Version number indicates a snapshot (+git) is used|
 |strace|6.5|6.9|
@@ -2703,7 +2701,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |unrar|6.2.2|6.2.12|
 |unrpyc|1.1.6|2.0.1|
 |unshield|1.4.3|1.5.1|
-|upower|1.90.0|1.90.4|
 |upx|4.2.1|4.2.4|
 |urfkill|0.5.0<br>+git20210401|0.5.0|Compound version number '0.5.0+git20210401'<br>Version number indicates a snapshot (+git) is used|
 |uritemplate|3.0.1|4.1.1|
