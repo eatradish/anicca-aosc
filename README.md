@@ -1213,7 +1213,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libapt-pkg-perl|0.1.36|0.1.40|
 |libart-lgpl|14.1.0|14.1.2|
 |libass+32|0.15.1|0.17.2|
-|libassuan|2.5.3|2.5.7|
+|libassuan|2.5.3|3.0.0|
 |libatomic-ops|7.8.0|7.8.2|
 |libavif|0.11.1|1.0.4|
 |libblkio|1.3.0|1.5.0|
@@ -2734,7 +2734,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vice|3.5|3.8|
 |vicious|2.3.3|2.7.0|
 |vid.stab|0.98b|1.1.1|
-|vim|9.1.0446|9.1.0494|
+|vim|9.1.0446|9.1.0496|
 |virglrenderer|0.10.4|1.0.1|
 |virtualenv|20.25.0|20.26.2|
 |virtualgl+32|2.5.2|3.1.1|
