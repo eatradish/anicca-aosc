@@ -8,7 +8,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |aardvark-dns|1.9.0|1.11.0|
 |aarty|0.4.9|0.6.1|
 |abakus-trinity|14.1.0|14.1.2|
-|abyss|2.1.5|2.3.7|
 |acccheck|0.2.1|0-2-1|
 |accerciser|3.40.0|3.42.0|
 |accountsservice|22.08.8|23.13.9|
@@ -110,7 +109,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |audiotube|23.08.5|24.05.1|
 |audiveris|5.1.0|5.3.1|
 |autobahn|19.2.1|23.6.2|
-|autobuild4|4.3.2|4.3.1|Possible downgrade from the current version (4.3.2   4.3.1)|
 |autojump-rs|0.5.1<br>+22.5.3|0.5.1|Compound version number '0.5.1+22.5.3'<br>Possible downgrade from the current version (0.5.1+22.5.3   0.5.1)|
 |automake|1.16i|1.16.5|
 |automat|20.2.0|22.10.0|
@@ -2263,6 +2261,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qscintilla|2.13.1|2.14.1|
 |qsynth|0.5.6|1.0.0|
 |qt-5|5.15.13<br>+webengine5.15.16<br>+webkit5.212.0<br>+kde20240408|5.15.14-lts-lgpl|Compound version number '5.15.13+webengine5.15.16+webkit5.212.0+kde20240408'|
+|qt-6|6.7.1|6.7.2|
 |qt4-tqt-theme-engine-trinity|14.1.0|14.1.2|
 |qtkeychain|0.13.2|0.14.3|
 |qtpy|2.1.0|2.4.1|
@@ -2507,7 +2506,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |stlink|1.7.0|1.8.0|
 |stopit|0<br>+git20190827|1.1.2|Compound version number '0+git20190827'<br>Version number indicates a snapshot (+git) is used|
 |strace|6.5|6.9|
-|streamlink|6.7.4|6.8.0|
+|streamlink|6.7.4|6.8.1|
 |strongswan|5.9.4|5.9.14|
 |structlog|19.1.0|24.2.0|
 |stubby|0.3.0|0.4.3|
