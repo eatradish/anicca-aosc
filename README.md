@@ -396,7 +396,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dub|1.37.0|1.38.0|
 |duktape|2.5.0|2.7.0|
 |dulwich|0.21.6|0.22.1|
-|dune|3.4.1|3.15.3|
+|dune|3.4.1|3.16.0|
 |duplicity|2.2.2|3.0.0|
 |e2fsprogs|1.47.0|1.47.1|
 |easy-rsa|3.0.8|3.2.0|
@@ -430,6 +430,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |evolution-ews|3.42.0|3.52.2|
 |evtest|1.34|1.35|
 |exempi|2.5.1|2.6.5|
+|exfatprogs|1.2.3|1.2.4|
 |exiv2|0.27.5|0.28.2|
 |extra-cmake-modules|5.115.0|6.1.0|
 |eyed3|0.9.5|0.9.7|
@@ -2198,7 +2199,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pyperclip|1.8.2|1.9.0|
 |pyperf|2.5.0|2.7.0|
 |pypkgconfig|1.4.0|1.5.5|
-|pypsutil|5.8.0|5.9.8|
+|pypsutil|5.8.0|6.0.0|
 |pyqt-builder|1.12.1|1.16.2|
 |pyqt5|5.15.5|5.15.10|
 |pyqt5-sip|12.9.0|12.13.0|
