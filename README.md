@@ -2015,7 +2015,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-test-fatal|0.014|0.017|
 |perl-test-nowarnings|1.04|1.06|
 |perl-text-csv|1.99|2.04|
-|perl-text-csv-xs|1.38|1.54|
+|perl-text-csv-xs|1.38|1.55|
 |perl-text-template|1.59|1.61|
 |perl-timedate|2.30|2.33|
 |perl-tk|804.034|804.036|
@@ -2380,7 +2380,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sdl-sound+32|1.0.3|2.0.2|
 |sdl-ttf|2.0.11|2.22.0|
 |sdl-ttf+32|2.0.11|2.22.0|
-|sdl2|2.24.2|2.30.3|
+|sdl2|2.24.2|2.30.4|
 |sdl2-image|2.0.5|2.8.2|
 |sdl2-mixer|2.0.4|2.8.0|
 |sdl2-net|2.0.1|2.2.0|
