@@ -2195,6 +2195,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pyparted|3.11.6|3.12.0|
 |pypdf|4.0.1|4.2.0|
 |pypdf2|1.26.0|4.2.0|
+|pyperclip|1.8.2|1.9.0|
 |pyperf|2.5.0|2.7.0|
 |pypkgconfig|1.4.0|1.5.5|
 |pypsutil|5.8.0|5.9.8|
@@ -2486,7 +2487,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |spirv-llvm-translator|17.0.0|18.1.1|
 |spirv-tools|1.3.275.0|2024.1|
 |spread-sheet-widget|0.3|0.10|
-|sqlalchemy|1.2.18|2.0.30|
+|sqlalchemy|1.2.18|2.0.31|
 |sqlcipher|4.5.6|4.6.0|
 |sqlite|3.45.1|3.46.0|
 |sqlite+32|3.32.3|3.46.0|
@@ -2846,8 +2847,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xmlsec|1.2.36|1.3.4|
 |xournalpp|1.1.3|1.2.3|
 |xpra|5.0.8|6.0.1|
-|xray|1.8.4|1.8.13|
-|xray-plugin|1.8.11|1.8.12|
+|xray|1.8.4|1.8.15|
+|xray-plugin|1.8.11|1.8.15|
 |xreader|3.8.5|4.2.1|
 |xscreensaver|6.08|6.09|
 |xsd|4.1.0~alpha11|4.0.0|Possible downgrade from the current version (4.1.0~alpha11   4.0.0)|
@@ -2855,7 +2856,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xsimd|10.0.0|13.0.0|
 |xss-lock|0.3.0<br>+git20140302|0.3.0|Compound version number '0.3.0+git20140302'<br>Version number indicates a snapshot (+git) is used|
 |xterm|390|392|
-|xviewer|3.0.2|3.4.4|
+|xviewer|3.0.2|3.4.5|
 |xxhash|0.8.1|0.8.2|
 |xz+32|5.4.1|5.6.2|
 |yad|0.40.0|13.0|
