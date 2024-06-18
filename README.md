@@ -143,7 +143,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |beautifulsoup4|4.10.0|4.12.3|
 |benchmark|1.8.2|1.8.4|
 |bibletime-trinity|14.1.0|14.1.2|
-|bigsh0t|2.5.1|2.7|
 |bind|9.18.24|9.16.33|Possible downgrade from the current version (9.18.24   9.16.33)|
 |black-hole-solver|1.10.1|1.12.0|
 |blender|4.0.2|4.1.1|
@@ -170,13 +169,13 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |budgie-screensaver|5.0.2|5.1.0|
 |bullet|2.88|3.25|
 |bup|0.30|0.33.3|
-|c-ares|1.28.1|1.30.0|
+|c-ares|1.28.1|1.31.0|
 |cabextract|1.9|1.11|
 |cachecontrol|0.12.6|0.14.0|
 |cachetools|3.1.0|5.3.3|
 |cairo|1.17.6|1.18.0|
 |cairo+32|1.14.12|1.18.0|
-|cairocffi|1.0.2|1.7.0|
+|cairocffi|1.0.2|1.7.1|
 |cairomm|1.12.2|1.18.0|
 |cairosvg|2.5.2|2.7.1|
 |calendarsupport|23.08.5|24.05.1|
@@ -296,8 +295,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ctags|20191203|6.1.20240609.0|Possible downgrade from the current version (20191203   6.1.20240609.0)|
 |cuda|12.5.0<br>+555.42.02|12.5.0|Compound version number '12.5.0+555.42.02'<br>Possible downgrade from the current version (12.5.0+555.42.02   12.5.0)|
 |cunit|2.1<br>+3|2.1-3|Compound version number '2.1+3'|
-|cups|2.4.7|2.4.9|
-|cups+32|2.3.3|2.4.9|
+|cups|2.4.7|2.4.10|
+|cups+32|2.3.3|2.4.10|
 |curl+32|8.6.0|8.8.0|
 |curtsies|0.3.4|0.4.2|
 |cycler|0.10.0|0.12.1|
@@ -574,7 +573,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |getdns|1.6.0|1.7.3|
 |gexiv2|0.14.0|0.14.2|
 |gfm|1.07|1.08|
-|gh|2.50.0|2.51.0|
 |ghc|9.4.8|9.10.1-release|
 |ghex|42.3|46.0|
 |ghidra|11.0|11.1.1_build|
@@ -1997,6 +1995,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-package-stash|0.38|0.40|
 |perl-package-stash-xs|0.29|0.30|
 |perl-par|1.016|1.020|
+|perl-par-dist|0.52|0.53|
 |perl-par-packer|1.050|1.063|
 |perl-parallel-forkmanager|1.20|2.02|
 |perl-params-util|1.07|1.102|
