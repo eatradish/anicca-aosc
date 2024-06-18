@@ -55,7 +55,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |analitza|23.08.5|24.05.1|
 |angelfish|23.08.5|24.05.1|
 |annotated-types|0.6.0|0.7.0|
-|ansible|2.12.1|2.17.0|
+|ansible|2.12.1|2.17.1|
 |aom|3.8.1|3.9.1|
 |aosc-community-wallpapers-extras-2023|2023.10.1|2024.04.0|
 |aosc-community-wallpapers-extras-2024|2024.04.1|2024.04.0|Possible downgrade from the current version (2024.04.1   2024.04.0)|
@@ -2652,7 +2652,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |traitlets|5.0.5|5.14.3|
 |transcode|1.1.7|1_1_7|
 |translate-shell|0.9.7|0.9.7.1|
-|translate-toolkit|2.3.1|3.13.0|
+|translate-toolkit|2.3.1|3.13.1|
 |transmission|4.0.5|4.0.6|
 |transmission-remote-gtk|1.5.1|1.6.0|
 |trash-cli|0.17.1.14|0.24.5.26|
