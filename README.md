@@ -558,7 +558,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gedit|42.2|47.0|
 |gedit-plugins|42.1|47.1|
 |gegl-0.4|0.4.48|0_4_48|
-|geoclue2|2.6.0|2.7.1|
 |geoipupdate|6.1.0|7.0.1|
 |geos|3.7.3|3.12.2|
 |getdns|1.6.0|1.7.3|
@@ -2240,7 +2239,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pyzmq|22.3.0|26.0.3|
 |qalculate-tde-trinity|14.1.0|14.1.2|
 |qca|2.3.4|2.3.8|
-|qcef|1.1.6|1.1.8|
 |qcustomplot|2.1.1|2.1.1.1|
 |qd|2.3.22|2.3.24|
 |qemu|9.0.0|9.0.1|
@@ -2760,7 +2758,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |wavpack|5.2.0|5.7.0|
 |wavpack+32|5.2.0|5.7.0|
 |wayland|1.22.0|1.23.0|
-|wcslib|6.4|8.3|
 |wcwidth|0.1.8|0.2.13|
 |wdm|1.28|1.29|
 |webencodings|0.5|0.5.1|
