@@ -558,6 +558,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gedit|42.2|47.0|
 |gedit-plugins|42.1|47.1|
 |gegl-0.4|0.4.48|0_4_48|
+|geoclue2|2.6.0|2.7.1|
 |geoipupdate|6.1.0|7.0.1|
 |geos|3.7.3|3.12.2|
 |getdns|1.6.0|1.7.3|
@@ -1228,7 +1229,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libcgroup|2.0|3.1.0|
 |libchamplain|0.12.20|0.12.21|
 |libchewing|0.5.1|0.8.4|
-|libclc|17.0.3|18.1.7|
+|libclc|17.0.3|18.1.8|
 |libcloudproviders|0.3.1|0.3.6|
 |libcmis|0.5.2|0.6.2|
 |libconfig|1.7.2|1.7.3|
@@ -1376,6 +1377,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libpng-1.6+32|1.6.37|1.6.43|
 |libportal|0.6|0.7.1|
 |libpqxx|6.4.5|7.9.1|
+|libproxy|0.5.6|0.5.7|
 |libpwquality|1.4.2|1.4.5|
 |libqaccessibilityclient|0.4.1|0.6.0|
 |libqalculate|4.5.1|5.1.1|
@@ -1491,7 +1493,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libzip|1.5.2|1.10.1|
 |liferea|1.13.8|1.15.6|
 |light-locker|1.8.0|1.9.0|
-|lightdm-settings|2.0.2|2.0.3|
+|lightdm-settings|2.0.2|2.0.4|
 |lightsoff|40.0.1|46.0|
 |lighttpd|1.4.55|1.4.76|
 |lilv|0.24.12|0.24.24|
@@ -1517,9 +1519,9 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lksctp-tools|1.0.17|1.0.19|
 |lldpd|1.0.17|1.0.18|
 |llfuse|1.4.1|1.5.0|
-|llvm|17.0.6|18.1.7|
-|llvm+32|14.0.6|18.1.7|
-|llvm-runtime+wasi|17.0.6|18.1.7|
+|llvm|17.0.6|18.1.8|
+|llvm+32|14.0.6|18.1.8|
+|llvm-runtime+wasi|17.0.6|18.1.8|
 |lm-sensors|3.6.0|3-6-0|
 |lmdb|0.9.28|0.9.33|
 |lmms|1.2.2<br>+git20240508|1.2.2|Compound version number '1.2.2+git20240508'<br>Version number indicates a snapshot (+git) is used|
@@ -2239,6 +2241,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pyzmq|22.3.0|26.0.3|
 |qalculate-tde-trinity|14.1.0|14.1.2|
 |qca|2.3.4|2.3.8|
+|qcef|1.1.6|1.1.8|
 |qcustomplot|2.1.1|2.1.1.1|
 |qd|2.3.22|2.3.24|
 |qemu|9.0.0|9.0.1|
@@ -2758,6 +2761,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |wavpack|5.2.0|5.7.0|
 |wavpack+32|5.2.0|5.7.0|
 |wayland|1.22.0|1.23.0|
+|wcslib|6.4|8.3|
 |wcwidth|0.1.8|0.2.13|
 |wdm|1.28|1.29|
 |webencodings|0.5|0.5.1|
