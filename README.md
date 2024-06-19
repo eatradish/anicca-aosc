@@ -61,7 +61,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |aosc-community-wallpapers-extras-2024|2024.04.1|2024.04.0|Possible downgrade from the current version (2024.04.1   2024.04.0)|
 |aosc-media-writer|0.3.4|5.0.9|
 |aosc-xdg-menu|20200412|20160217|Possible downgrade from the current version (20200412   20160217)|
-|aoscbootstrap|0.4.7|0.5.0|
 |apicula|0.9.1|0.12|
 |apparmor|3.0.8|3.1.7|
 |appstream|0.16.0|1.0.3|
@@ -88,9 +87,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |asn1crypto|1.2.0|1.5.1|
 |aspell|0.60.8|0.60.8.1|
 |aspnetcore-runtime-6.0|6.0.30|6.0.31|
-|aspnetcore-runtime-8.0|8.0.5|8.0.6|
 |aspnetcore-targeting-pack-6.0|6.0.30|6.0.31|
-|aspnetcore-targeting-pack-8.0|8.0.5|8.0.6|
 |assimp|5.4.0|5.4.1|
 |astroid|2.12.2|3.2.2|
 |astrometry.net|0.94|0.95|
@@ -131,7 +128,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |baloo|5.115.0|6.1.0|
 |baloo-widgets|23.08.5|24.05.1|
 |balz|1.20|.55|
-|bandwhich|0.20.0|0.22.2|
 |baobab|42.0|46.0|
 |bash|5.2.26|5.2.21|Possible downgrade from the current version (5.2.26   5.2.21)|
 |basket-trinity|14.1.0|14.1.2|
@@ -318,10 +314,9 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dcaenc|3|2|Possible downgrade from the current version (3   2)|
 |ddcutil|2.1.3|2.1.4|
 |ddnet|17.0.3|18.3|
-|ddrescue|1.24|1.28|
 |debianutils|5.7|5.19|
 |decorator|4.3.2|5.1.1|
-|deja-dup|42.9|45.2|
+|deja-dup|42.9|46.0|
 |dejavu-fonts|2.37|2_37|
 |deluge|2.1.1|2.0.5|Possible downgrade from the current version (2.1.1   2.0.5)|
 |deno|1.31.3|1.44.2|
@@ -363,23 +358,16 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dosbox|0.74<br>+3|0.74-3|Compound version number '0.74+3'|
 |dotconf|1.3|1.4.1|
 |dotnet-apphost-pack-6.0|6.0.30|6.0.31|
-|dotnet-apphost-pack-8.0|8.0.5|8.0.6|
-|dotnet-host|8.0.5|8.0.6|
 |dotnet-host-fxr|5.0.11|5.0.17|
 |dotnet-hostfxr-6.0|6.0.30|6.0.31|
-|dotnet-hostfxr-8.0|8.0.5|8.0.6|
 |dotnet-runtime-2.1|2.1.21|2.1.30|
 |dotnet-runtime-3.1|3.1.11|3.1.32|
 |dotnet-runtime-5.0|5.0.11|5.0.17|
 |dotnet-runtime-6.0|6.0.30|6.0.31|
-|dotnet-runtime-8.0|8.0.5|8.0.6|
 |dotnet-runtime-deps-6.0|6.0.0|6.0.31|
 |dotnet-sdk-6.0|6.0.422|6.0.423|
-|dotnet-sdk-8.0|8.0.300|8.0.302|
 |dotnet-targeting-pack-6.0|6.0.30|6.0.31|
-|dotnet-targeting-pack-8.0|8.0.5|8.0.6|
 |dotnet-templates-6.0|6.0.422|6.0.423|
-|dotnet-templates-8.0|8.0.300|6.0.423|Possible downgrade from the current version (8.0.300   6.0.423)|
 |double-conversion|3.2.1|3.3.0|
 |dovecot|2.3.10.1|2.3.21|
 |doxygen|1.10.0|1_11_0|
@@ -577,7 +565,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ghex|42.3|46.0|
 |ghidra|11.0|11.1.1_build|
 |ghostscript|9.54.0|10.03.1|
-|ghostscript+32|9.27|10.03.1|
 |ghostwriter|23.08.5|24.05.1|
 |gi-docgen|2023.3|2024.1|
 |giac|1.9.0<br>+93|1.9.0|Compound version number '1.9.0+93'<br>Possible downgrade from the current version (1.9.0+93   1.9.0)|
@@ -592,7 +579,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |git-lfs|3.5.0|3.5.1|
 |gitdb|4.0.10|4.0.11|
 |gitg|41|44|
-|gitoxide|0.35.0|0.36.0|
 |gitpython|3.1.35|3.1.43|
 |gjs|1.74.0|1.80.2|
 |gksu|2.0.2|2.0.12|
@@ -670,7 +656,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |google-api-python-client|1.7.11|2.133.0|
 |google-auth|1.6.3|2.30.0|
 |google-auth-httplib2|0.0.4|0.2.0|
-|google-chrome|126.0.6478.61|126.0.6478.114|
 |gpac|2.2.1|2.4.0|
 |gperftools|2.13|2.15|
 |gpodder|3.10.17|3.11.4|
@@ -1288,7 +1273,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libgksu|2.0.13~pre1|2.0.12|Possible downgrade from the current version (2.0.13~pre1   2.0.12)|
 |libglvnd+32|1.6.0|1.7.0|
 |libgnome-games-support|1.8.2|2.0.0|
-|libgnt|2.14.0|2.14.3|
 |libgovirt|0.3.8|0.3.9|
 |libgpg-error|1.48|1.49|
 |libgpg-error+32|1.41|1.49|
@@ -2054,7 +2038,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pinentry|1.1.0|1.3.0|
 |pip|22.3.1|24.1b2|
 |pipewire|1.0.7|1.1.83|
-|pipewire-0.2|0.2.7|1.1.83|
 |pixman|0.43.0|0.43.4|
 |pixman+32|0.40.0|0.43.4|
 |pkcs11-helper|1.29.0|1.30.0|
