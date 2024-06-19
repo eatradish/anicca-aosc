@@ -1189,7 +1189,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lazy-object-proxy|1.7.1|1.10.0|
 |lcms2|2.14|2.16|
 |lcms2+32|2.9|2.16|
-|ldb|2.6.1|2.9.0|
+|ldb|2.6.1|2.9.1|
 |leatherman|1.9.1|1.12.13|
 |levenshtein|0.12.0|0.25.1|
 |lib3mf|2.2.0|2.3.1|
@@ -2351,7 +2351,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |s2tc|1.0<br>+git20210317|1.0|Compound version number '1.0+git20210317'<br>Version number indicates a snapshot (+git) is used|
 |s2tc+32|20150112|1.0|Possible downgrade from the current version (20150112   1.0)|
 |s3transfer|0.5.0|0.10.1|
-|samba|4.17.2|4.20.1|
+|samba|4.17.2|4.20.2|
 |samtools|1.16.1|1.20|
 |sane-backends|1.0.32|1.3.1|
 |sanlock|3.8.5|3.9.2|
