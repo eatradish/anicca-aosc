@@ -1280,9 +1280,9 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libgnome-games-support|1.8.2|2.0.0|
 |libgnt|2.14.0|2.14.3|
 |libgovirt|0.3.8|0.3.9|
-|libgpg-error|1.48|1.49|
-|libgpg-error+32|1.41|1.49|
-|libgpg-error-static|1.48|1.49|
+|libgpg-error|1.48|1.50|
+|libgpg-error+32|1.41|1.50|
+|libgpg-error-static|1.48|1.50|
 |libgphoto2|2.5.30|2.5.31|
 |libgpiod|1.4.2|2.1.2|
 |libgravatar|23.08.5|24.05.1|
