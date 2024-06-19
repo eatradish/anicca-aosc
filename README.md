@@ -2131,7 +2131,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pulseaudio+32|13.0|17.0|
 |pulseaudio-qt|1.3|1.5.0|
 |pulsectl|20.5.1|24.4.0|
-|puremagic|1.15|1.24|
+|puremagic|1.15|1.25|
 |purple-matrix|0.0.0<br>+git20210626|0.1.0|Compound version number '0.0.0+git20210626'<br>Version number indicates a snapshot (+git) is used|
 |purpose|5.115.0|6.1.0|
 |pv|1.6.20|1.8.10|
@@ -2753,7 +2753,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vulkan-tools+32|1.3.227|1.3.283|
 |vulkan-utility-libraries|1.3.280.0|1.3.288|
 |vulkan-validationlayers|1.3.280.0|1.3.288|
-|warpinator|1.6.3|1.8.4|
+|warpinator|1.6.3|1.8.5|
 |warzone2100|4.1.3|4.4.2|
 |watchman|4.9.0|2024.06.17.00|
 |wavpack|5.2.0|5.7.0|
