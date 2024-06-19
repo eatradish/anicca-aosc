@@ -1271,7 +1271,9 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libfm|1.3.0.2|1.3.2|
 |libfprint|1.94.4|1.94.7|
 |libftdi|1.4|1.5|
-|libgcrypt+32|1.9.1|1.10.3|
+|libgcrypt|1.10.3|1.11.0|
+|libgcrypt+32|1.9.1|1.11.0|
+|libgcrypt-static|1.10.3|1.11.0|
 |libgeotiff|1.5.1|1.7.3|
 |libgig|4.4.0|4.4.1|
 |libgit2|1.7.2|1.8.1|
@@ -1482,13 +1484,13 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libxdmcp+32|1.1.3|1.1.5|
 |libxkbcommon+32|0.9.1|1.7.0|
 |libxml++|2.40.1|5.2.0|
-|libxml2|2.10.4|2.13.0|
-|libxml2+32|2.10.4|2.13.0|
+|libxml2|2.10.4|2.13.1|
+|libxml2+32|2.10.4|2.13.1|
 |libxmlb|0.3.15|0.3.19|
 |libxnvctrl|545.23.06|550.54.14|
 |libxnvctrl+32|545.23.06|550.54.14|
-|libxslt|1.1.34|1.1.40|
-|libxslt+32|1.1.34|1.1.40|
+|libxslt|1.1.34|1.1.41|
+|libxslt+32|1.1.34|1.1.41|
 |libzen|0.4.38|0.4.41|
 |libzip|1.5.2|1.10.1|
 |liferea|1.13.8|1.15.6|
@@ -1692,7 +1694,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ncompress|4.2.4.6|5.0|
 |ndctl|72|79|
 |neatvnc|0.7.1|0.8.0|
-|nemo|5.8.3|6.2.0|
+|nemo|5.8.3|6.2.1|
 |nemo-extensions|5.8.0|6.2.0|
 |neochat|23.08.5|24.05.1|
 |neomutt|20200619|20240425|
