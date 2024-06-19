@@ -316,6 +316,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ddnet|17.0.3|18.3|
 |ddrescue|1.24|1.28|
 |debianutils|5.7|5.19|
+|debootstrap|1.0.135|1.0.136|
 |decorator|4.3.2|5.1.1|
 |deja-dup|42.9|46.0|
 |dejavu-fonts|2.37|2_37|
@@ -758,6 +759,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hugin|2022.0.0|2023.0.0|
 |humanize|0.5.1|4.9.0|
 |hunspell|1.7.0|1.7.2|
+|hwloc|2.10.0|2.11-branch|
 |hyper-h2|4.0.0|4.1.0|
 |hyperframe|6.0.0|6.0.1|
 |hyperlink|19.0.0|21.0.0|
@@ -1963,7 +1965,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-list-moreutils|0.428|0.430|
 |perl-lwp-mediatypes|6.02|6.04|
 |perl-lwp-protocol-https|6.06|6.14|
-|perl-mail-dkim|0.40|1.20240124|
+|perl-mail-dkim|0.40|1.20240619|
 |perl-mail-imapclient|3.42|3.43|
 |perl-mail-spf|2.9.0|3.20240617|
 |perl-mailtools|2.20|2.21|
