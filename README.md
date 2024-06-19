@@ -9,6 +9,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |aarty|0.4.9|0.6.1|
 |abakus-trinity|14.1.0|14.1.2|
 |abyss|2.1.5|2.3.7|
+|acbs|20240620|20240521|Possible downgrade from the current version (20240620   20240521)|
 |acccheck|0.2.1|0-2-1|
 |accerciser|3.40.0|3.42.0|
 |accountsservice|22.08.8|23.13.9|
@@ -162,6 +163,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |breeze-plymouth|5.27.11|6.1.0|
 |brotlipy|0.7.0|1.0.9.2|
 |budgie-screensaver|5.0.2|5.1.0|
+|buildbot-benchmark|20240327|20230227|Possible downgrade from the current version (20240327   20230227)|
 |bullet|2.88|3.25|
 |bup|0.30|0.33.3|
 |c-ares|1.28.1|1.31.0|
