@@ -448,6 +448,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fcitx5-pinyin-zhwiki|0.2.3<br>+dict20210823|0.2.5|Compound version number '0.2.3+dict20210823'|
 |fcitx5-rime|5.1.6|5.1.8|
 |fcitx5-skk|5.1.3|5.1.4|
+|fcron|3.3.1|3.3.0|Possible downgrade from the current version (3.3.1   3.3.0)|
 |feedbackd|0.2.1|0.3.0|
 |feedparser|6.0.8|6.0.11|
 |feeluown|4.1.1|4.1.5|
