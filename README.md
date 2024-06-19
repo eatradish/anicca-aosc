@@ -1890,7 +1890,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-b-hooks-endofscope|0.24|0.28|
 |perl-cairo|1.106|1.109|
 |perl-canary-stability|2012|2013|
-|perl-cgi|4.47|4.65|
+|perl-cgi|4.47|4.66|
 |perl-class-data-inheritable|0.08|0.09|
 |perl-class-inspector|1.28|1.36|
 |perl-class-method-modifiers|2.12|2.15|
