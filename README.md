@@ -314,6 +314,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dcaenc|3|2|Possible downgrade from the current version (3   2)|
 |ddcutil|2.1.3|2.1.4|
 |ddnet|17.0.3|18.3|
+|ddrescue|1.24|1.28|
 |debianutils|5.7|5.19|
 |decorator|4.3.2|5.1.1|
 |deja-dup|42.9|46.0|
@@ -565,6 +566,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ghex|42.3|46.0|
 |ghidra|11.0|11.1.1_build|
 |ghostscript|9.54.0|10.03.1|
+|ghostscript+32|9.27|10.03.1|
 |ghostwriter|23.08.5|24.05.1|
 |gi-docgen|2023.3|2024.1|
 |giac|1.9.0<br>+93|1.9.0|Compound version number '1.9.0+93'<br>Possible downgrade from the current version (1.9.0+93   1.9.0)|
@@ -1273,6 +1275,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libgksu|2.0.13~pre1|2.0.12|Possible downgrade from the current version (2.0.13~pre1   2.0.12)|
 |libglvnd+32|1.6.0|1.7.0|
 |libgnome-games-support|1.8.2|2.0.0|
+|libgnt|2.14.0|2.14.3|
 |libgovirt|0.3.8|0.3.9|
 |libgpg-error|1.48|1.49|
 |libgpg-error+32|1.41|1.49|
