@@ -241,7 +241,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cloud-init|24.1.4<br>+git20240513|24.1.7|Compound version number '24.1.4+git20240513'<br>Version number indicates a snapshot (+git) is used|
 |clucene|2.3.3.4<br>+git20130812|2.3.3.4|Compound version number '2.3.3.4+git20130812'<br>Version number indicates a snapshot (+git) is used|
 |clzip|1.10|1.14|
-|cmake|3.29.5|3.29.6|
 |cmark|0.30.3|0.31.0|
 |cmus|2.9.1|2.10.0|
 |cock|0.6.0|0.11.0|
@@ -316,7 +315,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ddnet|17.0.3|18.3|
 |ddrescue|1.24|1.28|
 |debianutils|5.7|5.19|
-|debootstrap|1.0.135|1.0.136|
 |decorator|4.3.2|5.1.1|
 |deja-dup|42.9|46.0|
 |dejavu-fonts|2.37|2_37|
@@ -420,7 +418,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |evolution-ews|3.42.0|3.52.2|
 |evtest|1.34|1.35|
 |exempi|2.5.1|2.6.5|
-|exfatprogs|1.2.3|1.2.4|
 |exiv2|0.27.5|0.28.2|
 |extra-cmake-modules|5.115.0|6.1.0|
 |eyed3|0.9.5|0.9.7|
@@ -1369,7 +1366,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libp11|0.4.10|0.4.12|
 |libpano13|2.9.19|2.9.22|
 |libpcap+32|1.10.1|1.10.4|
-|libpeas|1.32.0|2.0.2|
+|libpeas|1.36.0|2.0.2|
 |libphonenumber|8.13.38|8.13.39|
 |libpinyin|2.6.0|2.8.1|
 |libpipeline|1.5.3|1.5.7|
@@ -1581,7 +1578,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mangohud|0.7.0|0.7.2|
 |mangohud+32|0.7.0|0.7.2|
 |marble|23.08.5|24.05.1|
-|mariadb|10.9.4|11.5.1|
+|mariadb|10.9.8|11.5.1|
 |markdown|3.3.4|3.6|
 |markdownpart|23.08.5|24.05.1|
 |markupsafe|2.1.1|2.1.5|
@@ -1768,7 +1765,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |okteta|0.26.9|0.26.15|
 |okular|23.08.5|24.05.1|
 |olefile|0.46|0.47|
-|oma|1.3.17|1.12.13|
+|oma|1.3.18|1.12.13|
 |onefetch|2.20.0|2.21.0|
 |onig|6.9.5<br>+rev1|6.9.9|Compound version number '6.9.5+rev1'|
 |oolite|1.90|1.91.0.7617-240614-f930b3a|
@@ -2391,8 +2388,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ser2net|3.5|4.6.2|
 |serf|1.3.9|1.3.10|
 |service-identity|18.1.0|24.1.0|
-|setuptools-python2|44.1.0|70.0.0|
-|setuptools-python3|69.1.0|70.0.0|
+|setuptools-python2|44.1.0|70.1.0|
+|setuptools-python3|69.1.0|70.1.0|
 |setuptools-rust|1.5.2|1.9.0|
 |setuptools-scm|7.1.0|8.1.0|
 |sfml|2.5.1|2.6.1|
@@ -2711,7 +2708,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |uthash|2.1.0|2.3.0|
 |util-linux+32|2.29.2|2.40.1|
 |util-macros+32|999|1.20.1|Possible downgrade from the current version (999   1.20.1)|
-|v2raya|2.2.5.1|2.2.5.2|
 |v4l-utils|1.22.1|1.26.1|
 |v4l-utils+32|1.18.0|1.26.1|
 |vala|0.56.16|0.56.17|
@@ -2720,7 +2716,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vamp-plugin-sdk|2.9.0|2.10.0|
 |vapoursynth|57|68|
 |variety|0.7.1|0.8.12|
-|varnish|6.3.2|7.5.0|
 |vasm|1.9f|1.9.f|
 |vba-m|2.1.8|2.1.9|
 |vc|1.4.4|1.4.5|
