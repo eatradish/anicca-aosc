@@ -277,7 +277,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cpulimit|3.0|3.1|
 |cracklib|2.9.8|2.9.11|
 |crash|7.2.9|8.0.5|
-|crazydiskinfo|1.0.2|1.1.0|
 |crda|3.18|4.15|
 |crow-translate|2.9.1|2.11.1|
 |crun|1.12|1.15|
@@ -673,7 +672,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |greenlet|1.1.2|3.0.3|
 |grep|3.8|3.11|
 |greybird|3.22.12|3.23.3|
-|grilo|0.3.15|0.3.16|
 |grilo-plugins|0.3.15|0.3.16|
 |gringo|5.4.1|5.7.1|
 |groff|1.22.4|1.23.0|
@@ -2775,7 +2773,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |wikipedia|1.4.0|1.4.5|
 |wildmidi|0.4.3|0.4.6|
 |wildmidi+32|0.4.3|0.4.6|
-|wimlib|1.13.6|1.14.4|
 |windowmaker|0.95.9<br>+git20220812|0.96.0|Compound version number '0.95.9+git20220812'<br>Version number indicates a snapshot (+git) is used|
 |wine|9.9<br>+gecko2.47.4<br>+mono9.1.0|9.11|Compound version number '9.9+gecko2.47.4+mono9.1.0'|
 |wireguard|1|0.0.20191219|Possible downgrade from the current version (1   0.0.20191219)|
