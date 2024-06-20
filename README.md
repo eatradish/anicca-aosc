@@ -680,7 +680,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |grsync|1.2.8|1.3.1|
 |grub|2.12<br>+unifont15.1.04|2.12|Compound version number '2.12+unifont15.1.04'|
 |grub-customizer|5.2.4|5.2.5|
-|gsasl|1.8.1|2.2.1|
 |gsettings-desktop-schemas|42.0|46.0|
 |gsl|2.5|2.8|
 |gsm|1.0.19|1.0.22|
@@ -813,7 +812,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ipcalc|0.41|1.0.3|
 |ipmitool|1.8.18|1_8_19|
 |iproute2|6.8.0|6.9.0|
-|ipset|7.1|7.22|
 |ipt2socks|1.1.3|1.1.4|
 |iptables|1.8.8|1.8.10|
 |iptraf-ng|1.1.4|1.2.1|
@@ -1254,7 +1252,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libepubgen|0.1.0|0.1.1|
 |libertine-fonts|8.0.2|8.1.2|
 |libesmtp|1.0.6|1.1.0|
-|libetebase|0.5.4|0.5.6|
 |libetonyek|0.1.9|0.1.10|
 |libevdev|1.11.0|1.13.2|
 |libexif|0.6.22|0.6.24|
@@ -1539,7 +1536,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lsof|4.98.0|4.99.3|
 |ltrace|0.7.3<br>+git20151111|0.7.3|Compound version number '0.7.3+git20151111'<br>Version number indicates a snapshot (+git) is used|
 |lttng-ust|2.13.5|2.13.8|
-|lua-expat|1.4.1|1.5.1|
 |lua-messagepack|0.5.1|0.5.4|
 |luafilesystem|1.7.0.2|1_8_0|
 |luajit|2.1.0b3<br>+git20240222|2.0.5|Compound version number '2.1.0b3+git20240222'<br>Version number indicates a snapshot (+git) is used<br>Possible downgrade from the current version (2.1.0b3+git20240222   2.0.5)|
@@ -2770,7 +2766,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |wikipedia|1.4.0|1.4.5|
 |wildmidi|0.4.3|0.4.6|
 |wildmidi+32|0.4.3|0.4.6|
-|windowmaker|0.95.9<br>+git20220812|0.96.0|Compound version number '0.95.9+git20220812'<br>Version number indicates a snapshot (+git) is used|
 |wine|9.9<br>+gecko2.47.4<br>+mono9.1.0|9.11|Compound version number '9.9+gecko2.47.4+mono9.1.0'|
 |wireguard|1|0.0.20191219|Possible downgrade from the current version (1   0.0.20191219)|
 |wireless-tools|30.pre9|29|Possible downgrade from the current version (30.pre9   29)|
