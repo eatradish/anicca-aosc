@@ -386,7 +386,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dub|1.37.0|1.38.0|
 |duktape|2.5.0|2.7.0|
 |dulwich|0.21.6|0.22.1|
-|dune|3.4.1|3.16.0|
 |duplicity|2.2.2|3.0.0|
 |e2fsprogs|1.47.0|1.47.1|
 |easy-rsa|3.0.8|3.2.0|
