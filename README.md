@@ -321,7 +321,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |deja-dup|42.9|46.0|
 |dejavu-fonts|2.37|2_37|
 |deluge|2.1.1|2.0.5|Possible downgrade from the current version (2.1.1   2.0.5)|
-|deno|1.31.3|1.44.2|
+|deno|1.44.1|1.44.2|
 |dephell-specifier|0.2.2|0.3.0|
 |deploykit-gui|0.5.4|test-ci|Versions not comparable: `0.5.4` and `test-ci`|
 |devhelp|41.2|43.0|
@@ -347,7 +347,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dmd|2.108.1|2.109.0|
 |dmenu|5.2|5.3|
 |dnsdiag|1.6.4|2.5.0|
-|dnspython|2.3.0|2.6.1|
 |docbook-dtd|4.5|5.1|
 |docbook-sgml|0|4.5|
 |docbook-xml|0|5.1|
@@ -2213,7 +2212,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |python-daemonize|2.5.0|3.8.0|
 |python-dbusmock|0.22.0|0.31.1|
 |python-djvulibre|0.8.6|0.8.8|
-|python-evdev|1.4.0|1.7.1|
 |python-graphviz|0.16|0.20.3|
 |python-hglib|2.6.1|2.6.2|
 |python-installer|0.5.1|0.7.0|
@@ -2274,7 +2272,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |random2|1.0.1|1.0.2|
 |rapidfuzz|3.2.0|3.1.1|Possible downgrade from the current version (3.2.0   3.1.1)|
 |rapidfuzz-cpp|2.0.0|3.0.4|
-|raptor2|2.0.15|2.0.16|
 |rarian|0.8.1|0.8.5|
 |razergenie|0.9.0|1.1.0|
 |razor-agents|2.85|2.152|
