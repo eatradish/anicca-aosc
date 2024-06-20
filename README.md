@@ -2030,6 +2030,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl4-corelibs|0.004|0.005|
 |pexpect|4.8.0|4.9.0|
 |pgxnclient|1.3.1|1.3.2|
+|physfs|3.0.2|3.2.0|
 |picard|2.8.5|2.11|
 |picmi|23.08.5|24.05.1|
 |picocom|3.1|2023-04|
