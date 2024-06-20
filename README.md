@@ -60,7 +60,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |aom|3.8.1|3.9.1|
 |aosc-community-wallpapers-extras-2023|2023.10.1|2024.04.0|
 |aosc-community-wallpapers-extras-2024|2024.04.1|2024.04.0|Possible downgrade from the current version (2024.04.1   2024.04.0)|
-|aosc-findupdate|0.4.7|0.5.0|
 |aosc-media-writer|0.3.4|5.0.9|
 |aosc-xdg-menu|20200412|20160217|Possible downgrade from the current version (20200412   20160217)|
 |apicula|0.9.1|0.12|
@@ -1432,6 +1431,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libticonv|1.1.4|1.1.5|
 |libtiff|4.4.0|4.6.0|
 |libtiff+32|4.0.10|4.6.0|
+|libtifiles2|1.1.6|1.1.7|
 |libtirpc|1.3.1|1.3.4|
 |libtommath|1.2.0|1.3.0|
 |libtool|2.4.7|2.5.0|
@@ -2791,7 +2791,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |x264|0<br>+git20240305|3191|Compound version number '0+git20240305'<br>Version number indicates a snapshot (+git) is used|
 |x264+32|20160827.2245|3191|Possible downgrade from the current version (20160827.2245   3191)|
 |x265+32|2.2|3.6|
-|xa|2.4.0|2.4.1|
 |xalan-c|1.12|1.12.0|
 |xapian-core|1.4.18|1.4.25|
 |xapps|2.8.2|2.8.3|
