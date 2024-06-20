@@ -1481,6 +1481,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libxdmcp+32|1.1.3|1.1.5|
 |libxkbcommon+32|0.9.1|1.7.0|
 |libxml++|2.40.1|5.2.0|
+|libxml2|2.10.4|2.13.1|
 |libxml2+32|2.10.4|2.13.1|
 |libxmlb|0.3.15|0.3.19|
 |libxnvctrl|545.23.06|550.54.14|
