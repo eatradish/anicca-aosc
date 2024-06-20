@@ -244,6 +244,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |clucene|2.3.3.4<br>+git20130812|2.3.3.4|Compound version number '2.3.3.4+git20130812'<br>Version number indicates a snapshot (+git) is used|
 |clzip|1.10|1.14|
 |cmark|0.30.3|0.31.0|
+|cmocka|1.1.5|1.1.7|
 |cmus|2.9.1|2.10.0|
 |cock|0.6.0|0.11.0|
 |cockpit|286.1|318|
@@ -396,7 +397,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |elfutils|0.188|0.191|
 |elfutils+32|0.166|0.191|
 |elisa|23.08.5|24.05.1|
-|elvis|2.2<br>+1pre3|2.2_1-pre2|Compound version number '2.2+1pre3'<br>Possible downgrade from the current version (2.2+1pre3   2.2_1-pre2)|
 |embree|4.3.1|4.3.2|
 |emerald|0.8.12.4|0.8.18|
 |enchant-2|2.3.1|2.8.1|
@@ -1824,7 +1824,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |orca|42.3|46.1|
 |os-prober|1.81|1.82|
 |osinfo-db-tools|1.10.0|1.11.0|
-|osu-lazer|2024.412.1|2024.523.0|
 |oxygen|5.27.11|6.1.0|
 |oxygen-icons|5.115.0|6.1.0|
 |oxygen-sounds|5.25.3|6.1.0|
