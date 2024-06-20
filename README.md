@@ -1432,7 +1432,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libticonv|1.1.4|1.1.5|
 |libtiff|4.4.0|4.6.0|
 |libtiff+32|4.0.10|4.6.0|
-|libtifiles2|1.1.6|1.1.7|
 |libtirpc|1.3.1|1.3.4|
 |libtommath|1.2.0|1.3.0|
 |libtool|2.4.7|2.5.0|
