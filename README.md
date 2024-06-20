@@ -1481,7 +1481,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libxdmcp+32|1.1.3|1.1.5|
 |libxkbcommon+32|0.9.1|1.7.0|
 |libxml++|2.40.1|5.2.0|
-|libxml2|2.10.4|2.13.1|
 |libxml2+32|2.10.4|2.13.1|
 |libxmlb|0.3.15|0.3.19|
 |libxnvctrl|545.23.06|550.54.14|
@@ -2226,6 +2225,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |python-xapp|2.0.1|2.4.2|
 |python-xmp-toolkit|2.0.1|2.0.2|
 |pythondialog|3.3.0|3.5.3|
+|pytools|2019.1|2024.1.5|
 |pyudev|0.24.1|0.24.3|
 |pyusb|1.0.2|1.2.1|
 |pyutil|3.3.0|3.3.6|
