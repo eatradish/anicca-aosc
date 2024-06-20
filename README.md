@@ -1250,6 +1250,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libe-book|0.1.2|0.1.3|
 |libeconf|0.5.0|0.7.2|
 |libedit|20191231<br>+3.1|20240517-3.1|Compound version number '20191231+3.1'|
+|libepoxy+32|1.2|1.5.10|
 |libepubgen|0.1.0|0.1.1|
 |libertine-fonts|8.0.2|8.1.2|
 |libesmtp|1.0.6|1.1.0|
@@ -2240,6 +2241,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qca|2.3.4|2.3.8|
 |qcef|1.1.6|1.1.8|
 |qcustomplot|2.1.1|2.1.1.1|
+|qd|2.3.22|2.3.24|
 |qemu|9.0.0|9.0.1|
 |qgnomeplatform|0.8.4|0.9.2|
 |qhull|7.2.0|8.0.2|
