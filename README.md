@@ -48,7 +48,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |alsa-lib|1.2.6.1|1.2.12|
 |alsa-lib+32|1.2.5.1|1.2.12|
 |alsa-plugins|1.2.7.1|1.2.12|
-|alsa-plugins+32|1.2.7.1|1.2.12|
 |alsa-ucm-conf-asahi|4|5|
 |alsa-utils|1.2.8|1.2.12|
 |amarok-trinity|14.1.0|14.1.2|
@@ -1762,7 +1761,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |octave|9.1.0|9.2.0|
 |ofono|1.30|2.8|
 |okteta|0.26.9|0.26.15|
-|okular|23.08.5|24.05.1|
 |olefile|0.46|0.47|
 |oma|1.3.18|1.12.13|
 |onefetch|2.20.0|2.21.0|
