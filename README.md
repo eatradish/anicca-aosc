@@ -1454,6 +1454,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libutf8proc|2.4.0|2.9.0|
 |libva+32|2.15.0|2.21.0|
 |libva-nvidia-driver|0.0.11|0.7.4|
+|libva-utils|2.21.0|2.22.0|
 |libvdpau+32|1.1.1|1.5|
 |libvirt|10.2.0|10.4.0|
 |libvirt-python|10.1.0|10.4.0|
@@ -2275,6 +2276,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |razergenie|0.9.0|1.1.0|
 |razor-agents|2.85|2.152|
 |rb-inotify|0.10.1|0.11.1|
+|rbw|1.10.2|1.11.0|
 |rclone|1.65.2|1.67.0|
 |rcm|1.3.4|1.3.6|
 |rdflib|6.2.0|7.0.0|
