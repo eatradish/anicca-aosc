@@ -48,6 +48,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |alsa-lib|1.2.6.1|1.2.12|
 |alsa-lib+32|1.2.5.1|1.2.12|
 |alsa-plugins|1.2.7.1|1.2.12|
+|alsa-plugins+32|1.2.7.1|1.2.12|
 |alsa-ucm-conf-asahi|4|5|
 |alsa-utils|1.2.8|1.2.12|
 |amarok-trinity|14.1.0|14.1.2|
@@ -217,7 +218,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |chromaprint|1.5.0|1.5.1|
 |chromium|125.0.6422.141|126.0.6478.114|
 |cifs-utils|6.10|7.0|
-|cinnamon|5.8.3|6.2.1|
+|cinnamon|5.8.3|6.2.2|
 |cinnamon-control-center|5.8.1|6.2.0|
 |cinnamon-desktop|5.8.0|6.2.0|
 |cinnamon-menus|5.8.0|6.2.0|
@@ -1224,7 +1225,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libclc|17.0.3|18.1.8|
 |libcloudproviders|0.3.1|0.3.6|
 |libcmis|0.5.2|0.6.2|
-|libconfig|1.7.2|1.7.3|
 |libcork|1.0.0~rc3|0.15.0|Possible downgrade from the current version (1.0.0~rc3   0.15.0)|
 |libcpuid|0.5.1|0.6.5|
 |libcuckoo|0.3|0.3.1|
@@ -1761,6 +1761,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |octave|9.1.0|9.2.0|
 |ofono|1.30|2.8|
 |okteta|0.26.9|0.26.15|
+|okular|23.08.5|24.05.1|
 |olefile|0.46|0.47|
 |oma|1.3.18|1.12.13|
 |onefetch|2.20.0|2.21.0|
@@ -1963,7 +1964,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-lwp-protocol-https|6.06|6.14|
 |perl-mail-dkim|0.40|1.20240619|
 |perl-mail-imapclient|3.42|3.43|
-|perl-mail-spf|2.9.0|3.20240617|
 |perl-mailtools|2.20|2.21|
 |perl-mime-charset|1.012.2|1.013.1|
 |perl-mime-lite|3.030|3.033|
