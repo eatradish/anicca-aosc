@@ -1669,6 +1669,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |multipath-tools|0.9.3|0.9.9|
 |munkres|1.0.12|release-1.1.4|
 |muparser|2.2.6.1|2.3.4|
+|mupdf|1.24.3|1.24.4|
 |musescore|4.3.0|4.3.2|
 |mutter|42.4|46.2|
 |mxml|3.2|4.0.3|
@@ -2388,7 +2389,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sfml|2.5.1|2.6.1|
 |sg3-utils|1.47r915|1.48|
 |shaderc|2023.7|2024.1|
-|shadowsocks-rust|1.18.4|1.20.0|
+|shadow|4.15.1|4.16.0|
+|shadowsocks-rust|1.18.4|1.20.1|
 |shapelib|1.5.0|1.6.0|
 |shared-color-targets|0.1.7|0_1_7|
 |shotcut|21.08.11|24.06.02|
@@ -2410,7 +2412,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |skanlite|23.08.5|24.05.1|
 |skanpage|23.08.5|24.05.1|
 |skktools|1.3.4|1_3_4|
-|slick-greeter|2.0.3|2.0.4|
+|slick-greeter|2.0.3|2.0.5|
 |slirp4netns|1.2.2|1.3.1|
 |slock|1.4|1.5|
 |slop|7.4|7.6|
@@ -2439,7 +2441,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sonnet|5.115.0|6.1.0|
 |sord|0.16.4|0.16.16|
 |sortedcontainers|2.3.0|2.4.0|
-|sos|4.4|4.7.1|
+|sos|4.4|4.7.2|
 |sound-juicer|3.38.0|3.40.0|
 |soundkonverter-trinity|14.1.0|14.1.2|
 |soundtouch+32|1.9.2|2.3.3|
@@ -2503,7 +2505,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sudo|1.9.15p5|1_9_15p5|
 |suitesparse|7.6.1|7.7.0|
 |sunpinyin|3.0.0~rc1|2.0.3-rel-1|Possible downgrade from the current version (3.0.0~rc1   2.0.3-rel-1)|
-|sunshine|0.23.0|2024.618.25957|
+|sunshine|0.23.0|2024.621.13429|
 |sunxi-tools|1.4.2<br>+git20220729|1.4.2|Compound version number '1.4.2+git20220729'<br>Version number indicates a snapshot (+git) is used|
 |sushi|42.0|46.0|
 |svgpart|23.08.5|24.05.1|
