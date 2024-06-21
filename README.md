@@ -100,7 +100,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |attica5|5.115.0|6.1.0|
 |attr|2.4.48|2.5.2|
 |attr+32|2.4.48|2.5.2|
-|attrs|20.3.0|23.2.0|
 |audacity|3.4.2|3.5.1|
 |audiocd-kio|23.08.5|24.05.1|
 |audiofile|0.3.6git20160829|0.3.6|
@@ -131,7 +130,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |baobab|42.0|46.0|
 |bash|5.2.26|5.2.21|Possible downgrade from the current version (5.2.26   5.2.21)|
 |basket-trinity|14.1.0|14.1.2|
-|bcachefs-tools|1.6.4|1.9.1|
 |bcrypt|3.1.7|4.1.3|
 |beaker|1.11.0|1.13.0|
 |beancount|2.2.1|3.0.0|
@@ -733,7 +731,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |harfbuzz+32|2.6.7|8.5.0|
 |haruna|0.12.3|1.1.2|
 |harvid|0.8.3|0.9.1|
-|hatch-fancy-pypi-readme|22.8.0|24.1.0|
 |hatchling|1.21.1|1.12.0|Possible downgrade from the current version (1.21.1   1.12.0)|
 |haveged|1.9.13|1.9.18|
 |hddtemp|0.3.52|0.4.3|
@@ -1395,6 +1392,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |librevenge|0.0.4|0.0.5|
 |librsvg|2.56.1|2.58.91|
 |librsvg+32|2.40.21|2.58.91|
+|librtas|2.0.2|2.0.6|
 |libsamplerate|0.1.9|0.2.2|
 |libsass|3.6.4|3.6.6|
 |libsbsms|2.3.0|2.0.2|Possible downgrade from the current version (2.3.0   2.0.2)|
@@ -1763,7 +1761,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ocaml-stdlib-shims|0.2.0|0.3.0|
 |ocamlbuild|0.14.1|0.14.3|
 |ocrad|0.27|0.29|
-|ocrmypdf|11.7.0|16.3.1|
+|ocrmypdf|11.7.0|16.4.0|
 |ocserv|1.1.2|1.3.0|
 |octave|9.1.0|9.2.0|
 |ofono|1.30|2.8|
@@ -2215,6 +2213,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |python-dbusmock|0.22.0|0.31.1|
 |python-djvulibre|0.8.6|0.8.8|
 |python-graphviz|0.16|0.20.3|
+|python-hglib|2.6.1|2.6.2|
 |python-installer|0.5.1|0.7.0|
 |python-kaitaistruct|0.9|0.10|
 |python-ldap3|2.9|2.9.1|
@@ -2237,7 +2236,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pywbem|0.13.0|1.7.2|
 |pyx|0.14.1|0.16|
 |pyxattr|0.6.1|0.8.1|
-|pyyaml|5.3.1|6.0.1|
 |pyzmq|22.3.0|26.0.3|
 |qalculate-tde-trinity|14.1.0|14.1.2|
 |qca|2.3.4|2.3.8|
@@ -2262,7 +2260,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qt4-tqt-theme-engine-trinity|14.1.0|14.1.2|
 |qtkeychain|0.13.2|0.14.3|
 |qtpy|2.1.0|2.4.1|
-|qtractor|0.9.23|0.9.91|
+|qtractor|0.9.23|1.0.0|
 |qtstyleplugins|5.0.0<br>+git20170311|5.0.0|Compound version number '5.0.0+git20170311'<br>Version number indicates a snapshot (+git) is used|
 |quazip|0.9.1|1.4|
 |quickjs|2024.01.13|2024-01-13|
