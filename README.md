@@ -739,7 +739,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |highway|1.1.0|1.2.0|
 |hitori|3.38.4|44.0|
 |hostapd|2.9|2.10|
-|hotdoc|0.13.7|0.16|
+|hotdoc|0.13.7|0.17|
 |hotspot|1.3.0|1.5.1|
 |hplip|3.22.4|3.24.4|
 |html2text|2020.1.16|2024.2.26|
@@ -2100,6 +2100,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |postgresql|13.15|17|
 |potracegui-trinity|14.1.0|14.1.2|
 |powerdevil|5.27.11|6.1.0|
+|powershell|7.4.2|7.4.3|
 |poxml|23.08.5|24.05.1|
 |ppp|2.4.9|2.5.0|
 |precis-i18n|1.0.3|1.1.0|
@@ -2139,7 +2140,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pyatspi|2.38.2|2.46.1|
 |pyaudio|0.2.11|0.2.14|
 |pybind11|2.11.1|2.12.0|
-|pycairo|1.18.2|1.26.0|
+|pycairo|1.18.2|1.26.1|
 |pycodestyle|2.7.0|2.12.0|
 |pycountry|18.12.8|24.6.1|
 |pycparser|2.19|2.22|
