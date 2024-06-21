@@ -962,7 +962,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |keepass-plugin-agent|0.10.1|0.13.8|
 |keepass-plugin-favicon|1.9.0|9.7.4|
 |keepass-plugin-twofish|1.3|1.4|
-|keepassxc|2.6.6|2.7.8|
+|keepassxc|2.6.6|2.7.9|
 |kemoticons|5.115.0|6.1.0|
 |kernel-tools|6.9.3|5.19.17|Possible downgrade from the current version (6.9.3   5.19.17)|
 |keximdb-trinity|14.1.0|14.1.2|
