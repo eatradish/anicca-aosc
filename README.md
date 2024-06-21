@@ -3,6 +3,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
 | Package | Repo Version | New Version | Issues |
 |---------|--------------|-------------|--------|
+|7-zip|24.06|24.07|
 |aalib|1.4rc5|1.2|Possible downgrade from the current version (1.4rc5   1.2)|
 |aalib+32|1.4rc5|1.2|Possible downgrade from the current version (1.4rc5   1.2)|
 |aardvark-dns|1.9.0|1.11.0|
