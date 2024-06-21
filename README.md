@@ -2327,7 +2327,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ruamel-yaml-clib|0.2.6|0.2.8|
 |rubberband|1.9.2|3.3.0|
 |ruby|3.2.2|3.3.3|
-|ruby-bundler|2.1.4|2.5.13|
+|ruby-bundler|2.1.4|2.5.14|
 |ruby-ffi|1.10.0|1.17.0|
 |ruby-gettext|3.2.9|3.4.9|
 |ruby-locale|2.1.3|2.1.4|
