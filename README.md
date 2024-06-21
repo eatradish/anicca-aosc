@@ -1502,15 +1502,15 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |linux+api+32|6.7.12|5.19.17|Possible downgrade from the current version (6.7.12   5.19.17)|
 |linux+kernel|6.9.3|5.19.17|Possible downgrade from the current version (6.9.3   5.19.17)|
 |linux+kernel+asahi|6.5.11|5.19.17|Possible downgrade from the current version (6.5.11   5.19.17)|
-|linux+kernel+lts|6.6.31|5.10.219|Possible downgrade from the current version (6.6.31   5.10.219)|
+|linux+kernel+lts|6.6.31|5.10.220|Possible downgrade from the current version (6.6.31   5.10.220)|
 |linux+kernel+rc|5.8.0|5.19.17|
-|linux+kernel+retro|5.10.132|5.10.219|
-|linux+kernel+retro+minimal|5.15.17|5.10.219|Possible downgrade from the current version (5.15.17   5.10.219)|
+|linux+kernel+retro|5.10.132|5.10.220|
+|linux+kernel+retro+minimal|5.15.17|5.10.220|Possible downgrade from the current version (5.15.17   5.10.220)|
 |linux-firmware|20240506|20240610|
 |linux-kernel|6.9.3|5.19.17|Possible downgrade from the current version (6.9.3   5.19.17)|
 |linux-kernel-lts|6.6.31|5.19.17|Possible downgrade from the current version (6.6.31   5.19.17)|
-|linux-kernel-retro|5.10.132|5.10.219|
-|linux-kernel-retro-minimal|5.15.17|5.10.219|Possible downgrade from the current version (5.15.17   5.10.219)|
+|linux-kernel-retro|5.10.132|5.10.220|
+|linux-kernel-retro-minimal|5.15.17|5.10.220|Possible downgrade from the current version (5.15.17   5.10.220)|
 |linuxsampler|2.3.0|2.3.1|
 |lirc|0.9.4d|0.10.2|
 |lksctp-tools|1.0.17|1.0.19|
@@ -1563,7 +1563,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |m1n1|1.4.6|1.4.14|
 |m2crypto|0.38.0|0.41.0|
 |m2r|0.2.1|0.3.1|
-|m3u8|0.7.1|5.0.0|
+|m3u8|0.7.1|5.1.0|
 |mac-fdisk|0.1|0.1.orig|Possible downgrade from the current version (0.1   0.1.orig)|
 |magic-wormhole|0.11.2|0.14.0|
 |mailcommon|23.08.5|24.05.1|
