@@ -2493,6 +2493,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |stellarium|0.21.3|24.1|
 |step|23.08.5|24.05.1|
 |stepmania|5.0.12<br>+git20221114|5.0.12|Compound version number '5.0.12+git20221114'<br>Version number indicates a snapshot (+git) is used|
+|sticky|1.20|1.21|
 |stlink|1.7.0|1.8.0|
 |stopit|0<br>+git20190827|1.1.2|Compound version number '0+git20190827'<br>Version number indicates a snapshot (+git) is used|
 |strace|6.5|6.9|
