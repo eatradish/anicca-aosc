@@ -2184,7 +2184,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pyperf|2.5.0|2.7.0|
 |pypkgconfig|1.4.0|1.5.5|
 |pypsutil|5.8.0|6.0.0|
-|pyqt-builder|1.12.1|1.16.2|
+|pyqt-builder|1.12.1|1.16.3|
 |pyqt5|5.15.5|5.15.10|
 |pyqt5-sip|12.9.0|12.13.0|
 |pyqtwebengine|5.15.5|5.15.6|
