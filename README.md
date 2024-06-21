@@ -1319,6 +1319,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libkolabxml|1.2.0|1.2.1|
 |libkomparediff2|23.08.5|24.05.1|
 |libksane|23.08.5|24.05.1|
+|libksba|1.6.6|1.6.7|
 |libkscreen|5.27.11|6.1.0|
 |libksieve|23.08.5|24.05.1|
 |libksquirrel-trinity|14.1.0|14.1.2|
@@ -1709,7 +1710,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |networkmanager-iodine|1.2.0<br>+git20220728|1.2.0|Compound version number '1.2.0+git20220728'<br>Version number indicates a snapshot (+git) is used|
 |networkmanager-l2tp|1.8.6|1.20.16|
 |networkmanager-openconnect|1.2.6<br>+git20210918|1.2.10|Compound version number '1.2.6+git20210918'<br>Version number indicates a snapshot (+git) is used|
-|networkmanager-openvpn|1.8.12|1.11.0|
+|networkmanager-openvpn|1.8.12|1.12.0|
 |networkmanager-pptp|1.2.10|1.2.12|
 |networkmanager-qt|5.115.0|6.1.0|
 |networkmanager-strongswan|1.5.2|1.6.0|
