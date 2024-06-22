@@ -266,7 +266,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |convertall|0.7.5|1.0.1|
 |corefreq|20170301|1.97.2-x86_64|Possible downgrade from the current version (20170301   1.97.2-x86_64)|
 |corrosion|0.2.1|0.4.10|
-|cpp-utilities|5.20.0|5.24.9|
 |cppcheck|2.8|2.14.0|
 |cppdap|1.58.0<br>+a|1.58.0-a|Compound version number '1.58.0+a'|
 |cpprestsdk|2.10.18|2.10.19|
@@ -1231,7 +1230,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libcuckoo|0.3|0.3.1|
 |libde265|1.0.8|1.0.15|
 |libdecor|0.1.1|0.2.2|
-|libdeflate|1.19|1.20|
 |libdiscid|0.6.2|0.6.4|
 |libdispatch|5.6.1|5.9.2-RELEASE|
 |libdisplay-info|0.1.1|0.2.0|
@@ -1479,7 +1477,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libxml++|2.40.1|5.2.0|
 |libxml2|2.10.4|2.13.1|
 |libxml2+32|2.10.4|2.13.1|
-|libxmlb|0.3.15|0.3.19|
 |libxnvctrl|545.23.06|550.54.14|
 |libxnvctrl+32|545.23.06|550.54.14|
 |libxslt|1.1.34|1.1.41|
@@ -1587,7 +1584,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mathjax|2.7.5|3.2.2|
 |matplotlib|3.8.0|3.9.0|
 |maturin|1.4.0|1.6.0|
-|mawk|1.3.4<br>+20190203|1.3.4-20240123|Compound version number '1.3.4+20190203'|
+|mawk|1.3.4<br>+20190203|1.3.4-20240622|Compound version number '1.3.4+20190203'|
 |maxima|5.46.0|5.47.0|
 |mbedtls|2.16.7|3.6.0|
 |mbedtls+32|2.16.7|3.6.0|
