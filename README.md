@@ -185,7 +185,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |capstone|5.0.1|5.0|Possible downgrade from the current version (5.0.1   5.0)|
 |cargo-audit|0.18.1|0.20.0|
 |cargo-c|0.9.24|0.10.0+cargo-0.80.0|
-|cargo-release|0.24.11|0.25.8|
+|cargo-release|0.24.11|0.25.10|
 |cargo-smart-release|0.17.0|0.30.0|
 |catatonit|0.1.7|0.2.0|
 |catch2|2.13.8|3.6.0|
