@@ -247,7 +247,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cockpit|286.1|318|
 |cockpit-machines|284.1|314|
 |cockpit-podman|63|89|
-|code-server|4.9.1|4.90.2|
+|code-server|4.9.1|4.90.3|
 |codeine-trinity|14.1.0|14.1.2|
 |coin|4.0.0<br>+git20220828|4.0.0|Compound version number '4.0.0+git20220828'<br>Version number indicates a snapshot (+git) is used|
 |collectl|4.3.1|4.3.8|
