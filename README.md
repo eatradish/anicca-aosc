@@ -3,7 +3,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
 | Package | Repo Version | New Version | Issues |
 |---------|--------------|-------------|--------|
-|7-zip|24.06|24.07|
 |aalib|1.4rc5|1.2|Possible downgrade from the current version (1.4rc5   1.2)|
 |aalib+32|1.4rc5|1.2|Possible downgrade from the current version (1.4rc5   1.2)|
 |aardvark-dns|1.9.0|1.11.0|
@@ -2271,7 +2270,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |razergenie|0.9.0|1.1.0|
 |razor-agents|2.85|2.152|
 |rb-inotify|0.10.1|0.11.1|
-|rbw|1.10.2|1.11.0|
 |rclone|1.65.2|1.67.0|
 |rcm|1.3.4|1.3.6|
 |rdflib|6.2.0|7.0.0|
@@ -2738,7 +2736,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |volk-meta-loader|1.3.280.0|1.3.283.0|
 |vorbis-tools|1.4.0|1.4.2|
 |vpnc|0.5.3r550|0.5.3|
-|vscode|1.90.1|1.90.2|
 |vscodium|1.90.1.24165|1.90.2.24171|
 |vsftpd|3.0.3|3.0.5|
 |vte|0.68.0|0.76.3|
