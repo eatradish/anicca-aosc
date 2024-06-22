@@ -87,6 +87,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |aspnetcore-runtime-6.0|6.0.30|6.0.31|
 |aspnetcore-targeting-pack-6.0|6.0.30|6.0.31|
 |assimp|5.4.0|5.4.1|
+|ast-grep|0.23.0|0.23.1|
 |astroid|2.12.2|3.2.2|
 |astrometry.net|0.94|0.95|
 |at-spi2-atk+32|2.26.3|2.38.0|
