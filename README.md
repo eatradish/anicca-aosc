@@ -1225,6 +1225,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libclc|17.0.3|18.1.8|
 |libcloudproviders|0.3.1|0.3.6|
 |libcmis|0.5.2|0.6.2|
+|libconfig|1.7.2|1.7.3|
 |libcork|1.0.0~rc3|0.15.0|Possible downgrade from the current version (1.0.0~rc3   0.15.0)|
 |libcpuid|0.5.1|0.6.5|
 |libcuckoo|0.3|0.3.1|
@@ -1964,6 +1965,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-lwp-protocol-https|6.06|6.14|
 |perl-mail-dkim|0.40|1.20240619|
 |perl-mail-imapclient|3.42|3.43|
+|perl-mail-spf|2.9.0|3.20240617|
 |perl-mailtools|2.20|2.21|
 |perl-mime-charset|1.012.2|1.013.1|
 |perl-mime-lite|3.030|3.033|
@@ -1997,7 +1999,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-string-util|1.31|1.34|
 |perl-sub-install|0.928|0.929|
 |perl-sub-quote|2.006006|2.006008|
-|perl-template-toolkit|2.27|3.101|
+|perl-template-toolkit|2.27|3.102|
 |perl-term-progressbar|2.22|2.23|
 |perl-term-readkey|2.37|2.38|
 |perl-term-readline-gnu|1.36|1.46|
@@ -2514,7 +2516,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sympy|1.12|1.12.1|
 |synaptic|0.90.2|0.91.3|
 |syncthing|1.27.3|1.27.8|
-|syncthing-gtk|0.9.4.4|0.9.4.5|
 |syndication|5.115.0|6.1.0|
 |synergy|1.11.1|2.3.2|
 |syntax-highlighting|5.115.0|6.1.0|
@@ -2684,6 +2685,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |uncrustify|0.78.1|0.79.0|
 |unidecode|1.0.23|1.3.8|
 |unixodbc|2.3.9|2.3.12|
+|unnamed-sdvx-clone|0.5.0|0.6.0|
 |unpaper|20190211|7.0.0|Possible downgrade from the current version (20190211   7.0.0)|
 |unrar|6.2.2|6.2.12|
 |unrpyc|1.1.6|2.0.1|
@@ -2700,6 +2702,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |uthash|2.1.0|2.3.0|
 |util-linux+32|2.29.2|2.40.1|
 |util-macros+32|999|1.20.1|Possible downgrade from the current version (999   1.20.1)|
+|v2raya|2.2.5.2|2.2.5.6|
 |v4l-utils|1.22.1|1.26.1|
 |v4l-utils+32|1.18.0|1.26.1|
 |vala|0.56.16|0.56.17|
@@ -2719,7 +2722,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vice|3.5|3.8|
 |vicious|2.3.3|2.7.0|
 |vid.stab|0.98b|1.1.1|
-|vim|9.1.0446|9.1.0496|
+|vim|9.1.0446|9.1.0512|
 |virglrenderer|0.10.4|1.0.1|
 |virtualenv|20.25.0|20.26.2|
 |virtualgl+32|2.5.2|3.1.1|
@@ -2733,6 +2736,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |volk-meta-loader|1.3.280.0|1.3.283.0|
 |vorbis-tools|1.4.0|1.4.2|
 |vpnc|0.5.3r550|0.5.3|
+|vscode|1.90.1|1.90.2|
+|vscodium|1.90.1.24165|1.90.2.24171|
 |vsftpd|3.0.3|3.0.5|
 |vte|0.68.0|0.76.3|
 |vulkan-extensionlayer|1.3.280.0|1.3.288|
@@ -2789,7 +2794,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |x265+32|2.2|3.6|
 |xalan-c|1.12|1.12.0|
 |xapian-core|1.4.18|1.4.25|
-|xapps|2.8.2|2.8.3|
+|xapps|2.8.2|2.8.4|
 |xarchiver|0.5.4.15|0.5.4.23|
 |xcalibrate|0.9<br>+git20200330|0.9|Compound version number '0.9+git20200330'<br>Version number indicates a snapshot (+git) is used|
 |xcb-imdkit|1.0.8|1.0.9|
