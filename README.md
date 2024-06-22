@@ -391,6 +391,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |elfutils|0.188|0.191|
 |elfutils+32|0.166|0.191|
 |elisa|23.08.5|24.05.1|
+|emacs|29.3|29.4|
 |embree|4.3.1|4.3.2|
 |emerald|0.8.12.4|0.8.18|
 |enchant-2|2.3.1|2.8.1|
@@ -802,7 +803,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |intel-oneapi-basekit|2024.1.0|2024.2.0|
 |inxi|3.3.31<br>+2|3.3.31-2|Compound version number '3.3.31+2'|
 |iodine|0.7.0|0.8.0|
-|iosevka-fonts|28.0.5|30.2.0|
+|iosevka-fonts|28.0.5|30.3.0|
 |iozone|3.492|3.506|
 |ipcalc|0.41|1.0.3|
 |ipmitool|1.8.18|1_8_19|
@@ -2128,7 +2129,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |purple-matrix|0.0.0<br>+git20210626|0.1.0|Compound version number '0.0.0+git20210626'<br>Version number indicates a snapshot (+git) is used|
 |purpose|5.115.0|6.1.0|
 |pv|1.6.20|1.8.10|
-|py-filelock|3.14.0|3.15.3|
+|py-filelock|3.14.0|3.15.4|
 |py-setproctitle|1.1.10|1.3.3|
 |pyaaf2|1.6.0|1.7.1|
 |pyacoustid|1.1.7|1.3.0|
