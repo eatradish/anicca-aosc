@@ -84,7 +84,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |asahi-fwextract|0.6.21|0.7.8|
 |asio|1.18.1|1.30.2|
 |asn1crypto|1.2.0|1.5.1|
-|aspell|0.60.8|0.60.8.1|
 |aspnetcore-runtime-6.0|6.0.30|6.0.31|
 |aspnetcore-targeting-pack-6.0|6.0.30|6.0.31|
 |assimp|5.4.0|5.4.1|
@@ -151,7 +150,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |bottle|0.12.18|0.12.25|
 |bottles|2022.2.28<br>+trento<br>+4|51.11|Compound version number '2022.2.28+trento+4'<br>Possible downgrade from the current version (2022.2.28+trento+4   51.11)|
 |bovo|23.08.5|24.05.1|
-|bpftrace|0.20.4|0.21.0|
 |breeze|5.27.11|6.1.0|
 |breeze-grub|5.27.11|6.1.0|
 |breeze-gtk|5.27.11|6.1.0|
@@ -346,7 +344,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |docbook-sgml|0|4.5|
 |docbook-xml|0|5.1|
 |docker|26.1.3|26.1.4|
-|docker-compose|2.27.1|2.27.2|
+|docker-compose|2.27.1|2.28.0|
 |docutils|0.20.1|0.21.2|
 |dolphin|23.08.5|24.05.1|
 |dolphin-emu|5.0<br>+git20211101|5.0|Compound version number '5.0+git20211101'<br>Version number indicates a snapshot (+git) is used|
@@ -448,7 +446,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |feeluown-bilibili|0.3.3|0.4.0|
 |feeluown-netease|1.0.1|1.0.3|
 |feeluown-qqmusic|1.0.2|1.0.5|
-|fend|1.4.8|1.4.9|
 |ffcall|2.2|2.4|
 |ffmpeg|4.4.4|7.0.1|
 |ffmpeg+32|4.2.5|7.0.1|
@@ -1265,7 +1262,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libfm|1.3.0.2|1.3.2|
 |libfprint|1.94.4|1.94.7|
 |libftdi|1.4|1.5|
-|libgcrypt|1.10.3|1.11.0|
 |libgcrypt+32|1.9.1|1.11.0|
 |libgcrypt-static|1.10.3|1.11.0|
 |libgeotiff|1.5.1|1.7.3|
@@ -1276,9 +1272,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libgnome-games-support|1.8.2|2.0.0|
 |libgnt|2.14.0|2.14.3|
 |libgovirt|0.3.8|0.3.9|
-|libgpg-error|1.48|1.50|
 |libgpg-error+32|1.41|1.50|
-|libgpg-error-static|1.48|1.50|
 |libgphoto2|2.5.30|2.5.31|
 |libgpiod|1.4.2|2.1.2|
 |libgravatar|23.08.5|24.05.1|
@@ -1683,7 +1677,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nautilus|42.2|46.2|
 |nautilus-python|1.2.3|4.0.1|
 |nbd|3.24|3.26.1|
-|nbxmpp|3.1.0|5.0.0|
+|nbxmpp|3.1.0|5.0.1|
 |ncbi-blast+|2.13.0|2.15.0+|
 |ncbi-vdb|3.0.2|3.1.1|
 |ncdu|1.16|2.4|
@@ -2702,7 +2696,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |uthash|2.1.0|2.3.0|
 |util-linux+32|2.29.2|2.40.1|
 |util-macros+32|999|1.20.1|Possible downgrade from the current version (999   1.20.1)|
-|v2raya|2.2.5.2|2.2.5.6|
 |v4l-utils|1.22.1|1.26.1|
 |v4l-utils+32|1.18.0|1.26.1|
 |vala|0.56.16|0.56.17|
@@ -2736,7 +2729,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |volk-meta-loader|1.3.280.0|1.3.283.0|
 |vorbis-tools|1.4.0|1.4.2|
 |vpnc|0.5.3r550|0.5.3|
-|vscodium|1.90.1.24165|1.90.2.24171|
 |vsftpd|3.0.3|3.0.5|
 |vte|0.68.0|0.76.3|
 |vulkan-extensionlayer|1.3.280.0|1.3.288|
