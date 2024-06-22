@@ -90,7 +90,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |astroid|2.12.2|3.2.2|
 |astrometry.net|0.94|0.95|
 |at-spi2-atk+32|2.26.3|2.38.0|
-|at-spi2-core+32|2.26.3|2.52.0|
 |atk+32|2.26.1|2.38.0|
 |atkmm|2.28.0|2.36.3|
 |atomicwrites|1.3.0|1.4.1|
