@@ -513,7 +513,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |futures|3.2.0|3.4.0|
 |fvwm|2.6.9|2.7.0|
 |fzf|0.46.1|0.53.0|
-|gajim|1.4.0|1.9.0|
+|gajim|1.4.0|1.9.1|
 |game-music-emu+32|0.6.0|0.6.3|
 |gammaray|2.11.2|3.0.0|
 |gap|4.10.2|4.13.1|
@@ -549,6 +549,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gedit|42.2|47.0|
 |gedit-plugins|42.1|47.1|
 |gegl-0.4|0.4.48|0_4_48|
+|genpac|2.0.1|3.0|
 |geoclue2|2.6.0|2.7.1|
 |geoipupdate|6.1.0|7.0.1|
 |geos|3.7.3|3.12.2|
