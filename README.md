@@ -2725,7 +2725,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vid.stab|0.98b|1.1.1|
 |vim|9.1.0446|9.1.0512|
 |virglrenderer|0.10.4|1.0.1|
-|virtualenv|20.25.0|20.26.2|
+|virtualenv|20.25.0|20.26.3|
 |virtualgl+32|2.5.2|3.1.1|
 |vkd3d|1.9|1.12|
 |vkd3d+32|1.9|1.12|
