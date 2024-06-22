@@ -2516,6 +2516,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sympy|1.12|1.12.1|
 |synaptic|0.90.2|0.91.3|
 |syncthing|1.27.3|1.27.8|
+|syncthing-gtk|0.9.4.4|0.9.4.5|
 |syndication|5.115.0|6.1.0|
 |synergy|1.11.1|2.3.2|
 |syntax-highlighting|5.115.0|6.1.0|
@@ -2830,7 +2831,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xmlsec|1.2.36|1.3.4|
 |xournalpp|1.1.3|1.2.3|
 |xpra|5.0.8|6.0.1|
-|xray|1.8.4|1.8.15|
+|xray|1.8.4|1.8.16|
 |xray-plugin|1.8.11|1.8.15|
 |xreader|3.8.5|4.2.1|
 |xscreensaver|6.08|6.09|
@@ -2842,7 +2843,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xviewer|3.0.2|3.4.5|
 |xxhash|0.8.1|0.8.2|
 |xz+32|5.4.1|5.6.2|
-|yad|0.40.0|13.0|
+|yad|0.40.0|14.0|
 |yakuake|23.08.5|24.05.1|
 |yakuake-trinity|14.1.0|14.1.2|
 |yaml-cpp|0.6.3|0.8.0|
@@ -2873,6 +2874,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |zlib-static|1.2.12|1.3.1|
 |zmusic|1.1.8|1.1.13|
 |znc|1.8.2|1.9.0|
+|zola|0.18.0|0.19.0|
 |zope-component|4.4.1|6.0|
 |zope-event|4.3.0|5.0|
 |zope-interface|5.4.0|6.4.post2|
