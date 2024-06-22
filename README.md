@@ -1457,7 +1457,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libvpl|2.11.0|2023.4.0|
 |libvpx|1.10.0|1.14.1|
 |libvpx+32|1.9.0|1.14.1|
-|libwacom|2.4.0|2.12.1|
+|libwacom|2.4.0|2.12.2|
 |libwebp|1.3.1|1.4.0|
 |libwebp+32|0.4.3|1.4.0|
 |libwebsockets|3.1.0|4.3.3|
@@ -1485,7 +1485,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libxslt+32|1.1.34|1.1.41|
 |libzen|0.4.38|0.4.41|
 |libzip|1.5.2|1.10.1|
-|liferea|1.13.8|1.15.6|
+|liferea|1.13.8|1.15.7|
 |light-locker|1.8.0|1.9.0|
 |lightdm-settings|2.0.2|2.0.4|
 |lightsoff|40.0.1|46.0|
