@@ -2105,6 +2105,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |prettytable|0.7.2|3.10.0|
 |primus+32|20150328|0.2|Possible downgrade from the current version (20150328   0.2)|
 |print-manager|23.08.5|24.05.1|
+|prismlauncher|8.3|8.4|
 |prison5|5.115.0|6.1.0|
 |progress|0.16|0.17|
 |proj|9.2.1|9.4.1|
