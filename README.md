@@ -1866,6 +1866,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pdlzip|1.9|1.13|
 |peewee|3.17.1|3.17.5|
 |peg|0.1.18|0.1.20|
+|pep517|0.12.0|0.13.1|
 |perl|5.36.3|5.41.0|
 |perl+32|999|5.41.0|Possible downgrade from the current version (999   5.41.0)|
 |perl-alien-build|1.92|2.83|
