@@ -440,7 +440,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fcitx5-rime|5.1.6|5.1.8|
 |fcitx5-skk|5.1.3|5.1.4|
 |fcron|3.3.1|3.3.0|Possible downgrade from the current version (3.3.1   3.3.0)|
-|feedbackd|0.2.1|0.3.0|
+|feedbackd|0.2.1|0.4.0|
 |feedparser|6.0.8|6.0.11|
 |feeluown|4.1.1|4.1.5|
 |feeluown-bilibili|0.3.3|0.4.0|
