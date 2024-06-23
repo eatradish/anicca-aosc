@@ -609,7 +609,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-control-center|42.3|46.2|
 |gnome-desktop|42.4|44.0|
 |gnome-disk-utility|42.0|46.0|
-|gnome-flashback|3.45.1|3.52.1|
 |gnome-font-viewer|42.0|46.0|
 |gnome-initial-setup|42.2|46.2|
 |gnome-keyring|40.0|46.1|
@@ -2834,7 +2833,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xviewer|3.0.2|3.4.5|
 |xxhash|0.8.1|0.8.2|
 |xz+32|5.4.1|5.6.2|
-|yad|0.40.0|14.0|
 |yakuake|23.08.5|24.05.1|
 |yakuake-trinity|14.1.0|14.1.2|
 |yaml-cpp|0.6.3|0.8.0|
