@@ -106,6 +106,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |autobahn|19.2.1|23.6.2|
 |automake|1.16i|1.16.5|
 |automat|20.2.0|22.10.0|
+|autopep8|2.3.0|2.3.1|
 |avahi-tqt|14.1.0|14.1.2|
 |avogadrolibs|1.95.1|1.99.0|
 |avr-binutils|2.37|2.42|
@@ -609,6 +610,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-control-center|42.3|46.2|
 |gnome-desktop|42.4|44.0|
 |gnome-disk-utility|42.0|46.0|
+|gnome-flashback|3.45.1|3.52.1|
 |gnome-font-viewer|42.0|46.0|
 |gnome-initial-setup|42.2|46.2|
 |gnome-keyring|40.0|46.1|
