@@ -2753,7 +2753,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |webrtc-audio-processing|0.3|1.3|
 |websocket-client|1.7.0|1.8.0|
 |websockets|12.0|1.4.4|Possible downgrade from the current version (12.0   1.4.4)|
-|weechat|4.2.2|4.3.2|
+|weechat|4.2.2|4.3.3|
 |weka|3.9.2|8.0.0|
 |werkzeug|1.0.1|3.0.3|
 |wesnoth|1.16.10|1.19.1|
