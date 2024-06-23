@@ -391,7 +391,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |elfutils|0.188|0.191|
 |elfutils+32|0.166|0.191|
 |elisa|23.08.5|24.05.1|
-|emacs|29.3|29.4|
 |embree|4.3.1|4.3.2|
 |emerald|0.8.12.4|0.8.18|
 |enchant-2|2.3.1|2.8.1|
