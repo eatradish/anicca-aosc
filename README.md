@@ -1783,6 +1783,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |openjdk-11|11.0.20.1<br>+ga|11.0.23+9|Compound version number '11.0.20.1+ga'|
 |openjdk-8|8u382<br>+ga|8u412-b08|Compound version number '8u382+ga'|
 |openjfx-11|11.0.20<br>+1|11.0.23+9|Compound version number '11.0.20+1'|
+|openjfx-8|8u202<br>+ga|8u202-ga|Compound version number '8u202+ga'|
 |openjpeg-legacy|1.5.2|2.5.2|
 |openjpeg-legacy+32|1.5.2|2.5.2|
 |openldap|2.6.7|2_6_8|
