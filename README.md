@@ -310,7 +310,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ddrescue|1.24|1.28|
 |debianutils|5.7|5.19|
 |decorator|4.3.2|5.1.1|
-|deja-dup|42.9|46.0|
+|deja-dup|42.9|46.1|
 |dejavu-fonts|2.37|2_37|
 |deluge|2.1.1|2.0.5|Possible downgrade from the current version (2.1.1   2.0.5)|
 |deno|1.44.1|1.44.4|
@@ -1866,7 +1866,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pdlzip|1.9|1.13|
 |peewee|3.17.1|3.17.5|
 |peg|0.1.18|0.1.20|
-|pep517|0.12.0|0.13.1|
 |perl|5.36.3|5.41.0|
 |perl+32|999|5.41.0|Possible downgrade from the current version (999   5.41.0)|
 |perl-alien-build|1.92|2.83|
@@ -1926,7 +1925,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-file-which|1.23|1.27|
 |perl-finance-quote|1.49|1.5301|
 |perl-font-ttf|1.05|1.06|
-|perl-gd|2.71|2.82|
+|perl-gd|2.71|2.83|
 |perl-glib|1.329|1.3294|
 |perl-glib-object-introspection|0.047|0.051|
 |perl-gnome2|1.047|1.048|
