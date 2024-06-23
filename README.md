@@ -87,7 +87,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |aspnetcore-runtime-6.0|6.0.30|6.0.31|
 |aspnetcore-targeting-pack-6.0|6.0.30|6.0.31|
 |assimp|5.4.0|5.4.1|
-|ast-grep|0.23.0|0.23.1|
 |astroid|2.12.2|3.2.2|
 |astrometry.net|0.94|0.95|
 |at-spi2-atk+32|2.26.3|2.38.0|
@@ -215,7 +214,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |chmlib|0.40a|0.40|
 |chntpw|1.1|140201|
 |chromaprint|1.5.0|1.5.1|
-|chromium|125.0.6422.141|126.0.6478.114|
 |cifs-utils|6.10|7.0|
 |cinnamon|5.8.3|6.2.2|
 |cinnamon-control-center|5.8.1|6.2.0|
@@ -266,6 +264,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |convertall|0.7.5|1.0.1|
 |corefreq|20170301|1.97.2-x86_64|Possible downgrade from the current version (20170301   1.97.2-x86_64)|
 |corrosion|0.2.1|0.4.10|
+|cpp-utilities|5.20.0|5.24.9|
 |cppcheck|2.8|2.14.0|
 |cppdap|1.58.0<br>+a|1.58.0-a|Compound version number '1.58.0+a'|
 |cpprestsdk|2.10.18|2.10.19|
@@ -673,7 +672,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gringo|5.4.1|5.7.1|
 |groff|1.22.4|1.23.0|
 |grpc|1.64.0|1.64.2|
-|grsync|1.2.8|1.3.1|
 |grub-customizer|5.2.4|5.2.5|
 |gsasl|1.8.1|2.2.1|
 |gsettings-desktop-schemas|42.0|46.0|
@@ -1230,6 +1228,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libcuckoo|0.3|0.3.1|
 |libde265|1.0.8|1.0.15|
 |libdecor|0.1.1|0.2.2|
+|libdeflate|1.19|1.20|
 |libdiscid|0.6.2|0.6.4|
 |libdispatch|5.6.1|5.9.2-RELEASE|
 |libdisplay-info|0.1.1|0.2.0|
@@ -1477,6 +1476,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libxml++|2.40.1|5.2.0|
 |libxml2|2.10.4|2.13.1|
 |libxml2+32|2.10.4|2.13.1|
+|libxmlb|0.3.15|0.3.19|
 |libxnvctrl|545.23.06|550.54.14|
 |libxnvctrl+32|545.23.06|550.54.14|
 |libxslt|1.1.34|1.1.41|
@@ -1622,7 +1622,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |minicom|2.8|2.9|
 |miniserve|0.26.0|0.27.1|
 |miniupnpc|2.1|2.2.8|
-|miniupnpd|2.3.5|2.3.6|
+|miniupnpd|2.3.5|2.3.7|
 |minizip|1.2.11|1.3.1|
 |minuet|23.08.5|24.05.1|
 |mitmproxy|7.0.4|10.3.1|
