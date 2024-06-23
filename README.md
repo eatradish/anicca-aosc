@@ -106,7 +106,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |autobahn|19.2.1|23.6.2|
 |automake|1.16i|1.16.5|
 |automat|20.2.0|22.10.0|
-|autopep8|2.3.0|2.3.1|
 |avahi-tqt|14.1.0|14.1.2|
 |avogadrolibs|1.95.1|1.99.0|
 |avr-binutils|2.37|2.42|
@@ -282,7 +281,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |css-parser|1.0.6|1.0.10|
 |cssselect2|0.6.0|0.7.0|
 |cssutils|1.0.2|2.11.1|
-|ctags|20191203|6.1.20240609.0|Possible downgrade from the current version (20191203   6.1.20240609.0)|
+|ctags|20191203|6.1.20240623.0|Possible downgrade from the current version (20191203   6.1.20240623.0)|
 |cunit|2.1<br>+3|2.1-3|Compound version number '2.1+3'|
 |cups|2.4.7|2.4.10|
 |cups+32|2.3.3|2.4.10|
@@ -2716,7 +2715,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vice|3.5|3.8|
 |vicious|2.3.3|2.7.0|
 |vid.stab|0.98b|1.1.1|
-|vim|9.1.0446|9.1.0512|
+|vim|9.1.0446|9.1.0516|
 |virglrenderer|0.10.4|1.0.1|
 |virtualenv|20.25.0|20.26.3|
 |virtualgl+32|2.5.2|3.1.1|
