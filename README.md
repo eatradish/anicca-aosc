@@ -105,6 +105,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |audiotube|23.08.5|24.05.1|
 |audiveris|5.1.0|5.3.1|
 |autobahn|19.2.1|23.6.2|
+|autobuild4|4.3.3|4.3.2|Possible downgrade from the current version (4.3.3   4.3.2)|
 |automake|1.16i|1.16.5|
 |automat|20.2.0|22.10.0|
 |avahi-tqt|14.1.0|14.1.2|
@@ -1642,7 +1643,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mplayerthumbs-trinity|14.1.0|14.1.2|
 |mpmath|1.1.0|1.4.0a1|
 |ms-sys|2.6.0|2.8.0|
-|msgpack-c|6.0.0|6.0.1|
+|msgpack-c|6.0.0|6.0.2|
 |msgpack-c++|6.1.0|6.1.1|
 |msitools|0.101|0.103|
 |msr-tools|20170320|1.3|Possible downgrade from the current version (20170320   1.3)|
