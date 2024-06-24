@@ -1958,7 +1958,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-mime-tools|5.509|5.515|
 |perl-mime-types|2.17|2.26|
 |perl-module-build|0.4224|0.4234|
-|perl-module-build-tiny|0.039|0.048|
 |perl-module-find|0.13|0.16|
 |perl-module-scandeps|1.27|1.35|
 |perl-moo|2.005004|2.005005|
