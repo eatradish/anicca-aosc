@@ -216,6 +216,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |chmlib|0.40a|0.40|
 |chntpw|1.1|140201|
 |chromaprint|1.5.0|1.5.1|
+|chromium|126.0.6478.114|126.0.6478.126|
 |cifs-utils|6.10|7.0|
 |cinnamon|5.8.3|6.2.2|
 |cinnamon-control-center|5.8.1|6.2.0|
@@ -646,6 +647,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |google-api-python-client|1.7.11|2.134.0|
 |google-auth|1.6.3|2.30.0|
 |google-auth-httplib2|0.0.4|0.2.0|
+|google-chrome|126.0.6478.114|126.0.6478.126|
 |gpac|2.2.1|2.4.0|
 |gperftools|2.13|2.15|
 |gpodder|3.10.17|3.11.4|
