@@ -1377,6 +1377,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libsamplerate|0.1.9|0.2.2|
 |libsass|3.6.4|3.6.6|
 |libsbsms|2.3.0|2.0.2|Possible downgrade from the current version (2.3.0   2.0.2)|
+|libsecret|0.20.4|0.21.4|
 |libshout|2.4.3|2.4.6|
 |libshout+32|2.4.3|2.4.6|
 |libshumate|1.2.1|1.2.2|
@@ -2308,6 +2309,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rtmpdump|20151223|2.3|Possible downgrade from the current version (20151223   2.3)|
 |rtmpdump+32|20150114|2.3|Possible downgrade from the current version (20150114   2.3)|
 |rtslib-fb|2.1.75|2.1.76|
+|rtv|1.27.0|1.27.1|
 |ruamel-yaml|0.17.19|0.18.6|
 |ruamel-yaml-clib|0.2.6|0.2.8|
 |rubberband|1.9.2|3.3.0|
