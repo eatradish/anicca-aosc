@@ -293,7 +293,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cymem|2.0.5|2.0.8|
 |cython-0.29|0.29.36|3.0.10|
 |czmq|4.2.0|4.2.1|
-|damo|1.0.9|2.3.9|
+|damo|1.0.9|2.4.0|
 |dante|1.4.2|1.4.3|
 |dar|2.7.13|2.7.14|
 |darkradiant|3.8.0|3.9.0|
@@ -439,6 +439,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |feeluown-bilibili|0.3.3|0.4.0|
 |feeluown-netease|1.0.1|1.0.3|
 |feeluown-qqmusic|1.0.2|1.0.5|
+|feeluown-ytmusic|0.3.4|0.4.0|
 |ffcall|2.2|2.4|
 |ffmpeg|4.4.4|7.0.1|
 |ffmpeg+32|4.2.5|7.0.1|
