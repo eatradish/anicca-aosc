@@ -1189,7 +1189,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libapt-pkg-perl|0.1.36|0.1.40|
 |libart-lgpl|14.1.0|14.1.2|
 |libass+32|0.15.1|0.17.2|
-|libassuan|2.5.3|3.0.0|
+|libassuan|2.5.3|3.0.1|
 |libatomic-ops|7.8.0|7.8.2|
 |libavif|0.11.1|1.0.4|
 |libblkio|1.3.0|1.5.0|
@@ -1958,6 +1958,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-mime-tools|5.509|5.515|
 |perl-mime-types|2.17|2.26|
 |perl-module-build|0.4224|0.4234|
+|perl-module-build-tiny|0.039|0.048|
 |perl-module-find|0.13|0.16|
 |perl-module-scandeps|1.27|1.35|
 |perl-moo|2.005004|2.005005|
@@ -2218,7 +2219,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pyxattr|0.6.1|0.8.1|
 |pyzmq|22.3.0|26.0.3|
 |qalculate-tde-trinity|14.1.0|14.1.2|
-|qca|2.3.4|2.3.8|
+|qca|2.3.4|2.3.9|
 |qcef|1.1.6|1.1.8|
 |qcustomplot|2.1.1|2.1.1.1|
 |qd|2.3.22|2.3.24|
