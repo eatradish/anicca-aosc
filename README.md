@@ -420,7 +420,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |f3|7.2|8.0|
 |faac|1.29.9.2|1.30|
 |faac+32|1.28|1.30|
-|faad2|2.10.0|2.11.1|
 |faad2+32|2.10.0|2.11.1|
 |facile|1.1.3|1.1.4|
 |fakeroot|1.34|1.35|
@@ -1831,7 +1830,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |paper-icon-theme|20180816|.1.5.0|Possible downgrade from the current version (20180816   .1.5.0)|
 |paprefs|1.1|1.2|
 |paq8o|9|10t|
-|parallel|20191122|20240522|
+|parallel|20191122|20240622|
 |paramiko|2.10.3|3.4.0|
 |pari|2.13.1|2.15.5|
 |parley|23.08.5|24.05.1|
@@ -2556,7 +2555,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tdeio-umountwrapper|14.1.0|14.1.2|
 |tdelibs|14.1.0|14.1.2|
 |tdemultimedia|14.1.0|14.1.2|
-|tdenetwork|14.1.0|14.1.2|
 |tdenetworkmanager|14.1.0|14.1.2|
 |tdepacman|14.1.0|14.1.2|
 |tdepim|14.1.0|14.1.2|
