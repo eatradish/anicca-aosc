@@ -148,7 +148,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |boost+32|1.63.0|1.85.0|
 |botan|1.10.17|3.4.0|
 |botan-2|2.12.1|3.4.0|
-|boto3|1.20.26|1.34.131|
+|boto3|1.20.26|1.34.132|
 |bottle|0.12.18|0.12.25|
 |bottles|2022.2.28<br>+trento<br>+4|51.11|Compound version number '2022.2.28+trento+4'<br>Possible downgrade from the current version (2022.2.28+trento+4   51.11)|
 |bovo|23.08.5|24.05.1|
@@ -158,6 +158,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |breeze-icons|5.115.0|6.1.0|
 |breeze-plymouth|5.27.11|6.1.0|
 |brotlipy|0.7.0|1.0.9.2|
+|btrfs-progs|6.9|6.9.1|
 |budgie-screensaver|5.0.2|5.1.0|
 |buildbot-benchmark|20240327|20230227|Possible downgrade from the current version (20240327   20230227)|
 |bullet|2.88|3.25|
@@ -1825,7 +1826,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pam-wrapper|1.1.3|1.1.5|
 |pamixer|1.4|1.6|
 |pandas|2.1.2|2.2.2|
-|pandoc|3.1.13|3.2|
+|pandoc|3.1.13|3.2.1|
 |pango|1.52.2|1.54.0|
 |pango+32|1.44.7|1.54.0|
 |pangomm|2.46.3|2.52.0|
@@ -2191,7 +2192,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |python-3|3.10.13|3.12.4|
 |python-augeas|1.0.3|1.1.0|
 |python-build|0.8.0|1.2.1|
-|python-cloudflare|2.8.15|3.0.0b10|
+|python-cloudflare|2.8.15|3.0.1|
 |python-cssselect|1.0.3|1.2.0|
 |python-daemonize|2.5.0|3.8.0|
 |python-dbusmock|0.22.0|0.31.1|
@@ -2332,7 +2333,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |s-tui|1.1.3|1.1.6|
 |s2tc|1.0<br>+git20210317|1.0|Compound version number '1.0+git20210317'<br>Version number indicates a snapshot (+git) is used|
 |s2tc+32|20150112|1.0|Possible downgrade from the current version (20150112   1.0)|
-|s3transfer|0.5.0|0.10.1|
+|s3transfer|0.5.0|0.10.2|
 |samba|4.17.2|4.20.2|
 |samtools|1.16.1|1.20|
 |sane-backends|1.0.32|1.3.1|
