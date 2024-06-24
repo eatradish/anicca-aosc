@@ -746,7 +746,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hyper-h2|4.0.0|4.1.0|
 |hyperframe|6.0.0|6.0.1|
 |hyperlink|19.0.0|21.0.0|
-|hypothesis-python|6.97.4|6.103.4|
+|hypothesis-python|6.97.4|6.103.5|
 |hysteria|2.4.0|2.4.5|
 |i2c-tools|4.1|4.3|
 |i2pd|2.41.0|2.52.0|
@@ -1693,7 +1693,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |netsurf-buildsystem|1.9|1.10|
 |nettle|3.7.2|3.10|
 |nettle+32|3.7.2|3.10|
-|networkmanager|1.40.6|1.48.0|
+|networkmanager|1.40.6|1.48.2|
 |networkmanager-iodine|1.2.0<br>+git20220728|1.2.0|Compound version number '1.2.0+git20220728'<br>Version number indicates a snapshot (+git) is used|
 |networkmanager-l2tp|1.8.6|1.20.16|
 |networkmanager-openconnect|1.2.6<br>+git20210918|1.2.10|Compound version number '1.2.6+git20210918'<br>Version number indicates a snapshot (+git) is used|
