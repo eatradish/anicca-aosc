@@ -105,7 +105,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |audiotube|23.08.5|24.05.1|
 |audiveris|5.1.0|5.3.1|
 |autobahn|19.2.1|23.6.2|
-|autobuild4|4.3.3|4.3.2|Possible downgrade from the current version (4.3.3   4.3.2)|
 |automake|1.16i|1.16.5|
 |automat|20.2.0|22.10.0|
 |avahi-tqt|14.1.0|14.1.2|
@@ -158,7 +157,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |breeze-icons|5.115.0|6.1.0|
 |breeze-plymouth|5.27.11|6.1.0|
 |brotlipy|0.7.0|1.0.9.2|
-|btrfs-progs|6.9|6.9.1|
 |budgie-screensaver|5.0.2|5.1.0|
 |buildbot-benchmark|20240327|20230227|Possible downgrade from the current version (20240327   20230227)|
 |bullet|2.88|3.25|
@@ -1237,7 +1235,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libdvdnav+32|5.0.3|6.1.1|
 |libdvdread|6.1.1|6.1.3|
 |libdvdread+32|5.0.3|6.1.3|
-|libdwarf|20210305|0.9.2|Possible downgrade from the current version (20210305   0.9.2)|
+|libdwarf|20210305|0.10.0|Possible downgrade from the current version (20210305   0.10.0)|
 |libe-book|0.1.2|0.1.3|
 |libeconf|0.5.0|0.7.2|
 |libedit|20191231<br>+3.1|20240517-3.1|Compound version number '20191231+3.1'|
@@ -1799,7 +1797,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |openssl-1.1+32|1.1.1q|3.3.1|
 |opensubdiv|3.6.0|3_6_0|
 |openswan|2.6.51.5|3.0.0|
-|opentimelineio|0.15|0.16.0|
+|opentimelineio|0.15|0.17.0|
 |openttd|12.2|14.1|
 |openvpn|2.5.4|2.6.11|
 |openvswitch|3.0.3|3.3.1|
@@ -2803,9 +2801,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xf86-video-intel|2.99.917<br>+git20210115|2.99.917|Compound version number '2.99.917+git20210115'<br>Version number indicates a snapshot (+git) is used|
 |xf86-video-r128|6.12.1|6.9.7|Possible downgrade from the current version (6.12.1   6.9.7)|
 |xfce4-power-manager|4.18.3|4.18.4|
-|xfce4-screenshooter|1.10.5|1.10.6|
-|xfce4-session|4.18.3|4.18.4|
-|xfce4-settings|4.18.4|4.18.6|
 |xfe|1.46.1|1.46.2|
 |xine-ui|0.99.12|0.99.14|
 |xinetd|2.3.15|2.3.15.4|
