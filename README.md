@@ -455,7 +455,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |findlib|1.9.5|1.9.6|
 |findutils|4.9.0|4.10.0|
 |fio|3.35|3.37|
-|firefox|127.0|127.0.1|
+|firefox|127.0|127.0.2|
 |firewalld|2.0.0|2.1.2|
 |flac|1.3.3|1.4.3|
 |flac+32|1.3.3|1.4.3|
@@ -748,7 +748,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hyper-h2|4.0.0|4.1.0|
 |hyperframe|6.0.0|6.0.1|
 |hyperlink|19.0.0|21.0.0|
-|hypothesis-python|6.97.4|6.103.5|
+|hypothesis-python|6.97.4|6.104.0|
 |hysteria|2.4.0|2.4.5|
 |i2c-tools|4.1|4.3|
 |i2pd|2.41.0|2.52.0|
@@ -1479,7 +1479,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libzip|1.5.2|1.10.1|
 |liferea|1.13.8|1.15.7|
 |light-locker|1.8.0|1.9.0|
-|lightdm-settings|2.0.2|2.0.4|
 |lightsoff|40.0.1|46.0|
 |lighttpd|1.4.55|1.4.76|
 |lilv|0.24.12|0.24.24|
@@ -2140,7 +2139,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pycuda|2022.2.2|2024.1|
 |pycups|1.9.74|2.0.4|
 |pydantic|2.6.0|2.7.4|
-|pydantic-core|2.16.1|2.19.0|
+|pydantic-core|2.16.1|2.20.0|
 |pydot|1.4.1|2.0.0|
 |pyelftools|0.30|0.31|
 |pyenchant|2.0.0|3.2.2|
@@ -2736,7 +2735,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vulkan-validationlayers|1.3.280.0|1.3.288|
 |warpinator|1.6.3|1.8.5|
 |warzone2100|4.1.3|4.4.2|
-|watchman|4.9.0|2024.06.17.00|
+|watchman|4.9.0|2024.06.24.00|
 |wavpack|5.2.0|5.7.0|
 |wavpack+32|5.2.0|5.7.0|
 |wayland|1.22.0|1.23.0|
