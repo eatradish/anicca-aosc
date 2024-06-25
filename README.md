@@ -439,7 +439,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |feeluown-bilibili|0.3.3|0.4.0|
 |feeluown-netease|1.0.1|1.0.3|
 |feeluown-qqmusic|1.0.2|1.0.5|
-|feeluown-ytmusic|0.3.4|0.4.0|
+|feeluown-ytmusic|0.3.4|0.4.1|
 |ffcall|2.2|2.4|
 |ffmpeg|4.4.4|7.0.1|
 |ffmpeg+32|4.2.5|7.0.1|
