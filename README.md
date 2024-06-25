@@ -423,7 +423,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |faad2|2.10.0|2.11.1|
 |faad2+32|2.10.0|2.11.1|
 |facile|1.1.3|1.1.4|
-|fakeroot|1.34|1.35|
+|fakeroot|1.34|1.35.1|
 |falkon|23.08.5|24.05.1|
 |fann|20190109|2.2.0|Possible downgrade from the current version (20190109   2.2.0)|
 |fasteners|0.18|0.19|
