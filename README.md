@@ -240,7 +240,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |clzip|1.10|1.14|
 |cmark|0.30.3|0.31.0|
 |cmocka|1.1.5|1.1.7|
-|cmus|2.9.1|2.10.0|
+|cmus|2.9.1|2.11.0|
 |cock|0.6.0|0.11.0|
 |cockpit|286.1|318|
 |cockpit-machines|284.1|314|
@@ -2280,7 +2280,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |requests-cache|0.5.2|1.2.1|
 |rest|0.8.1|0.9.1|
 |retext|7.2.2|8.0.2|
-|rexml|3.2.5|3.3.0|
+|rexml|3.2.5|3.3.1|
 |rfc3986|1.4.0|2.0.0|
 |rime-cantonese|2023.06.15<br>+git20230912|2023.06.15|Compound version number '2023.06.15+git20230912'<br>Version number indicates a snapshot (+git) is used|
 |rime-emoji|13.0<br>+git20230826|15.0|Compound version number '13.0+git20230826'<br>Version number indicates a snapshot (+git) is used|
@@ -2831,6 +2831,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |yaz|5.34.0|5.34.1|
 |yelp|42.1|42.2|
 |yosys|0.41|0.42|
+|you-get|0.4.1700|0.4.1710|
 |ytmusicapi|1.7.2|1.7.3|
 |yubico-pam|2.26|2.27|
 |yubico-piv-tool|2.3.1|2.5.2|
@@ -2852,7 +2853,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |zlib-static|1.2.12|1.3.1|
 |zmusic|1.1.8|1.1.13|
 |znc|1.8.2|1.9.0|
-|zola|0.18.0|0.19.0|
+|zola|0.18.0|0.19.1|
 |zope-component|4.4.1|6.0|
 |zope-event|4.3.0|5.0|
 |zope-interface|5.4.0|6.4.post2|
