@@ -87,7 +87,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |aspnetcore-runtime-6.0|6.0.30|6.0.31|
 |aspnetcore-targeting-pack-6.0|6.0.30|6.0.31|
 |assimp|5.4.0|5.4.1|
-|ast-grep|0.23.1|0.24.0|
 |astroid|2.12.2|3.2.2|
 |astrometry.net|0.94|0.95|
 |at-spi2-atk+32|2.26.3|2.38.0|
@@ -151,6 +150,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |bottle|0.12.18|0.12.25|
 |bottles|2022.2.28<br>+trento<br>+4|51.11|Compound version number '2022.2.28+trento+4'<br>Possible downgrade from the current version (2022.2.28+trento+4   51.11)|
 |bovo|23.08.5|24.05.1|
+|bpftrace|0.21.0|0.21.1|
 |breeze|5.27.11|6.1.0|
 |breeze-grub|5.27.11|6.1.0|
 |breeze-gtk|5.27.11|6.1.0|
@@ -196,7 +196,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cdemu-client|3.2.4|3.2.5|
 |cdemu-daemon|3.2.4|3.2.6|
 |cdrdao|1.2.4|1.2.5|
-|celluloid|0.18|0.26|
+|celluloid|0.18|0.27|
 |cerberus|1.3.2|1.3.5|
 |certbot-apache|2.10.0|2.11.0|
 |certbot-dns-cloudflare|2.10.0|2.11.0|
@@ -646,7 +646,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |google-api-python-client|1.7.11|2.134.0|
 |google-auth|1.6.3|2.30.0|
 |google-auth-httplib2|0.0.4|0.2.0|
-|google-chrome|126.0.6478.114|126.0.6478.126|
 |gpac|2.2.1|2.4.0|
 |gperftools|2.13|2.15|
 |gpodder|3.10.17|3.11.4|
