@@ -317,6 +317,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |deluge|2.1.1|2.0.5|Possible downgrade from the current version (2.1.1   2.0.5)|
 |deno|1.44.1|1.44.4|
 |dephell-specifier|0.2.2|0.3.0|
+|deploykit-backend|0.4.3|0.5.0|
 |deploykit-gui|0.5.4|test-ci|Versions not comparable: `0.5.4` and `test-ci`|
 |devhelp|41.2|43.0|
 |dex|0.8.0|0.9.0|
@@ -345,7 +346,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |docbook-sgml|0|4.5|
 |docbook-xml|0|5.1|
 |docker|26.1.3|26.1.4|
-|docker-compose|2.27.1|2.28.0|
+|docker-compose|2.27.1|2.28.1|
 |docutils|0.20.1|0.21.2|
 |dolphin|23.08.5|24.05.1|
 |dolphin-emu|5.0<br>+git20211101|5.0|Compound version number '5.0+git20211101'<br>Version number indicates a snapshot (+git) is used|
