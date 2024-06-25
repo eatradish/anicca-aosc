@@ -316,8 +316,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |deluge|2.1.1|2.0.5|Possible downgrade from the current version (2.1.1   2.0.5)|
 |deno|1.44.1|1.44.4|
 |dephell-specifier|0.2.2|0.3.0|
-|deploykit-backend|0.4.3|0.5.0|
-|deploykit-gui|0.5.4|test-ci|Versions not comparable: `0.5.4` and `test-ci`|
+|deploykit-backend|0.5.1|0.5.0|Possible downgrade from the current version (0.5.1   0.5.0)|
+|deploykit-gui|0.6.1|test-ci|Versions not comparable: `0.6.1` and `test-ci`|
 |devhelp|41.2|43.0|
 |dex|0.8.0|0.9.0|
 |dfu-util|0.10|0.11|
@@ -350,6 +350,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dolphin|23.08.5|24.05.1|
 |dolphin-emu|5.0<br>+git20211101|5.0|Compound version number '5.0+git20211101'<br>Version number indicates a snapshot (+git) is used|
 |dolphin-plugins|23.08.5|24.05.1|
+|dolphin-trinity|14.1.0|14.1.2|
 |dosbox|0.74<br>+3|0.74-3|Compound version number '0.74+3'|
 |dotconf|1.3|1.4.1|
 |dotnet-apphost-pack-6.0|6.0.30|6.0.31|
@@ -1805,7 +1806,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |opusfile|0.11|0.12|
 |orc|0.4.32|0.4.38|
 |orc+32|0.4.32|0.4.38|
-|orca|42.3|46.1|
+|orca|42.3|46.2|
 |os-prober|1.81|1.82|
 |osinfo-db-tools|1.10.0|1.11.0|
 |oxygen|5.27.11|6.1.0|
@@ -2142,6 +2143,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pydot|1.4.1|2.0.0|
 |pyelftools|0.30|0.31|
 |pyenchant|2.0.0|3.2.2|
+|pygame|2.5.2|2.6.0|
 |pygccxml|2.1.0|2.5.0|
 |pygit2|1.14.1|1.15.0|
 |pyglet|1.3.2|2.0.15|
