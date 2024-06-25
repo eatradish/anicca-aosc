@@ -807,6 +807,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ipython|7.28.0|8.25.0|
 |irrlicht|1.8.4|1.8.5|
 |iso-codes|4.4|4.16.0|
+|isomd5sum|1.2.4|1.2.5|
 |isort|4.3.21|5.13.2|
 |ispc|1.22.0|1.24.0|
 |itinerary|23.08.5|24.05.1|
