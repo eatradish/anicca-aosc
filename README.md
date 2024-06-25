@@ -306,7 +306,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dbus-glib|0.110|0.112|
 |dbus-glib+32|0.108|0.112|
 |dbus-tqt|14.1.0|14.1.2|
-|dcaenc|3|2|Possible downgrade from the current version (3   2)|
 |ddcutil|2.1.3|2.1.4|
 |ddnet|17.0.3|18.3|
 |ddrescue|1.24|1.28|
@@ -345,13 +344,12 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |docbook-dtd|4.5|5.1|
 |docbook-sgml|0|4.5|
 |docbook-xml|0|5.1|
-|docker|26.1.3|26.1.4|
+|docker|26.1.3|27.0.1|
 |docker-compose|2.27.1|2.28.1|
 |docutils|0.20.1|0.21.2|
 |dolphin|23.08.5|24.05.1|
 |dolphin-emu|5.0<br>+git20211101|5.0|Compound version number '5.0+git20211101'<br>Version number indicates a snapshot (+git) is used|
 |dolphin-plugins|23.08.5|24.05.1|
-|dolphin-trinity|14.1.0|14.1.2|
 |dosbox|0.74<br>+3|0.74-3|Compound version number '0.74+3'|
 |dotconf|1.3|1.4.1|
 |dotnet-apphost-pack-6.0|6.0.30|6.0.31|
@@ -551,6 +549,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |getdns|1.6.0|1.7.3|
 |gexiv2|0.14.0|0.14.2|
 |gfm|1.07|1.08|
+|gh|2.51.0|2.52.0|
 |ghc|9.4.8|9.10.1-release|
 |ghex|42.3|46.0|
 |ghidra|11.0|11.1.1_build|
