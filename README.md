@@ -2275,7 +2275,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |reiser4progs|1.2.2|1.2.2.|
 |remmina|1.4.31|1.4.35|
 |renderdoc|1.16|1.33|
-|reportlab|3.5.50|4.2.0|
+|reportlab|3.5.50|4.2.2|
 |reptyr|0.9.0|0.10.0|
 |requests-cache|0.5.2|1.2.1|
 |rest|0.8.1|0.9.1|
@@ -2368,8 +2368,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ser2net|3.5|4.6.2|
 |serf|1.3.9|1.3.10|
 |service-identity|18.1.0|24.1.0|
-|setuptools-python2|44.1.0|70.1.0|
-|setuptools-python3|69.1.0|70.1.0|
+|setuptools-python2|44.1.0|70.1.1|
+|setuptools-python3|69.1.0|70.1.1|
 |setuptools-rust|1.5.2|1.9.0|
 |setuptools-scm|7.1.0|8.1.0|
 |sfml|2.5.1|2.6.1|
