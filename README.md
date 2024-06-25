@@ -747,7 +747,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hyper-h2|4.0.0|4.1.0|
 |hyperframe|6.0.0|6.0.1|
 |hyperlink|19.0.0|21.0.0|
-|hypothesis-python|6.97.4|6.104.0|
+|hypothesis-python|6.97.4|6.104.1|
 |hysteria|2.4.0|2.4.5|
 |i2c-tools|4.1|4.3|
 |i2pd|2.41.0|2.52.0|
@@ -896,6 +896,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kcompletion|5.115.0|6.1.1|
 |kconfig|5.115.0|6.1.1|
 |kconfigwidgets|5.115.0|6.1.1|
+|kcontacts|5.115.0|6.1.1|
 |kcoreaddons|5.115.0|6.1.1|
 |kcpuload-trinity|14.1.0|14.1.2|
 |kcrash|5.115.0|6.1.1|
