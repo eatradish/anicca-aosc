@@ -998,7 +998,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kio-zeroconf|23.08.5|24.05.1|
 |kiosktool-trinity|14.1.0|14.1.2|
 |kipi-plugins|23.08.5|24.05.1|
-|kirigami-addons|0.11.0|1.2.1|
+|kirigami-addons|0.11.0|1.3.0|
 |kirigami-gallery|23.08.5|24.05.1|
 |kirigami2|5.115.0|6.1.1|
 |kiriki|23.08.5|24.05.1|
@@ -2496,6 +2496,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sunxi-tools|1.4.2<br>+git20220729|1.4.2|Compound version number '1.4.2+git20220729'<br>Version number indicates a snapshot (+git) is used|
 |sushi|42.0|46.0|
 |svgpart|23.08.5|24.05.1|
+|svt-av1|2.1.0|2.1.1|
 |sweeper|23.08.5|24.05.1|
 |swell-foop|41.1|46.0|
 |swig|4.1.1|4.2.1|
