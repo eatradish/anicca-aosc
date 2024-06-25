@@ -146,7 +146,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |boost+32|1.63.0|1.85.0|
 |botan|1.10.17|3.4.0|
 |botan-2|2.12.1|3.4.0|
-|boto3|1.20.26|1.34.132|
+|boto3|1.20.26|1.34.133|
 |bottle|0.12.18|0.12.25|
 |bottles|2022.2.28<br>+trento<br>+4|51.11|Compound version number '2022.2.28+trento+4'<br>Possible downgrade from the current version (2022.2.28+trento+4   51.11)|
 |bovo|23.08.5|24.05.1|
@@ -896,7 +896,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kcompletion|5.115.0|6.1.1|
 |kconfig|5.115.0|6.1.1|
 |kconfigwidgets|5.115.0|6.1.1|
-|kcontacts|5.115.0|6.1.1|
 |kcoreaddons|5.115.0|6.1.1|
 |kcpuload-trinity|14.1.0|14.1.2|
 |kcrash|5.115.0|6.1.1|
