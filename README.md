@@ -2286,7 +2286,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rlvm|0.14<br>+git20220404|0.14|Compound version number '0.14+git20220404'<br>Version number indicates a snapshot (+git) is used|
 |rlwrap|0.43|0.46.1|
 |rng-tools|6.16|6.17|
-|robin-hood-hashing|3.11.4|3.11.5|
 |rockbox-utility|3.15<br>+final|3.15-final|Compound version number '3.15+final'|
 |rocm-bandwidth-test|6.0.2|6.1.2|
 |rocm-cmake|6.0.2|6.1.2|
