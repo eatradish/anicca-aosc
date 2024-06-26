@@ -150,7 +150,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |bottle|0.12.18|0.12.25|
 |bottles|2022.2.28<br>+trento<br>+4|51.11|Compound version number '2022.2.28+trento+4'<br>Possible downgrade from the current version (2022.2.28+trento+4   51.11)|
 |bovo|23.08.5|24.05.1|
-|bpftrace|0.21.0|0.21.1|
 |breeze|5.27.11|6.1.1|
 |breeze-grub|5.27.11|6.1.1|
 |breeze-gtk|5.27.11|6.1.1|
