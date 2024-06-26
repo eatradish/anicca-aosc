@@ -629,7 +629,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-user-share|3.34.0|43.0|
 |gnome-video-effects|0.4.3|0.6.0|
 |gnome-weather|42.0|46.0|
-|gnote|42.1|46.0|
 |gnu-efi|3.0.14|3.0.18|
 |gnuplot|6.0.0|6.0.1|
 |gnustep-base|1.28.0|1_30_0|
