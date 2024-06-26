@@ -1709,7 +1709,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nfs-utils|2.6.2|2.6.4|
 |nghttp2|1.58.0|1.62.1|
 |nghttp3|1.3.0|1.4.0|
-|ngspice|35|42|
 |ngtcp2|1.5.0|1.6.0|
 |nmap|7.93|7.95|
 |noip|2.1.9|3.0.0|
