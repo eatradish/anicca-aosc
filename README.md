@@ -696,7 +696,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gtkwave|3.3.119|3.3.120|
 |gtranslator|42.0|46.1|
 |gucharmap|15.1.3|15.1.5|
-|guile|3.0.4|3.0.9|
+|guile|3.0.4|3.0.10|
 |gulp|4.0.0|5.0.0|
 |gupnp|1.2.4|1.6.6|
 |gupnp-av|0.12.11|0.14.1|
