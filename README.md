@@ -27,6 +27,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |agrep|4.17|4.17.orig|Possible downgrade from the current version (4.17   4.17.orig)|
 |aha|0.5|0.5.1|
 |aide|0.16.2|0.18.8|
+|aiohttp|3.7.4.post0|3.9.5|
 |aisleriot|3.22.24|3.22.33|
 |akode|14.1.0|14.1.2|
 |akonadi|23.08.5|24.05.1|
