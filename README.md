@@ -785,9 +785,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |iniparse|0.4|0.5|
 |iniparser|4.1|4.2.4|
 |inkscape|1.3.2|1_3_2|
-|intel-compute-runtime|24.17.29377.6|24.17.29377.8|
-|intel-gmmlib|22.3.19|22.3.20|
-|intel-graphics-compiler|1.0.16695.4|1.0.16900.3|
+|intel-compute-runtime|24.22.29735.20|24.17.29377.8|Possible downgrade from the current version (24.22.29735.20   24.17.29377.8)|
+|intel-graphics-compiler|1.0.16900.23|1.0.16900.3|Possible downgrade from the current version (1.0.16900.23   1.0.16900.3)|
 |intel-media-driver|24.1.5|24.2.5|
 |intel-oneapi-basekit|2024.1.0|2024.2.0|
 |inxi|3.3.31<br>+2|3.3.31-2|Compound version number '3.3.31+2'|
