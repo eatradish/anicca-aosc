@@ -2348,6 +2348,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sdcc|4.3.6|4.4.0|
 |sddm-kcm|5.27.11|6.1.1|
 |sdl-gfx|2.0.25|2.0.27|
+|sdl-sound|1.0.3|2.0.2|
 |sdl-sound+32|1.0.3|2.0.2|
 |sdl-ttf|2.0.11|2.22.0|
 |sdl-ttf+32|2.0.11|2.22.0|
