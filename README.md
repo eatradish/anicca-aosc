@@ -2026,7 +2026,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pimcommon|23.08.5|24.05.1|
 |pinentry|1.1.0|1.3.0|
 |pip|22.3.1|24.1b2|
-|pipewire|1.0.7|1.2.0|
 |pixman|0.43.0|0.43.4|
 |pixman+32|0.40.0|0.43.4|
 |pkcs11-helper|1.29.0|1.30.0|
@@ -2757,6 +2756,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |wine|9.9|9.11|
 |wireguard|1|0.0.20191219|Possible downgrade from the current version (1   0.0.20191219)|
 |wireless-tools|30.pre9|29|Possible downgrade from the current version (30.pre9   29)|
+|wireplumber|0.5.4|0.5.3|Possible downgrade from the current version (0.5.4   0.5.3)|
 |wmutils|20170223|1.7|Possible downgrade from the current version (20170223   1.7)|
 |wolfssl|5.7.0|5.7.0-stable|Possible downgrade from the current version (5.7.0   5.7.0-stable)|
 |wpebackend-fdo|1.12.1|1.14.2|
