@@ -170,7 +170,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cairomm|1.12.2|1.18.0|
 |cairosvg|2.5.2|2.7.1|
 |calendarsupport|23.08.5|24.05.1|
-|calibre|5.30.0|7.12.0|
+|calibre|5.30.0|7.13.0|
 |caligula|0.4.5|0.4.7|
 |calindori|23.08.5|24.05.1|
 |callaudiod|0.1.4|0.1.9|
@@ -405,9 +405,9 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |eudev+32|3.1.5|3.2.14|
 |eventviews|23.08.5|24.05.1|
 |evince|42.3|46.3|
-|evolution|3.44.4|3.52.2|
-|evolution-data-server|3.44.4|3.52.2|
-|evolution-ews|3.42.0|3.52.2|
+|evolution|3.44.4|3.53.1|
+|evolution-data-server|3.44.4|3.52.3|
+|evolution-ews|3.42.0|3.53.1|
 |evtest|1.34|1.35|
 |exempi|2.5.1|2.6.5|
 |exiv2|0.27.5|0.28.2|
@@ -1710,6 +1710,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ngtcp2|1.5.0|1.6.0|
 |nmap|7.93|7.95|
 |noip|2.1.9|3.0.0|
+|noise-suppression-for-voice|0.91|1.10|
 |nomino|1.3.1|1.3.5|
 |normaliz|3.6.3|3.10.3|
 |notmuch|0.34|0.38.3|
@@ -1729,8 +1730,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |numpy|1.26.4|2.0.0|
 |nut|2.7.4|2.8.2|
 |nvchecker|1.5|2.15.1|
-|nvidia|550.54.14|555.52.04|
-|nvidia+32|0|555.52.04|
+|nvidia|550.54.14|555.58|
+|nvidia+32|0|555.58|
 |ocaml|4.14.2|5.2.0|
 |ocaml-cmdliner|1.2.0|1.3.0|
 |ocaml-csexp|1.5.1|1.5.2|
