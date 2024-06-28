@@ -28,6 +28,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |aha|0.5|0.5.1|
 |aide|0.16.2|0.18.8|
 |aiohttp|3.7.4.post0|3.9.5|
+|aisleriot|3.22.24|3.22.33|
 |akode|14.1.0|14.1.2|
 |akonadi|23.08.5|24.05.1|
 |akonadi-calendar|23.08.5|24.05.1|
@@ -2347,7 +2348,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sdcc|4.3.6|4.4.0|
 |sddm-kcm|5.27.11|6.1.1|
 |sdl-gfx|2.0.25|2.0.27|
-|sdl-sound|1.0.3|2.0.2|
 |sdl-sound+32|1.0.3|2.0.2|
 |sdl-ttf|2.0.11|2.22.0|
 |sdl-ttf+32|2.0.11|2.22.0|
