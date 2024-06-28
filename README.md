@@ -2825,7 +2825,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |yaz|5.34.0|5.34.1|
 |yelp|42.1|42.2|
 |yesplaymusic|0.4.8<br>+2|0.2.1|Compound version number '0.4.8+2'<br>Possible downgrade from the current version (0.4.8+2   0.2.1)|
-|yosys|0.41|0.42|
 |you-get|0.4.1700|0.4.1710|
 |ytmusicapi|1.7.2|1.7.3|
 |yubico-pam|2.26|2.27|
