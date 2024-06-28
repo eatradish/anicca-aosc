@@ -1710,7 +1710,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ngtcp2|1.5.0|1.6.0|
 |nmap|7.93|7.95|
 |noip|2.1.9|3.0.0|
-|noise-suppression-for-voice|0.91|1.10|
 |nomino|1.3.1|1.3.5|
 |normaliz|3.6.3|3.10.3|
 |notmuch|0.34|0.38.3|
