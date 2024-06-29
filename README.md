@@ -1259,7 +1259,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libgeotiff|1.5.1|1.7.3|
 |libgig|4.4.0|4.4.1|
 |libgit2|1.7.2|1.8.1|
-|libgksu|2.0.13~pre1|2.0.12|Possible downgrade from the current version (2.0.13~pre1   2.0.12)|
 |libglvnd+32|1.6.0|1.7.0|
 |libgnome-games-support|1.8.2|2.0.0|
 |libgnt|2.14.0|2.14.3|
