@@ -2758,6 +2758,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |wireguard|1|0.0.20191219|Possible downgrade from the current version (1   0.0.20191219)|
 |wireless-tools|30.pre9|29|Possible downgrade from the current version (30.pre9   29)|
 |wireplumber|0.5.4|0.5.5|
+|wlroots|0.17.3|0.17.4|
 |wmutils|20170223|1.7|Possible downgrade from the current version (20170223   1.7)|
 |wolfssl|5.7.0|5.7.0-stable|Possible downgrade from the current version (5.7.0   5.7.0-stable)|
 |wpebackend-fdo|1.12.1|1.14.2|
