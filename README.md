@@ -268,6 +268,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cpp-utilities|5.20.0|5.24.9|
 |cppcheck|2.8|2.14.0|
 |cppdap|1.58.0<br>+a|1.58.0-a|Compound version number '1.58.0+a'|
+|cpprestsdk|2.10.18|2.10.19|
 |cpulimit|3.0|3.1|
 |cracklib|2.9.8|2.9.11|
 |crash|7.2.9|8.0.5|
