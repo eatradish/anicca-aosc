@@ -503,7 +503,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |future|0.17.0|1.0.0|
 |futures|3.2.0|3.4.0|
 |fvwm|2.6.9|2.7.0|
-|fzf|0.46.1|0.53.0|
 |gajim|1.4.0|1.9.1|
 |game-music-emu+32|0.6.0|0.6.3|
 |gammaray|2.11.2|3.0.0|
