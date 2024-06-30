@@ -1598,7 +1598,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mesa-amber|21.3.9|24.1.2|
 |meson|1.4.0|1.4.1|
 |messagelib|23.08.5|24.05.1|
-|metacity|3.44.0|3.46.0|
+|metacity|3.44.0|3.52.0|
 |metee|4.0.0|4.1.0|
 |mgba|0.9.2|0.10.3|
 |microsoft-gsl|3.0.1|4.0.0|
