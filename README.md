@@ -614,7 +614,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-remote-desktop|42.4|46.2|
 |gnome-session|42.0|46.0|
 |gnome-settings-daemon|42.2|46.0|
-|gnome-shell|42.4|46.2|
+|gnome-shell|42.4|46.3.1|
 |gnome-shell-extension-gsconnect|53|57|
 |gnome-shell-extensions|42.3|46.2|
 |gnome-software|42.4|46.2|
