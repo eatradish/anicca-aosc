@@ -2359,6 +2359,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sdl2-net|2.0.1|2.2.0|
 |sdl2-ttf|2.0.15|2.22.0|
 |seahorse|42.0|43.0|
+|secretstorage|3.3.0|3.3.3|
 |semver|2.8.1|3.0.2|
 |sequoia-sq|0.36.0|0.37.0|
 |ser2net|3.5|4.6.2|
