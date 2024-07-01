@@ -216,7 +216,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |chromaprint|1.5.0|1.5.1|
 |chromium|126.0.6478.114|126.0.6478.126|
 |cifs-utils|6.10|7.0|
-|cinnamon|5.8.3|6.2.2|
+|cinnamon|5.8.3|6.2.3|
 |cinnamon-control-center|5.8.1|6.2.0|
 |cinnamon-desktop|5.8.0|6.2.0|
 |cinnamon-menus|5.8.0|6.2.0|
@@ -1175,6 +1175,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lcms2+32|2.9|2.16|
 |ldb|2.6.1|2.9.1|
 |leatherman|1.9.1|1.12.13|
+|less|643|661|
 |levenshtein|0.12.0|0.25.1|
 |lib3mf|2.2.0|2.3.1|
 |libaacs|0.11.0|0.11.1|
@@ -2358,7 +2359,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sdl2-net|2.0.1|2.2.0|
 |sdl2-ttf|2.0.15|2.22.0|
 |seahorse|42.0|43.0|
-|secretstorage|3.3.0|3.3.3|
 |semver|2.8.1|3.0.2|
 |sequoia-sq|0.36.0|0.37.0|
 |ser2net|3.5|4.6.2|
