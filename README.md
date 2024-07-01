@@ -1788,7 +1788,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |opensc|0.22.0|0.25.1|
 |openscad|2021.01<br>+git20230825|2021.01|Compound version number '2021.01+git20230825'<br>Version number indicates a snapshot (+git) is used|
 |openslide|3.4.1|4.0.0|
-|openssh|9.7p1|9.8p1|
 |openssl+32|3.2.0|3.3.1|
 |openssl-1.1|1.1.1w|3.3.1|
 |openssl-1.1+32|1.1.1q|3.3.1|
