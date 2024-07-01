@@ -1311,7 +1311,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libksysguard|5.27.11|6.1.1|
 |libktorrent|23.08.5|24.05.1|
 |liblangtag|0.6.3|0.6.7|
-|libliftoff|0.4.1|0.5.0|
 |liblo|0.29|0.32|
 |liblouis|3.12.0|3.30.0|
 |libltc|1.3.1|1.3.2|
@@ -2757,8 +2756,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |wine|9.9|9.11|
 |wireguard|1|0.0.20191219|Possible downgrade from the current version (1   0.0.20191219)|
 |wireless-tools|30.pre9|29|Possible downgrade from the current version (30.pre9   29)|
-|wireplumber|0.5.4|0.5.5|
-|wlroots|0.17.3|0.17.4|
 |wmutils|20170223|1.7|Possible downgrade from the current version (20170223   1.7)|
 |wolfssl|5.7.0|5.7.0-stable|Possible downgrade from the current version (5.7.0   5.7.0-stable)|
 |wpebackend-fdo|1.12.1|1.14.2|
