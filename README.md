@@ -523,7 +523,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gcc+cross-ppc64el|12.3.0|14.1.0|
 |gcc+cross-riscv64|12.1.0|14.1.0|
 |gcc+w64|9.3.1|14.1.0|
-|gcdemu|3.2.4|3.2.6|
 |gcr|3.41.1|4.3.0|
 |gdal|3.8.4|3.9.0|
 |gdb+cross-amd64|8.2|14.2|
