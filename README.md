@@ -341,7 +341,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |docbook-dtd|4.5|5.1|
 |docbook-sgml|0|4.5|
 |docbook-xml|0|5.1|
-|docker|26.1.3|27.0.1|
+|docker|26.1.3|27.0.3|
 |docker-compose|2.27.1|2.28.1|
 |docutils|0.20.1|0.21.2|
 |dolphin|23.08.5|24.05.1|
